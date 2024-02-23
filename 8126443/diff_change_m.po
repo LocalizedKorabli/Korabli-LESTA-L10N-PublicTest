@@ -1,0 +1,267 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_ALLOW_HINT_CHECKBOX_FILTER_LEVEL"
+msgstr "允许%(level)s级战舰"
+
+msgid "IDS_ALLY_TEAM"
+msgstr "友军"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_031_DEAD_ENEMYS_AVIR_TASK"
+msgstr "击毁航空母舰Koku Bokan"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_033_DEF_ALLY_AVIR_TASK"
+msgstr "保护我方航空母舰Romeo"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_KILL_DA_BOSS"
+msgstr "摧毁旗舰小山号"
+
+msgid "IDS_CHANGE_TRAINING_ROOM_SETTINGS"
+msgstr "房间设置"
+
+msgid "IDS_CHARS_LEFT"
+msgstr "剩下的字符数："
+
+msgid "IDS_CURRENCY_EVENTUM_4"
+msgstr "“火柴”（КЦ）"
+
+msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
+msgstr "通过在13.2、13.3版本中活动期间完成作战任务或从兵工厂的礼包链中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr ""
+"用于在13.2、13.3版本中购买 IX 级战舰“Tranclucator”、拥有 11 个技能点的主题"
+"指挥官、“深红裤子”旗帜和囚牢补给箱以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
+msgstr "外星奇遇活动临时资源。13.4 版本发布后，将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_6"
+msgstr "潜航者代币"
+
+msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
+msgstr "通过在13.2版本中活动期间完成作战任务或从兵工厂的礼包链中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_6_SPEND_DESCRIPTION"
+msgstr ""
+"用于在13.2版本结束前，购买随机包含 VIII 级潜艇帕索帕蒂（附永久涂装）、基德"
+"号、诺丁汉号、纪伊号的礼包以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
+msgstr "临时资源。13.4 版本发布后，将被无偿收回。"
+
+msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT"
+msgstr "禁止指挥官邀请其他玩家"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY007_SPEEDBOOSTER"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY015_SPEEDBOOSTERPREMIUM"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY015_SPEEDBOOSTER_IMP_PREMIUM"
+msgstr ""
+"大幅度提升战舰的最高航速，减少加减速所需时间。\n"
+"\n"
+"作用时间较短。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY029_SPEEDBOOSTERSUPER"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY015_SPEEDBOOSTERH18"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY027_SPEEDBOOSTER"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY403_SPEEDBOOSTER_H2020"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY415_BUFFSSHIFT_ENGINEBOOST"
+msgstr "提升战舰的最高航速，减少加减速所需时间。"
+
+msgid "IDS_DOGTAG_PCNB143_DESCRIPTION"
+msgstr "久经考验！"
+
+msgid "IDS_DOGTAG_PCNB143_NAME"
+msgstr "20周年纪念"
+
+msgid "IDS_DOGTAG_PCNB272_NAME"
+msgstr "冠军"
+
+msgid "IDS_EVENTUM_4_COLON"
+msgstr "”火柴“（КЦ）："
+
+msgid "IDS_EVENTUM_6_COLON"
+msgstr "潜航者代币："
+
+msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL"
+msgstr "显示%(level)s级的战舰"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_NOT_AVAILABLE"
+msgstr "您没有%(level)s级战舰"
+
+msgid "IDS_OP_01_01_MESSAGE_ENEMY_SHIPS_I_SEE"
+msgstr "发现敌方战舰。小心行事！"
+
+msgid "IDS_OP_01_03_CSM_007_MAIN_TASK_COMPLETE_CARRIER_SAVE"
+msgstr ""
+"Raptor已抵达会合点。\n"
+"行动完成！"
+
+msgid "IDS_OP_01_04_0021_WARNING_OF_TEAM"
+msgstr "注意！我们的任务小队损失严重！"
+
+msgid "IDS_OP_01_04_025_NEW_POST_NORTH_TEMP"
+msgstr "注意！航空母舰已进入战斗区域。"
+
+msgid "IDS_OP_01_04_026_NEW_POST_WEST6_TEMP"
+msgstr "航空母舰Romeo已抵达基地。"
+
+msgid "IDS_OP_01_04_0291_ENEMYS_BOSS_1_TEMP"
+msgstr ""
+"您需要摧毁在主攻开始之前摧毁敌方部队，并掩护航空母舰Romeo撤退回基地。"
+
+msgid "IDS_OP_01_04_0291_ENEMYS_BOSS_2_TEMP"
+msgstr "在总攻开始前击毁您的敌人才能让航空母舰Romeo返回基地。"
+
+msgid "IDS_OP_01_04_032_ENEMYS_AVIR_1_TEMP"
+msgstr "敌方一艘大型航空母舰已进入战斗区域。击毁它！"
+
+msgid "IDS_OP_01_04_032_ENEMYS_AVIR_2_TEMP"
+msgstr ""
+"航空母舰Koku Bokan已经被摧毁。\n"
+"任务完成。"
+
+msgid "IDS_OP_01_04_034_ALLY_AVIR_1_TEMP"
+msgstr "好消息！我们的航空母舰已进入战斗区域。"
+
+msgid "IDS_OP_01_04_034_ALLY_AVIR_2_TEMP"
+msgstr "我们的航空母舰已被摧毁。次要目标失败。"
+
+msgid "IDS_OP_01_04_034_ALLY_AVIR_3_TEMP"
+msgstr "报告！敌方巡洋舰已进入战斗区域并且开始追击我们的航空母舰。"
+
+msgid "IDS_OP_01_04_ATAKER_C14"
+msgstr "Koku Bokan"
+
+msgid "IDS_OP_02_03_CSM_004_MAIN_MESSAGE_TASK_2"
+msgstr "护送突击舰抵达基地并清除港口水域的敌人。"
+
+msgid "IDS_OP_02_03_CSM_010_SECOND_TASK_04_HINT"
+msgstr ""
+"在敌方到达撤离点之前\n"
+"击毁所有敌方运输舰。"
+
+msgid "IDS_OP_09_MAIN_TASK_BRIEFING"
+msgstr "护送中队到指定区域。保证旗舰Ruan不被击毁。"
+
+msgid "IDS_OP_10_CSM_009_KILL_DA_BOSS"
+msgstr "摧毁旗舰小山号"
+
+msgid "IDS_OP_NE_WP_MK3_MAIN_TASK_END_F_ESCAPE"
+msgstr ""
+"行动失败。\n"
+"运输舰成功突围。"
+
+msgid "IDS_PAUH461_CINCINNATI"
+msgstr "马布尔黑德L"
+
+msgid "IDS_PAUH680_HULL_BLACK_SIMS"
+msgstr "西姆斯B"
+
+msgid "IDS_PISB529"
+msgstr "多态"
+
+msgid "IDS_PISB529_DESCR"
+msgstr ""
+"“多态”（Транклюкаторы，即Tranclucator）是金扎扎星系（Кин-дза-дза）中的普鲁"
+"克星、哈努德星和其他星球上的居民使用的武器。它们可以呈现出不同的形态：手"
+"枪、手持式反坦克榴弹发射器或霰弹枪。前哨站的“察警”（эцилоппами）就使用较重"
+"型的“多态”。此外，“堕汰”（транклюкировать，即Tranclucate）的概念——用“多"
+"态”摧毁——也出现在影片的对白中。\n"
+"”如果你认为这东西没有任何攻击性，那这将是你作为‘高等公民’（чатланин）脑子里"
+"的最后一个念头！“"
+
+msgid "IDS_PISB529_FULL"
+msgstr "多态"
+
+msgid "IDS_PJSC111"
+msgstr "仙丈"
+
+msgid "IDS_PJSC111_FULL"
+msgstr "仙丈"
+
+msgid "IDS_PJUH934_C11_HULL_STOCK"
+msgstr "仙丈"
+
+msgid "IDS_PLAYER_IS_OFFLINE"
+msgstr "玩家离线"
+
+msgid "IDS_PLAYER_IS_OFFLINE_C"
+msgstr "玩家离线"
+
+msgid "IDS_PRIVATE_TRAINING_ROOM"
+msgstr "私密训练房间"
+
+msgid "IDS_REWARD_EVENTUM_4_TITLE"
+msgstr "“火柴”（КЦ）"
+
+msgid "IDS_REWARD_EVENTUM_6_TITLE"
+msgstr "潜航者代币"
+
+msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
+msgstr "“V级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE"
+msgstr "“VI级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE"
+msgstr "“VII级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE"
+msgstr "“VIII级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
+msgstr "“IX级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE"
+msgstr "“II-IV级加值战舰”精英补给箱"
+
+msgid "IDS_SELECTED_TRAINING_BATTLE_TIME"
+msgstr "战斗时间"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
+msgstr "已购买“火柴”"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
+msgstr "已购买潜航者代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
+msgstr "已获得“火柴”"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
+msgstr "已获得潜航者代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
+msgstr "“火柴”已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
+msgstr "潜航者代币已移除"
+
+msgid "IDS_TIPS_FORCING_DESCRIPTION"
+msgstr "暂时增加战舰的最高航速，并减少加减速所需时间。"
+
+msgid "IDS_TRAINING_TEAM_RESTRICTIONS"
+msgstr "团队成员："
