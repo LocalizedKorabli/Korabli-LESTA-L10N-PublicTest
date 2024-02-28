@@ -37023,7 +37023,7 @@ msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_HEADER"
 msgstr "特点"
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "在隐蔽机动战中，战舰的对空防御射程、对空被侦察范围和飞机的整备时间都已被修改。"
+msgstr "В бою активны модификаторы, изменяющие заметность кораблей с самолётов, дальность стрельбы ПВО и время подготовки самолётов."
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_HEADER"
 msgstr "参与规则"
