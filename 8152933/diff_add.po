@@ -1,0 +1,6 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_FEAT_BAD_TORP_RELOAD"
+msgstr "Медленная перезарядка торпедных аппаратов"
