@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook."
+"com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_CURRENCY_EVENTUM_3"
+msgstr "苏联代币"
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr ""
+"通过在13.3版本结束前完成“个人挑战”中的任务、达到通行证等"
+"级并完成季节性通行证奖励中包含的连锁战斗挑战；以及在13.4"
+"版本结束前从兵工厂礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr ""
+"用于在13.4版本结束前，获得塞尼亚文海军上将、科尔尼洛夫海"
+"军上将、拉扎列夫海军上将以及其涂装，塞尼亚文海军上将、伊"
+"斯托明海军上将的永久经济加成以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
+msgstr ""
+"”苏联战列舰“活动的临时资源。13.5版本发布后，代币将被无偿"
+"收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_5"
+msgstr "纪念币"
+
+msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
+msgstr ""
+"通过完成”胜利之舰“活动的作战任务，以及在13.3和13.4版本活"
+"动期间从兵工厂的礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
+msgstr ""
+"在 13.3、13.4 版本活动期间，可获得列宁号战列舰以及其永久"
+"涂装“红旗”、5 月 9 日补给箱、苏联补给箱以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
+msgstr ""
+"“胜利之舰”活动的临时资源。13.5版本发布后，代币将被无偿收"
+"回。"
+
+msgid "IDS_CURRENCY_EVENTUM_7"
+msgstr "太空代币"
+
+msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
+msgstr "通过在13.3版本完成作战任务和从兵工厂的礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
+msgstr ""
+"用于获得 X 级巡洋舰卡伦堡号及其永久涂装”孜孜不倦“、拥有12"
+"技能的指挥官阿斯特拉，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
+msgstr "临时资源。13.5版本发布后，代币将被无偿收回。"
+
+msgid "IDS_EVENTUM_3_COLON"
+msgstr "苏联代币："
+
+msgid "IDS_EVENTUM_5_COLON"
+msgstr "纪念币："
+
+msgid "IDS_EVENTUM_7_COLON"
+msgstr "太空代币："
+
+msgid "IDS_FEAT_GOOD_AIR_SUPPORT_HE"
+msgstr "可使用空袭"
+
+msgid "IDS_HINT_WAREHOUSE"
+msgstr "卖掉不用的资源。"
+
+msgid "IDS_MAIN_AIR_SUPPORT_HE"
+msgstr "可使用空袭"
+
+msgid "IDS_PASB111_YEAR"
+msgstr "1955"
+
+msgid "IDS_PORT_TABLERUBY"
+msgstr "指挥官宿舍"
+
+msgid "IDS_PORT_TABLERUBY_TOOLTIP"
+msgstr "指挥官宿舍港口"
+
+msgid "IDS_REWARD_EVENTUM_3_TITLE"
+msgstr "苏联代币"
+
+msgid "IDS_REWARD_EVENTUM_5_TITLE"
+msgstr "纪念币"
+
+msgid "IDS_REWARD_EVENTUM_7_TITLE"
+msgstr "太空代币"
+
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_TITLE"
+msgstr "意大利中队补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_TITLE_SHORT"
+msgstr "意大利中队"
+
+msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_TITLE"
+msgstr "意大利中队高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_TITLE_SHORT"
+msgstr "意大利中队"
+
+msgid "IDS_SKILL_AA_DAMAGE_CONSTANT_BUBBLES"
+msgstr "副武器专家"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
+msgstr "已购买苏联代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
+msgstr "已购买纪念币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
+msgstr "已购买太空代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
+msgstr "已获得苏联代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
+msgstr "已获得纪念币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
+msgstr "已获得太空代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
+msgstr "苏联代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
+msgstr "纪念币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
+msgstr "太空代币已移除"
+
+msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_EVENTBATTLE"
+msgstr "玩家对战玩家"

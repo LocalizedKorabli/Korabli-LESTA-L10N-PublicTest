@@ -1,0 +1,908 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_1STPLACE"
+msgstr "Занять 1-е место в состязании «К высотам мастерства»."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_2NDPLACE"
+msgstr "Занять 2-е место в состязании «К высотам мастерства»."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_3RDPLACE"
+msgstr "Занять 3-е место в состязании «К высотам мастерства»."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_LEGEND"
+msgstr ""
+"Занять 1-е место во всех испытаниях состязания «К высотам мастерства»."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_SPACEMAN"
+msgstr ""
+"Пройти любое испытание состязания «К высотам мастерства» в первый раз."
+
+msgid "IDS_ACHIEVEMENT_EV24SPACE_1STPLACE"
+msgstr "Первая космическая"
+
+msgid "IDS_ACHIEVEMENT_EV24SPACE_2NDPLACE"
+msgstr "На подступах к орбите"
+
+msgid "IDS_ACHIEVEMENT_EV24SPACE_3RDPLACE"
+msgstr "Через тернии — к бронзе"
+
+msgid "IDS_ACHIEVEMENT_EV24SPACE_LEGEND"
+msgstr "Покоритель космических высот"
+
+msgid "IDS_ACHIEVEMENT_EV24SPACE_SPACEMAN"
+msgstr "Поехали!"
+
+msgid "IDS_BATTLE_CHALLENGES_DESCRIPTION"
+msgstr "Пройдите все испытания и займите 1-е место в турнирной таблице."
+
+msgid "IDS_BATTLE_CHALLENGES_TITLE"
+msgstr "К высотам мастерства"
+
+msgid "IDS_BEST_RESULT_IN_ROUND"
+msgstr "ЛУЧШИЙ РЕЗУЛЬТАТ"
+
+msgid "IDS_CAROUSEL_PCVE022_FILTER"
+msgstr ""
+"Фильтр кораблей, подходящих для участия в состязании «К высотам мастерства»"
+
+msgid "IDS_CHALLENGES_BATTLE_RESULTS_MODAL_HEADER"
+msgstr "Турнирная таблица"
+
+msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_HEADER"
+msgstr "Брифинг"
+
+msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_TEXT"
+msgstr ""
+"В каждом раунде участники проходят испытание, выбранное случайным образом. "
+"Раунд длится 3 минуты, по истечении которых игрок с самым низким результатом"
+" выбывает из состязания."
+
+msgid "IDS_CHALLENGE_BATTLE_ENDED"
+msgstr "%(_position)s-Е МЕСТО"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE022"
+msgstr "Выбрать состязание «К высотам мастерства»"
+
+msgid "IDS_CITADELS_OUTSIDER_HINT"
+msgstr ""
+"Чтобы попасть в цитадель, цельтесь в борт корабля в области ватерлинии."
+
+msgid "IDS_CIT_ROLE01"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE02"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE03"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE04"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE05"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE06"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE07"
+msgstr "Корабль-цель"
+
+msgid "IDS_CIT_ROLE08"
+msgstr "Корабль-цель"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT"
+msgstr ""
+"Конструкции —\n"
+"%(_shipName)s"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_ADDITIONAL_INFO"
+msgstr ""
+"За каждую неиспользованную конструкцию после ремонта корабля вы получите "
+"одну заготовку соответствующего уровня."
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
+msgstr ""
+"Можно приобрести в Адмиралтействе или получить за участие в различных "
+"событиях."
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
+msgstr "Конструкции"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
+msgstr "Ремонт соответствующего корабля в Ремонтном доке."
+
+msgid "IDS_CURRENCY_SHIPMATERIAL"
+msgstr "Заготовки — %(_shipLevel)s"
+
+msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
+msgstr ""
+"Можно приобрести в Адмиралтействе или получить за участие в различных "
+"событиях."
+
+msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
+msgstr ""
+"Создание недостающих конструкций при ремонте корабля соответствующего уровня"
+" в Ремонтном доке."
+
+msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
+msgstr ""
+"В этом испытании нельзя пользоваться орудиями вспомогательного калибра."
+
+msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
+msgstr "В этом испытании нельзя пользоваться снаряжением."
+
+msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
+msgstr "Вашей команде временно недоступно снаряжение."
+
+msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
+msgstr "В этом испытании нельзя изменять скорость и направление движения."
+
+msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
+msgstr "В этом испытании нельзя пользоваться вооружением."
+
+msgid "IDS_DISCIPLINES"
+msgstr "Испытания"
+
+msgid "IDS_DISCIPLINE_AND_ROUND_CITADELS"
+msgstr "%(_round)s-Й РАУНД: МЕТКОСТЬ СТРЕЛЬБЫ"
+
+msgid "IDS_DISCIPLINE_AND_ROUND_DAMAGE"
+msgstr "%(_round)s-Й РАУНД: ОГНЕВАЯ МОЩЬ"
+
+msgid "IDS_DISCIPLINE_AND_ROUND_FRAGS"
+msgstr "%(_round)s-Й РАУНД: ЛИКВИДАЦИЯ ЦЕЛЕЙ"
+
+msgid "IDS_DISCIPLINE_AND_ROUND_REGATTA"
+msgstr "%(_round)s-Й РАУНД: СКОРОСТНЫЕ МАНЁВРЫ"
+
+msgid "IDS_DISCIPLINE_AND_ROUND_SURVIVAL"
+msgstr "%(_round)s-Й РАУНД: БОЕВАЯ СТОЙКОСТЬ"
+
+msgid "IDS_DISCIPLINE_CITADELS"
+msgstr "МЕТКОСТЬ СТРЕЛЬБЫ"
+
+msgid "IDS_DISCIPLINE_CITADELS_DESCRIPTION"
+msgstr "Попадайте в цитадели"
+
+msgid "IDS_DISCIPLINE_CITADELS_FULL_DESCRIPTION"
+msgstr "Попадите в цитадель кораблей-целей как можно больше раз"
+
+msgid "IDS_DISCIPLINE_DAMAGE"
+msgstr "ОГНЕВАЯ МОЩЬ"
+
+msgid "IDS_DISCIPLINE_DAMAGE_DESCRIPTION"
+msgstr "Наносите урон"
+
+msgid "IDS_DISCIPLINE_DAMAGE_FULL_DESCRIPTION"
+msgstr "Нанесите как можно больше урона кораблям-целям"
+
+msgid "IDS_DISCIPLINE_FRAGS"
+msgstr "ЛИКВИДАЦИЯ ЦЕЛЕЙ"
+
+msgid "IDS_DISCIPLINE_FRAGS_DESCRIPTION"
+msgstr "Уничтожайте корабли"
+
+msgid "IDS_DISCIPLINE_FRAGS_FULL_DESCRIPTION"
+msgstr "Уничтожьте как можно больше кораблей-целей"
+
+msgid "IDS_DISCIPLINE_REGATTA"
+msgstr "СКОРОСТНЫЕ МАНЁВРЫ"
+
+msgid "IDS_DISCIPLINE_REGATTA_DESCRIPTION"
+msgstr "Проходите маршрут"
+
+msgid "IDS_DISCIPLINE_REGATTA_FULL_DESCRIPTION"
+msgstr "Наберите как можно больше очков, проходя участки маршрута"
+
+msgid "IDS_DISCIPLINE_SURVIVAL"
+msgstr "БОЕВАЯ СТОЙКОСТЬ"
+
+msgid "IDS_DISCIPLINE_SURVIVAL_DESCRIPTION"
+msgstr "Сохраняйте боеспособность"
+
+msgid "IDS_DISCIPLINE_SURVIVAL_FULL_DESCRIPTION"
+msgstr "Сохраняйте боеспособность корабля, уклоняясь от атак противника"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK"
+msgstr "Ремонтный док"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_READY_SHIPS"
+msgstr "Корабли, готовые к ремонту"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_STATUS"
+msgstr "Вы можете отремонтировать корабль"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_TOTAL_SHIPS"
+msgstr "Корабли, подлежащие ремонту"
+
+msgid "IDS_DOGTAG_PCNB439_DESCRIPTION"
+msgstr "В честь Международного дня варки картофеля."
+
+msgid "IDS_DOGTAG_PCNB439_NAME"
+msgstr "К-АРРРРРРР-ТОФЕЛЬ!"
+
+msgid "IDS_DOGTAG_PCNB440_DESCRIPTION"
+msgstr "В благодарность ветеранам Великой Отечественной войны."
+
+msgid "IDS_DOGTAG_PCNB440_NAME"
+msgstr "Красная гвоздика"
+
+msgid "IDS_DOGTAG_PCNB441_DESCRIPTION"
+msgstr ""
+"Впервые рыбный день на предприятиях общественного питания в СССР был введён в 1932 г., однако за определённым днём недели — четвергом — он был закреплён только в 1970-х гг.\n"
+"\n"
+"Победителю розыгрыша «Рыбный четверг»."
+
+msgid "IDS_DOGTAG_PCNB441_NAME"
+msgstr "Рыбный четверг"
+
+msgid "IDS_EV_SPACE2024"
+msgstr "К высотам мастерства"
+
+msgid "IDS_FEAT_BAD_SAP_ONLY"
+msgstr "Доступны только полубронебойные снаряды"
+
+msgid "IDS_FEAT_GOOD_AIRSTRIKE_RELOAD"
+msgstr "Быстрая подготовка авиаудара"
+
+msgid "IDS_FEEDBACK_RAGE_MODE_USELESS"
+msgstr "Использование не требуется"
+
+msgid "IDS_GO_TO_PROFILE_MOUSE_INSTRUCTION"
+msgstr "Перейти к экрану «Профиль»"
+
+msgid "IDS_GO_TO_REPAIR_DOCK_MOUSE_INSTRUCTION"
+msgstr "Перейти к экрану «Ремонтный док» "
+
+msgid "IDS_GUIDING_TIP_294_DESC"
+msgstr ""
+"В Ремонтном доке новые корабли! Отремонтируйте их, чтобы они появились "
+"в вашем Порту."
+
+msgid "IDS_GUIDING_TIP_294_HEADER"
+msgstr "Ремонтный док"
+
+msgid "IDS_GUIDING_TIP_295_DESC"
+msgstr ""
+"При получении конструкций соответствующий корабль появится в вашем Ремонтном"
+" доке. Вы не можете выходить на нём в бой, пока не отремонтируете его."
+
+msgid "IDS_GUIDING_TIP_295_HEADER"
+msgstr "Корабль подлежит ремонту"
+
+msgid "IDS_GUIDING_TIP_296_DESC"
+msgstr ""
+"Для ремонта корабля нужно 100 конструкций. Если у вас есть хотя бы "
+"50 конструкций этого корабля, вы можете завершить ремонт с помощью заготовок"
+" соответствующего уровня."
+
+msgid "IDS_GUIDING_TIP_296_HEADER"
+msgstr "Ремонт"
+
+msgid "IDS_GUIDING_TIP_297_DESC"
+msgstr "Здесь можно посмотреть, сколько у вас есть конструкций и заготовок."
+
+msgid "IDS_GUIDING_TIP_297_HEADER"
+msgstr "Ремонтные материалы"
+
+msgid "IDS_GUIDING_TIP_298_DESC"
+msgstr "У вас достаточно материалов, чтобы отремонтировать корабль!"
+
+msgid "IDS_GUIDING_TIP_298_HEADER"
+msgstr "Отремонтируйте корабль"
+
+msgid "IDS_GUIDING_TIP_299_DESC"
+msgstr "Выберите корабль, который готов к ремонту."
+
+msgid "IDS_GUIDING_TIP_299_HEADER"
+msgstr "Готов к ремонту"
+
+msgid "IDS_GUIDING_TIP_300_DESC"
+msgstr "Нажмите «Отремонтировать», чтобы корабль появился в вашему Порту."
+
+msgid "IDS_GUIDING_TIP_300_HEADER"
+msgstr "Ремонт"
+
+msgid "IDS_IN_PCVE022"
+msgstr "в состязании «К высотам мастерства»"
+
+msgid "IDS_JUST_GOAL"
+msgstr "Задача"
+
+msgid "IDS_MARKER_NEW"
+msgstr "НОВОЕ"
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_HEADER"
+msgstr "К высотам мастерства"
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"Вам предстоит побороться с другими игроками в состязании, состоящем из "
+"5 раундов."
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
+msgstr ""
+"В каждом раунде вы примете участие в одном из испытаний, выбранном случайным"
+" образом: «Боевая стойкость», «Скоростные манёвры», «Огневая мощь», "
+"«Ликвидация целей» и «Меткость стельбы»."
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
+msgstr ""
+"В разных испытаниях к характеристикам вашего корабля будут применены "
+"определённые изменения и ограничения. На протяжении всего состязания вы "
+"не сможете пользоваться снаряжением."
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_4"
+msgstr ""
+"По итогам каждого раунда обновляется турнирная таблица, и игрок с самым "
+"низким результатом выбывает из состязания. Из двух игроков с одинаковым "
+"результатом более высокое место в таблице достанется тому, который первым "
+"достиг этого результата."
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER"
+msgstr "Условия участия"
+
+msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_TEXT_1"
+msgstr ""
+"Вы можете выйти в бой в одиночку или в составе отряда до 3 участников."
+
+msgid "IDS_NAME11"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME12"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME13"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME14"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME21"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME22"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME23"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME24"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME31"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME32"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME33"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAME34"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAMEA1"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAMEA2"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAMEA3"
+msgstr "Корабль-цель"
+
+msgid "IDS_NAMEA4"
+msgstr "Корабль-цель"
+
+msgid "IDS_PAPA159_406MM_HE_T11"
+msgstr "406-мм HE/HC Mk13"
+
+msgid "IDS_PAPA160_406MM_AP_T11"
+msgstr "406-мм AP Mk8"
+
+msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_AIRCARRIER"
+msgstr "Урон ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_BATTLESHIP"
+msgstr "Урон ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_CRUISER"
+msgstr "Урон ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_AIRCARRIER"
+msgstr "Дальность стрельбы ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_BATTLESHIP"
+msgstr "Дальность стрельбы ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_CRUISER"
+msgstr "Дальность стрельбы ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_DESTROYER"
+msgstr "Дальность стрельбы ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_SUBMARINE"
+msgstr "Дальность стрельбы ПМК"
+
+msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYSHIPPOSTBONUS"
+msgstr "Заметность с кораблей"
+
+msgid "IDS_PARTICIPANTS"
+msgstr "УЧАСТНИКИ"
+
+msgid "IDS_PAUA933_B11_ART_STOCK"
+msgstr "406-мм/50 Mk.7 в башенной установке"
+
+msgid "IDS_PAUE932_B11_ENG_STOCK"
+msgstr "ЭУ 221 000 л.с."
+
+msgid "IDS_PAUH933_B11_HULL_STOCK"
+msgstr "Maine"
+
+msgid "IDS_PAUS933_B11_SUO_STOCK"
+msgstr "Mk11 mod. 1"
+
+msgid "IDS_PBGA167_4IN45_QF_MK_XIX"
+msgstr "102-мм/45 QF Mk.XVI* в установке Mk.XIX"
+
+msgid "IDS_PCEC140_SPACEDAY_BRO"
+msgstr "Космический кадет"
+
+msgid "IDS_PCEC141_SPACEDAY_NOT_BRO"
+msgstr "Огонь соперничества"
+
+msgid "IDS_PCEE675_PIRATE_POTATO_FLAG"
+msgstr "К-АРРРРРРР-ТОФЕЛЬ!"
+
+msgid "IDS_PCEE675_PIRATE_POTATO_FLAG_DESCRIPTION"
+msgstr "В честь Международного дня варки картофеля."
+
+msgid "IDS_PCEE676_SOV_BB_EA_FLAG"
+msgstr "Советские линкоры"
+
+msgid "IDS_PCEE676_SOV_BB_EA_FLAG_DESCRIPTION"
+msgstr "Флаг народного комиссара ВМФ СССР, использовавшийся в 1938–1950 гг."
+
+msgid "IDS_PCEE676_SOV_BB_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr ""
+"В честь выхода новых советских линкоров в ранний доступ в обновлении 13.3."
+
+msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG"
+msgstr "Красная гвоздика"
+
+msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG_DESCRIPTION"
+msgstr "В благодарность ветеранам Великой Отечественной войны."
+
+msgid "IDS_PCVE022"
+msgstr "К высотам мастерства"
+
+msgid "IDS_PCVE022_DESCRIPTION"
+msgstr "Пройдите пять испытаний, соревнуясь с другими игроками на выбывание."
+
+msgid "IDS_PCVE022_MATCHMAKER_DESCRIPTION"
+msgstr "Пройдите пять испытаний, соревнуясь с другими игроками на выбывание."
+
+msgid "IDS_PHES420_CALLENBURG_SPACE"
+msgstr "Неутомимый исследователь"
+
+msgid "IDS_PLAYER_0_01"
+msgstr "Олимпиец"
+
+msgid "IDS_PLAYER_0_02"
+msgstr "Многоборец"
+
+msgid "IDS_PLAYER_0_03"
+msgstr "Знаменосец"
+
+msgid "IDS_PLAYER_0_04"
+msgstr "Марафонец"
+
+msgid "IDS_PLAYER_0_11"
+msgstr "Олимпиец"
+
+msgid "IDS_PLAYER_0_12"
+msgstr "Многоборец"
+
+msgid "IDS_PLAYER_0_13"
+msgstr "Знаменосец"
+
+msgid "IDS_PLAYER_0_14"
+msgstr "Марафонец"
+
+msgid "IDS_PLAYER_0_21"
+msgstr "Олимпиец"
+
+msgid "IDS_PLAYER_0_22"
+msgstr "Многоборец"
+
+msgid "IDS_PLAYER_0_23"
+msgstr "Знаменосец"
+
+msgid "IDS_PLAYER_0_24"
+msgstr "Марафонец"
+
+msgid "IDS_PLAYER_0_31"
+msgstr "Олимпиец"
+
+msgid "IDS_PLAYER_0_32"
+msgstr "Многоборец"
+
+msgid "IDS_PLAYER_0_33"
+msgstr "Знаменосец"
+
+msgid "IDS_PLAYER_0_34"
+msgstr "Марафонец"
+
+msgid "IDS_PLAYER_0_41"
+msgstr "Олимпиец"
+
+msgid "IDS_PLAYER_0_42"
+msgstr "Многоборец"
+
+msgid "IDS_PLAYER_0_43"
+msgstr "Знаменосец"
+
+msgid "IDS_PLAYER_0_44"
+msgstr "Марафонец"
+
+msgid "IDS_PLAYER_0_51"
+msgstr "Олимпиец"
+
+msgid "IDS_PLAYER_0_52"
+msgstr "Многоборец"
+
+msgid "IDS_PLAYER_0_53"
+msgstr "Знаменосец"
+
+msgid "IDS_PLAYER_0_54"
+msgstr "Марафонец"
+
+msgid "IDS_PORT_VLADIVOSTOK"
+msgstr "Владивосток"
+
+msgid "IDS_PORT_VLADIVOSTOK_TOOLTIP"
+msgstr "Порт Владивосток"
+
+msgid "IDS_PREP414_PERMO_KERCH"
+msgstr "Победоносный"
+
+msgid "IDS_PRES330_LENIN_VICTORY"
+msgstr "Краснознамённый"
+
+msgid "IDS_PRES331_ADMIRAL_ISTOMIN"
+msgstr "Адмиральский"
+
+msgid "IDS_PRES332_ADMIRAL_KORNILOV"
+msgstr "Адмиральский"
+
+msgid "IDS_PRES333_ADMIRAL_LAZAREV"
+msgstr "Адмиральский"
+
+msgid "IDS_PRGA213_85MM52_92K1"
+msgstr "85-мм/52 обр. 1939 г. в установке 92-К"
+
+msgid "IDS_PWGA109_4IN_45_MK_V"
+msgstr "102-мм/45 QF Mk.V в установке HA Mk.III"
+
+msgid "IDS_REGATTA_OUTSIDER_HINT"
+msgstr "Не забывайте, соперника можно использовать как щит!"
+
+msgid "IDS_REGATTA_RESPAWN_HINT"
+msgstr ""
+"Не сдавайтесь! За повторное прохождение участков маршрута вы тоже получите "
+"победные очки!"
+
+msgid "IDS_REPAIR_DOCK_TITLE"
+msgstr "Ремонтный док"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль VIII уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE"
+msgstr "Премиум контейнер «9 Мая»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE_SHORT"
+msgstr "9 Мая"
+
+msgid "IDS_ROUND_NUMBER"
+msgstr "%(_round)s-Й РАУНД"
+
+msgid "IDS_ROUND_NUMBER_ENDED"
+msgstr "%(_round)s-Й РАУНД ЗАВЕРШЁН"
+
+msgid "IDS_SCENARIO_EV_SPACE2024"
+msgstr "К высотам мастерства"
+
+msgid "IDS_SHIPCOMPONENT_SHORT_TITLE"
+msgstr "Конструкции"
+
+msgid "IDS_SHIPMATERIAL"
+msgstr "%(shipLevel)s уровень"
+
+msgid "IDS_SHIPMATERIAL_NONE"
+msgstr "У вас нет заготовок для ремонта кораблей."
+
+msgid "IDS_SHIPMATERIAL_SHORT_TITLE"
+msgstr "Заготовки"
+
+msgid "IDS_SHIPMATERIAL_WITH_LEVEL_TITLE"
+msgstr "%(shipLevel)s уровень"
+
+msgid "IDS_SHIPSHARDS_PROGRESS_STATUS_DONE"
+msgstr "Готов к ремонту"
+
+msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
+msgstr "Готовность к ремонту"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM086_RANKED_REGENERATION_BATTLESHIP"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM087_RANKED_REGENERATION_CRUISER"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM088_RANKED_REGENERATION_DESTROYER"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM089_BRAWL_REGENERATION_BATTLESHIP_FIX"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM090_BRAWL_REGENERATION_CRUISER_FIX"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM091_BRAWL_REGENERATION_DESTROYER_FIX"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM092_BRAWL_VISIBILITY_CRUISER_FIX"
+msgstr ""
+"В выбранном типе боя этот параметр обладает фиксированным значением, которое нельзя изменить с помощью модулей, модернизаций, сигналов и навыков командира.\n"
+"Если в зоне действия работающей ПВО находится самолёт противника, заметность равна дальности стрельбы ПВО."
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM093_VULNERABILITYALL_SPACEAPRIL2024"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM094_ENGINEBOOST_SPACEAPRIL2024"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM095_EV_SPACEAPRIL24_DAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM096_EV_SPACEAPRIL24_SHOTDELAY"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM097_EV_SPACEAPRIL24_ENGINEBOOST"
+msgstr " "
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM098_EV_SPACEAPRIL24_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM086_RANKED_REGENERATION_BATTLESHIP"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM087_RANKED_REGENERATION_CRUISER"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM088_RANKED_REGENERATION_DESTROYER"
+msgstr "Восстановление боеспособности"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM089_BRAWL_REGENERATION_BATTLESHIP_FIX"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM090_BRAWL_REGENERATION_CRUISER_FIX"
+msgstr "Восстановление боеспособности"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM091_BRAWL_REGENERATION_DESTROYER_FIX"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM092_BRAWL_VISIBILITY_CRUISER_FIX"
+msgstr "Заметность с кораблей"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM093_VULNERABILITYALL_SPACEAPRIL2024"
+msgstr "Сопротивление урону"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM094_ENGINEBOOST_SPACEAPRIL2024"
+msgstr "Повышение скорости"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM095_EV_SPACEAPRIL24_DAMAGERESIST"
+msgstr "Сопротивление урону"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM096_EV_SPACEAPRIL24_SHOTDELAY"
+msgstr "Ускорение перезарядки"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM097_EV_SPACEAPRIL24_ENGINEBOOST"
+msgstr "Повышение скорости"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM098_EV_SPACEAPRIL24_REGENERATION"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM087_RANKED_REGENERATION_CRUISER_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PXOM086_PXOM088_RANKED_REGENERATION_DESTROYER_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PXOM086_PXOM089_BRAWL_REGENERATION_BATTLESHIP_FIX_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PXOM086_PXOM090_BRAWL_REGENERATION_CRUISER_FIX_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid ""
+"IDS_SHIP_MODIFIER_PXOM086_PXOM091_BRAWL_REGENERATION_DESTROYER_FIX_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM086_PXOM092_BRAWL_VISIBILITY_CRUISER_FIX_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM086_RANKED_REGENERATION_BATTLESHIP_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM093_VULNERABILITYALL_SPACEAPRIL2024_APPLIED"
+msgstr "Сопротивление урону"
+
+msgid "IDS_SHIP_MODIFIER_PXOM094_ENGINEBOOST_SPACEAPRIL2024_APPLIED"
+msgstr "Повышение скорости"
+
+msgid "IDS_SHIP_MODIFIER_PXOM095_EV_SPACEAPRIL24_DAMAGERESIST_APPLIED"
+msgstr "Сопротивление урону"
+
+msgid "IDS_SHIP_MODIFIER_PXOM096_EV_SPACEAPRIL24_SHOTDELAY_APPLIED"
+msgstr "Ускорение перезарядки"
+
+msgid "IDS_SHIP_MODIFIER_PXOM097_EV_SPACEAPRIL24_ENGINEBOOST_APPLIED"
+msgstr "Повышение скорости"
+
+msgid "IDS_SHIP_MODIFIER_PXOM098_EV_SPACEAPRIL24_REGENERATION_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
+msgstr "ПМК недоступен"
+
+msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
+msgstr "Снаряжение недоступно"
+
+msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
+msgstr "Генератор помех"
+
+msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
+msgstr "Манёвренность ограничена"
+
+msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
+msgstr "Вооружение недоступно"
+
+msgid "IDS_SHIP_SHARDS_COMMON_TITLE"
+msgstr "Ремонтные материалы"
+
+msgid "IDS_SHIP_SHARDS_REPAIR_QUESTION"
+msgstr "Отремонтировать за"
+
+msgid "IDS_SHIP_SHARDS_SHIP_REPAIR_HEADER"
+msgstr "Ремонт корабля"
+
+msgid "IDS_SHIP_SHARDS_TOOLTIP_CONVERT_RATE_TEXT"
+msgstr "Расход заготовок на конструкции"
+
+msgid "IDS_SHIP_SHARDS_TOOLTIP_TITLE"
+msgstr "Все заготовки"
+
+msgid "IDS_SHIP_SHARDS_TTX_BUTTON_REPAIR"
+msgstr "Отремонтировать"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT"
+msgstr ""
+"Для ремонта корабля нужно 100 конструкций. Когда вы соберёте как минимум "
+"50 конструкций, вы сможете завершить ремонт, используя заготовки. "
+"При ремонте каждая недостающая конструкция будет создана из 10 заготовок "
+"соответствующего уровня."
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_1"
+msgstr "Вы уже можете отремонтировать корабль"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_2"
+msgstr "с помощью"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_3"
+msgstr "или собрать ещё"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_1"
+msgstr "Для ремонта корабля"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_2"
+msgstr "нужно ещё"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_1"
+msgstr ""
+"Для ремонта корабля необходимо собрать как минимум "
+"%(_shipComponentsCount)s конструкций — %(_shipName)s."
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_1"
+msgstr "Недостающие конструкции могут быть созданы"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_2"
+msgstr "из заготовок — %(_shipLevel)s при ремонте."
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TITLE"
+msgstr "Ремонтные материалы"
+
+msgid "IDS_SPACES/E12_APRIL_2024"
+msgstr "Проксима Центавра"
+
+msgid "IDS_SPACES/E12_APRIL_2024_DESCR"
+msgstr "Проксима Центавра"
+
+msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
+msgstr "Правило испытания"
+
+msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
+msgstr "Правило испытания"
+
+msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
+msgstr "Эффект снаряжения противника"
+
+msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
+msgstr "Правило испытания"
+
+msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
+msgstr "Правило испытания"
+
+msgid "IDS_SYS_MSG_BATTLE_RESULTS_10"
+msgstr "%(_wonPosition)d-е место"
+
+msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
+msgstr "Получены конструкции"
+
+msgid "IDS_SYS_MSG_RECEIVED_SHIP_MATERIAL"
+msgstr "Получены заготовки"
+
+msgid "IDS_SYS_MSG_SHIP_CRAFTED"
+msgstr "Корабль отремонтирован"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_COMPONENT"
+msgstr "Списаны конструкции"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_MATERIAL"
+msgstr "Списаны заготовки"
+
+msgid "IDS_TOOLTIP_KARMA_DESCRIPTION"
+msgstr "Совокупность ваших положительных и отрицательных действий."
+
+msgid "IDS_TOOLTIP_KARMA_HEADER"
+msgstr "Карма"
+
+msgid "IDS_TOOLTIP_PROFILE"
+msgstr ""
+"Здесь доступна сводка ваших боевых результатов за всё время, достижения, "
+"коллекции и другое."
