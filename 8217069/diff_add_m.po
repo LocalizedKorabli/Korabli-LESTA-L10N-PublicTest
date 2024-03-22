@@ -22,10 +22,10 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_3RDPLACE"
 msgstr "在“勇攀高峰”比赛中获得第三名。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_LEGEND"
-msgstr "在“勇攀高峰”比赛所有测试中均获得第一名。"
+msgstr "在“勇攀高峰”比赛所有挑战中均获得第一名。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_SPACEMAN"
-msgstr "首次通过“勇攀高峰”比赛的测试。"
+msgstr "首次通过“勇攀高峰”比赛的挑战。"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_1STPLACE"
 msgstr "太空一号"
@@ -62,7 +62,8 @@ msgstr "简介"
 
 msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_TEXT"
 msgstr ""
-"在每一轮比赛中，参赛者要完成一项随机选择的挑战。每轮比赛持续 3 分钟，之后得分最低的选手将被淘汰出局。"
+"在每一轮比赛中，参赛者要完成一项随机选择的挑战。每轮比赛持续 3 分钟，之后得分最低的"
+"选手将被淘汰出局。"
 
 msgid "IDS_CHALLENGE_BATTLE_ENDED"
 msgstr "%(_position)s"
@@ -225,7 +226,8 @@ msgstr "红色康乃馨"
 
 msgid "IDS_DOGTAG_PCNB441_DESCRIPTION"
 msgstr ""
-"鱼日于 1932 年首次在苏联出现，但直到 20 世纪 70 年代才固定在一周中特定的一天——星期四。\n"
+"鱼日于 1932 年首次在苏联出现，但直到 20 世纪 70 年代才固定在一周中特定的一天——星期"
+"四。\n"
 "\n"
 "星期四“鱼”抽奖活动的获胜者。"
 
@@ -257,15 +259,17 @@ msgid "IDS_GUIDING_TIP_294_HEADER"
 msgstr "维修船坞"
 
 msgid "IDS_GUIDING_TIP_295_DESC"
-msgstr "当您收到战舰部件时，相应的战舰会出现在您的维修船坞中。在完全修复之前，您无法在战斗中使用它。"
+msgstr ""
+"当您收到战舰部件时，相应的战舰会出现在您的维修船坞中。在完全修复之前，您无法在战斗中"
+"使用它。"
 
 msgid "IDS_GUIDING_TIP_295_HEADER"
 msgstr "将维修此战舰"
 
 msgid "IDS_GUIDING_TIP_296_DESC"
 msgstr ""
-"维修一艘战舰需要 100 个战舰部件。如果您至少有 50 个战舰部件，您就可以使用相应等级的备件合成缺失的战舰部"
-"件，完成修理。"
+"维修一艘战舰需要 100 个战舰部件。如果您至少有 50 个战舰部件，您就可以使用相应等级的"
+"备件合成缺失的战舰部件，完成修理。"
 
 msgid "IDS_GUIDING_TIP_296_HEADER"
 msgstr "维修"
@@ -316,10 +320,13 @@ msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
 msgstr "在每一轮比赛中，您将参加随机选择的一项挑战： 持久、准度、火力、淘汰或机动。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
-msgstr "在不同的挑战中，您的飞船特性将受到某些改变和限制。在挑战期间，您将无法使用您的装备。"
+msgstr ""
+"在不同的挑战中，您的飞船特性将受到某些改变和限制。在挑战期间，您将无法使用您的装备。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_4"
-msgstr "每轮比赛结束后，积分榜都会更新，得分最低的选手将被淘汰。若得分相同，则排名靠前的选手优先。"
+msgstr ""
+"每轮比赛结束后，积分榜都会更新，得分最低的选手将被淘汰。若得分相同，则排名靠前的选手"
+"优先。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER"
 msgstr "参与条件"
@@ -641,7 +648,8 @@ msgstr " "
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM092_BRAWL_VISIBILITY_CRUISER_FIX"
 msgstr ""
-"在选定的战斗类型中，该参数具有固定值，无法通过配件、升级品、信号旗或指挥官技能进行更改。\n"
+"在选定的战斗类型中，该参数具有固定值，无法通过配件、升级品、信号旗或指挥官技能进行更"
+"改。\n"
 "如果有敌机正受对空防御攻击，则对空被侦察范围等于对空防御的射程。"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM093_VULNERABILITYALL_SPACEAPRIL2024"
@@ -775,8 +783,8 @@ msgstr "维修"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT"
 msgstr ""
-"您需要 100 个战舰部件来修复您的战舰。当您收集到至少 50 个战舰部件后，就可以使用备件代替战舰部件以完成修"
-"复。修复时，每个缺失的战舰部件都可由 10 个相应级别的备件合成。"
+"您需要 100 个战舰部件来修复您的战舰。当您收集到至少 50 个战舰部件后，就可以使用备件"
+"代替战舰部件以完成修复。修复时，每个缺失的战舰部件都可由 10 个相应级别的备件合成。"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_1"
 msgstr "您已经可以修复战舰了"
@@ -794,7 +802,8 @@ msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_2"
 msgstr "需要更多"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_1"
-msgstr "要修复一艘飞船，您必须收集至少%(_shipComponentsCount)s个“战舰部件 - %(_shipName)s”。"
+msgstr ""
+"要修复一艘飞船，您必须收集至少%(_shipComponentsCount)s个“战舰部件 - %(_shipName)s”。"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_1"
 msgstr "可合成缺失的战舰部件"
