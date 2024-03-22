@@ -66,7 +66,7 @@ msgstr ""
 "选手将被淘汰出局。"
 
 msgid "IDS_CHALLENGE_BATTLE_ENDED"
-msgstr "%(_position)s"
+msgstr "第%(_position)s名"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE022"
 msgstr "选择“勇攀高峰”比赛"
@@ -836,7 +836,7 @@ msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
 msgstr "挑战规则"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_10"
-msgstr "%(_wonPosition)d"
+msgstr "第%(_wonPosition)d名"
 
 msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
 msgstr "已获得战舰部件"
