@@ -40,7 +40,7 @@ msgid "IDS_ACHIEVEMENT_EV24SPACE_LEGEND"
 msgstr "太空征服者"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_SPACEMAN"
-msgstr "走！"
+msgstr "起航！"
 
 msgid "IDS_BATTLE_CHALLENGES_DESCRIPTION"
 msgstr "完成所有挑战并获得积分榜第一名。"
