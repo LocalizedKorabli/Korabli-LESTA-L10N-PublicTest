@@ -147,7 +147,7 @@ msgid "IDS_DISCIPLINE_AND_ROUND_DAMAGE"
 msgstr "第%(_round)s轮：火力"
 
 msgid "IDS_DISCIPLINE_AND_ROUND_FRAGS"
-msgstr "第%(_round)s轮：淘汰"
+msgstr "第%(_round)s轮：摧毁"
 
 msgid "IDS_DISCIPLINE_AND_ROUND_REGATTA"
 msgstr "第%(_round)s轮：机动"
@@ -174,7 +174,7 @@ msgid "IDS_DISCIPLINE_DAMAGE_FULL_DESCRIPTION"
 msgstr "对目标战舰造成尽可能多的伤害"
 
 msgid "IDS_DISCIPLINE_FRAGS"
-msgstr "淘汰"
+msgstr "摧毁"
 
 msgid "IDS_DISCIPLINE_FRAGS_DESCRIPTION"
 msgstr "击毁战舰"
@@ -317,7 +317,7 @@ msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "您需要在 5 轮比赛中与其他玩家一决高下。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "在每一轮比赛中，您将参加随机选择的一项挑战： 持久、准度、火力、淘汰或机动。"
+msgstr "在每一轮比赛中，您将参加随机选择的一项挑战： 持久、准度、火力、摧毁或机动。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
 msgstr ""
