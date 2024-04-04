@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_FEAT_BAD_DUR_BELT_CIT"
+msgstr "装甲区很容易被舷侧袭来的穿甲弹击中"
+
+msgid "IDS_UNLOCKS_24"
+msgstr "与其他玩家一起完成剧情任务并对抗电脑。"
+
+msgid "IDS_UNLOCKS_3103"
+msgstr "与真实玩家对战。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
+msgstr ""
+"在“行动”中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的故"
+"事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
+msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
+msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
+msgstr "与真实玩家对战。随机组成队伍。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>随机战</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_24"
+msgstr "在战斗类型选择屏幕上可用。"
+
+msgid "IDS_UNLOCKS_LOCATION_3103"
+msgstr "战斗类型选择按钮位于“加入战斗”按钮旁边。"
+
+msgid "IDS_UNLOCKS_TITLE_24"
+msgstr "行动"
+
+msgid "IDS_UNLOCKS_TITLE_3103"
+msgstr "随机战"

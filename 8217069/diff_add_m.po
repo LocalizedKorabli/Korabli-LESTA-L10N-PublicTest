@@ -13,19 +13,19 @@ msgstr ""
 "X-Generator: Poedit 3.4.2\n"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_1STPLACE"
-msgstr "在“勇攀高峰”比赛中获得第一名。"
+msgstr "在“追求卓越”比赛中获得第一名。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_2NDPLACE"
-msgstr "在“勇攀高峰”比赛中获得第二名。"
+msgstr "在“追求卓越”比赛中获得第二名。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_3RDPLACE"
-msgstr "在“勇攀高峰”比赛中获得第三名。"
+msgstr "在“追求卓越”比赛中获得第三名。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_LEGEND"
-msgstr "在“勇攀高峰”比赛所有挑战中均获得第一名。"
+msgstr "在“追求卓越”比赛所有挑战中均获得第一名。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_SPACEMAN"
-msgstr "首次通过“勇攀高峰”比赛的挑战。"
+msgstr "首次通过“追求卓越”比赛的挑战。"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_1STPLACE"
 msgstr "太空一号"
@@ -52,7 +52,7 @@ msgid "IDS_BEST_RESULT_IN_ROUND"
 msgstr "最佳成绩"
 
 msgid "IDS_CAROUSEL_PCVE022_FILTER"
-msgstr "可参加“勇攀高峰”比赛的战舰一览表"
+msgstr "可参加“追求卓越”比赛的战舰一览表"
 
 msgid "IDS_CHALLENGES_BATTLE_RESULTS_MODAL_HEADER"
 msgstr "积分榜"
@@ -69,7 +69,7 @@ msgid "IDS_CHALLENGE_BATTLE_ENDED"
 msgstr "第%(_position)s名"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE022"
-msgstr "选择“勇攀高峰”比赛"
+msgstr "选择“追求卓越”比赛"
 
 msgid "IDS_CITADELS_OUTSIDER_HINT"
 msgstr "要命中核心区，请瞄准水线区域的船舷。"
@@ -299,7 +299,7 @@ msgid "IDS_GUIDING_TIP_300_HEADER"
 msgstr "维修"
 
 msgid "IDS_IN_PCVE022"
-msgstr "在“勇攀高峰”比赛中获奖。"
+msgstr "在“追求卓越”比赛中获奖。"
 
 msgid "IDS_JUST_GOAL"
 msgstr "任务"
