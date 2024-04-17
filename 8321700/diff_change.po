@@ -1,0 +1,397 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_AI_LEVEL"
+msgstr "Уровень ИИ"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "Можно получить легендарных жетонов"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_KILL_DA_BOSS"
+msgstr "Уничтожить флагман «Кояма»"
+
+msgid "IDS_BATTLE_TASK_TEXT_PCOI018"
+msgstr "Повредите не менее 5 любых модулей."
+
+msgid "IDS_CURRENCY_EVENTUM_1"
+msgstr "Яркие жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
+msgstr ""
+"За выполнение боевых задач события и достижение 20-го уровня Улучшенного "
+"боевого пропуска до конца обновления 13.4, а также из премиум контейнеров "
+"«Яркая регата» и из наборов в Адмиралтействе во время проведения события "
+"в обновлениях 13.4 и 13.5."
+
+msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
+msgstr ""
+"На корабли Schlieffen CLR, Andalucía CLR и Akizuki CLR, а также на другое "
+"имущество во время проведения события в обновлениях 13.4 и 13.5."
+
+msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
+msgstr ""
+"Временный ресурс события «Яркая регата». С выходом обновления 13.6 жетоны "
+"будут списаны без компенсации."
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "Легендарные жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr ""
+"За выполнение боевых задач события и из наборов в Адмиралтействе во время "
+"проведения события в обновлениях 13.4 и 13.5."
+
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr ""
+"На крейсер X уровня Kitakami, на постоянный камуфляж «Победный ветер» "
+"для него, а также на другое имущество во время проведения события "
+"в обновлениях 13.4 и 13.5."
+
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr ""
+"Временный ресурс события «Легенда о Kitakami». С выходом обновления 13.6 "
+"жетоны будут списаны без компенсации."
+
+msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT"
+msgstr "У команд есть командиры"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_READY_SHIPS"
+msgstr "Готовые к ремонту корабли"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_TOTAL_SHIPS"
+msgstr "Требующие ремонта корабли"
+
+msgid "IDS_ENABLE_SPECTATORS"
+msgstr "Наблюдатели разрешены"
+
+msgid "IDS_ENTER_TRAINING_ROOM_DESCRIPTION"
+msgstr "Краткое описание тренировочной комнаты, которое видят все игроки"
+
+msgid "IDS_EVENTUM_1_COLON"
+msgstr "Яркие жетоны:"
+
+msgid "IDS_EVENTUM_2_COLON"
+msgstr "Легендарные жетоны:"
+
+msgid "IDS_FEAT_BAD_ACOUSTICTORP_DAMAGE"
+msgstr "Торпеды с акустическим наведением наносят малый урон"
+
+msgid "IDS_FEAT_BAD_BMB_BOMBDAMAGE"
+msgstr "Бомбы наносят малый урон"
+
+msgid "IDS_FEAT_BAD_TORP_DMG"
+msgstr "Торпеды наносят малый урон"
+
+msgid "IDS_FEAT_BAD_TORP_DMG_8"
+msgstr "Торпеды наносят малый урон с VIII уровня"
+
+msgid "IDS_FEAT_GOOD_BURSTFIRE_DELAY"
+msgstr "Короткий минимальный интервал между залпами в серии"
+
+msgid "IDS_GUIDING_TIP_294_DESC"
+msgstr ""
+"В Ремонтном доке новые корабли! Отремонтируйте их, чтобы они стали вашими."
+
+msgid "IDS_GUIDING_TIP_295_DESC"
+msgstr ""
+"При получении конструкций соответствующий корабль появится в вашем Ремонтном"
+" доке. Отремонтируйте его, и вы сможете выходить на нём в бой!"
+
+msgid "IDS_GUIDING_TIP_295_HEADER"
+msgstr "Корабль требует ремонта"
+
+msgid "IDS_GUIDING_TIP_296_HEADER"
+msgstr "Cобирайте конструкции корабля"
+
+msgid "IDS_GUIDING_TIP_300_DESC"
+msgstr "Нажмите «Отремонтировать», чтобы корабль стал вашим!"
+
+msgid "IDS_GUIDING_TIP_300_HEADER"
+msgstr "Ремонт корабля"
+
+msgid "IDS_HIDE_ENEMY_SHIPS"
+msgstr "Корабли противника скрыты"
+
+msgid "IDS_MAIN_FASTLONGLOWDMGTORP"
+msgstr "Высокая скорость и большая дальность хода торпед. Малый урон"
+
+msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
+msgstr "Закрытая комната"
+
+msgid "IDS_PARAMS_MODIFIER_RELOADTIMESHOT_BURSTFIRE"
+msgstr "Минимальный интервал между залпами"
+
+msgid "IDS_PCEE062_KING_OF_THE_SEA"
+msgstr "Морская схватка"
+
+msgid "IDS_PCEE062_KING_OF_THE_SEA_EXTRA_DESCRIPTION"
+msgstr "В честь турнира «Царь морей»."
+
+msgid "IDS_PCEE330_KOTSX_FLAG"
+msgstr "Морской трон"
+
+msgid "IDS_PCEE330_KOTSX_FLAG_DESCRIPTION"
+msgstr ""
+"Там трон — жемчугами усыпанный янтарь,\n"
+"На нём сидит волнам седым подобный Царь.\n"
+"В заливы, в океан десницу простирает,\n"
+"Сапфирным скипетром водам повелевает."
+
+msgid "IDS_PCEE330_KOTSX_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь турнира «Царь морей»."
+
+msgid "IDS_PCEE583_KOTS15_FLAG"
+msgstr "Морской владыка"
+
+msgid "IDS_PCEE583_KOTS15_FLAG_DESCRIPTION"
+msgstr ""
+"Страшен гнев владыки морского: волны до неба вздымаются, ветра рвут в клочья"
+" паруса, чудища грозят утянуть в подводное царство."
+
+msgid "IDS_PCEE583_KOTS15_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь турнира «Царь морей»."
+
+msgid "IDS_PCQT012_1"
+msgid_plural "IDS_PCQT012_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT039_1"
+msgid_plural "IDS_PCQT039_1"
+msgstr[0] ""
+"Повредите %(count)s установку главного калибра на корабле противника."
+msgstr[1] ""
+"Повредите %(count)s установки главного калибра на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s установок главного калибра на кораблях противника."
+
+msgid "IDS_PCQT079_1"
+msgid_plural "IDS_PCQT079_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT095_1"
+msgid_plural "IDS_PCQT095_1"
+msgstr[0] "Повредите %(count)s модуль на эсминце или крейсере противника."
+msgstr[1] "Повредите %(count)s модуля на эсминцах или крейсерах противника."
+msgstr[2] "Повредите %(count)s модулей на эсминцах или крейсерах противника."
+
+msgid "IDS_PCQT098_1"
+msgstr "Повредите двигатель или рулевые машины на эсминце противника."
+
+msgid "IDS_PCQT106_1"
+msgid_plural "IDS_PCQT106_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT114_1"
+msgid_plural "IDS_PCQT114_1"
+msgstr[0] "Повредите %(count)s установку ПВО на корабле противника."
+msgstr[1] "Повредите %(count)s установки ПВО на кораблях противника."
+msgstr[2] "Повредите %(count)s установок ПВО на кораблях противника."
+
+msgid "IDS_PCQT144_1"
+msgid_plural "IDS_PCQT144_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgid_plural "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgstr[0] ""
+"Повредите %(count)s установку главного калибра на корабле противника."
+msgstr[1] ""
+"Повредите %(count)s установки главного калибра на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s установок главного калибра на кораблях противника."
+
+msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgstr[0] ""
+"Повредите %(count)s модуль «Вспомогательный калибр» на корабле противника."
+msgstr[1] ""
+"Повредите %(count)s модуля «Вспомогательный калибр» на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s модулей «Вспомогательный калибр» на кораблях противника."
+
+msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgstr[0] "Повредите %(count)s модуль «Двигатель» на корабле противника."
+msgstr[1] "Повредите %(count)s модуля «Двигатель» на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей «Двигатель» на кораблях противника."
+
+msgid "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgid_plural "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgstr[0] "Повредите %(count)s модуль «Рулевая машина» на корабле противника."
+msgstr[1] ""
+"Повредите %(count)s модуля «Рулевая машина» на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s модулей «Рулевая машина» на кораблях противника."
+
+msgid "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgid_plural "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT374_1"
+msgid_plural "IDS_PCQT374_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT535_1"
+msgid_plural "IDS_PCQT535_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и повредите %(count)s модуль на корабле противника."
+msgstr[1] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и повредите %(count)s модуля на кораблях противника."
+msgstr[2] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PFGA034_13_2MM_76_BROWNING_CAS"
+msgstr "13,2-мм Browning в одиночной установке"
+
+msgid "IDS_PGSB210_DESCR"
+msgstr ""
+"Проект быстроходного линкора с четырьмя башнями главного калибра "
+"водоизмещением в 50 000 т. Отличается от предшественника увеличенной на 30 м"
+" длиной и является крупнейшим из предэскизов, разработанных конструкторами "
+"Управления кораблестроения германского морского штаба в 1918 г. Это проект "
+"крупнейшего и наиболее тяжеловооружённого из всех линкоров Германии, вплоть "
+"до проработок линкора H, проходивших в начале 1940-х гг."
+
+msgid "IDS_PZAD910_ASW_T10"
+msgstr "Kawanishi H6K"
+
+msgid "IDS_QUEST_COLLECTIONER_SHIPS"
+msgid_plural "IDS_QUEST_COLLECTIONER_SHIPS"
+msgstr[0] "Соберите коллекцию из %(countShips)s корабля."
+msgstr[1] "Соберите коллекцию из %(countShips)s кораблей."
+msgstr[2] "Соберите коллекцию из %(countShips)s кораблей."
+
+msgid "IDS_REWARDS_PL_EXP_TITLE"
+msgid_plural "IDS_REWARDS_PL_FREEXP_TITLE"
+msgstr[0] "%(_amount)s ед. опыта"
+msgstr[1] "%(_amount)s ед. опыта"
+msgstr[2] "%(_amount)s ед. опыта"
+
+msgid "IDS_REWARD_EVENTUM_1_TITLE"
+msgstr "Яркие жетоны"
+
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "Легендарные жетоны"
+
+msgid "IDS_REWARD_EXPCOEFF_TITLE"
+msgstr "Дополнительный опыт корабля за бой"
+
+msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
+msgstr "Контейнер «Премиум корабль V. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE_SHORT"
+msgstr "Премиум корабль V. Запасы коллекционера"
+
+msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE"
+msgstr "Контейнер «Премиум корабль VI. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE_SHORT"
+msgstr "Премиум корабль VI. Запасы коллекционера"
+
+msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE"
+msgstr "Контейнер «Премиум корабль VII. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE_SHORT"
+msgstr "Премиум корабль VII. Запасы коллекционера"
+
+msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE"
+msgstr "Контейнер «Премиум корабль VIII. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE_SHORT"
+msgstr "Премиум корабль VIII. Запасы коллекционера"
+
+msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
+msgstr "Контейнер «Премиум корабль IX. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE_SHORT"
+msgstr "Премиум корабль IX. Запасы коллекционера"
+
+msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE"
+msgstr "Контейнер «Премиум корабль II–IV. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE_SHORT"
+msgstr "Премиум корабль II–IV. Запасы коллекционера"
+
+msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE"
+msgstr "Контейнер «Особый корабль X. Запасы коллекционера»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE_SHORT"
+msgstr "Особый корабль X. Запасы коллекционера"
+
+msgid "IDS_SELECTED_TRAINING_BATTLE_TIME"
+msgstr "Длительность боя"
+
+msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
+msgstr "Конструкции"
+
+msgid "IDS_SHIP_PARAM_BURST_FIRE_SALVO_SHOT_DELAY"
+msgstr "Минимальный интервал между залпами"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_1"
+msgstr "Завершите ремонт корабля"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_3"
+msgstr "или соберите ещё"
+
+msgid "IDS_SPACES/04_ARCHIPELAGO"
+msgstr "Сахалин"
+
+msgid "IDS_SPACES/47_SLEEPING_GIANT"
+msgstr "Сонный Бохайвань"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
+msgstr "Яркие жетоны куплены"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "Легендарные жетоны куплены"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
+msgstr "Получены яркие жетоны"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "Получены легендарные жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
+msgstr "Списаны яркие жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "Списаны легендарные жетоны"
+
+msgid "IDS_TAKEN_DAMAGED_MODULES_HINT"
+msgstr "Количество выведенных из строя модулей"
+
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_DESCRIPTION"
+msgstr ""
+"Альтернативный режим стрельбы «Серия залпов» позволяет произвести несколько залпов из орудий главного калибра без перезарядки с коротким минимальным интервалом.\n"
+"\n"
+"После каждой серии залпов требуется долгая перезарядка.\n"
+"\n"
+"Переключение режима стрельбы доступно по клавише [CMD_TOGGLE_FIRE_MODE]."
+
+msgid "IDS_TRAINING_ROOM_BOT_REMOVE_ZONE"
+msgstr "Удалить бота"
+
+msgid "IDS_TRAINING_ROOM_PASSWORD_WRONG_CHARACTERS"
+msgstr "Введён недопустимый символ"
+
+msgid "IDS_TRAINING_TEAM_RESTRICTIONS"
+msgstr "Состав команды"
+
+msgid "IDS_TRAINING_TYPE_OF_BATTLE"
+msgstr "Режим боя"

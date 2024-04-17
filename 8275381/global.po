@@ -39044,7 +39044,7 @@ msgid "IDS_OPTIONS_ENGINES_VOLUME_TOOLTIP_HEADER"
 msgstr "引擎音量"
 
 msgid "IDS_OPTIONS_FOG_ALPHA"
-msgstr "雾的透明度"
+msgstr "雾的不透明度"
 
 msgid "IDS_OPTIONS_FOG_ALPHA_DESCRIPTION"
 msgstr "为远处的对象添加朦胧效果，降低清晰度。"

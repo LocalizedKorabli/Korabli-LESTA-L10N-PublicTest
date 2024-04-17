@@ -1,0 +1,917 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_ARTILLERY_RELOAD"
+msgstr "Перезарядка орудий главного калибра"
+
+msgid "IDS_ARTILLERY_RELOAD_PREF_TOOLTIP_DESCRIPTION"
+msgstr ""
+"Перезарядить орудия главного калибра в альтернативном режиме стрельбы «Серия"
+" залпов»."
+
+msgid "IDS_BANNED_FOR_CHAT_SPAM"
+msgstr "Вы слишком часто отправляете сообщения в чат."
+
+msgid "IDS_CAT_SCIENTIST"
+msgstr "Кот учёный"
+
+msgid "IDS_CLOUDS_QUALITY"
+msgstr "Качество прорисовки объёмных облаков"
+
+msgid "IDS_CLOUDS_QUALITY_DESCRIPTION"
+msgstr ""
+"Включает технологию отображения объёмных облаков и устанавливает качество их"
+" прорисовки. Работает, только если детальность прорисовки воды установлена "
+"на значении «Очень высоко» или выше."
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
+msgstr "Конструкции — %(_shipName)s"
+
+msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
+msgstr ""
+"В каждую команду назначается командир, который может управлять игроками "
+"своей команды"
+
+msgid "IDS_DISABLE_VIEW_SHIP_INFO"
+msgstr "Скрыть оснащение противника"
+
+msgid "IDS_DISABLE_VIEW_SHIP_INFO_TOOLTIP"
+msgstr ""
+"Информация об оснащении кораблей противника в бою скрыта, даже если они были"
+" обнаружены"
+
+msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
+msgstr ""
+"Позволяет произвести несколько залпов из орудий главного калибра "
+"без перезарядки с коротким минимальным интервалом. После каждой серии залпов"
+" требуется долгая перезарядка."
+
+msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
+msgstr "Серия залпов"
+
+msgid "IDS_DOGTAG_PARAM_COUNTSHIPS"
+msgstr "Количество кораблей:"
+
+msgid "IDS_ENABLE_SPECTATORS_TOOLTIP"
+msgstr ""
+"В комнате появится отдельная команда для игроков, которые будут наблюдать "
+"за боем"
+
+msgid "IDS_FEAT_BAD_ALTTORP_DAMAGE"
+msgstr "Альтернативные торпеды наносят малый урон"
+
+msgid "IDS_FEAT_BAD_ALTTORP_SLOW_SPEED"
+msgstr "Низкая скорость хода альтернативных торпед"
+
+msgid "IDS_FEAT_BAD_MC_PEN"
+msgstr "Низкое бронепробитие снарядов"
+
+msgid "IDS_FEAT_BAD_MOVE_SPEED_SURFACE"
+msgstr "Низкая скорость хода в надводном положении"
+
+msgid "IDS_FEAT_BAD_NO_REGENCREW"
+msgstr "Недоступно снаряжение «Ремонтная команда»"
+
+msgid "IDS_FEAT_GOOD_ACOUSTICTORP_DAMAGE"
+msgstr "Торпеды с акустическим наведением наносят большой урон"
+
+msgid "IDS_FEAT_GOOD_ATBARANGEDAMAGE"
+msgstr "Большой урон и дальность стрельбы вспомогательным калибром"
+
+msgid "IDS_FEAT_GOOD_MANYTORPLAUNCHERS"
+msgstr "Большое количество торпедных аппаратов"
+
+msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_SPEED_DURATION_COOLDOWN_CHARGES_DESC"
+msgstr ""
+"Использование возможно только в надводном положении и на перископной "
+"глубине, при погружении оставшееся время работы снаряжения теряется. "
+"Увеличены бонус к максимальной скорости корабля, время работы снаряжения "
+"и количество снаряжения. Уменьшено время перезарядки."
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG"
+msgstr "Есть боевые инструкции «Оперативные ремонтные мероприятия»"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG_DESC"
+msgstr ""
+"Восстанавливает боеспособность корабля. Чтобы получить доступ к активации, "
+"необходимо попадать из орудий ПМК по кораблям противника."
+
+msgid "IDS_FEAT_GOOD_TORP_TUBES_ALL_CAN_LOAD_SAME_TIME"
+msgstr "Все торпедные аппараты могут перезаряжаться одновременно"
+
+msgid "IDS_FEAT_TORP_FASTRELOAD_FEWLOADERS"
+msgstr ""
+"Быстрая перезарядка торпедных аппаратов, но малое количество заряжающих"
+
+msgid "IDS_FOG_OF_WAR_AND_VIEW_SHIP_INFO_DISABLED"
+msgstr ""
+"Информация об оснащении кораблей противника скрыта. При обнаружении или "
+"уничтожении корабля станут известны только его класс, уровень и название."
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING"
+msgstr "Противник неизвестен"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_DISABLED"
+msgstr "Отключено"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_ENABLED"
+msgstr "Включено"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_TOOLTIP"
+msgstr ""
+"Информация о кораблях противника скрыта, пока они не будут обнаружены или "
+"уничтожены"
+
+msgid "IDS_GUIDING_TIP_301_DESC"
+msgstr ""
+"Вы получили заготовки, которые вы сможете использовать для ремонта кораблей!"
+" Первый корабль появится в вашем Ремонтном доке, когда у вас будут "
+"соответствующие конструкции."
+
+msgid "IDS_GUIDING_TIP_301_HEADER"
+msgstr "Ремонтный док"
+
+msgid "IDS_GUIDING_TIP_302_DESC"
+msgstr "Здесь можно посмотреть, сколько у вас есть конструкций и заготовок."
+
+msgid "IDS_GUIDING_TIP_302_HEADER"
+msgstr "Ремонтные материалы"
+
+msgid "IDS_GUIDING_TIP_303_DESC"
+msgstr ""
+"Для ремонта корабля нужно 100 конструкций. Если у вас есть хотя бы 50 конструкций этого корабля, вы можете завершить ремонт с помощью заготовок соответствующего уровня.\n"
+"\n"
+"Нажмите «Отремонтировать», чтобы корабль стал вашим!"
+
+msgid "IDS_GUIDING_TIP_303_HEADER"
+msgstr "Ремонт корабля"
+
+msgid "IDS_GUIDING_TIP_304_DESC"
+msgstr ""
+"С помощью соответствующих экономических бонусов вы сможете получать больше "
+"кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
+
+msgid "IDS_GUIDING_TIP_304_HEADER"
+msgstr "Установите экономические бонусы"
+
+msgid "IDS_GUIDING_TIP_305_DESC"
+msgstr ""
+"С помощью соответствующих экономических бонусов вы сможете получать больше "
+"кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
+
+msgid "IDS_GUIDING_TIP_305_HEADER"
+msgstr "Установите экономические бонусы"
+
+msgid "IDS_HIDE_ENEMY_SHIPS_TOOLTIP"
+msgstr ""
+"Игроки не смогут увидеть выбранные корабли противников в тренировочной "
+"комнате"
+
+msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_MODERNIZATION"
+msgstr "Дождитесь возвращения корабля из боя для изменения модернизаций."
+
+msgid "IDS_MAIN_SPEEDBOOST_GOOD"
+msgstr "Доступно снаряжение «Форсаж»"
+
+msgid "IDS_MAKE_TRAINING_ROOM_CLOSED_TOOLTIP"
+msgstr ""
+"Вход в тренировочную комнату будет доступен только по паролю или приглашению"
+
+msgid "IDS_OPEN_ALL_LOOTBOXES_CONFIRM"
+msgstr "Открыть все контейнеры?"
+
+msgid "IDS_PAGM228_5IN_51_MK14_TWIN_TURRET"
+msgstr "127-мм/51 Mk.14 в спаренной установке"
+
+msgid "IDS_PAGM229_5IN_70_MK44_TWIN"
+msgstr "127-мм/70 Mk.44 в башенной установке"
+
+msgid "IDS_PAGT230_21IN_MK14_SIX_TUBES"
+msgstr "533-мм 6-трубный"
+
+msgid "IDS_PAPA208_127MM_HE_MK44"
+msgstr "127-мм HE/HC Mk44"
+
+msgid "IDS_PAPA209_127MM_AP_MK44"
+msgstr "127-мм AP Mk44"
+
+msgid "IDS_PAPT062_533_MK15"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT063_HOGG"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT064_MAFFITT"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT065_FARRAND"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PASD207"
+msgstr "Farrand"
+
+msgid "IDS_PASD207_DESCR"
+msgstr ""
+"В процессе проработки лидеров эсминцев типа Porter американские инженеры "
+"предлагали несколько вариантов проекта. В марте 1932 г. были представлены "
+"схемы с шестью орудиями главного калибра в одиночных либо спаренных "
+"установках. Руководство флота также рассматривало альтернативы в виде трёх "
+"спаренных установок 51-калиберными орудиями."
+
+msgid "IDS_PASD207_FULL"
+msgstr "Farrand"
+
+msgid "IDS_PASD207_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD207_YEAR"
+msgstr "1932 г."
+
+msgid "IDS_PASD208"
+msgstr "Hogg"
+
+msgid "IDS_PASD208_DESCR"
+msgstr ""
+"Первоначально планировалось, что по программе 1934 г. будут построены два "
+"очередных лидера эсминцев типа Porter, но из-за доработки проекта постройка "
+"этих кораблей была отложена. Альтернативой масштабной переработке была бы "
+"замена короткоствольных 38-калиберных 127-мм орудий на длинноствольные "
+"51-калиберные, при этом на корабль была бы установлена новая силовая "
+"установка от эсминцев типа Mahan."
+
+msgid "IDS_PASD208_FULL"
+msgstr "Hogg"
+
+msgid "IDS_PASD208_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD208_YEAR"
+msgstr "1933 г."
+
+msgid "IDS_PASD209"
+msgstr "Maffitt"
+
+msgid "IDS_PASD209_DESCR"
+msgstr ""
+"Альтернативой постройке лёгких крейсеров ПВО типа Atlanta была постройка "
+"более дешёвых и универсальных лидеров эсминцев. В 1939 г. управление "
+"главного конструктора флота США начало разработку предварительных эскизов "
+"«крейсера-эсминца» водоизмещением 3000–3500 т, вооружённого 152-мм орудиями."
+" Если бы проект был реализован во второй половине 1940-х гг., наиболее "
+"выгодным являлось бы вооружение кораблей экспериментальными 70-калиберными "
+"127-мм орудиями."
+
+msgid "IDS_PASD209_FULL"
+msgstr "Maffitt"
+
+msgid "IDS_PASD209_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD209_YEAR"
+msgstr "1939 г."
+
+msgid "IDS_PASD210"
+msgstr "Lynch"
+
+msgid "IDS_PASD210_DESCR"
+msgstr ""
+"В конце 1930-х гг. руководство ВМС США рассматривало возможность постройки "
+"универсальных лидеров эсминцев вместо лёгких крейсеров ПВО. Проект "
+"от 12 сентября 1939 г. нёс четыре спаренные установки с 152-мм орудиями "
+"и имел стандартное водоизмещение 3500 т. В марте следующего года техническое"
+" задание было изменено в пользу 3400-тонного корабля с 152-мм либо 127-мм "
+"орудиями. Если бы эсминец был построен в конце 1940-х гг., было бы "
+"целесообразно вооружить его новыми длинноствольными 127-мм орудиями."
+
+msgid "IDS_PASD210_FULL"
+msgstr "Lynch"
+
+msgid "IDS_PASD210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD210_YEAR"
+msgstr "1940 г."
+
+msgid "IDS_PAUA613_D7_ART_STOCK"
+msgstr "127-мм/51 Mk.14 в спаренной установке"
+
+msgid "IDS_PAUA719_D8_ART_STOCK"
+msgstr "127-мм/51 Mk.14 в спаренной установке"
+
+msgid "IDS_PAUA816_D9_ART_STOCK"
+msgstr "127-мм/70 Mk.44 в башенной установке"
+
+msgid "IDS_PAUA916_D10_ART_STOCK"
+msgstr "127-мм/70 Mk.44 в башенной установке"
+
+msgid "IDS_PAUE614_D7_ENG_STOCK"
+msgstr "ЭУ 50 000 л.с."
+
+msgid "IDS_PAUE726_D8_ENG_STOCK"
+msgstr "ЭУ 52 000 л.с."
+
+msgid "IDS_PAUE815_D9_ENG_STOCK"
+msgstr "ЭУ 75 000 л.с."
+
+msgid "IDS_PAUE927_D10_ENG_STOCK"
+msgstr "ЭУ 80 000 л.с."
+
+msgid "IDS_PAUH617_D7_HULL_STOCK"
+msgstr "Farrand (A)"
+
+msgid "IDS_PAUH618_D7_HULL_TOP"
+msgstr "Farrand (B)"
+
+msgid "IDS_PAUH738_D8_HULL_STOCK"
+msgstr "Hogg (A)"
+
+msgid "IDS_PAUH739_D8_HULL_TOP"
+msgstr "Hogg (B)"
+
+msgid "IDS_PAUH820_D9_HULL_STOCK"
+msgstr "Maffitt (A)"
+
+msgid "IDS_PAUH824_D9_HULL_TOP"
+msgstr "Maffitt (B)"
+
+msgid "IDS_PAUH924_D10_HULL_STOCK"
+msgstr "Lynch"
+
+msgid "IDS_PAUS614_D7_SUO_STOCK"
+msgstr "Mk7 mod. 1"
+
+msgid "IDS_PAUS615_D7_SUO_TOP"
+msgstr "Mk7 mod. 2"
+
+msgid "IDS_PAUS723_D8_SUO_STOCK"
+msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUS724_D8_SUO_TOP"
+msgstr "Mk8 mod. 2"
+
+msgid "IDS_PAUS820_D9_SUO_STOCK"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS823_D9_SUO_TOP"
+msgstr "Mk9 mod. 2"
+
+msgid "IDS_PAUS918_D10_SUO_STOCK"
+msgstr "Mk10"
+
+msgid "IDS_PAUT605_D7_TORP_STOCK"
+msgstr "Mk15 mod. 0"
+
+msgid "IDS_PAUT709_D8_TORP_STOCK"
+msgstr "Mk16 mod. 1"
+
+msgid "IDS_PAUT808_D9_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT914_D10_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_DESCRIPTION"
+msgstr ""
+"Андалусия — самый южный регион Испании, отделённый от Северной Африки "
+"Гибралтарским проливом. На гербе Андалусии расположено символическое "
+"изображение Геркулесовых столбов — высот, обрамляющих вход в пролив. Между "
+"столбами стоит Геракл, укрощающий двух львов."
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода ослепительно ярких кораблей."
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_DESCRIPTION"
+msgstr ""
+"Шлиффены — немецкий дворянский род из Померании, первые упоминания о нём "
+"относятся к XIV в. Одним из самых знаменитых представителей этой семьи стал "
+"полководец и военный стратег Альфред фон Шлиффен (1833–1913)."
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода ослепительно ярких кораблей."
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG"
+msgstr "Лукоморье"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG_DESCRIPTION"
+msgstr ""
+"У лукоморья дуб зелёный;\n"
+"Златая цепь на дубе том:\n"
+"И днём и ночью кот учёный\n"
+"Всё ходит по цепи кругом;\n"
+"Идёт направо — песнь заводит,\n"
+"Налево — сказку говорит."
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь турнира «Царь морей»."
+
+msgid "IDS_PCEE685_CONQUISTADOR_FLAG"
+msgstr "Conquistador"
+
+msgid "IDS_PCEE685_CONQUISTADOR_FLAG_DESCRIPTION"
+msgstr ""
+"Бургундский крест стал частью символики Испанской империи, когда на её трон "
+"взошла династия Габсбургов, имевшая титул герцогов Бургундии. В эпоху "
+"конкистадоров использовался на флагах испанских владений в Новом Свете, "
+"а также на флагах армии и флота Испании."
+
+msgid "IDS_PCEE686_CHATEAURENAULT_FLAG"
+msgstr "Châteaurenault"
+
+msgid "IDS_PCEE686_CHATEAURENAULT_FLAG_DESCRIPTION"
+msgstr ""
+"Герб французского корабля Châteaurenault. Такое имя корабли французского "
+"флота традиционно получают в честь вице-адмирала Франсуа Луи Русселе "
+"де Шато-Рено, проявившего себя в войнах и морских сражениях конца XVII — "
+"начала XVIII в."
+
+msgid "IDS_PCEE687_SCHERBAKOV_FLAG"
+msgstr "Щербаков"
+
+msgid "IDS_PCEE687_SCHERBAKOV_FLAG_DESCRIPTION"
+msgstr ""
+"Александр Сергеевич Щербаков (1901–1945) — советский государственный "
+"и партийный деятель, генерал-полковник. В годы Великой Отечественной войны "
+"руководил Совинформбюро и Главным политуправлением Красной армии, а также "
+"занимал должность заместителя народного комиссара обороны СССР. "
+"В 1937–1945 гг. являлся депутатом Верховного Совета."
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
+msgstr "Akizuki CLR"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_DESCRIPTION"
+msgstr ""
+"В переводе с японского Akizuki означает «осенняя луна». В середине осени "
+"в Японии отмечают праздник, посвящённый луне: в эти дни принято любоваться "
+"ночным светилом, украшать дома и готовить особые угощения."
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода ослепительно ярких кораблей."
+
+msgid "IDS_PFGA145_57MM_60_2_25"
+msgstr "57-мм/60 Mle 1951 в установке ACAD Mle 1948"
+
+msgid "IDS_PFGM148_105_MM_SKC_37"
+msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+
+msgid "IDS_PFGT146_550MM_3TUBE_KT50"
+msgstr "550-мм tube lance-torpilles"
+
+msgid "IDS_PFPA095_105MM_CS_CHATEAURENAULT"
+msgstr "105-мм Spr.Gr. BDz m.Hb"
+
+msgid "IDS_PFPA096_105MM_AP_CHATEAURENAULT"
+msgstr "105-мм P.Spr.Gr."
+
+msgid "IDS_PFPT021_550MM_CHATEAURENAULT"
+msgstr "550-мм K2"
+
+msgid "IDS_PFSD610"
+msgstr "Châteaurenault"
+
+msgid "IDS_PFSD610_DESCR"
+msgstr ""
+"После Второй мировой войны итальянский лёгкий крейсер Attilio Regolo был "
+"передан Франции по репарациям и переименован в Châteaurenault. В 1951–54 гг."
+" корабль прошёл капитальный ремонт с модернизацией, при этом он был "
+"реклассифицирован в эсминец. В конце 1950-х гг. Châteaurenault "
+"переоборудовали в корабль управления, несущий штаб флотилии. В 1961 г. "
+"Châteaurenault был выведен в резерв, и до 1969 г. на нём находилась школа "
+"морских фузилёров."
+
+msgid "IDS_PFSD610_FULL"
+msgstr "Châteaurenault"
+
+msgid "IDS_PFSD610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSD610_YEAR"
+msgstr "1942 г."
+
+msgid "IDS_PFUA907_ART_CHATEAURENAULT"
+msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+
+msgid "IDS_PFUE906_ENG_CHATEAURENAULT"
+msgstr "ЭУ 110 000 л.с."
+
+msgid "IDS_PFUH906_HULL_CHATEAURENAULT"
+msgstr "Châteaurenault"
+
+msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
+msgstr "PCA n°10"
+
+msgid "IDS_PFUT904_TORP_CHATEAURENAULT"
+msgstr "550-мм K2"
+
+msgid "IDS_PGES330_SCHLIEFFEN_COLORFUL"
+msgstr "Пурпурный град"
+
+msgid "IDS_PGES610_GSS_U_796"
+msgstr "Океанский монстр"
+
+msgid "IDS_PGSB810"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PGSB810_DESCR"
+msgstr ""
+"Проект быстроходного линкора с четырьмя башнями главного калибра "
+"водоизмещением в 50 000 т. Отличается от предшественника увеличенной на 30 м"
+" длиной и является крупнейшим из предэскизов, разработанных конструкторами "
+"Управления кораблестроения германского морского штаба в 1918 г. Это проект "
+"крупнейшего и наиболее тяжеловооружённого из всех линкоров Германии, вплоть "
+"до проработок линкора H, проходивших в начале 1940-х гг."
+
+msgid "IDS_PGSB810_FULL"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PGSB810_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB810_YEAR"
+msgstr "1944 г."
+
+msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
+msgstr "420-мм/50 SK L/50 в установке Drh LC/1918"
+
+msgid "IDS_PGUE915_ENG_COLORFUL_SCHLIEFFEN"
+msgstr "ЭУ 200 000 л.с."
+
+msgid "IDS_PGUH915_HULL_COLORFUL_SCHLIEFFEN"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PGUS912_SUO_COLORFUL_SCHLIEFFEN"
+msgstr "FKS Typ 10"
+
+msgid "IDS_PGUT912_TORP_COLORFUL_SCHLIEFFEN"
+msgstr "G7a T1"
+
+msgid "IDS_PJES450_KITAKAMI_DEMON"
+msgstr "Победный ветер"
+
+msgid "IDS_PJES568_AKIZUKI_COLORFUL"
+msgstr "Изумрудная комета"
+
+msgid "IDS_PJSD808"
+msgstr "Akizuki CLR"
+
+msgid "IDS_PJSD808_DESCR"
+msgstr ""
+"Эсминцы типа Akizuki планировались как корабли ПВО для эскорта быстроходных "
+"авианосных групп. Основное вооружение было представлено восемью 100-мм/65 "
+"орудиями. Всего было заказано 13 и построено 12 эсминцев этого типа. После "
+"вступления в строй в июне 1942 г. Akizuki участвовал в сражении у восточных "
+"Соломоновых островов и в Гуадалканальской кампании, в сражении "
+"в Филиппинском море и в битве в заливе Лейте. Эсминец был потоплен "
+"американской торпедой в ходе боя у мыса Энганьо."
+
+msgid "IDS_PJSD808_FULL"
+msgstr "Akizuki CLR"
+
+msgid "IDS_PJSD808_NUMBER"
+msgstr "13"
+
+msgid "IDS_PJSD808_YEAR"
+msgstr "1942 г."
+
+msgid "IDS_PJUA716_ART_COLORFUL_AKIZUKI"
+msgstr "100-мм/65 Type 98 в установке Model A"
+
+msgid "IDS_PJUE719_ENG_COLORFUL_AKIZUKI"
+msgstr "ЭУ 52 000 л.с."
+
+msgid "IDS_PJUH730_HULL_COLORFUL_AKIZUKI"
+msgstr "Akizuki CLR"
+
+msgid "IDS_PJUS709_SUO_COLORFUL_AKIZUKI"
+msgstr "Type8"
+
+msgid "IDS_PJUT716_TORP_COLORFUL_AKIZUKI"
+msgstr "Type93 mod. 2"
+
+msgid "IDS_PRES328_TSARMOREY_LUKOMOR"
+msgstr "Лукоморье"
+
+msgid "IDS_PRES610_CHELYABINSKY_KOMSOMOLETS"
+msgstr "Челябинский комсомолец"
+
+msgid "IDS_PRGM212_203MM55_BARRELS_3_ITL"
+msgstr "203-мм/55 Model 1934 в башенной установке"
+
+msgid "IDS_PRGS211_100MM_70_BL_127_QUAD"
+msgstr "100-мм/70 в установке БЛ-127"
+
+msgid "IDS_PRPA152_152MM_OFU35_SCHERBAKOV"
+msgstr "ОФУ-35"
+
+msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
+msgstr "Б-35"
+
+msgid "IDS_PRPA217_152MM_CS_SCHERBAKOV"
+msgstr "ПБ-35"
+
+msgid "IDS_PRSC519"
+msgstr "Щербаков"
+
+msgid "IDS_PRSC519_DESCR"
+msgstr ""
+"В 1954 г. был утверждён проект перевооружения крейсеров 68-бис, ещё "
+"находившихся на стапелях, новыми счетверёнными 45-мм установками. При этом "
+"предполагалось разместить на них 25-мм установки, улучшить радиоэлектронное "
+"и радиолокационное оборудование, увеличить прочность корпуса. Первым "
+"в очереди на достройку был «Щербаков», заложенный в Ленинграде в 1951 г. "
+"и спущенный на воду в марте 1954 г. Но во второй половине 1950-х гг. "
+"руководство изменило взгляд на роль крупных артиллерийских кораблей, "
+"и крейсеры улучшенного проекта достроены не были."
+
+msgid "IDS_PRSC519_FULL"
+msgstr "Щербаков"
+
+msgid "IDS_PRSC519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC519_YEAR"
+msgstr "1954 г."
+
+msgid "IDS_PRUA816_ART_SCHERBAKOV"
+msgstr "152-мм/57 Б-38 в установке МК-5-бис"
+
+msgid "IDS_PRUE815_ENG_SCHERBAKOV"
+msgstr "ЭУ 124 000 л.с."
+
+msgid "IDS_PRUH824_SCHERBAKOV"
+msgstr "Щербаков"
+
+msgid "IDS_PRUS823_SUO_SCHERBAKOV"
+msgstr "СУО IX мод. 1"
+
+msgid "IDS_PRUT813_TORP_SCHERBAKOV"
+msgstr "53-38"
+
+msgid "IDS_PSES419_ANDALUCIA_COLORFUL"
+msgstr "Янтарная волна"
+
+msgid "IDS_PSGM059_381MM_50_QUAD_OTTO"
+msgstr "381-мм/50 Model 1934 в башенной установке"
+
+msgid "IDS_PSGS053_152MM55_BARRELS_3_M1936_L"
+msgstr "152-мм/55 Model 1936 в установке Model 1936"
+
+msgid "IDS_PSGS060_105_MM_SKC_37"
+msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+
+msgid "IDS_PSPA027_152MM_55_1936_HE"
+msgstr "152-мм proiettili HE"
+
+msgid "IDS_PSPA028_105MM_HE_HE_33LBS"
+msgstr "105-мм Spr.Gr. Kz."
+
+msgid "IDS_PSPA029_381MM_HE_CONQUISTADOR"
+msgstr "381-мм proiettili HE"
+
+msgid "IDS_PSPA030_381MM_AP_CONQUISTADOR"
+msgstr "381-мм proiettili AP"
+
+msgid "IDS_PSSB510"
+msgstr "Conquistador"
+
+msgid "IDS_PSSB510_DESCR"
+msgstr ""
+"После победы в гражданской войне франкистское правительство укрепило связи "
+"с Италией. В конце 1930-х — начале 1940-х гг. Испания рассматривала вариант "
+"постройки линейного корабля по итальянскому проекту. Наиболее современным "
+"проектом итальянского линкора на тот момент являлся проект корабля "
+"со стандартным водоизмещением 42 000 т, который фирма Ansaldo разрабатывала "
+"в середине 1930-х гг."
+
+msgid "IDS_PSSB510_FULL"
+msgstr "Conquistador"
+
+msgid "IDS_PSSB510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSB510_YEAR"
+msgstr "1943 г."
+
+msgid "IDS_PSSC809"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PSSC809_DESCR"
+msgstr ""
+"Параллельно с работой по строительству и ремонту кораблей для флота "
+"франкистская Испания занималась разработкой новых кораблей. В 1938 г. было "
+"проработано пять проектов эсминцев и несколько проектов крейсеров "
+"водоизмещением от 7920 до 19 000 т. Крупнейшим стал проект 138 — «крейсер "
+"со скоростью 36 узлов» с разными вариантами главного калибра. Рассматривался"
+" вариант постройки крейсера с башнями от линкора España. Наиболее "
+"распространённый вариант — три трёхорудийные башни с орудиями калибром "
+"от 203 до 254 мм."
+
+msgid "IDS_PSSC809_FULL"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PSSC809_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSC809_YEAR"
+msgstr "1938 г."
+
+msgid "IDS_PSUA802_ART_COLORFUL_ANDALUCIA"
+msgstr "234-мм/50 Mk.XII в башенной установке"
+
+msgid "IDS_PSUA903_ART_CONQUISTADOR"
+msgstr "381-мм/50 Model 1934 в башенной установке"
+
+msgid "IDS_PSUE802_ENG_COLORFUL_ANDALUCIA"
+msgstr "ЭУ 170 000 л.с."
+
+msgid "IDS_PSUE903_ENG_CONQUISTADOR"
+msgstr "ЭУ 160 000 л.с."
+
+msgid "IDS_PSUH803_HULL_COLORFUL_ANDALUCIA"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PSUH903_HULL_CONQUISTADOR"
+msgstr "Conquistador"
+
+msgid "IDS_PSUS803_SUO_COLORFUL_ANDALUCIA"
+msgstr "SCI Mk IX"
+
+msgid "IDS_PSUS903_SUO_CONQUISTADOR"
+msgstr "SCI Mk X"
+
+msgid "IDS_PSUT802_TORP_COLORFUL_ANDALUCIA"
+msgstr "533-мм Mk VIII ES"
+
+msgid "IDS_PUSHKIN"
+msgstr "Александр Пушкин"
+
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_HIDDEN_SHIPS_NEUTRAL_TEAM"
+msgstr "Дождитесь, когда организатор комнаты распределит вас в команду"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль VIII–X уровня"
+
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII–X уровень"
+
+msgid "IDS_REWARD_PORTAL_DESCRIPTION"
+msgstr ""
+"Выдаётся за достижение высоких результатов в боевой задаче категории "
+"«Флотское мастерство». Начисляется призёрам автоматически после подведения "
+"итогов события."
+
+msgid "IDS_REWARD_PORTAL_TITLE"
+msgstr "Специальный приз"
+
+msgid "IDS_REWARD_STREAM_PRM_BIG_DESCRIPTION"
+msgstr ""
+"Награда за просмотр трансляций в категории «Мир кораблей» на стриминговых "
+"платформах. Со списком содержимого можно ознакомиться на портале."
+
+msgid "IDS_REWARD_STREAM_PRM_BIG_TITLE"
+msgstr "Большой набор"
+
+msgid "IDS_REWARD_STREAM_PRM_MYSTERY_DESCRIPTION"
+msgstr ""
+"Награда за просмотр трансляций в категории «Мир кораблей» на стриминговых "
+"платформах. Со списком содержимого можно ознакомиться на портале."
+
+msgid "IDS_REWARD_STREAM_PRM_MYSTERY_TITLE"
+msgstr "Таинственная награда"
+
+msgid "IDS_REWARD_STREAM_PRM_SMALL_DESCRIPTION"
+msgstr ""
+"Награда за просмотр трансляций на официальном канале «Мира кораблей» "
+"на платформе Twitch. Со списком содержимого можно ознакомиться на портале."
+
+msgid "IDS_REWARD_STREAM_PRM_SMALL_TITLE"
+msgstr "Малый набор"
+
+msgid "IDS_SCENARIO_CVC_ARMSRACE"
+msgstr "Кланы. Гонка вооружений"
+
+msgid "IDS_SERVICE_SHIP_TO_OPERATE_MODERNIZATION"
+msgstr "Необходимо провести обслуживание корабля для изменения модернизаций."
+
+msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
+msgstr ""
+"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения "
+"модернизаций."
+
+msgid "IDS_SHIP_INFO_HIDDEN_IN_TRAINING"
+msgstr "Оснащение противника скрыто"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM099_BRAWL_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM100_BRAWL_DDANERF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM101_BRAWL_TORPEDOBIT"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM099_BRAWL_ENGINEBOOST"
+msgstr "Повышение манёвренности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM100_BRAWL_DDANERF"
+msgstr "Уменьшение урона"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM101_BRAWL_TORPEDOBIT"
+msgstr "Увеличение скорострельности ТА"
+
+msgid "IDS_SHIP_MODIFIER_PXOM099_BRAWL_ENGINEBOOST_APPLIED"
+msgstr "Повышение манёвренности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM100_BRAWL_DDANERF_APPLIED"
+msgstr "Уменьшение урона"
+
+msgid "IDS_SHIP_MODIFIER_PXOM101_BRAWL_TORPEDOBIT_APPLIED"
+msgstr "Увеличение скорострельности ТА"
+
+msgid "IDS_SOUND_MOD_PUSHKIN"
+msgstr "Александр Пушкин"
+
+msgid "IDS_SOUND_MOD_PUSHKINTALES_CAT_SCIENTIST"
+msgstr "Кот учёный"
+
+msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
+msgstr "Черномор"
+
+msgid "IDS_SPACES/56_KAMCHATKA"
+msgstr "Камчатка"
+
+msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
+msgstr "Камчатка"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_COMMON_SUBTITLE"
+msgstr "Общие результаты"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_REWARDS_SUBTITLE"
+msgstr "Полученные награды"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TASKS"
+msgstr "Выполнено задач"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
+msgstr "Территории под контролем"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
+msgstr "Событие «Новогодний карнавал» завершено"
+
+msgid "IDS_UNLOCKS_3"
+msgstr "Сражайтесь против реальных игроков."
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr ""
+"В Операциях вашей команде необходимо выполнять различные задания, сражаясь "
+"с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr ""
+"Достигните основной цели, чтобы одержать победу. Выполнение дополнительных "
+"задач увеличит количество заработанных за бой ресурсов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr ""
+"Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr ""
+"Сражайтесь против реальных игроков. Составы команд подбираются случайным "
+"образом."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Случайные бои</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "Доступно на экране выбора типа боя."
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "Случайные бои"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "Операции"
+
+msgid "IDS_VIEW_SHIP_INFO_DISABLED"
+msgstr "Информация об оснащении кораблей противника скрыта."
