@@ -1,0 +1,391 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_AI_LEVEL"
+msgstr "AI等级"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "您可以获得传奇代币"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_KILL_DA_BOSS"
+msgstr "摧毁旗舰Koyama"
+
+msgid "IDS_BATTLE_TASK_TEXT_PCOI018"
+msgstr "瘫痪至少5个任意种类配件。"
+
+msgid "IDS_CURRENCY_EVENTUM_1"
+msgstr "炫彩代币"
+
+msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
+msgstr ""
+"在 13.4 版本结束前完成活动战斗目标并达到高级通行证 20 级，以及在 13.4 和 "
+"13.5 版本活动期间从“炫彩赛艇”高级补给箱和兵工厂的礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
+msgstr "用于购买施里芬CLR、安达卢西亚CLR和秋月CLR三艘战舰，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
+msgstr "“炫彩赛艇”活动的临时资源，13.6 版本发布后，代币将无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "传奇代币"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr ""
+"通过在 13.4 和 13.5 版本中的活动期间完成作战任务和从兵工厂的礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr ""
+"用于在 13.4 和 13.5 版本中，兑换 X 级巡洋舰“北上”号、其永久涂装“胜利之风”以"
+"及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "“北上传奇”活动的临时资源，13.6 版本发布后，代币将无偿收回。"
+
+msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT"
+msgstr "每队都有指挥官"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_READY_SHIPS"
+msgstr "准备维修的战舰"
+
+msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_TOTAL_SHIPS"
+msgstr "等待维修的战舰"
+
+msgid "IDS_ENABLE_SPECTATORS"
+msgstr "允许观战"
+
+msgid "IDS_ENTER_TRAINING_ROOM_DESCRIPTION"
+msgstr "对所有玩家可见的训练房间简介"
+
+msgid "IDS_EVENTUM_1_COLON"
+msgstr "炫彩代币："
+
+msgid "IDS_EVENTUM_2_COLON"
+msgstr "传奇代币："
+
+msgid "IDS_FEAT_BAD_ACOUSTICTORP_DAMAGE"
+msgstr "声导鱼雷的伤害较低"
+
+msgid "IDS_FEAT_BAD_BMB_BOMBDAMAGE"
+msgstr "炸弹伤害较低"
+
+msgid "IDS_FEAT_BAD_TORP_DMG"
+msgstr "鱼雷伤害较低"
+
+msgid "IDS_FEAT_BAD_TORP_DMG_8"
+msgstr "从VIII级起鱼雷伤害较低"
+
+msgid "IDS_FEAT_GOOD_BURSTFIRE_DELAY"
+msgstr "每轮连发射击之间的最小间隔较短"
+
+msgid "IDS_GUIDING_TIP_294_DESC"
+msgstr "维修船坞里有新的战舰可用！修复它，让其为您所用。"
+
+msgid "IDS_GUIDING_TIP_295_DESC"
+msgstr ""
+"当您收到战舰部件时，相应的战舰会出现在您的维修船坞中。完全修复后，即可让其加"
+"入战斗！"
+
+msgid "IDS_GUIDING_TIP_295_HEADER"
+msgstr "战舰需要维修"
+
+msgid "IDS_GUIDING_TIP_296_HEADER"
+msgstr "收集战舰部件"
+
+msgid "IDS_GUIDING_TIP_300_DESC"
+msgstr "点击“维修”，这艘战舰就归你了！"
+
+msgid "IDS_GUIDING_TIP_300_HEADER"
+msgstr "维修战舰"
+
+msgid "IDS_HIDE_ENEMY_SHIPS"
+msgstr "隐藏敌方战舰"
+
+msgid "IDS_MAIN_FASTLONGLOWDMGTORP"
+msgstr "航速较高、射程较远但伤害较低的鱼雷。"
+
+msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
+msgstr "私密房间"
+
+msgid "IDS_PARAMS_MODIFIER_RELOADTIMESHOT_BURSTFIRE"
+msgstr "单次射击最小间隔"
+
+msgid "IDS_PCEE062_KING_OF_THE_SEA"
+msgstr "海战"
+
+msgid "IDS_PCEE062_KING_OF_THE_SEA_EXTRA_DESCRIPTION"
+msgstr "为纪念海洋之王锦标赛。"
+
+msgid "IDS_PCEE330_KOTSX_FLAG"
+msgstr "海上王座"
+
+msgid "IDS_PCEE330_KOTSX_FLAG_DESCRIPTION"
+msgstr ""
+"由珍珠和琥珀制成的宝座、\n"
+"上面坐着一位国王，就像灰色的波浪。\n"
+"他向海湾和海洋伸出手、\n"
+"他用蓝宝石权杖指挥着海水。"
+
+msgid "IDS_PCEE330_KOTSX_FLAG_EXTRA_DESCRIPTION"
+msgstr "为纪念海洋之王锦标赛。"
+
+msgid "IDS_PCEE583_KOTS15_FLAG"
+msgstr "海洋领主"
+
+msgid "IDS_PCEE583_KOTS15_FLAG_DESCRIPTION"
+msgstr ""
+"海王的愤怒是可怕的：海浪冲上云霄，狂风将船帆撕成碎片，怪兽威胁要将他们拖入海"
+"底世界。"
+
+msgid "IDS_PCEE583_KOTS15_FLAG_EXTRA_DESCRIPTION"
+msgstr "为纪念海洋之王锦标赛。"
+
+msgid "IDS_PCQT012_1"
+msgid_plural "IDS_PCQT012_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT039_1"
+msgid_plural "IDS_PCQT039_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s座主炮。"
+msgstr[1] ""
+"Повредите %(count)s установки главного калибра на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s установок главного калибра на кораблях противника."
+
+msgid "IDS_PCQT079_1"
+msgid_plural "IDS_PCQT079_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT095_1"
+msgid_plural "IDS_PCQT095_1"
+msgstr[0] "瘫痪敌方驱逐舰或巡洋舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на эсминцах или крейсерах противника."
+msgstr[2] "Повредите %(count)s модулей на эсминцах или крейсерах противника."
+
+msgid "IDS_PCQT098_1"
+msgstr "瘫痪敌方驱逐舰的引擎或操舵装置。"
+
+msgid "IDS_PCQT106_1"
+msgid_plural "IDS_PCQT106_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT114_1"
+msgid_plural "IDS_PCQT114_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s座防空炮组。"
+msgstr[1] "Повредите %(count)s установки ПВО на кораблях противника."
+msgstr[2] "Повредите %(count)s установок ПВО на кораблях противника."
+
+msgid "IDS_PCQT144_1"
+msgid_plural "IDS_PCQT144_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgid_plural "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s座主炮组。"
+msgstr[1] ""
+"Повредите %(count)s установки главного калибра на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s установок главного калибра на кораблях противника."
+
+msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s座副炮组。"
+msgstr[1] ""
+"Повредите %(count)s модуля «Вспомогательный калибр» на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s модулей «Вспомогательный калибр» на кораблях противника."
+
+msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个“引擎”配件。"
+msgstr[1] "Повредите %(count)s модуля «Двигатель» на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей «Двигатель» на кораблях противника."
+
+msgid "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgid_plural "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个“操舵装置”配件。"
+msgstr[1] ""
+"Повредите %(count)s модуля «Рулевая машина» на кораблях противника."
+msgstr[2] ""
+"Повредите %(count)s модулей «Рулевая машина» на кораблях противника."
+
+msgid "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgid_plural "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT374_1"
+msgid_plural "IDS_PCQT374_1"
+msgstr[0] "瘫痪敌方战舰上的%(count)s个配件。"
+msgstr[1] "Повредите %(count)s модуля на кораблях противника."
+msgstr[2] "Повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PCQT535_1"
+msgid_plural "IDS_PCQT535_1"
+msgstr[0] ""
+"瘫痪敌方战舰上的%(count)s个配件，成为己方团队经验获取量排名前3的玩家，并赢得"
+"胜利。"
+msgstr[1] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и повредите %(count)s модуля на кораблях противника."
+msgstr[2] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и повредите %(count)s модулей на кораблях противника."
+
+msgid "IDS_PFGA034_13_2MM_76_BROWNING_CAS"
+msgstr "13.2 mm Browning（单装枪座）"
+
+msgid "IDS_PGSB210_DESCR"
+msgstr ""
+"这是一种快速战列舰的设计，有四个主炮塔，排水量为 50000 吨。在 20 世纪 40 年"
+"代初开发出 H 型战列舰之前，它是德国所有战列舰中最大、装备武器最多的战列舰。"
+
+msgid "IDS_PZAD910_ASW_T10"
+msgstr "Kawanishi H6K"
+
+msgid "IDS_QUEST_COLLECTIONER_SHIPS"
+msgid_plural "IDS_QUEST_COLLECTIONER_SHIPS"
+msgstr[0] "完成%(countShips)s艘战舰的收藏。"
+msgstr[1] "Соберите коллекцию из %(countShips)s кораблей."
+msgstr[2] "Соберите коллекцию из %(countShips)s кораблей."
+
+msgid "IDS_REWARDS_PL_EXP_TITLE"
+msgid_plural "IDS_REWARDS_PL_FREEXP_TITLE"
+msgstr[0] "%(_amount)s点经验"
+msgstr[1] "%(_amount)s ед. опыта"
+msgstr[2] "%(_amount)s ед. опыта"
+
+msgid "IDS_REWARD_EVENTUM_1_TITLE"
+msgstr "炫彩代币"
+
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "传奇代币"
+
+msgid "IDS_REWARD_EXPCOEFF_TITLE"
+msgstr "每场战斗额外获得的战舰经验"
+
+msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
+msgstr "“V级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE_SHORT"
+msgstr "V级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE"
+msgstr "“VI级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE_SHORT"
+msgstr "VI级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE"
+msgstr "“VII级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE_SHORT"
+msgstr "VII级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE"
+msgstr "“VIII级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE_SHORT"
+msgstr "VIII级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
+msgstr "“IX级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE_SHORT"
+msgstr "IX级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE"
+msgstr "“II-IV级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE_SHORT"
+msgstr "II-IV级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE"
+msgstr "“X级加值战舰”精英补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE_SHORT"
+msgstr "X级加值战舰"
+
+msgid "IDS_SELECTED_TRAINING_BATTLE_TIME"
+msgstr "战斗时间"
+
+msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
+msgstr "战舰部件"
+
+msgid "IDS_SHIP_PARAM_BURST_FIRE_SALVO_SHOT_DELAY"
+msgstr "最短射击间隔"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_1"
+msgstr "完成战舰维修"
+
+msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_3"
+msgstr "或收集更多"
+
+msgid "IDS_SPACES/04_ARCHIPELAGO"
+msgstr "库页岛"
+
+msgid "IDS_SPACES/47_SLEEPING_GIANT"
+msgstr "沉睡的渤海湾"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
+msgstr "已购买炫彩代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "已购买传奇代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
+msgstr "已获得炫彩代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "已获得传奇代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
+msgstr "炫彩代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "传奇代币已移除"
+
+msgid "IDS_TAKEN_DAMAGED_MODULES_HINT"
+msgstr "被瘫痪配件数"
+
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_DESCRIPTION"
+msgstr ""
+"替代连发射击模式能在不重新装填主炮组的情况下，短时间内进行多次射击。\n"
+"\n"
+"每次连发齐射后会有延长的装填时间。\n"
+"\n"
+"按下[CMD_TOGGLE_FIRE_MODE]可切换射击模式。"
+
+msgid "IDS_TRAINING_ROOM_BOT_REMOVE_ZONE"
+msgstr "删除电脑玩家"
+
+msgid "IDS_TRAINING_ROOM_PASSWORD_WRONG_CHARACTERS"
+msgstr "您输入了无效字符"
+
+msgid "IDS_TRAINING_TEAM_RESTRICTIONS"
+msgstr "团队成员"
+
+msgid "IDS_TRAINING_TYPE_OF_BATTLE"
+msgstr "战斗模式"

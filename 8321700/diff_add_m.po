@@ -1,0 +1,841 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_ARTILLERY_RELOAD"
+msgstr "重新装填主炮组"
+
+msgid "IDS_ARTILLERY_RELOAD_PREF_TOOLTIP_DESCRIPTION"
+msgstr "在替代连发射击模式下重新装填主炮组"
+
+msgid "IDS_BANNED_FOR_CHAT_SPAM"
+msgstr "您发送聊天信息过于频繁。"
+
+msgid "IDS_CAT_SCIENTIST"
+msgstr "科学家猫"
+
+msgid "IDS_CLOUDS_QUALITY"
+msgstr "体积云的渲染质量"
+
+msgid "IDS_CLOUDS_QUALITY_DESCRIPTION"
+msgstr ""
+"启用体积云技术并设置其渲染质量。只有当水面渲染质量设置为“非常高”或更高时才会生效。"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
+msgstr "战舰部件—%(_shipName)s"
+
+msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
+msgstr "每队都有一名指挥官，负责管理本队成员。"
+
+msgid "IDS_DISABLE_VIEW_SHIP_INFO"
+msgstr "不显示敌舰消耗品信息"
+
+msgid "IDS_DISABLE_VIEW_SHIP_INFO_TOOLTIP"
+msgstr "不显示战斗中敌舰消耗品信息，即使它们已被发现"
+
+msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
+msgstr ""
+"允许在最短时间内用主炮连续发射多轮炮弹，而无需重新装弹。每次连续发射后都需要长时间重新"
+"装弹。"
+
+msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
+msgstr "连发射击"
+
+msgid "IDS_DOGTAG_PARAM_COUNTSHIPS"
+msgstr "战舰数量："
+
+msgid "IDS_ENABLE_SPECTATORS_TOOLTIP"
+msgstr "房间里会出现一支独立的观战队伍"
+
+msgid "IDS_FEAT_BAD_ALTTORP_DAMAGE"
+msgstr "替代鱼雷的伤害较低"
+
+msgid "IDS_FEAT_BAD_ALTTORP_SLOW_SPEED"
+msgstr "替代鱼雷的速度较低"
+
+msgid "IDS_FEAT_BAD_MC_PEN"
+msgstr "炮弹的穿甲能力较低"
+
+msgid "IDS_FEAT_BAD_MOVE_SPEED_SURFACE"
+msgstr "水面航速较低"
+
+msgid "IDS_FEAT_BAD_NO_REGENCREW"
+msgstr "无法使用维修小组消耗品"
+
+msgid "IDS_FEAT_GOOD_ACOUSTICTORP_DAMAGE"
+msgstr "声导鱼雷的伤害较高"
+
+msgid "IDS_FEAT_GOOD_ATBARANGEDAMAGE"
+msgstr "副炮射程较远，伤害较高"
+
+msgid "IDS_FEAT_GOOD_MANYTORPLAUNCHERS"
+msgstr "鱼雷发射管数量较多"
+
+msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_SPEED_DURATION_COOLDOWN_CHARGES_DESC"
+msgstr ""
+"只能在水面和潜望深度使用，潜水时会消耗剩余作用时间。提高最高航速加成、消耗品作用时间和"
+"装载数。装填时间较短。"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG"
+msgstr "可使用“即时维修战舰”作战指令"
+
+msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG_DESC"
+msgstr "恢复战舰生命值。要启用作战指令，必须先用副炮炮弹命中敌舰足够次数。"
+
+msgid "IDS_FEAT_GOOD_TORP_TUBES_ALL_CAN_LOAD_SAME_TIME"
+msgstr "可同时装填所有鱼雷发射管"
+
+msgid "IDS_FEAT_TORP_FASTRELOAD_FEWLOADERS"
+msgstr "鱼雷发射管装填速度较快，但装填手人数较少"
+
+msgid "IDS_FOG_OF_WAR_AND_VIEW_SHIP_INFO_DISABLED"
+msgstr "敌舰的消耗品信息是隐藏的。当发现或摧毁一艘战舰时，只能得知其等级、类型和名称。"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING"
+msgstr "迷雾战争"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_DISABLED"
+msgstr "关"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_ENABLED"
+msgstr "开"
+
+msgid "IDS_FOG_OF_WAR_IN_TRAINING_TOOLTIP"
+msgstr "敌舰信息被隐藏，直到其被发现或被摧毁"
+
+msgid "IDS_GUIDING_TIP_301_DESC"
+msgstr ""
+"您收到了可以用来修理战舰的备件！当您拥有了相应的战舰部件后，一艘新的战舰就会出现在您的"
+"维修船坞中。"
+
+msgid "IDS_GUIDING_TIP_301_HEADER"
+msgstr "维修船坞"
+
+msgid "IDS_GUIDING_TIP_302_DESC"
+msgstr "在这里，您可以看到您拥有多少战舰部件和备件。"
+
+msgid "IDS_GUIDING_TIP_302_HEADER"
+msgstr "维修材料"
+
+msgid "IDS_GUIDING_TIP_303_DESC"
+msgstr ""
+"维修一艘战舰需要 100 个战舰部件。如果您至少有 50 个该战舰的战舰部件，您就可以使用相应"
+"等级的备件完成修理。\n"
+"\n"
+"点击 \"维修\"，战舰就归您了！"
+
+msgid "IDS_GUIDING_TIP_303_HEADER"
+msgstr "修复战舰"
+
+msgid "IDS_GUIDING_TIP_304_DESC"
+msgstr "经济加成能让您在每场战斗中获得更多银币、战舰经验、指挥官经验和全局经验。"
+
+msgid "IDS_GUIDING_TIP_304_HEADER"
+msgstr "安装经济加成"
+
+msgid "IDS_GUIDING_TIP_305_DESC"
+msgstr "经济加成能让您在每场战斗中获得更多银币、战舰经验、指挥官经验和全局经验。"
+
+msgid "IDS_GUIDING_TIP_305_HEADER"
+msgstr "安装经济加成"
+
+msgid "IDS_HIDE_ENEMY_SHIPS_TOOLTIP"
+msgstr "玩家将无法在训练房间内看到敌方选定的战舰"
+
+msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_MODERNIZATION"
+msgstr "战舰从战斗中返回后才能更换升级品。"
+
+msgid "IDS_MAIN_SPEEDBOOST_GOOD"
+msgstr "可使用引擎增压消耗品"
+
+msgid "IDS_MAKE_TRAINING_ROOM_CLOSED_TOOLTIP"
+msgstr "只能通过输入密码或接受邀请来进入训练房间"
+
+msgid "IDS_OPEN_ALL_LOOTBOXES_CONFIRM"
+msgstr "开启所有补给箱？"
+
+msgid "IDS_PAGM228_5IN_51_MK14_TWIN_TURRET"
+msgstr "127 mm/51 Mk.14（双联装炮座）"
+
+msgid "IDS_PAGM229_5IN_70_MK44_TWIN"
+msgstr "127 mm/70 Mk.44（炮塔）"
+
+msgid "IDS_PAGT230_21IN_MK14_SIX_TUBES"
+msgstr "533 mm 六联"
+
+msgid "IDS_PAPA208_127MM_HE_MK44"
+msgstr "127 mm HE/HC Mk44"
+
+msgid "IDS_PAPA209_127MM_AP_MK44"
+msgstr "127 mm AP Mk44"
+
+msgid "IDS_PAPT062_533_MK15"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT063_HOGG"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT064_MAFFITT"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAPT065_FARRAND"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PASD207"
+msgstr "法兰德"
+
+msgid "IDS_PASD207_DESCR"
+msgstr ""
+"在设计波特驱逐舰的过程中，美国工程师提出了几种不同的方案。1932 年 3 月，提出了单座或双"
+"座装备六门主炮的方案。舰队司令还考虑了三座双联装 51 口径舰炮的替代方案。"
+
+msgid "IDS_PASD207_FULL"
+msgstr "法兰德"
+
+msgid "IDS_PASD207_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD207_YEAR"
+msgstr "1932"
+
+msgid "IDS_PASD208"
+msgstr "霍格"
+
+msgid "IDS_PASD208_DESCR"
+msgstr ""
+"1934 年的计划原本是再建造两艘波特型驱逐舰，但由于设计的改进，这两艘驱逐舰的建造被推迟"
+"了。除了重新设计外，另一种方法是用长管 51 口径火炮取代短管 38 口径 127 毫米火炮，同时"
+"从马汉型驱逐舰上安装新的推进系统。"
+
+msgid "IDS_PASD208_FULL"
+msgstr "霍格"
+
+msgid "IDS_PASD208_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD208_YEAR"
+msgstr "1933"
+
+msgid "IDS_PASD209"
+msgstr "马菲特"
+
+msgid "IDS_PASD209_DESCR"
+msgstr ""
+"除了建造亚特兰大型轻型防空巡洋舰外，另一种选择是建造更便宜、用途更广泛的驱逐舰。1939 "
+"年，美国海军总设计师办公室开始为排水量 3000-3500 吨、装备 152 毫米舰炮的“驱逐巡洋舰”进"
+"行初步设计。如果该项目能在 20 世纪 40 年代后半期实现，那么装备试验性的 70 口径 127 毫"
+"米舰炮将是最有利的选择。"
+
+msgid "IDS_PASD209_FULL"
+msgstr "马菲特"
+
+msgid "IDS_PASD209_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD209_YEAR"
+msgstr "1939"
+
+msgid "IDS_PASD210"
+msgstr "林奇"
+
+msgid "IDS_PASD210_DESCR"
+msgstr ""
+"20 世纪 30 年代末，美国海军曾考虑过建造通用驱逐舰舰长来代替轻型防空巡洋舰的可能性。"
+"1939 年 9 月 12 日的项目中，该舰配备了四门 152 毫米双联装火炮，标准排水量为 3500 吨。"
+"次年 3 月，规格发生变化，改为 3400 吨，配备 152 毫米或 127 毫米舰炮。如果该驱逐舰是在 "
+"20 世纪 40 年代末建造的，那么装备新型长管 127 毫米舰炮是合理的。"
+
+msgid "IDS_PASD210_FULL"
+msgstr "林奇"
+
+msgid "IDS_PASD210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASD210_YEAR"
+msgstr "1940"
+
+msgid "IDS_PAUA613_D7_ART_STOCK"
+msgstr "127 mm/51 Mk.14（双联装炮座）"
+
+msgid "IDS_PAUA719_D8_ART_STOCK"
+msgstr "127 mm/51 Mk.14（双联装炮座）"
+
+msgid "IDS_PAUA816_D9_ART_STOCK"
+msgstr "127 mm/70 Mk.44（炮塔）"
+
+msgid "IDS_PAUA916_D10_ART_STOCK"
+msgstr "127 mm/70 Mk.44（炮塔）"
+
+msgid "IDS_PAUE614_D7_ENG_STOCK"
+msgstr "推进系统：50000马力"
+
+msgid "IDS_PAUE726_D8_ENG_STOCK"
+msgstr "推进系统：52000马力"
+
+msgid "IDS_PAUE815_D9_ENG_STOCK"
+msgstr "推进系统：75000马力"
+
+msgid "IDS_PAUE927_D10_ENG_STOCK"
+msgstr "推进系统：80000马力"
+
+msgid "IDS_PAUH617_D7_HULL_STOCK"
+msgstr "法兰德(A)"
+
+msgid "IDS_PAUH618_D7_HULL_TOP"
+msgstr "法兰德(B)"
+
+msgid "IDS_PAUH738_D8_HULL_STOCK"
+msgstr "霍格(A)"
+
+msgid "IDS_PAUH739_D8_HULL_TOP"
+msgstr "霍格(B)"
+
+msgid "IDS_PAUH820_D9_HULL_STOCK"
+msgstr "马菲特(A)"
+
+msgid "IDS_PAUH824_D9_HULL_TOP"
+msgstr "马菲特(B)"
+
+msgid "IDS_PAUH924_D10_HULL_STOCK"
+msgstr "林奇"
+
+msgid "IDS_PAUS614_D7_SUO_STOCK"
+msgstr "Mk7 mod. 1"
+
+msgid "IDS_PAUS615_D7_SUO_TOP"
+msgstr "Mk7 mod. 2"
+
+msgid "IDS_PAUS723_D8_SUO_STOCK"
+msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUS724_D8_SUO_TOP"
+msgstr "Mk8 mod. 2"
+
+msgid "IDS_PAUS820_D9_SUO_STOCK"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS823_D9_SUO_TOP"
+msgstr "Mk9 mod. 2"
+
+msgid "IDS_PAUS918_D10_SUO_STOCK"
+msgstr "Mk10"
+
+msgid "IDS_PAUT605_D7_TORP_STOCK"
+msgstr "Mk15 mod. 0"
+
+msgid "IDS_PAUT709_D8_TORP_STOCK"
+msgstr "Mk16 mod. 1"
+
+msgid "IDS_PAUT808_D9_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT914_D10_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG"
+msgstr "安达卢西亚CLR"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_DESCRIPTION"
+msgstr ""
+"安达卢西亚是西班牙最南端的地区，与北非隔直布罗陀海峡相望。安达卢西亚的盾形纹章上印有海"
+"格力斯之柱的象征性图案，海格力斯之柱是海峡入口处的高地。在柱子之间，赫拉克勒斯驯服着两"
+"头狮子。"
+
+msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "为了纪念一些炫目战舰的发布。"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG"
+msgstr "施里芬CLR"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_DESCRIPTION"
+msgstr ""
+"施里芬家族是德国波美拉尼亚的一个贵族家族，最早出现在十四世纪。 这个家族最著名的代表人"
+"物之一是将军和军事战略家阿尔弗雷德•冯•施里芬（1833-1913）。"
+
+msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "为了纪念一些炫目战舰的发布。"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG"
+msgstr "卢科莫里"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG_DESCRIPTION"
+msgstr ""
+"弓形荒野旁有一棵绿色的橡树；\n"
+"橡树上挂着金链子\n"
+"那只博学的猫\n"
+"在链子上走来走去；\n"
+"它走到右边唱着歌\n"
+"它走到左边讲故事。"
+
+msgid "IDS_PCEE681_TSARMOREY2024_FLAG_EXTRA_DESCRIPTION"
+msgstr "为纪念海洋之王锦标赛。"
+
+msgid "IDS_PCEE685_CONQUISTADOR_FLAG"
+msgstr "孔基斯塔多"
+
+msgid "IDS_PCEE685_CONQUISTADOR_FLAG_DESCRIPTION"
+msgstr ""
+"当哈布斯堡王朝以勃艮第公爵的头衔登上王位时，勃艮第十字成为西班牙帝国象征的一部分。在征"
+"服者时代，勃艮第十字架被用于西班牙新大陆属地的旗帜以及西班牙陆军和海军的旗帜上。"
+
+msgid "IDS_PCEE686_CHATEAURENAULT_FLAG"
+msgstr "雷诺堡"
+
+msgid "IDS_PCEE686_CHATEAURENAULT_FLAG_DESCRIPTION"
+msgstr ""
+"法国雷诺堡号舰的舰徽。雷诺堡是法国海军战舰的传统名称，以纪念在 17 世纪末和 18 世纪初的"
+"战争和海战中表现出色的海军中将弗朗索瓦-路易-卢塞莱-德-夏多-雷诺（François Louis "
+"Rousselet de Chateau-Renault）。"
+
+msgid "IDS_PCEE687_SCHERBAKOV_FLAG"
+msgstr "谢尔巴科夫"
+
+msgid "IDS_PCEE687_SCHERBAKOV_FLAG_DESCRIPTION"
+msgstr ""
+"亚历山大•谢尔盖耶维奇•谢尔巴科夫（1901-1945）是苏联政治家和党的领导人，上校上将。卫国"
+"战争期间，他曾担任苏联红军苏维埃主席团和总政治部的负责人，还担任过苏联副国防人民委员。"
+"1937-1945年，他担任最高苏维埃代表。"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
+msgstr "秋月CLR"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_DESCRIPTION"
+msgstr ""
+"Akizuki在日语中是“秋天的月亮”的意思。中秋节是东亚地区的赏月节：在这一天，人们习惯于欣"
+"赏夜空、装饰房屋并准备特别的食物。"
+
+msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "为了纪念一些炫目战舰的发布。"
+
+msgid "IDS_PFGA145_57MM_60_2_25"
+msgstr "57 mm/60 Mle 1951（ACAD Mle 1948炮座）"
+
+msgid "IDS_PFGM148_105_MM_SKC_37"
+msgstr "105 mm/65 SK C/33（Dop. L. C/37炮座）"
+
+msgid "IDS_PFGT146_550MM_3TUBE_KT50"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFPA095_105MM_CS_CHATEAURENAULT"
+msgstr "105 mm Spr.Gr. BDz m.Hb"
+
+msgid "IDS_PFPA096_105MM_AP_CHATEAURENAULT"
+msgstr "105 mm P.Spr.Gr."
+
+msgid "IDS_PFPT021_550MM_CHATEAURENAULT"
+msgstr "550 mm K2"
+
+msgid "IDS_PFSD610"
+msgstr "雷诺堡"
+
+msgid "IDS_PFSD610_DESCR"
+msgstr ""
+"二战结束后，意大利轻巡洋舰“阿蒂略•莱戈洛”号（Attilio Regolo）作为赔款被移交给法国，并"
+"改名为“雷诺堡”号（Châteaurenault）。1951-54年，该舰进行了大修和现代化改造，同时被重新"
+"归类为驱逐舰。20 世纪 50 年代末，雷诺堡被改装为指挥舰，搭载船队司令部。1961 年，雷诺堡"
+"被列为后备舰，直到 1969 年，她一直是海军燧发枪手学校的所在地。"
+
+msgid "IDS_PFSD610_FULL"
+msgstr "雷诺堡"
+
+msgid "IDS_PFSD610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSD610_YEAR"
+msgstr "1942"
+
+msgid "IDS_PFUA907_ART_CHATEAURENAULT"
+msgstr "105 mm/65 SK C/33（Dop. L. C/37炮座）"
+
+msgid "IDS_PFUE906_ENG_CHATEAURENAULT"
+msgstr "推进系统：110000马力"
+
+msgid "IDS_PFUH906_HULL_CHATEAURENAULT"
+msgstr "雷诺堡"
+
+msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
+msgstr "PCA n°10"
+
+msgid "IDS_PFUT904_TORP_CHATEAURENAULT"
+msgstr "550 mm K2"
+
+msgid "IDS_PGES330_SCHLIEFFEN_COLORFUL"
+msgstr "紫色冰雹"
+
+msgid "IDS_PGES610_GSS_U_796"
+msgstr "海洋怪兽"
+
+msgid "IDS_PGSB810"
+msgstr "施里芬CLR"
+
+msgid "IDS_PGSB810_DESCR"
+msgstr ""
+"这是一种快速战列舰的设计，有四个主炮塔，排水量为 50000 吨。在 20 世纪 40 年代初研制出 "
+"H 型战列舰之前，它是德国所有战列舰中体型最大、装备武器最多的战列舰。"
+
+msgid "IDS_PGSB810_FULL"
+msgstr "施里芬CLR"
+
+msgid "IDS_PGSB810_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB810_YEAR"
+msgstr "1944"
+
+msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
+msgstr "420 mm/50 SK L/50（Drh LC/1918炮座）"
+
+msgid "IDS_PGUE915_ENG_COLORFUL_SCHLIEFFEN"
+msgstr "推进系统：200000马力"
+
+msgid "IDS_PGUH915_HULL_COLORFUL_SCHLIEFFEN"
+msgstr "施里芬CLR"
+
+msgid "IDS_PGUS912_SUO_COLORFUL_SCHLIEFFEN"
+msgstr "FKS Typ 10"
+
+msgid "IDS_PGUT912_TORP_COLORFUL_SCHLIEFFEN"
+msgstr "G7a T1"
+
+msgid "IDS_PJES450_KITAKAMI_DEMON"
+msgstr "胜利之风"
+
+msgid "IDS_PJES568_AKIZUKI_COLORFUL"
+msgstr "翡翠彗星"
+
+msgid "IDS_PJSD808"
+msgstr "秋月CLR"
+
+msgid "IDS_PJSD808_DESCR"
+msgstr ""
+"“秋月”号驱逐舰计划作为防空舰为快速航母编队护航。主要武器为 8 门 100 毫米/65 炮。该型驱"
+"逐舰共订购了 13 艘，建造了 12 艘。1942 年 6 月服役后，秋月号参加了东所罗门群岛战役、瓜"
+"达尔卡纳尔岛战役、菲律宾海战役和莱特湾战役。该驱逐舰在恩加诺角海战中被一枚美军鱼雷击"
+"沉。"
+
+msgid "IDS_PJSD808_FULL"
+msgstr "秋月CLR"
+
+msgid "IDS_PJSD808_NUMBER"
+msgstr "13"
+
+msgid "IDS_PJSD808_YEAR"
+msgstr "1942"
+
+msgid "IDS_PJUA716_ART_COLORFUL_AKIZUKI"
+msgstr "100 mm/65 Type98（A式炮座）"
+
+msgid "IDS_PJUE719_ENG_COLORFUL_AKIZUKI"
+msgstr "推进系统：52000马力"
+
+msgid "IDS_PJUH730_HULL_COLORFUL_AKIZUKI"
+msgstr "秋月CLR"
+
+msgid "IDS_PJUS709_SUO_COLORFUL_AKIZUKI"
+msgstr "Type8"
+
+msgid "IDS_PJUT716_TORP_COLORFUL_AKIZUKI"
+msgstr "Type93 mod. 2"
+
+msgid "IDS_PRES328_TSARMOREY_LUKOMOR"
+msgstr "卢科莫里"
+
+msgid "IDS_PRES610_CHELYABINSKY_KOMSOMOLETS"
+msgstr "车里雅宾斯克共青团"
+
+msgid "IDS_PRGM212_203MM55_BARRELS_3_ITL"
+msgstr "203 mm/55 Model 1934（炮塔）"
+
+msgid "IDS_PRGS211_100MM_70_BL_127_QUAD"
+msgstr "100 mm/70（BL-127炮座）"
+
+msgid "IDS_PRPA152_152MM_OFU35_SCHERBAKOV"
+msgstr "OFU-35"
+
+msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
+msgstr "B-35"
+
+msgid "IDS_PRPA217_152MM_CS_SCHERBAKOV"
+msgstr "PB-35"
+
+msgid "IDS_PRSC519"
+msgstr "谢尔巴科夫"
+
+msgid "IDS_PRSC519_DESCR"
+msgstr ""
+"1954 年，一项为仍在船坞中的 68 bis 巡洋舰重新装备新型 45 毫米沉管火炮的计划获得批准。"
+"同时，还计划在巡洋舰上安装 25 毫米装置，改进无线电电子和雷达设备，增加舰体强度。最先完"
+"工的是“谢尔巴科夫”号，1951 年在列宁格勒铺设，1954 年 3 月下水。 但在 50 年代后半期，领"
+"导层改变了对大型炮舰作用的看法，改进设计的巡洋舰最终没有完工。"
+
+msgid "IDS_PRSC519_FULL"
+msgstr "谢尔巴科夫"
+
+msgid "IDS_PRSC519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC519_YEAR"
+msgstr "1954"
+
+msgid "IDS_PRUA816_ART_SCHERBAKOV"
+msgstr "152 mm/57 B-38（MK-5-bis炮座）"
+
+msgid "IDS_PRUE815_ENG_SCHERBAKOV"
+msgstr "推进系统：124000马力"
+
+msgid "IDS_PRUH824_SCHERBAKOV"
+msgstr "谢尔巴科夫"
+
+msgid "IDS_PRUS823_SUO_SCHERBAKOV"
+msgstr "GFCS IX mod. 1"
+
+msgid "IDS_PRUT813_TORP_SCHERBAKOV"
+msgstr "53-38"
+
+msgid "IDS_PSES419_ANDALUCIA_COLORFUL"
+msgstr "琥珀波纹"
+
+msgid "IDS_PSGM059_381MM_50_QUAD_OTTO"
+msgstr "381 mm/50 Model 1934（炮塔）"
+
+msgid "IDS_PSGS053_152MM55_BARRELS_3_M1936_L"
+msgstr "152 mm/55 Model 1936（1936式炮座）"
+
+msgid "IDS_PSGS060_105_MM_SKC_37"
+msgstr "105 mm/65 SK C/33（Dop. L. C/37炮座）"
+
+msgid "IDS_PSPA027_152MM_55_1936_HE"
+msgstr "152 mm proiettili HE"
+
+msgid "IDS_PSPA028_105MM_HE_HE_33LBS"
+msgstr "105 mm Spr.Gr. Kz."
+
+msgid "IDS_PSPA029_381MM_HE_CONQUISTADOR"
+msgstr "381 mm proiettili HE"
+
+msgid "IDS_PSPA030_381MM_AP_CONQUISTADOR"
+msgstr "381 mm proiettili AP"
+
+msgid "IDS_PSSB510"
+msgstr "孔基斯塔多"
+
+msgid "IDS_PSSB510_DESCR"
+msgstr ""
+"内战胜利后，法兰克政府加强了与意大利的联系。在 20 世纪 30 年代末和 40 年代初，西班牙曾"
+"考虑根据意大利的设计建造一艘战列舰。当时意大利最先进的战列舰设计是一艘标准排水量为 "
+"42000 吨的战列舰，安萨尔多公司在 20 世纪 30 年代中期正在开发这种战列舰。"
+
+msgid "IDS_PSSB510_FULL"
+msgstr "孔基斯塔多"
+
+msgid "IDS_PSSB510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSB510_YEAR"
+msgstr "1943"
+
+msgid "IDS_PSSC809"
+msgstr "安达卢西亚CLR"
+
+msgid "IDS_PSSC809_DESCR"
+msgstr ""
+"为海军建造和修理战舰的同时，佛朗哥统治下的西班牙也忙于设计新战舰。1938年，5个驱逐舰项"
+"目和多个巡洋舰项目出炉，排水量从7,920吨到19000吨不等。最大的是项目138，即“航速达36节的"
+"巡洋舰”，它提供了几种不同的主炮选项。其中一种采用了战列舰西班牙号的炮塔。但最常见的选"
+"择是3座三联装炮塔，口径从203到254毫米不等。"
+
+msgid "IDS_PSSC809_FULL"
+msgstr "安达卢西亚CLR"
+
+msgid "IDS_PSSC809_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSC809_YEAR"
+msgstr "1938"
+
+msgid "IDS_PSUA802_ART_COLORFUL_ANDALUCIA"
+msgstr "234 mm/50 Mk.XII（炮塔）"
+
+msgid "IDS_PSUA903_ART_CONQUISTADOR"
+msgstr "381 mm/50 Model 1934（炮塔）"
+
+msgid "IDS_PSUE802_ENG_COLORFUL_ANDALUCIA"
+msgstr "推进系统：170000马力"
+
+msgid "IDS_PSUE903_ENG_CONQUISTADOR"
+msgstr "推进系统：160000马力"
+
+msgid "IDS_PSUH803_HULL_COLORFUL_ANDALUCIA"
+msgstr "安达卢西亚CLR"
+
+msgid "IDS_PSUH903_HULL_CONQUISTADOR"
+msgstr "孔基斯塔多"
+
+msgid "IDS_PSUS803_SUO_COLORFUL_ANDALUCIA"
+msgstr "SCI Mk IX"
+
+msgid "IDS_PSUS903_SUO_CONQUISTADOR"
+msgstr "SCI Mk X"
+
+msgid "IDS_PSUT802_TORP_COLORFUL_ANDALUCIA"
+msgstr "533 mm Mk VIII ES"
+
+msgid "IDS_PUSHKIN"
+msgstr "亚历山大•普希金"
+
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_HIDDEN_SHIPS_NEUTRAL_TEAM"
+msgstr "请等待房主为您分配队伍"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "VIII-X 级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII-X 级"
+
+msgid "IDS_REWARD_PORTAL_DESCRIPTION"
+msgstr ""
+"发放给在“海军霸者”类别作战任务中取得优异战绩的玩家。在活动结果汇总后自动发放给获胜者。"
+
+msgid "IDS_REWARD_PORTAL_TITLE"
+msgstr "特别奖"
+
+msgid "IDS_REWARD_STREAM_PRM_BIG_DESCRIPTION"
+msgstr "在流媒体平台上观看《战舰世界》类别直播的奖励。奖励内容列表可在门户网站上找到。"
+
+msgid "IDS_REWARD_STREAM_PRM_BIG_TITLE"
+msgstr "大奖"
+
+msgid "IDS_REWARD_STREAM_PRM_MYSTERY_DESCRIPTION"
+msgstr "观看 Twitch 平台《战舰世界》官方直播的奖励。奖励内容列表可在门户网站上找到。"
+
+msgid "IDS_REWARD_STREAM_PRM_MYSTERY_TITLE"
+msgstr "神秘奖"
+
+msgid "IDS_REWARD_STREAM_PRM_SMALL_DESCRIPTION"
+msgstr "观看 Twitch 平台《战舰世界》官方直播的奖励。奖励内容列表可在门户网站上找到。"
+
+msgid "IDS_REWARD_STREAM_PRM_SMALL_TITLE"
+msgstr "迷你奖"
+
+msgid "IDS_SCENARIO_CVC_ARMSRACE"
+msgstr "军团战 — 军备竞赛"
+
+msgid "IDS_SERVICE_SHIP_TO_OPERATE_MODERNIZATION"
+msgstr "对战舰进行维护后才能更换升级品。"
+
+msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换升级品。"
+
+msgid "IDS_SHIP_INFO_HIDDEN_IN_TRAINING"
+msgstr "敌舰消耗品信息已隐藏"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM099_BRAWL_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM100_BRAWL_DDANERF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM101_BRAWL_TORPEDOBIT"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM099_BRAWL_ENGINEBOOST"
+msgstr "机动性提高"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM100_BRAWL_DDANERF"
+msgstr "伤害降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM101_BRAWL_TORPEDOBIT"
+msgstr "鱼雷发射管装填速度提高"
+
+msgid "IDS_SHIP_MODIFIER_PXOM099_BRAWL_ENGINEBOOST_APPLIED"
+msgstr "机动性提高"
+
+msgid "IDS_SHIP_MODIFIER_PXOM100_BRAWL_DDANERF_APPLIED"
+msgstr "伤害降低"
+
+msgid "IDS_SHIP_MODIFIER_PXOM101_BRAWL_TORPEDOBIT_APPLIED"
+msgstr "鱼雷发射管装填速度提高"
+
+msgid "IDS_SOUND_MOD_PUSHKIN"
+msgstr "亚历山大•普希金"
+
+msgid "IDS_SOUND_MOD_PUSHKINTALES_CAT_SCIENTIST"
+msgstr "科学家猫"
+
+msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
+msgstr "Chernomor"
+
+msgid "IDS_SPACES/56_KAMCHATKA"
+msgstr "堪察加"
+
+msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
+msgstr "堪察加"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_COMMON_SUBTITLE"
+msgstr "总成果"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_REWARDS_SUBTITLE"
+msgstr "获得的奖励"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TASKS"
+msgstr "完成的任务"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
+msgstr "控制的领土"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
+msgstr "新年嘉年华活动已结束。"
+
+msgid "IDS_UNLOCKS_3"
+msgstr "与真实玩家对战。"
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "与其他玩家一起完成剧情任务并对抗电脑。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr ""
+"在“行动”中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr "与真实玩家对战。随机组成队伍。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>随机战</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "战斗模式选项位于“加入战斗”按钮的旁边。"
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "可见于战斗模式选择界面。"
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "随机战"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "行动"
+
+msgid "IDS_VIEW_SHIP_INFO_DISABLED"
+msgstr "敌舰消耗品信息已隐藏"
