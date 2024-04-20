@@ -29,9 +29,7 @@ msgid "IDS_CURRENCY_EVENTUM_1"
 msgstr "炫彩代币"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr ""
-"在 13.4 版本结束前完成活动战斗目标并达到高级通行证 20 级，以及在 13.4 和 13.5 "
-"版本活动期间从“炫彩赛艇”高级补给箱和兵工厂的礼包中获得。"
+msgstr "在 13.4 版本结束前完成活动战斗目标并达到高级通行证 20 级，以及在 13.4 和 13.5 版本活动期间从“炫彩赛艇”高级补给箱和兵工厂的礼包中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
 msgstr "用于购买施里芬CLR、安达卢西亚CLR和秋月CLR三艘战舰，以及其他资源。"
@@ -208,9 +206,7 @@ msgid "IDS_PFGA034_13_2MM_76_BROWNING_CAS"
 msgstr "13.2 mm Browning（单装枪座）"
 
 msgid "IDS_PGSB210_DESCR"
-msgstr ""
-"这是一种快速战列舰的设计，有四个主炮塔，排水量为 50000 吨。在 20 世纪 40 年代初开发出 H "
-"型战列舰之前，它是德国所有战列舰中最大、装备武器最多的战列舰。"
+msgstr "这是一种快速战列舰的设计，有四个主炮塔，排水量为 50000 吨。在 20 世纪 40 年代初开发出 H 型战列舰之前，它是德国所有战列舰中最大、装备武器最多的战列舰。"
 
 msgid "IDS_PZAD910_ASW_T10"
 msgstr "Kawanishi H6K"
