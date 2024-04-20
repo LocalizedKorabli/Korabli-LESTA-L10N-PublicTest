@@ -98,10 +98,10 @@ msgid "IDS_GUIDING_TIP_296_HEADER"
 msgstr "收集战舰部件"
 
 msgid "IDS_GUIDING_TIP_300_DESC"
-msgstr "点击“维修”，这艘战舰就归你了！"
+msgstr "点击“修复”，这艘战舰就归你了！"
 
 msgid "IDS_GUIDING_TIP_300_HEADER"
-msgstr "维修战舰"
+msgstr "修复战舰"
 
 msgid "IDS_HIDE_ENEMY_SHIPS"
 msgstr "隐藏敌方战舰"
