@@ -29,7 +29,7 @@ msgid "IDS_CLOUDS_QUALITY"
 msgstr "体积云的渲染质量"
 
 msgid "IDS_CLOUDS_QUALITY_DESCRIPTION"
-msgstr "启用体积云技术并设置其渲染质量。只有当水面渲染质量设置为“非常高”或更高时才会生效。"
+msgstr "启用体积云技术并设置其渲染质量。只有当海面渲染质量设置为“极高”或更高时才会生效。"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
 msgstr "战舰部件—%(_shipName)s"
@@ -38,10 +38,10 @@ msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
 msgstr "每队都有一名指挥官，负责管理本队成员。"
 
 msgid "IDS_DISABLE_VIEW_SHIP_INFO"
-msgstr "不显示敌舰消耗品信息"
+msgstr "隐藏敌舰详细信息"
 
 msgid "IDS_DISABLE_VIEW_SHIP_INFO_TOOLTIP"
-msgstr "不显示战斗中敌舰消耗品信息，即使它们已被发现"
+msgstr "在战斗中隐藏敌舰详细信息，即使它们已被发现"
 
 msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
 msgstr "允许在最短时间内用主炮连续发射多轮炮弹，而无需重新装弹。每次连续发射后都需要长时间重新装弹。"
@@ -80,7 +80,7 @@ msgid "IDS_FEAT_GOOD_MANYTORPLAUNCHERS"
 msgstr "鱼雷发射管数量较多"
 
 msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_SPEED_DURATION_COOLDOWN_CHARGES_DESC"
-msgstr "只能在水面和潜望深度使用，潜水时会消耗剩余作用时间。提高最高航速加成、消耗品作用时间和装载数。装填时间较短。"
+msgstr "只能在水面和潜望深度使用，一旦潜入水下则会丢失剩余的作用时间。此消耗品提供的最高航速加成较高、作用时间较长、装载数较多且装填时间较短。"
 
 msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG"
 msgstr "可使用“即时维修战舰”作战指令"
@@ -95,7 +95,7 @@ msgid "IDS_FEAT_TORP_FASTRELOAD_FEWLOADERS"
 msgstr "鱼雷发射管装填速度较快，但装填手人数较少"
 
 msgid "IDS_FOG_OF_WAR_AND_VIEW_SHIP_INFO_DISABLED"
-msgstr "敌舰的消耗品信息是隐藏的。当发现或摧毁一艘战舰时，只能得知其等级、类型和名称。"
+msgstr "敌舰的详细信息是隐藏的。当发现或摧毁一艘战舰时，只能得知其等级、类型和名称。"
 
 msgid "IDS_FOG_OF_WAR_IN_TRAINING"
 msgstr "迷雾战争"
@@ -107,7 +107,7 @@ msgid "IDS_FOG_OF_WAR_IN_TRAINING_ENABLED"
 msgstr "开"
 
 msgid "IDS_FOG_OF_WAR_IN_TRAINING_TOOLTIP"
-msgstr "敌舰信息被隐藏，直到其被发现或被摧毁"
+msgstr "隐藏敌舰信息，直到其被发现或被摧毁"
 
 msgid "IDS_GUIDING_TIP_301_DESC"
 msgstr "您收到了可以用来修理战舰的备件！当您拥有了相应的战舰部件后，一艘新的战舰就会出现在您的维修船坞中。"
@@ -123,9 +123,9 @@ msgstr "维修材料"
 
 msgid "IDS_GUIDING_TIP_303_DESC"
 msgstr ""
-"维修一艘战舰需要 100 个战舰部件。如果您至少有 50 个该战舰的战舰部件，您就可以使用相应等级的备件完成维修。\n"
+"修复一艘战舰需要 100 个战舰部件。如果您至少有 50 个该战舰的战舰部件，您就可以使用相应等级的备件完成修复。\n"
 "\n"
-"点击 \"维修\"，战舰就归您了！"
+"点击“修复”，战舰就归您了！"
 
 msgid "IDS_GUIDING_TIP_303_HEADER"
 msgstr "修复战舰"
@@ -349,8 +349,8 @@ msgstr ""
 "橡树上挂着金链子\n"
 "那只博学的猫\n"
 "在链子上走来走去；\n"
-"它走到右边唱着歌\n"
-"它走到左边讲故事。"
+"它走到右边唱起歌谣\n"
+"它走到左边讲着故事。"
 
 msgid "IDS_PCEE681_TSARMOREY2024_FLAG_EXTRA_DESCRIPTION"
 msgstr "为纪念海洋之王锦标赛。"
@@ -680,7 +680,7 @@ msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
 msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能更换升级品。"
 
 msgid "IDS_SHIP_INFO_HIDDEN_IN_TRAINING"
-msgstr "敌舰消耗品信息已隐藏"
+msgstr "敌舰详细信息已被隐藏"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM099_BRAWL_ENGINEBOOST"
 msgstr " "
@@ -780,4 +780,4 @@ msgid "IDS_UNLOCKS_TITLE_3124"
 msgstr "行动"
 
 msgid "IDS_VIEW_SHIP_INFO_DISABLED"
-msgstr "敌舰消耗品信息已隐藏"
+msgstr "敌舰详细信息已被隐藏"
