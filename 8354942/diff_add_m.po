@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_HEADER"
+msgstr "狼群"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "一支载有战略物资的敌方运输船队已闯入中立水域，另一支战斗中队正赶来救援。您的任务是突破防御，在援军到达之前摧毁所有运输船。"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_2_HEADER"
+msgstr "参与规则"
+
+msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您可以单独参与，也可以组成最多 7 人的小队。"
