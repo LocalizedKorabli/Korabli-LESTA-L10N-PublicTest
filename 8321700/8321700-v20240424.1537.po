@@ -112518,7 +112518,7 @@ msgid "IDS_RIBBON_SSE_MINE"
 msgstr "水雷命中"
 
 msgid "IDS_RIBBON_SSE_PLANE"
-msgstr "击落（通过对空防御）"
+msgstr "对空防御击落飞机"
 
 msgid "IDS_RIBBON_SSE_ROCKET"
 msgstr "火箭弹命中"
@@ -112527,7 +112527,7 @@ msgid "IDS_RIBBON_SSE_SECONDARY_CALIBER"
 msgstr "副炮组命中"
 
 msgid "IDS_RIBBON_SSE_SPLANE"
-msgstr "击落（通过战斗机）"
+msgstr "战斗机击落飞机"
 
 msgid "IDS_RIBBON_SSE_SUPPRESSED"
 msgstr "压制陆上设施"
