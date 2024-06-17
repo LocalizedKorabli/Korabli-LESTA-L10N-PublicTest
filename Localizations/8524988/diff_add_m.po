@@ -1,0 +1,688 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_ABUSE_ECONOMICALLY_PUNISHED"
+msgstr "您将不会获得任何收益。"
+
+msgid "IDS_ABUSE_RANKED_RESULTS_REASON"
+msgstr "由于您的违规行为，此战斗不会被计入奖励进度。"
+
+msgid "IDS_ABUSE_REASON_AFK_WITH_BULLET"
+msgstr "• 在战斗中挂机"
+
+msgid "IDS_ABUSE_REASON_COMPLAINTS_WITH_BULLET"
+msgstr "• 受到玩家举报"
+
+msgid "IDS_ABUSE_REASON_GRIEFER_WITH_BULLET"
+msgstr "• 干扰队友"
+
+msgid "IDS_ABUSE_REASON_LEAVER_WITH_BULLET"
+msgstr "• 提前退出战斗"
+
+msgid "IDS_ABUSE_REASON_TKILL_WITH_BULLET"
+msgstr "• 误杀队友"
+
+msgid "IDS_ABUSE_REASON_TSHOTS_WITH_BULLET"
+msgstr "• 误伤队友"
+
+msgid "IDS_ABUSE_STATUS_CONFIRMED_DESCRIPTION"
+msgstr "暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
+
+msgid "IDS_ABUSE_STATUS_NORMAL_DESCRIPTION"
+msgstr "由于遵守游戏规则，您的违规惩罚已取消。"
+
+msgid "IDS_ABUSE_STATUS_SUSPECT_DESCRIPTION"
+msgstr "您的名字显示为粉色。若您再次违反规则，将受到更严格的惩罚。您将暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
+
+msgid "IDS_ABUSE_STATUS_WARNING"
+msgstr "违规行为"
+
+msgid "IDS_ABUSE_STATUS_WARNING_DESCRIPTION"
+msgstr "若您再次违反规则，将受到更严格的惩罚。您将暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
+
+msgid "IDS_AC_CAS_INCLIN"
+msgstr "斜面"
+
+msgid "IDS_AC_DUAL_SSC_BOW_INCLIN"
+msgstr "斜面"
+
+msgid "IDS_AC_DUAL_SSC_ST_INCLIN"
+msgstr "斜面"
+
+msgid "IDS_AC_SSC_INCLIN"
+msgstr "斜面"
+
+msgid "IDS_ALLBATTLETYPES"
+msgstr "所有战斗模式"
+
+msgid "IDS_ALL_TIME"
+msgstr "全部时间"
+
+msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS"
+msgstr "场均数据"
+
+msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS_TOOLTIP"
+msgstr "您今日战斗的平均数据"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_1"
+msgstr "普通信号旗"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_2"
+msgstr "特殊信号旗"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_3"
+msgstr "稀有信号旗"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_4"
+msgstr "精英信号旗"
+
+msgid "IDS_BUY_IN_ARMORY_STATUS"
+msgstr "可在兵工厂购买"
+
+msgid "IDS_CHOOSE_BATTLETYPE_FOR_SESSION_STATS"
+msgstr "选择战斗模式以显示统计数据"
+
+msgid "IDS_CURRENCY_SESSION_STATS"
+msgstr "今日战斗总收益"
+
+msgid "IDS_DAILY_LOOTBOXES"
+msgstr "每日补给箱"
+
+msgid "IDS_DAILY_LOOTBOXES_HINT_0"
+msgstr "赚取经验并获得补给箱。当您赚取足够的经验时，补给箱将自动发放到您的账号。"
+
+msgid "IDS_DAILY_LOOTBOXES_HINT_1"
+msgstr "通过赚取经验，您每天可以获得3个补给箱。"
+
+msgid "IDS_FEAT_BAD_CONS_LIMITED_CHOICE"
+msgstr "消耗品类型较少"
+
+msgid "IDS_INSTALL_BEST_SIGNALS"
+msgstr "安装最佳信号旗"
+
+msgid "IDS_INSTALL_BEST_SIGNALS_HINT"
+msgstr "在此战舰上安装最佳信号旗"
+
+msgid "IDS_LOOTBOX_NOT_RECEIVED"
+msgstr "未收到补给箱"
+
+msgid "IDS_LOOTBOX_RECEIVED"
+msgstr "已收到补给箱"
+
+msgid "IDS_MAIN_CONS_LIMITED_CHOICE"
+msgstr "消耗品类型较少"
+
+msgid "IDS_MAIN_GOOD_MAIN_RANGE"
+msgstr "主炮射程较远"
+
+msgid "IDS_MARK_KEY_TARGET_DIVISION"
+msgstr "保护"
+
+msgid "IDS_MOUSE_INSTRUCTION_PURCHASE_SIGNAL"
+msgstr "购买并安装信号旗"
+
+msgid "IDS_MOUSE_INSTRUCTION_SESSION_STATS_RESET"
+msgstr "重置"
+
+msgid "IDS_NO_SIGNALS_ON_STORAGE_HINT"
+msgstr "您没有信号旗"
+
+msgid "IDS_PAES511_HOGG_MIAMI"
+msgstr "棕榈海岸"
+
+msgid "IDS_PAES512_MAFFITT_MIAMI"
+msgstr "奥兰多"
+
+msgid "IDS_PAES513_LYNCH_MIAMI"
+msgstr "日出"
+
+msgid "IDS_PARAMS_MODIFIER_FLOODCHANCECOMMONBONUS"
+msgstr "造成进水的概率"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPREADMULTIPLIER"
+msgstr "飞机投弹最大散布"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYDBOMB"
+msgstr "深水炸弹伤害"
+
+msgid "IDS_PCEE692_USA_DD_EA_FLAG"
+msgstr "美国驱逐舰"
+
+msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
+msgstr "非己而为国。"
+
+msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "为了纪念美国新驱逐舰在13.6版本开放抢先体验。"
+
+msgid "IDS_PCEE693_PIORUN_FLAG"
+msgstr "ORP皮奥朗"
+
+msgid "IDS_PCEE693_PIORUN_FLAG_DESCRIPTION"
+msgstr "军事功勋（Virtuti Militari）是波兰最高军事勋章，授予卓越的战功。这是世界上最古老的军事勋章之一，由波兰国王斯坦尼斯瓦夫·奥古斯特·波尼亚托夫斯基于1792年设立。勋章的格言是“荣誉与祖国”。"
+
+msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1"
+msgstr "November"
+
+msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1_1"
+msgstr "November — 普通"
+
+msgid "IDS_PCEF102_HPBOOST_SIGNALFLAG_2"
+msgstr "November"
+
+msgid "IDS_PCEF102_HPBOOST_SIGNALFLAG_2_2"
+msgstr "November — 特殊"
+
+msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3"
+msgstr "November"
+
+msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3_3"
+msgstr "November — 稀有"
+
+msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4"
+msgstr "November"
+
+msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4_4"
+msgstr "November — 精英"
+
+msgid "IDS_PCEF111_GM_SIGNALFLAG_1"
+msgstr "Yankee"
+
+msgid "IDS_PCEF111_GM_SIGNALFLAG_1_1"
+msgstr "Yankee — 普通"
+
+msgid "IDS_PCEF112_GM_SIGNALFLAG_2"
+msgstr "Yankee"
+
+msgid "IDS_PCEF112_GM_SIGNALFLAG_2_2"
+msgstr "Yankee — 特殊"
+
+msgid "IDS_PCEF113_GM_SIGNALFLAG_3"
+msgstr "Yankee"
+
+msgid "IDS_PCEF113_GM_SIGNALFLAG_3_3"
+msgstr "Yankee — 稀有"
+
+msgid "IDS_PCEF114_GM_SIGNALFLAG_4"
+msgstr "Yankee"
+
+msgid "IDS_PCEF114_GM_SIGNALFLAG_4_4"
+msgstr "Yankee — 精英"
+
+msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1_1"
+msgstr "Foxtrot — 普通"
+
+msgid "IDS_PCEF122_ATBA_SIGNALFLAG_2"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF122_ATBA_SIGNALFLAG_2_2"
+msgstr "Foxtrot — 特殊"
+
+msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3_3"
+msgstr "Foxtrot — 稀有"
+
+msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4_4"
+msgstr "Foxtrot — 精英"
+
+msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1"
+msgstr "Sierra"
+
+msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1_1"
+msgstr "Sierra — 普通"
+
+msgid "IDS_PCEF132_SPEED_SIGNALFLAG_2"
+msgstr "Sierra"
+
+msgid "IDS_PCEF132_SPEED_SIGNALFLAG_2_2"
+msgstr "Sierra — 特殊"
+
+msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3"
+msgstr "Sierra"
+
+msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3_3"
+msgstr "Sierra — 稀有"
+
+msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4"
+msgstr "Sierra"
+
+msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4_4"
+msgstr "Sierra — 精英"
+
+msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1"
+msgstr "India"
+
+msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1_1"
+msgstr "India — 普通"
+
+msgid "IDS_PCEF142_CONSUMABLE_SIGNALFLAG_2"
+msgstr "India"
+
+msgid "IDS_PCEF142_CONSUMABLE_SIGNALFLAG_2_2"
+msgstr "India — 特殊"
+
+msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3"
+msgstr "India"
+
+msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3_3"
+msgstr "India — 稀有"
+
+msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4"
+msgstr "India"
+
+msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4_4"
+msgstr "India — 精英"
+
+msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1"
+msgstr "Charlie"
+
+msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1_1"
+msgstr "Charlie — 普通"
+
+msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2"
+msgstr "Charlie"
+
+msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2_2"
+msgstr "Charlie — 特殊"
+
+msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3"
+msgstr "Charlie"
+
+msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3_3"
+msgstr "Charlie — 稀有"
+
+msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4"
+msgstr "Charlie"
+
+msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4_4"
+msgstr "Charlie — 精英"
+
+msgid "IDS_PGGM143_127MM_61_TWIN"
+msgstr "128 mm/61 KM40（双联装炮塔）"
+
+msgid "IDS_PGGT141_533MM_TORPEDO_TUBES_FIVE_TURRET"
+msgstr "533 mm Fünfling"
+
+msgid "IDS_PGPA156_128MM_HE_T11"
+msgstr "128 mm Spr.Gr. Kz."
+
+msgid "IDS_PGPA157_128MM_AP_T11"
+msgstr "128 mm P.Spr.Gr. L/4.5"
+
+msgid "IDS_PGPT066_533MM_T11"
+msgstr "G7 Steinwal"
+
+msgid "IDS_PGSD111"
+msgstr "O.韦迪根"
+
+msgid "IDS_PGSD111_DESCR"
+msgstr "1945年，基于1936D型驱逐舰的设计，1945型驱逐舰被设计出来。它的设计不同于之前的项目，首先是重新使用了蒸汽轮机而不是柴油机。这艘船将装备更重的武器：四座双联装128毫米通用炮塔。尽管装备更重，但涡轮齿轮装置将比柴油发动机提供更高的动力性能。"
+
+msgid "IDS_PGSD111_FULL"
+msgstr "奥托•韦迪根"
+
+msgid "IDS_PGSD111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSD111_YEAR"
+msgstr "1945"
+
+msgid "IDS_PGUA900_D11_ART_STOCK"
+msgstr "128 mm/61 KM40（双联装炮塔）"
+
+msgid "IDS_PGUE916_D11_ENG_STOCK"
+msgstr "推进系统：76000马力"
+
+msgid "IDS_PGUH916_D11_HULL_STOCK"
+msgstr "奥托•韦迪根"
+
+msgid "IDS_PGUS900_D11_SUO_STOCK"
+msgstr "FKS Typ 11"
+
+msgid "IDS_PGUT913_D11_TORP_STOCK"
+msgstr "G7 Steinwal"
+
+msgid "IDS_PJGA214_3IN40_MK1"
+msgstr "76 mm/40 3rd Year Type（炮座）"
+
+msgid "IDS_PLAY_BATTLE_FOR_STATS"
+msgstr "无战斗数据"
+
+msgid "IDS_PRES414_SHCHERBAKOV_VMF"
+msgstr "辉煌"
+
+msgid "IDS_PWGA105_2_PDR_MKVII_QUAD"
+msgstr "40 mm/39 Vickers QF Mk.VIII（Mk.VII炮座）"
+
+msgid "IDS_PWGA107_12MM62_HI"
+msgstr "12.7 mm Mk.III"
+
+msgid "IDS_PWGM104_120MM_45_QF_CP_MKXIX_TWIN"
+msgstr "120 mm/45 Mk.IX（CPXIX炮座）"
+
+msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
+msgstr "533 mm 五联"
+
+msgid "IDS_PWPA051_120_HE_PIORUN"
+msgstr "120 mm HE"
+
+msgid "IDS_PWPA052_120_AP_PIORUN"
+msgstr "120 mm AP"
+
+msgid "IDS_PWPT022_533_PIORUN"
+msgstr "533 mm Mk VII"
+
+msgid "IDS_PWSD507"
+msgstr "皮奥朗"
+
+msgid "IDS_PWSD507_DESCR"
+msgstr "HMS奈莉莎，N级英国驱逐舰，在克莱德班克造船厂建造后被交付给波兰海军，命名为ORP皮奥朗。1941年5月，该舰在第4驱逐舰舰队参与围捕俾斯麦号战列舰。之后，皮奥朗被调往地中海，参与护航马耳他运输队和盟军入侵西西里岛的行动。1944年，该舰返回大西洋，参与了与德国驱逐舰在乌沙恩的战斗。"
+
+msgid "IDS_PWSD507_FULL"
+msgstr "皮奥朗"
+
+msgid "IDS_PWSD507_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSD507_YEAR"
+msgstr "1941"
+
+msgid "IDS_PWUA604_ART_PIORUN"
+msgstr "120 mm/45 Mk.IX（CPXIX炮座）"
+
+msgid "IDS_PWUE604_ENG_PIORUN"
+msgstr "推进系统：44000马力"
+
+msgid "IDS_PWUH606_PIORUN"
+msgstr "皮奥朗"
+
+msgid "IDS_PWUS606_SUO_PIORUN"
+msgstr "SUO Mk 7 Mod. 1"
+
+msgid "IDS_PWUT605_TORP_PIORUN"
+msgstr "Mark 7"
+
+msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
+msgstr "您在战斗中存在下列违规行为："
+
+msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "超级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "超级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE"
+msgstr "维修材料补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE_SHORT"
+msgstr "维修材料"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE"
+msgstr "网络供应商补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE_SHORT"
+msgstr "网络供应商"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "超级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "超级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE"
+msgstr "每日补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE_SHORT"
+msgstr "每日"
+
+msgid "IDS_SESSION_ACCURACY_MAIN_PERCENT"
+msgstr "主炮命中率。"
+
+msgid "IDS_SESSION_AVG_DEAL_OUT_DAMAGE"
+msgstr "平均每场战斗对敌舰造成的伤害。"
+
+msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_AIRCRAFT"
+msgstr "平均每场战斗击落的敌机数量。"
+
+msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_SHIPS"
+msgstr "平均每场战斗摧毁的敌舰数量。"
+
+msgid "IDS_SESSION_AVG_SHIPS_SPOTTED"
+msgstr "平均每场战斗发现的敌舰数量。"
+
+msgid "IDS_SESSION_RESOURCES"
+msgstr "今日战斗获得的总收益"
+
+msgid "IDS_SESSION_REWARD_CREDITS_DESCRIPTION"
+msgstr "今日战斗获得的银币总数。"
+
+msgid "IDS_SESSION_REWARD_CREDITS_TITLE"
+msgstr "银币"
+
+msgid "IDS_SESSION_REWARD_CREWXP_DESCRIPTION"
+msgstr "今日战斗获得的指挥官经验总量。"
+
+msgid "IDS_SESSION_REWARD_CREWXP_TITLE"
+msgstr "指挥官经验"
+
+msgid "IDS_SESSION_REWARD_ELITEXP_DESCRIPTION"
+msgstr "今日战斗获得的精英指挥官经验总量。"
+
+msgid "IDS_SESSION_REWARD_ELITEXP_TITLE"
+msgstr "精英指挥官经验"
+
+msgid "IDS_SESSION_REWARD_EXP_DESCRIPTION"
+msgstr "今日战斗获得的战舰经验总量。"
+
+msgid "IDS_SESSION_REWARD_EXP_TITLE"
+msgstr "战舰经验"
+
+msgid "IDS_SESSION_REWARD_FREEXP_DESCRIPTION"
+msgstr "今日战斗获得的全局经验总量。"
+
+msgid "IDS_SESSION_REWARD_FREEXP_TITLE"
+msgstr "全局经验"
+
+msgid "IDS_SESSION_STATS_BATTLES_PLAYED"
+msgstr "今日战斗次数"
+
+msgid "IDS_SESSION_STATS_BATTLES_PLAYED_TOOLTIP"
+msgstr "今日进行战斗的总次数"
+
+msgid "IDS_SESSION_STATS_RESET"
+msgstr "重置"
+
+msgid "IDS_SESSION_TIME"
+msgstr "24小时内"
+
+msgid "IDS_SESSION_TOTAL"
+msgstr "总计"
+
+msgid "IDS_SESSION_VICTORY_PERCENT"
+msgstr "战斗胜率。"
+
+msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
+msgstr "用于维修特定战舰。"
+
+msgid "IDS_SHIPMATERIAL_INFO_DESCRIPTION"
+msgstr "用于维修特定等级的任何战舰。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM107_BRAWL_SEASON99_GMACCURACYBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM108_BRAWL_SEASON101_CONSUMABLEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM109_BRAWL_SEASON101_TORPEDOBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM107_BRAWL_SEASON99_GMACCURACYBOOST"
+msgstr "提高精度"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM108_BRAWL_SEASON101_CONSUMABLEBOOST"
+msgstr "提高消耗品性能"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM109_BRAWL_SEASON101_TORPEDOBOOST"
+msgstr "提高鱼雷航速"
+
+msgid "IDS_SHIP_MODIFIER_PXOM107_BRAWL_SEASON99_GMACCURACYBOOST_APPLIED"
+msgstr "提高精度"
+
+msgid "IDS_SHIP_MODIFIER_PXOM108_BRAWL_SEASON101_CONSUMABLEBOOST_APPLIED"
+msgstr "提高消耗品性能"
+
+msgid "IDS_SHIP_MODIFIER_PXOM109_BRAWL_SEASON101_TORPEDOBOOST_APPLIED"
+msgstr "提高鱼雷航速"
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_0"
+msgstr "在维修船坞中，您可以获得新战舰。"
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_1"
+msgstr "这里将显示需要维修的战舰。被修复后，它们将归您所有——您可以驾驶它们加入战斗。"
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_2"
+msgstr "维修需要维修材料：战舰部件和备件。要让新战舰出现在您的维修船坞中，您需要获得至少一个该战舰对应的战舰部件。"
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_3"
+msgstr "您可以通过参加活动或在兵工厂购买维修材料。"
+
+msgid "IDS_SHIP_SHARDS_REPAIR_WARNING"
+msgstr "未使用的战舰部件将按照1:1的比率转换为相应等级的备件"
+
+msgid "IDS_SHORT_DASH"
+msgstr "-"
+
+msgid "IDS_SIGNAL_SLOT_OPEN_INFOTIP"
+msgstr "打开信号旗列表"
+
+msgid "IDS_SIGNAL_TYPE_0_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "生存能力"
+
+msgid "IDS_SIGNAL_TYPE_1_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "伤害能力"
+
+msgid "IDS_SIGNAL_TYPE_2_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "辅助武器"
+
+msgid "IDS_SIGNAL_TYPE_3_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "速度"
+
+msgid "IDS_SIGNAL_TYPE_4_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "消耗品效率"
+
+msgid "IDS_SIGNAL_TYPE_5_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "抗伤害能力"
+
+msgid "IDS_SPENT"
+msgstr "已花费"
+
+msgid "IDS_SUBHEADER_BRAWLBATTLE"
+msgstr "对抗真人玩家"
+
+msgid "IDS_SUBHEADER_COOPERATIVEBATTLE"
+msgstr "对抗电脑玩家"
+
+msgid "IDS_SUBHEADER_EVENTBATTLE"
+msgstr "对抗真人玩家"
+
+msgid "IDS_SUBHEADER_PVEBATTLE"
+msgstr "对抗电脑玩家"
+
+msgid "IDS_SUBHEADER_RANDOMBATTLE"
+msgstr "对抗真人玩家"
+
+msgid "IDS_SYS_MESSAGE_GROUP_SESSION_STATISTICS_DESCRIPTION"
+msgstr "24小时内的战斗统计（于北京时间10：00自动重置）"
+
+msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
+msgstr "已获得补给箱"
+
+msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_2"
+msgstr "特殊信号旗稍后可供购买"
+
+msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_3"
+msgstr "稀有信号旗不可购买"
+
+msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_4"
+msgstr "精英信号旗不可购买"
+
+msgid "IDS_UNINSTALL_ALL_SIGNALS"
+msgstr "拆卸所有信号旗"
+
+msgid "IDS_UNINSTALL_ALL_SIGNALS_HINT"
+msgstr "拆卸此战舰上的所有信号旗"
+
+msgid "IDS_WRONG_GROUP_TITLE_GET_TRY_ANOTHER_TITLE"
+msgstr "已存在相同名称的群组，请尝试输入其他名称。"

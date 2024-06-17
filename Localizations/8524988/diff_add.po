@@ -1,0 +1,690 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_ABUSE_ECONOMICALLY_PUNISHED"
+msgstr "Вам не будут начислены заработанные ресурсы."
+
+msgid "IDS_ABUSE_RANKED_RESULTS_REASON"
+msgstr ""
+"За совершённые вами нарушения этот бой не будет\n"
+"учтён в прогрессе для получения наград."
+
+msgid "IDS_ABUSE_REASON_AFK_WITH_BULLET"
+msgstr "• Бездействие в бою"
+
+msgid "IDS_ABUSE_REASON_COMPLAINTS_WITH_BULLET"
+msgstr "• Жалобы от игроков"
+
+msgid "IDS_ABUSE_REASON_GRIEFER_WITH_BULLET"
+msgstr "• Создание помех союзникам"
+
+msgid "IDS_ABUSE_REASON_LEAVER_WITH_BULLET"
+msgstr "• Преждевременный выход из боя"
+
+msgid "IDS_ABUSE_REASON_TKILL_WITH_BULLET"
+msgstr "• Нанесение урона союзникам"
+
+msgid "IDS_ABUSE_REASON_TSHOTS_WITH_BULLET"
+msgstr "• Огонь по кораблям союзников"
+
+msgid "IDS_ABUSE_STATUS_CONFIRMED_DESCRIPTION"
+msgstr "Вам временно недоступны все типы боя, кроме Кооперативного, Кланового и Тренировочного."
+
+msgid "IDS_ABUSE_STATUS_NORMAL_DESCRIPTION"
+msgstr "За соблюдение правил игры вы освобождены от наказания."
+
+msgid "IDS_ABUSE_STATUS_SUSPECT_DESCRIPTION"
+msgstr "Ваше имя отображается розовым цветом. Если нарушения продолжатся, мера наказания усилится. Вам будут временно недоступны все типы боя, кроме Кооперативного, Кланового и Тренировочного."
+
+msgid "IDS_ABUSE_STATUS_WARNING"
+msgstr "Неспортивное поведение"
+
+msgid "IDS_ABUSE_STATUS_WARNING_DESCRIPTION"
+msgstr "Если нарушения продолжатся, вы получите наказание. Вам будут временно недоступны все типы боя, кроме Кооперативного, Кланового и Тренировочного."
+
+msgid "IDS_AC_CAS_INCLIN"
+msgstr "Скос"
+
+msgid "IDS_AC_DUAL_SSC_BOW_INCLIN"
+msgstr "Скос"
+
+msgid "IDS_AC_DUAL_SSC_ST_INCLIN"
+msgstr "Скос"
+
+msgid "IDS_AC_SSC_INCLIN"
+msgstr "Скос"
+
+msgid "IDS_ALLBATTLETYPES"
+msgstr "Все типы боя"
+
+msgid "IDS_ALL_TIME"
+msgstr "За всё время"
+
+msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS"
+msgstr "Средние показатели за бой сегодня"
+
+msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS_TOOLTIP"
+msgstr "Средние показатели вашей боевой эффективности за бой"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_1"
+msgstr "Стандартный сигнал"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_2"
+msgstr "Особый сигнал"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_3"
+msgstr "Редкий сигнал"
+
+msgid "IDS_BATTLE_SIGNAL_RARITY_4"
+msgstr "Элитный сигнал"
+
+msgid "IDS_BUY_IN_ARMORY_STATUS"
+msgstr "Доступно для покупки в Адмиралтействе"
+
+msgid "IDS_CHOOSE_BATTLETYPE_FOR_SESSION_STATS"
+msgstr "Выбрать тип боя для отображения статистики"
+
+msgid "IDS_CURRENCY_SESSION_STATS"
+msgstr "Всего заработано в боях сегодня"
+
+msgid "IDS_DAILY_LOOTBOXES"
+msgstr "ЕЖЕДНЕВНЫЕ КОНТЕЙНЕРЫ"
+
+msgid "IDS_DAILY_LOOTBOXES_HINT_0"
+msgstr "Зарабатывайте опыт и получайте контейнеры. Когда вы заработаете достаточно опыта, контейнер будет начислен автоматически."
+
+msgid "IDS_DAILY_LOOTBOXES_HINT_1"
+msgstr "Каждый день вам доступно 3 контейнера."
+
+msgid "IDS_FEAT_BAD_CONS_LIMITED_CHOICE"
+msgstr "Малый выбор снаряжения"
+
+msgid "IDS_INSTALL_BEST_SIGNALS"
+msgstr "Установить лучшие"
+
+msgid "IDS_INSTALL_BEST_SIGNALS_HINT"
+msgstr "Установить лучшие сигналы на этот корабль"
+
+msgid "IDS_LOOTBOX_NOT_RECEIVED"
+msgstr "Контейнер не получен"
+
+msgid "IDS_LOOTBOX_RECEIVED"
+msgstr "Получен контейнер"
+
+msgid "IDS_MAIN_CONS_LIMITED_CHOICE"
+msgstr "Малый выбор снаряжения"
+
+msgid "IDS_MAIN_GOOD_MAIN_RANGE"
+msgstr "Большая дальность стрельбы главным калибром"
+
+msgid "IDS_MARK_KEY_TARGET_DIVISION"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MOUSE_INSTRUCTION_PURCHASE_SIGNAL"
+msgstr "Купить и установить сигнал"
+
+msgid "IDS_MOUSE_INSTRUCTION_SESSION_STATS_RESET"
+msgstr "Сбросить текущие значения"
+
+msgid "IDS_NO_SIGNALS_ON_STORAGE_HINT"
+msgstr "У вас нет сигналов"
+
+msgid "IDS_PAES511_HOGG_MIAMI"
+msgstr "Палм-Кост"
+
+msgid "IDS_PAES512_MAFFITT_MIAMI"
+msgstr "Орландо"
+
+msgid "IDS_PAES513_LYNCH_MIAMI"
+msgstr "Санрайз"
+
+msgid "IDS_PARAMS_MODIFIER_FLOODCHANCECOMMONBONUS"
+msgstr "Вероятность вызвать затопление"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPREADMULTIPLIER"
+msgstr "Максимальное рассеивание снарядов эскадрилий"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYDBOMB"
+msgstr "Получаемый урон от глубинных бомб"
+
+msgid "IDS_PCEE692_USA_DD_EA_FLAG"
+msgstr "Эсминцы США"
+
+msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
+msgstr "Non sibi sed patriae."
+
+msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода новых эсминцев США в ранний доступ в обновлении 13.6."
+
+msgid "IDS_PCEE693_PIORUN_FLAG"
+msgstr "ORP Piorun"
+
+msgid "IDS_PCEE693_PIORUN_FLAG_DESCRIPTION"
+msgstr "Орден Virtuti Militari — высший польский военный орден, который вручают за выдающиеся боевые заслуги. Один из старейших военных орденов в мире. Учреждён королём Речи Посполитой Станиславом Августом Понятовским в 1792 г. Девиз ордена: «Честь и Родина»."
+
+msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1"
+msgstr "November"
+
+msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1_1"
+msgstr "November — Стандартный"
+
+msgid "IDS_PCEF102_HPBOOST_SIGNALFLAG_2"
+msgstr "November"
+
+msgid "IDS_PCEF102_HPBOOST_SIGNALFLAG_2_2"
+msgstr "November — Особый"
+
+msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3"
+msgstr "November"
+
+msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3_3"
+msgstr "November — Редкий"
+
+msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4"
+msgstr "November"
+
+msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4_4"
+msgstr "November — Элитный"
+
+msgid "IDS_PCEF111_GM_SIGNALFLAG_1"
+msgstr "Yankee"
+
+msgid "IDS_PCEF111_GM_SIGNALFLAG_1_1"
+msgstr "Yankee — Стандартный"
+
+msgid "IDS_PCEF112_GM_SIGNALFLAG_2"
+msgstr "Yankee"
+
+msgid "IDS_PCEF112_GM_SIGNALFLAG_2_2"
+msgstr "Yankee — Особый"
+
+msgid "IDS_PCEF113_GM_SIGNALFLAG_3"
+msgstr "Yankee"
+
+msgid "IDS_PCEF113_GM_SIGNALFLAG_3_3"
+msgstr "Yankee — Редкий"
+
+msgid "IDS_PCEF114_GM_SIGNALFLAG_4"
+msgstr "Yankee"
+
+msgid "IDS_PCEF114_GM_SIGNALFLAG_4_4"
+msgstr "Yankee — Элитный"
+
+msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1_1"
+msgstr "Foxtrot — Стандартный"
+
+msgid "IDS_PCEF122_ATBA_SIGNALFLAG_2"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF122_ATBA_SIGNALFLAG_2_2"
+msgstr "Foxtrot — Особый"
+
+msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3_3"
+msgstr "Foxtrot — Редкий"
+
+msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4"
+msgstr "Foxtrot"
+
+msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4_4"
+msgstr "Foxtrot — Элитный"
+
+msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1"
+msgstr "Sierra"
+
+msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1_1"
+msgstr "Sierra — Стандартный"
+
+msgid "IDS_PCEF132_SPEED_SIGNALFLAG_2"
+msgstr "Sierra"
+
+msgid "IDS_PCEF132_SPEED_SIGNALFLAG_2_2"
+msgstr "Sierra — Особый"
+
+msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3"
+msgstr "Sierra"
+
+msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3_3"
+msgstr "Sierra — Редкий"
+
+msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4"
+msgstr "Sierra"
+
+msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4_4"
+msgstr "Sierra — Элитный"
+
+msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1"
+msgstr "India"
+
+msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1_1"
+msgstr "India — Стандартный"
+
+msgid "IDS_PCEF142_CONSUMABLE_SIGNALFLAG_2"
+msgstr "India"
+
+msgid "IDS_PCEF142_CONSUMABLE_SIGNALFLAG_2_2"
+msgstr "India — Особый"
+
+msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3"
+msgstr "India"
+
+msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3_3"
+msgstr "India — Редкий"
+
+msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4"
+msgstr "India"
+
+msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4_4"
+msgstr "India — Элитный"
+
+msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1"
+msgstr "Charlie"
+
+msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1_1"
+msgstr "Charlie — Стандартный"
+
+msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2"
+msgstr "Charlie"
+
+msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2_2"
+msgstr "Charlie — Особый"
+
+msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3"
+msgstr "Charlie"
+
+msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3_3"
+msgstr "Charlie — Редкий"
+
+msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4"
+msgstr "Charlie"
+
+msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4_4"
+msgstr "Charlie — Элитный"
+
+msgid "IDS_PGGM143_127MM_61_TWIN"
+msgstr "128-мм/61 KM40 в башенной установке"
+
+msgid "IDS_PGGT141_533MM_TORPEDO_TUBES_FIVE_TURRET"
+msgstr "533-мм Fünfling"
+
+msgid "IDS_PGPA156_128MM_HE_T11"
+msgstr "128-мм Spr.Gr. Kz."
+
+msgid "IDS_PGPA157_128MM_AP_T11"
+msgstr "128-мм P.Spr.Gr. L/4.5"
+
+msgid "IDS_PGPT066_533MM_T11"
+msgstr "G7 Steinwal"
+
+msgid "IDS_PGSD111"
+msgstr "Otto Weddigen"
+
+msgid "IDS_PGSD111_DESCR"
+msgstr "В 1945 г. на основе конструкции эсминцев типа 1936D был спроектирован тип 1945. Его конструкция отличалась от предыдущих проектов, прежде всего, возвратом к использованию паровых турбин, а не дизелей. Такой корабль был бы вооружён значительно тяжелее: восемью 128-мм универсальными орудиями в четырёх башенных установках. Несмотря на более тяжёлое вооружение, турбозубчатые агрегаты обеспечили бы более высокую производительность энергетической установки по сравнению с дизельными двигателями."
+
+msgid "IDS_PGSD111_FULL"
+msgstr "Otto Weddigen"
+
+msgid "IDS_PGSD111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSD111_YEAR"
+msgstr "1945 г."
+
+msgid "IDS_PGUA900_D11_ART_STOCK"
+msgstr "128-мм/61 KM40 в башенной установке"
+
+msgid "IDS_PGUE916_D11_ENG_STOCK"
+msgstr "ЭУ 76 000 л.с."
+
+msgid "IDS_PGUH916_D11_HULL_STOCK"
+msgstr "Otto Weddigen"
+
+msgid "IDS_PGUS900_D11_SUO_STOCK"
+msgstr "FKS Typ 11"
+
+msgid "IDS_PGUT913_D11_TORP_STOCK"
+msgstr "G7 Steinwal"
+
+msgid "IDS_PJGA214_3IN40_MK1"
+msgstr "76-мм/40 3rd Year Type в одиночной установке"
+
+msgid "IDS_PLAY_BATTLE_FOR_STATS"
+msgstr "Нет данных о проведённых боях"
+
+msgid "IDS_PRES414_SHCHERBAKOV_VMF"
+msgstr "Блистательный"
+
+msgid "IDS_PWGA105_2_PDR_MKVII_QUAD"
+msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VII"
+
+msgid "IDS_PWGA107_12MM62_HI"
+msgstr "12,7-мм Mk.III"
+
+msgid "IDS_PWGM104_120MM_45_QF_CP_MKXIX_TWIN"
+msgstr "120-мм/45 Mk.IX в установке CPXIX"
+
+msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
+msgstr "533-мм 5-трубный"
+
+msgid "IDS_PWPA051_120_HE_PIORUN"
+msgstr "120-мм HE"
+
+msgid "IDS_PWPA052_120_AP_PIORUN"
+msgstr "120-мм AP"
+
+msgid "IDS_PWPT022_533_PIORUN"
+msgstr "533-мм Mk VII"
+
+msgid "IDS_PWSD507"
+msgstr "Piorun"
+
+msgid "IDS_PWSD507_DESCR"
+msgstr "HMS Nerissa, британский эсминец типа N, был построен на верфи в Клайдбэнке и передан в состав польского флота, где получил имя ORP Piorun. В составе 4-й флотилии эсминцев в мае 1941 г. корабль принял участие в охоте на Bismarck. Позже Piorun был переведён на Средиземное море, где принял участие в проводке мальтийских конвоев и в прикрытии десанта союзников на Сицилию. В 1944 г. корабль вернулся в Атлантику, где принял участие в бою с немецкими эсминцами при Уэссане."
+
+msgid "IDS_PWSD507_FULL"
+msgstr "Piorun"
+
+msgid "IDS_PWSD507_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSD507_YEAR"
+msgstr "1941 г."
+
+msgid "IDS_PWUA604_ART_PIORUN"
+msgstr "120-мм/45 Mk.IX в установке CPXIX"
+
+msgid "IDS_PWUE604_ENG_PIORUN"
+msgstr "ЭУ 44 000 л.с."
+
+msgid "IDS_PWUH606_PIORUN"
+msgstr "Piorun"
+
+msgid "IDS_PWUS606_SUO_PIORUN"
+msgstr "SUO Mk 7 Mod. 1"
+
+msgid "IDS_PWUT605_TORP_PIORUN"
+msgstr "Mark 7"
+
+msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
+msgstr "Во время боя вы совершили следующие нарушения:"
+
+msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Суперконтейнер"
+
+msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Суперконтейнер"
+
+msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум контейнер"
+
+msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Контейнер"
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE"
+msgstr "Контейнер «Ремонтные материалы»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE_SHORT"
+msgstr "Ремонтные материалы"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE"
+msgstr "Контейнер «Сетевые поставки»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE_SHORT"
+msgstr "Сетевые поставки"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Суперконтейнер"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Суперконтейнер"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE"
+msgstr "Контейнер «Ежедневный»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE_SHORT"
+msgstr "Ежедневный"
+
+msgid "IDS_SESSION_ACCURACY_MAIN_PERCENT"
+msgstr "Процент попаданий снарядами главного калибра в боях."
+
+msgid "IDS_SESSION_AVG_DEAL_OUT_DAMAGE"
+msgstr "Среднее количество урона, нанесённое кораблям противника за бой."
+
+msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_AIRCRAFT"
+msgstr "Среднее количество сбитых самолётов противника за бой."
+
+msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_SHIPS"
+msgstr "Среднее количество потопленных кораблей противника за бой."
+
+msgid "IDS_SESSION_AVG_SHIPS_SPOTTED"
+msgstr "Среднее количество обнаруженных кораблей противника за бой."
+
+msgid "IDS_SESSION_RESOURCES"
+msgstr "Количество ресурсов, полученное за все бои сегодня"
+
+msgid "IDS_SESSION_REWARD_CREDITS_DESCRIPTION"
+msgstr "Количество кредитов, полученное за все бои сегодня."
+
+msgid "IDS_SESSION_REWARD_CREDITS_TITLE"
+msgstr "Кредиты"
+
+msgid "IDS_SESSION_REWARD_CREWXP_DESCRIPTION"
+msgstr "Количество опыта командира, полученное за все бои сегодня."
+
+msgid "IDS_SESSION_REWARD_CREWXP_TITLE"
+msgstr "Опыт командира"
+
+msgid "IDS_SESSION_REWARD_ELITEXP_DESCRIPTION"
+msgstr "Количество элитного опыта командиров, полученное за все бои сегодня."
+
+msgid "IDS_SESSION_REWARD_ELITEXP_TITLE"
+msgstr "Элитный опыт командиров"
+
+msgid "IDS_SESSION_REWARD_EXP_DESCRIPTION"
+msgstr "Количество опыта корабля, полученное за все бои сегодня."
+
+msgid "IDS_SESSION_REWARD_EXP_TITLE"
+msgstr "Опыт корабля"
+
+msgid "IDS_SESSION_REWARD_FREEXP_DESCRIPTION"
+msgstr "Количество свободного опыта, полученное за все бои сегодня."
+
+msgid "IDS_SESSION_REWARD_FREEXP_TITLE"
+msgstr "Свободный опыт"
+
+msgid "IDS_SESSION_STATS_BATTLES_PLAYED"
+msgstr "Проведено боёв сегодня"
+
+msgid "IDS_SESSION_STATS_BATTLES_PLAYED_TOOLTIP"
+msgstr "Общее количество проведённых боёв."
+
+msgid "IDS_SESSION_STATS_RESET"
+msgstr "Сбросить"
+
+msgid "IDS_SESSION_TIME"
+msgstr "За сутки"
+
+msgid "IDS_SESSION_TOTAL"
+msgstr "Итого"
+
+msgid "IDS_SESSION_VICTORY_PERCENT"
+msgstr "Процент побед в боях."
+
+msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
+msgstr "Для ремонта определённого корабля."
+
+msgid "IDS_SHIPMATERIAL_INFO_DESCRIPTION"
+msgstr "Для ремонта любых кораблей определённого уровня."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM107_BRAWL_SEASON99_GMACCURACYBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM108_BRAWL_SEASON101_CONSUMABLEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM109_BRAWL_SEASON101_TORPEDOBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM107_BRAWL_SEASON99_GMACCURACYBOOST"
+msgstr "Повышение точности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM108_BRAWL_SEASON101_CONSUMABLEBOOST"
+msgstr "Повышение характеристик снаряжения"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM109_BRAWL_SEASON101_TORPEDOBOOST"
+msgstr "Увеличение скорострельности ТА"
+
+msgid "IDS_SHIP_MODIFIER_PXOM107_BRAWL_SEASON99_GMACCURACYBOOST_APPLIED"
+msgstr "Повышение точности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM108_BRAWL_SEASON101_CONSUMABLEBOOST_APPLIED"
+msgstr "Повышение характеристик снаряжения"
+
+msgid "IDS_SHIP_MODIFIER_PXOM109_BRAWL_SEASON101_TORPEDOBOOST_APPLIED"
+msgstr "Увеличение скорострельности ТА"
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_0"
+msgstr "В Ремонтном доке вы можете получать новые корабли."
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_1"
+msgstr "Здесь будут появляться корабли, требующие ремонта. Когда вы отремонтируете их, они станут вашими и вы сможете выходить на них в бой."
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_2"
+msgstr "Для ремонта необходимы ремонтные материалы: конструкции и заготовки. Чтобы новый корабль появился в вашем Ремонтном доке, нужно получить хотя бы одну конструкцию этого корабля."
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_3"
+msgstr "Вы можете получить ремонтные материалы за участие в событиях или купить их в Адмиралтействе."
+
+msgid "IDS_SHIP_SHARDS_REPAIR_WARNING"
+msgstr "Вместо неиспользованных конструкций вы получите заготовки в соотношении 1 к 1"
+
+msgid "IDS_SHORT_DASH"
+msgstr "–"
+
+msgid "IDS_SIGNAL_SLOT_OPEN_INFOTIP"
+msgstr "Открыть список сигналов"
+
+msgid "IDS_SIGNAL_TYPE_0_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "Живучесть"
+
+msgid "IDS_SIGNAL_TYPE_1_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "Наносимый урон"
+
+msgid "IDS_SIGNAL_TYPE_2_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "Вспомогательное вооружение"
+
+msgid "IDS_SIGNAL_TYPE_3_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "Скорость"
+
+msgid "IDS_SIGNAL_TYPE_4_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "Снаряжение"
+
+msgid "IDS_SIGNAL_TYPE_5_SIMPLE_SUMMARY_TOOLTIP"
+msgstr "Сопротивление урону"
+
+msgid "IDS_SPENT"
+msgstr "Потрачено"
+
+msgid "IDS_SUBHEADER_BRAWLBATTLE"
+msgstr "Против игроков"
+
+msgid "IDS_SUBHEADER_COOPERATIVEBATTLE"
+msgstr "Против ботов"
+
+msgid "IDS_SUBHEADER_EVENTBATTLE"
+msgstr "Против игроков"
+
+msgid "IDS_SUBHEADER_PVEBATTLE"
+msgstr "Против ботов"
+
+msgid "IDS_SUBHEADER_RANDOMBATTLE"
+msgstr "Против игроков"
+
+msgid "IDS_SYS_MESSAGE_GROUP_SESSION_STATISTICS_DESCRIPTION"
+msgstr "Статистика боёв за сутки (сбрасывается автоматически каждый день в 05:00 МСК)"
+
+msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
+msgstr "Получены контейнеры"
+
+msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_2"
+msgstr "Особые сигналы будут доступны для покупки позднее"
+
+msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_3"
+msgstr "Редкие сигналы недоступны для покупки"
+
+msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_4"
+msgstr "Элитные сигналы недоступны для покупки"
+
+msgid "IDS_UNINSTALL_ALL_SIGNALS"
+msgstr "Снять все"
+
+msgid "IDS_UNINSTALL_ALL_SIGNALS_HINT"
+msgstr "Снять все сигналы, установленные на этот корабль"
+
+msgid "IDS_WRONG_GROUP_TITLE_GET_TRY_ANOTHER_TITLE"
+msgstr "Группа с таким названием уже существует. Введите другое название."

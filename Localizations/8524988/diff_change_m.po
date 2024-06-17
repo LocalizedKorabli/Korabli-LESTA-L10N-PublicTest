@@ -1,0 +1,237 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_ABUSE_REASON_AFK"
+msgstr "在战斗中挂机"
+
+msgid "IDS_ABUSE_REASON_COMPLAINTS"
+msgstr "受到玩家举报"
+
+msgid "IDS_ABUSE_REASON_GRIEFER"
+msgstr "干扰队友"
+
+msgid "IDS_ABUSE_REASON_LEAVER"
+msgstr "提前退出战斗"
+
+msgid "IDS_ABUSE_REASON_TKILL"
+msgstr "误杀队友"
+
+msgid "IDS_ABUSE_REASON_TSHOTS"
+msgstr "误伤队友"
+
+msgid "IDS_AUTOPURCHASE_TOOLTIP_NO_INSTALLED_PURCHASABLE_SIGNAL"
+msgstr "已安装的信号旗中没有可直接购买的。"
+
+msgid "IDS_BRAWLBATTLE_DESCRIPTION"
+msgstr "与技术水平匹配的玩家战斗。参与条件和战斗特点每个赛季都会变化。"
+
+msgid "IDS_CLANBATTLE_DESCRIPTION"
+msgstr "来自不同军团的两支队伍之间的战斗。"
+
+msgid "IDS_COOPERATIVEBATTLE_DESCRIPTION"
+msgstr "与电脑玩家对战。"
+
+msgid "IDS_COOPERATIVEBATTLE_MATCHMAKER_DESCRIPTION"
+msgstr "随机选择的地图和战斗模式。"
+
+msgid "IDS_CURRENCY_EVENTUM_3"
+msgstr "美国代币"
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr "通过在13.6版本结束前达到一定的战斗通行证等级，以及在13.6、13.7版本于兵工厂的礼包链中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr "用于购买X级驱逐舰林奇，林奇和IX级驱逐舰马菲特的永久涂装，VIII级驱逐舰霍格的永久加成包和永久涂装，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
+msgstr "“美国驱逐舰”活动的临时资源。13.8版本更新后，代币将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_4"
+msgstr "舰队代币"
+
+msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
+msgstr "通过在13.6版本结束前通过完成活动作战任务，以及在13.6和13.7版本在兵工厂礼包链中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr "用于购买IX级巡洋舰谢尔巴科夫，VII级战列舰波尔塔瓦的战舰部件，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
+msgstr "临时资源。13.8版本更新后，代币将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_9"
+msgstr "仓库代币"
+
+msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
+msgstr "在活动期间从兵工厂的礼包链中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
+msgstr "用于购买包含“II-IV级加值战舰”、“V级加值战舰”、“VI级加值战舰”、“VIII级加值战舰”和“IX级加值战舰”补给箱的礼包，研究点，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
+msgstr "临时资源"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_4"
+msgstr "精英消耗型加成"
+
+msgid "IDS_EVENTUM_3_COLON"
+msgstr "美国代币："
+
+msgid "IDS_EVENTUM_4_COLON"
+msgstr "舰队代币："
+
+msgid "IDS_EVENTUM_9_COLON"
+msgstr "仓库代币："
+
+msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_BOOSTS_RARITY"
+msgstr "普通和特殊加成可以用金币购买。稀有和精英加成可以通过参与活动获得。"
+
+msgid "IDS_EXP_TO_NEXT_LOOTBOX"
+msgstr "距离领取下个补给箱还需要："
+
+msgid "IDS_GUIDING_TIP_282_DESC"
+msgstr "在战舰上安装信号旗，以提升其战斗性能。"
+
+msgid "IDS_GUIDING_TIP_283_DESC"
+msgstr "信号旗可以提升战舰的战斗性能。"
+
+msgid "IDS_GUIDING_TIP_283_HEADER"
+msgstr "信号旗"
+
+msgid "IDS_LOOTBOX_GOT"
+msgstr "已获得"
+
+msgid "IDS_LOOTBOX_PURCHASE_WILL_BE_AVAILABLE_AFTER"
+msgstr "Следующий контейнер будет доступен через"
+
+msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES"
+msgstr "Содержимое контейнеров"
+
+msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES_TOOLTIP"
+msgstr "Узнать о вероятностях получения содержимого из контейнеров"
+
+msgid "IDS_MODERNIZATION_3"
+msgstr "Элитная модернизация"
+
+msgid "IDS_MODERNIZATION_TYPE_LEGENDARY"
+msgstr "Есть элитная модернизация"
+
+msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
+msgstr "Время работы снаряжения корабля"
+
+msgid "IDS_PASB013"
+msgstr "阿肯色Beta"
+
+msgid "IDS_PAUH617_D7_HULL_STOCK"
+msgstr "法兰德"
+
+msgid "IDS_PAUH738_D8_HULL_STOCK"
+msgstr "霍格"
+
+msgid "IDS_PAUH820_D9_HULL_STOCK"
+msgstr "马菲特"
+
+msgid "IDS_RANDOMBATTLE_DESCRIPTION"
+msgstr "Сражения против игроков."
+
+msgid "IDS_RANDOMBATTLE_MATCHMAKER_DESCRIPTION"
+msgstr "Случайно выбранные карта и режим боя."
+
+msgid "IDS_RANDOM_PVE_MATCHMAKER_SUBTITLE"
+msgstr "Случайно выбранная операция."
+
+msgid "IDS_RANKEDBATTLE_DESCRIPTION"
+msgstr "Сражения между игроками в рамках соревнования. Участники борются за ранги и продвигаются по лигам."
+
+msgid "IDS_RANKED_REWARDS_TOOLTIP_DESC"
+msgstr ""
+"Если вы не успели пройти квалификацию до завершения спринта, вы вернётесь на начальный ранг лиги и сможете получить все награды заново.\n"
+"\n"
+"Если в Ранговом бою вы продемонстрируете неспортивное поведение, победа не будет учтена в прогрессе для получения наград."
+
+msgid "IDS_REWARD_EVENTUM_3_TITLE"
+msgstr "Американские жетоны"
+
+msgid "IDS_REWARD_EVENTUM_4_TITLE"
+msgstr "Флотские жетоны"
+
+msgid "IDS_REWARD_EVENTUM_9_TITLE"
+msgstr "Складские жетоны"
+
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Кутузов"
+
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Кутузов"
+
+msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE"
+msgstr "Контейнер «Элитные бонусы»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE_SHORT"
+msgstr "Элитные бонусы"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
+msgstr "Американские жетоны куплены"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
+msgstr "Флотские жетоны куплены"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
+msgstr "Складские жетоны куплены"
+
+msgid "IDS_SYS_MSG_OPEN_LOOTBOX"
+msgstr "%(lootboxName)s открыт"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
+msgstr "Получены американские жетоны"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
+msgstr "Получены флотские жетоны"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
+msgstr "Получены складские жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
+msgstr "Списаны американские жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
+msgstr "Списаны флотские жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
+msgstr "Списаны складские жетоны"
+
+msgid "IDS_TIME_LEFT_FOR_LOOTEXP"
+msgstr "Следующий ежедневный контейнер будет доступен через %(_timeLeft)s"
+
+msgid "IDS_TO_THE_NEXT_LOOTBOX"
+msgstr "Следующий ежедневный контейнер"
+
+msgid "IDS_TRAININGBATTLE_DESCRIPTION"
+msgstr "Здесь вы можете создать бой вручную."
+
+msgid "IDS_TUTORIALBATTLE_DESCRIPTION"
+msgstr ""
+"Сражение, в котором вы можете освоить основы управления и стрельбы.\n"
+"Повторное прохождение доступно первые %(amount)s боёв."
+
+msgid "IDS_UNAVAILABLE_UNIQUE_ECOBOOST_FOR_PURCHASE"
+msgstr "Элитные бонусы недоступны для покупки"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_21_0"
+msgstr "Зарабатывайте опыт в боях и получайте до трёх контейнеров ежедневно. Когда вы заработаете достаточно опыта, контейнер будет начислен автоматически."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_21_1"
+msgstr "Из любого ежедневного контейнера вы можете получить Суперконтейнер с особенно ценными наградами."
+
+msgid "IDS_WAREHOUSE_LOOTBOXES"
+msgstr "В наличии"
