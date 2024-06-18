@@ -112,22 +112,22 @@ msgid "IDS_LOOTBOX_GOT"
 msgstr "已获得"
 
 msgid "IDS_LOOTBOX_PURCHASE_WILL_BE_AVAILABLE_AFTER"
-msgstr "Следующий контейнер будет доступен через"
+msgstr "您今天已经获得了所有可用的每日补给箱。刷新时间："
 
 msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES"
-msgstr "Содержимое контейнеров"
+msgstr "补给箱奖池"
 
 msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES_TOOLTIP"
-msgstr "Узнать о вероятностях получения содержимого из контейнеров"
+msgstr "了解补给箱内含奖励的获取概率"
 
 msgid "IDS_MODERNIZATION_3"
-msgstr "Элитная модернизация"
+msgstr "精英升级品"
 
 msgid "IDS_MODERNIZATION_TYPE_LEGENDARY"
-msgstr "Есть элитная модернизация"
+msgstr "有可用的精英升级品"
 
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
-msgstr "Время работы снаряжения корабля"
+msgstr "战舰消耗品的作用时间"
 
 msgid "IDS_PASB013"
 msgstr "阿肯色Beta"
@@ -142,96 +142,96 @@ msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "马菲特"
 
 msgid "IDS_RANDOMBATTLE_DESCRIPTION"
-msgstr "Сражения против игроков."
+msgstr "与真人玩家对战。"
 
 msgid "IDS_RANDOMBATTLE_MATCHMAKER_DESCRIPTION"
-msgstr "Случайно выбранные карта и режим боя."
+msgstr "随机选择的地图和战斗模式。"
 
 msgid "IDS_RANDOM_PVE_MATCHMAKER_SUBTITLE"
-msgstr "Случайно выбранная операция."
+msgstr "随机选择的任务。"
 
 msgid "IDS_RANKEDBATTLE_DESCRIPTION"
-msgstr "Сражения между игроками в рамках соревнования. Участники борются за ранги и продвигаются по лигам."
+msgstr "与其他玩家对战，获得排名并晋升联盟。"
 
 msgid "IDS_RANKED_REWARDS_TOOLTIP_DESC"
 msgstr ""
-"Если вы не успели пройти квалификацию до завершения спринта, вы вернётесь на начальный ранг лиги и сможете получить все награды заново.\n"
+"若未能在冲刺回合结束前晋级，您将回到所在联盟的初始排名并能够再次获取所有奖励。\n"
 "\n"
-"Если в Ранговом бою вы продемонстрируете неспортивное поведение, победа не будет учтена в прогрессе для получения наград."
+"若您在排位赛中出现违规行为，胜利将不会计入奖励进度。"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "Американские жетоны"
+msgstr "美国代币"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
-msgstr "Флотские жетоны"
+msgstr "舰队代币"
 
 msgid "IDS_REWARD_EVENTUM_9_TITLE"
-msgstr "Складские жетоны"
+msgstr "仓库代币"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Кутузов"
+msgstr "库图佐夫"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Кутузов"
+msgstr "库图佐夫"
 
 msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE"
-msgstr "Контейнер «Элитные бонусы»"
+msgstr "精英加成补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE_SHORT"
-msgstr "Элитные бонусы"
+msgstr "精英加成"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Американские жетоны куплены"
+msgstr "已购买美国代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "Флотские жетоны куплены"
+msgstr "已购买舰队代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
-msgstr "Складские жетоны куплены"
+msgstr "已购买仓库代币"
 
 msgid "IDS_SYS_MSG_OPEN_LOOTBOX"
-msgstr "%(lootboxName)s открыт"
+msgstr "%(lootboxName)s已被打开"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "Получены американские жетоны"
+msgstr "已获得美国代币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
-msgstr "Получены флотские жетоны"
+msgstr "已获得舰队代币"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
-msgstr "Получены складские жетоны"
+msgstr "已获得仓库代币"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "Списаны американские жетоны"
+msgstr "美国代币已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "Списаны флотские жетоны"
+msgstr "舰队代币已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
-msgstr "Списаны складские жетоны"
+msgstr "仓库代币已移除"
 
 msgid "IDS_TIME_LEFT_FOR_LOOTEXP"
-msgstr "Следующий ежедневный контейнер будет доступен через %(_timeLeft)s"
+msgstr "下个每日补给箱将在%(_timeLeft)s后可用"
 
 msgid "IDS_TO_THE_NEXT_LOOTBOX"
-msgstr "Следующий ежедневный контейнер"
+msgstr "下个每日补给箱"
 
 msgid "IDS_TRAININGBATTLE_DESCRIPTION"
-msgstr "Здесь вы можете создать бой вручную."
+msgstr "在这个模式中，您可以手动创建战斗。"
 
 msgid "IDS_TUTORIALBATTLE_DESCRIPTION"
 msgstr ""
-"Сражение, в котором вы можете освоить основы управления и стрельбы.\n"
-"Повторное прохождение доступно первые %(amount)s боёв."
+"学习战舰操控和武器的基本知识。\n"
+"在您的战斗总场次超过%(amount)s场前都能重复完成。"
 
 msgid "IDS_UNAVAILABLE_UNIQUE_ECOBOOST_FOR_PURCHASE"
-msgstr "Элитные бонусы недоступны для покупки"
+msgstr "精英加成不可购买"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_21_0"
-msgstr "Зарабатывайте опыт в боях и получайте до трёх контейнеров ежедневно. Когда вы заработаете достаточно опыта, контейнер будет начислен автоматически."
+msgstr "通过战斗赚取经验，每天可获得最多3个每日补给箱。当您赚取足够的经验时，补给箱将自动发放到您的账号。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_21_1"
-msgstr "Из любого ежедневного контейнера вы можете получить Суперконтейнер с особенно ценными наградами."
+msgstr "在任何每日补给箱中，您都有机会获得超级补给箱，内含特别珍贵的奖励。"
 
 msgid "IDS_WAREHOUSE_LOOTBOXES"
-msgstr "В наличии"
+msgstr "可开启："
