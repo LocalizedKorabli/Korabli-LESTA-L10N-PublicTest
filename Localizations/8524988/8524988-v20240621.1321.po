@@ -98781,7 +98781,7 @@ msgid "IDS_PVPT007_533MM_MK15B"
 msgstr "533 mm Mk 15B"
 
 msgid "IDS_PVP_CONTROLPOINTENABLE"
-msgstr "占领关键区域！"
+msgstr "占领关键区域。占领区域正在收缩！"
 
 msgid "IDS_PVP_CONTROLPOINTENABLESOON"
 msgstr "关键区域1分钟后出现"
@@ -128148,10 +128148,10 @@ msgid "IDS_USE_DYNAMIC_CROSSHAIRS"
 msgstr "使用带有动态水平瞄准线的准星"
 
 msgid "IDS_USE_GUI_EFFECTS"
-msgstr "起火和进水特效"
+msgstr "降低起火和进水特效"
 
 msgid "IDS_USE_GUI_EFFECTS_DESCRIPTION"
-msgstr "显示起火和进水动画效果。关闭可减轻显卡负载。"
+msgstr "起火和进水效果变得不那么明显。减轻显卡负载。"
 
 msgid "IDS_USE_PROMODE"
 msgstr "使用代理模式"
