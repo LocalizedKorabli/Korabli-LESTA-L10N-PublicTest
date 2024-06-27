@@ -1,0 +1,62 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_AUTOPURCHASE_TOOLTIP_DESCRIPTION_EXPENDABLE_SIGNAL"
+msgstr ""
+"Стандартные сигналы будут покупаться автоматически, если вы выходите в бой "
+"с последними сигналами этого типа."
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr ""
+"За достижение уровней Боевого пропуска и в разделе «Ежедневные награды» "
+"до конца обновления 13.6, а также из наборов в Адмиралтействе до конца "
+"обновления 13.7."
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr ""
+"На последовательные наборы с эсминцем X уровня Lynch, с постоянными "
+"камуфляжами для Lynch, эсминца IX уровня Maffitt и эсминца VIII уровня Hogg,"
+" с экономическим комплектом для Hogg, а также на другое имущество до конца "
+"обновления 13.7."
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr ""
+"На крейсер IX уровня «Щербаков» и камуфляж «Блистательный» для него, "
+"на конструкции линкора VII уровня «Полтава», а также на другое имущество "
+"во время проведения события в обновлениях 13.6 и 13.7."
+
+msgid "IDS_CURRENCY_EVENTUM_9"
+msgstr "Корабельные жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
+msgstr ""
+"На случайные наборы с контейнерами «Премиум корабль II–IV», «Премиум "
+"корабль V», «Премиум корабль VI», «Премиум корабль VIII» и «Премиум "
+"корабль IX», очками исследования, контейнерами «Элитные бонусы» и другим "
+"имуществом во время проведения события."
+
+msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
+msgstr ""
+"Стандартные и особые бонусы будут покупаться автоматически, если вы выходите"
+" в бой с последними бонусами этих типов."
+
+msgid "IDS_EVENTUM_9_COLON"
+msgstr "Корабельные жетоны:"
+
+msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_AUTOPURCHASE_CONDITION"
+msgstr ""
+"При включённой автопокупке стандартные и особые бонусы будут покупаться "
+"автоматически, если вы выходите в бой с последними бонусами этих типов."
+
+msgid "IDS_REWARD_EVENTUM_9_TITLE"
+msgstr "Корабельные жетоны"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
+msgstr "Корабельные жетоны куплены"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
+msgstr "Получены корабельные жетоны"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
+msgstr "Списаны корабельные жетоны"

@@ -566,16 +566,10 @@ msgstr "因消极行为受到的惩罚"
 msgid "IDS_ABUSE_STATUS_CONFIRMED_DESCRIPTION"
 msgstr "暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
 
-msgid "IDS_ABUSE_STATUS_CONFIRMED_PUNISHMENT"
-msgstr "暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
-
 msgid "IDS_ABUSE_STATUS_NORMAL"
 msgstr "惩罚已取消"
 
 msgid "IDS_ABUSE_STATUS_NORMAL_DESCRIPTION"
-msgstr "由于遵守游戏规则，您的违规惩罚已取消。"
-
-msgid "IDS_ABUSE_STATUS_NORMAL_PUNISHMENT"
 msgstr "由于遵守游戏规则，您的违规惩罚已取消。"
 
 msgid "IDS_ABUSE_STATUS_SUSPECT"
@@ -583,15 +577,6 @@ msgstr "因消极行为受到的惩罚"
 
 msgid "IDS_ABUSE_STATUS_SUSPECT_DESCRIPTION"
 msgstr "您的名字显示为粉色。若您再次违反规则，将受到更严格的惩罚。您将暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
-
-msgid "IDS_ABUSE_STATUS_SUSPECT_INFO"
-msgstr "您的名字显示为粉色。若您再次违反规则，将受到更严格的惩罚。您将暂时无法进入除联合作战、军团战和战斗训练外的所有战斗模式。"
-
-msgid "IDS_ABUSE_STATUS_SUSPECT_PUNISHMENT"
-msgstr "误伤友军惩罚已生效。每次误伤友军战舰将扣除您的生命值。"
-
-msgid "IDS_ABUSE_STATUS_SUSPECT_PUNISHMENT_INTERACTIVE_MESSAGE"
-msgstr "您受到了消极行为警告。若继续伤害队友，将对您的战舰扣除等量或更高的生命值。"
 
 msgid "IDS_ABUSE_STATUS_WARNING"
 msgstr "违规行为"
@@ -4106,9 +4091,6 @@ msgstr "按昵称查找玩家"
 msgid "IDS_ADVANCED_CREW_STATUS"
 msgstr "老练指挥官"
 
-msgid "IDS_AFFECTED_AMMO_TOOLTIP_TITLE"
-msgstr "武器改进："
-
 msgid "IDS_AFFECTED_CONSUMABLES_TOOLTIP_TITLE"
 msgstr "所强化的消耗品："
 
@@ -4605,9 +4587,6 @@ msgstr "全部成就"
 
 msgid "IDS_ALL_ACHIEVEMENTS_EARNED"
 msgstr "您已经达成目前可获得的全部成就"
-
-msgid "IDS_ALL_DAILY_REWARD_LOOTED_WINDOW_DESCRIPTION"
-msgstr "已集齐本月所有奖励！"
 
 msgid "IDS_ALL_ENEMIES_FROZEN"
 msgstr "敌舰已瘫痪。"
@@ -5823,9 +5802,6 @@ msgstr "聊天行为不当"
 
 msgid "IDS_BAD_IDLE_AFK"
 msgstr "挂机/暂离"
-
-msgid "IDS_BAD_PLAYER"
-msgstr "消极作战"
 
 msgid "IDS_BAJIE"
 msgstr "猪八戒"
@@ -7913,9 +7889,6 @@ msgstr "…"
 
 msgid "IDS_BRUNO_BATTAGLIA"
 msgstr "Bruno Battaglia"
-
-msgid "IDS_BUFF_IMPROVEMENT"
-msgstr "增益"
 
 msgid "IDS_BUFF_NEGATIVE"
 msgstr "减益"
@@ -18959,9 +18932,6 @@ msgstr "对战舰造成的总伤害"
 msgid "IDS_DEATHMATCH_DESCRIPTION"
 msgstr "全歼敌舰"
 
-msgid "IDS_DEBUFF"
-msgstr "减益"
-
 msgid "IDS_DECK"
 msgstr "甲板"
 
@@ -19349,9 +19319,6 @@ msgid "IDS_DESC_PCM030_MAINWEAPON_MOD_I"
 msgstr " "
 
 msgid "IDS_DESC_PCM031_SECONDARYWEAPON_MOD_I"
-msgstr " "
-
-msgid "IDS_DESC_PCM032_POWDERMAGAZINE_MOD_I"
 msgstr " "
 
 msgid "IDS_DESC_PCM033_GUIDANCE_MOD_I"
@@ -21580,15 +21547,6 @@ msgstr "噗噗打气筒"
 msgid "IDS_DOCK_CONSUME_TITLE_PXY508_CRASHCREW_FA2022"
 msgstr "呼呼创可贴"
 
-msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_BURST"
-msgstr "提高主炮射速，能以短间隔进行连发快速齐射。每次连发齐射后的装填时间较长。"
-
-msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_BURST_SEC"
-msgstr ""
-"提高主炮射速以进行连发快速齐射。每次连发齐射后的装填时间较长。\n"
-"\n"
-"修改型炮弹具有与常规炮弹不同的属性。"
-
 msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
 msgstr "允许在最短时间内用主炮连续发射多轮炮弹，而无需重新装弹。每次连续发射后都需要长时间重新装弹。"
 
@@ -21597,12 +21555,6 @@ msgstr "具有与常规炮弹不同的属性。"
 
 msgid "IDS_DOCK_FIRE_MODE_SUBHEADER"
 msgstr "替代射击模式"
-
-msgid "IDS_DOCK_FIRE_MODE_TITLE_BURST"
-msgstr "连发射击"
-
-msgid "IDS_DOCK_FIRE_MODE_TITLE_BURST_SEC"
-msgstr "连发射击和修改型炮弹"
 
 msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
 msgstr "连发射击"
@@ -26054,9 +26006,6 @@ msgstr "获得荣誉成就"
 msgid "IDS_EASTERN_DRAGON_KING"
 msgstr "东海龙王"
 
-msgid "IDS_ECONOMICAL_SIGNAL"
-msgstr "经济信号旗"
-
 msgid "IDS_ECONOMICS_LOOTBOX_DESC"
 msgstr "更多经济奖励"
 
@@ -27154,9 +27103,6 @@ msgstr ""
 
 msgid "IDS_EXTERIOR_TYPE_CAMOUFLAGE"
 msgstr "消耗型涂装"
-
-msgid "IDS_EXTERIOR_TYPE_FLAGS"
-msgstr "信号旗"
 
 msgid "IDS_EXTERIOR_TYPE_MSKIN"
 msgstr "永久涂装"
@@ -30228,12 +30174,6 @@ msgstr "您已达到排名1。通向下一个联盟的晋级圈已经对您开�
 msgid "IDS_GUIDING_TIP_261_HEADER"
 msgstr "晋级圈"
 
-msgid "IDS_GUIDING_TIP_262_DESC"
-msgstr "点击了解详情"
-
-msgid "IDS_GUIDING_TIP_262_HEADER"
-msgstr "为您准备了特殊优惠"
-
 msgid "IDS_GUIDING_TIP_263_DESC"
 msgstr "点击了解详情"
 
@@ -30281,12 +30221,6 @@ msgstr "研发战舰。若您在分支中的前置战舰上没有获取足够的
 
 msgid "IDS_GUIDING_TIP_26_HEADER"
 msgstr "战舰研发"
-
-msgid "IDS_GUIDING_TIP_270_DESC"
-msgstr "前往兵工厂以购买金币、高级账号天数和其他的高级商店物品！"
-
-msgid "IDS_GUIDING_TIP_270_HEADER"
-msgstr "您现在可以通过兵工厂访问高级商店"
 
 msgid "IDS_GUIDING_TIP_271_DESC"
 msgstr "立即驾驶所选战舰进入下一场战斗！"
@@ -32669,9 +32603,6 @@ msgstr "已安装升级品的售价"
 msgid "IDS_INSTALLED_Q"
 msgstr "已安装："
 
-msgid "IDS_INSTALLED_SIGNALS_COUNTER"
-msgstr "已安装的信号旗数"
-
 msgid "IDS_INSTALL_ALL_RECOMMENDED_MODERNIZATIONS"
 msgstr "安装推荐"
 
@@ -32680,12 +32611,6 @@ msgstr "已安装最多数量的升级品"
 
 msgid "IDS_INSTALL_ALL_RECOMMENDED_MODERNIZATIONS_TOOLTIP"
 msgstr "安装此战舰的推荐升级品"
-
-msgid "IDS_INSTALL_ALL_RECOMMENDED_SIGNALS_GROUP"
-msgstr "安装推荐"
-
-msgid "IDS_INSTALL_ALL_SIGNALS_GROUP"
-msgstr "安装全部"
 
 msgid "IDS_INSTALL_AND_LINK_MSKIN"
 msgstr "绑定和安装"
@@ -32701,9 +32626,6 @@ msgstr "在此战舰上安装最佳信号旗"
 
 msgid "IDS_INSTALL_ON"
 msgstr "安装"
-
-msgid "IDS_INSTALL_RECOMMENDED_SIGNALS_BATTLE_GROUP_HINT"
-msgstr "安装适合此战舰的信号旗"
 
 msgid "IDS_INSTALL_RESTRICTION_CAMO"
 msgstr "色彩组合的安装限制"
@@ -33634,9 +33556,6 @@ msgstr "法律信息"
 
 msgid "IDS_LIMITED_SHIPS_HEADER"
 msgstr "战舰数量限制"
-
-msgid "IDS_LIMIT_SIGNALS_COUNTER"
-msgstr "最多可安装的信号旗数"
 
 msgid "IDS_LINDWORM"
 msgstr "Lindwurm"
@@ -35516,17 +35435,8 @@ msgstr "补给箱："
 msgid "IDS_LOOTBOX_GOT"
 msgstr "已获得"
 
-msgid "IDS_LOOTBOX_HINT_0"
-msgstr "补给箱可通过每日赚取的经验来收集。您一天最多可收集3个补给箱。"
-
-msgid "IDS_LOOTBOX_HINT_1"
-msgstr "若您没有手动去收集您的补给箱，它们将会在今天结束时自动发放到您的账号中。"
-
 msgid "IDS_LOOTBOX_HINT_EVENT"
 msgstr "手脚要快！独特的善良和邪恶涂装现正供应中。"
-
-msgid "IDS_LOOTBOX_NOT_AVAILABLE"
-msgstr "补给箱不可用"
 
 msgid "IDS_LOOTBOX_NOT_RECEIVED"
 msgstr "未收到补给箱"
@@ -36094,9 +36004,6 @@ msgstr "最高"
 
 msgid "IDS_MAXIMUM"
 msgstr "最高"
-
-msgid "IDS_MAXIMUM_FLAGS_IS_INSTALLED"
-msgstr "已安装最大数量的信号旗。需移除已安装的信号旗才能安装新的。"
 
 msgid "IDS_MAX_CAUSED_TO_BUILDINGS_DAMAGE"
 msgstr "对陆上设施造成的伤害"
@@ -37293,21 +37200,6 @@ msgstr "参与规则"
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "您可以单独参与，或组成最多3人的小队参与。"
 
-msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_HEADER"
-msgstr "狼群"
-
-msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_1_HEADER"
-msgstr "战斗特点"
-
-msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "一支载有战略物资的敌方运输船队已闯入中立水域，另一支战斗中队正赶来救援。您的任务是突破防御，在援军到达之前摧毁所有运输船。"
-
-msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_2_HEADER"
-msgstr "参与规则"
-
-msgid "IDS_MODAL_WINDOW_PCVO005_OP_11_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "您可以单独参与，也可以组成最多 7 人的小队。"
-
 msgid "IDS_MODAL_WINDOW_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_RULES_HEADER"
 msgstr "特兰西瓦尼亚的最终航行"
 
@@ -37611,9 +37503,6 @@ msgstr "稀有升级品"
 msgid "IDS_MODERNIZATION_3"
 msgstr "精英升级品"
 
-msgid "IDS_MODERNIZATION_BUY_IN_ARMORY_STATUS"
-msgstr "此升级品可在兵工厂购买"
-
 msgid "IDS_MODERNIZATION_COST"
 msgstr "升级花费："
 
@@ -37902,9 +37791,6 @@ msgstr "要学习技能，请将指挥官指派至此类型的战舰上。"
 msgid "IDS_MOUSE_INSTRUCTION_BUY_AND_INSTALL_CAMOUFLAGE"
 msgstr "购买并安装涂装"
 
-msgid "IDS_MOUSE_INSTRUCTION_BUY_AND_INSTALL_SIGNAL"
-msgstr "购买并安装信号旗"
-
 msgid "IDS_MOUSE_INSTRUCTION_CHANGE_CAMO_COLOR"
 msgstr "设置涂装色彩组合"
 
@@ -37919,9 +37805,6 @@ msgstr "前往指挥官技能界面"
 
 msgid "IDS_MOUSE_INSTRUCTION_DISABLE_PREINSTALL_CAMOUFLAGE"
 msgstr "拆卸涂装"
-
-msgid "IDS_MOUSE_INSTRUCTION_DISABLE_PREINSTALL_SIGNAL"
-msgstr "拆卸信号旗"
 
 msgid "IDS_MOUSE_INSTRUCTION_DISABLE_PREVIEW_CAMOUFLAGE"
 msgstr "隐藏涂装"
@@ -37961,9 +37844,6 @@ msgstr "绑定并安装一个涂装"
 
 msgid "IDS_MOUSE_INSTRUCTION_LINK_MULTIBOOST"
 msgstr "绑定永久加成包"
-
-msgid "IDS_MOUSE_INSTRUCTION_PREINSTALL_SIGNAL"
-msgstr "安装信号旗"
 
 msgid "IDS_MOUSE_INSTRUCTION_PREVIEW_CAMOUFLAGE"
 msgstr "显示涂装"
@@ -38493,9 +38373,6 @@ msgstr "荷兰潜艇"
 
 msgid "IDS_NETH_WWII_SA"
 msgstr "Frederik van Hendriks"
-
-msgid "IDS_NEUTRAL_BUFF"
-msgstr "固定战斗属性"
 
 msgid "IDS_NEWBIE_GIFTS_BATTLES_COUNTER_COLON"
 msgstr "战斗场次："
@@ -43242,9 +43119,6 @@ msgstr "127 mm/38 Mk.12（Mk.24 mod.11炮座）"
 msgid "IDS_PAGS178_5IN25_MK27"
 msgstr "127 mm/25 Mk.13（Mk.27炮座）"
 
-msgid "IDS_PAGS206_3IN50_MK21_SUB"
-msgstr "76.2 mm/50 Mk.21（Mk.21炮座）"
-
 msgid "IDS_PAGS528_MK8"
 msgstr "102 mm Mk13"
 
@@ -45781,9 +45655,6 @@ msgstr "战舰的被侦察范围"
 
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYFACTORBYPLANE"
 msgstr "对空被侦察范围"
-
-msgid "IDS_PARAMS_MODIFIER_VISIBILITYFORSUBMARINECOEFF"
-msgstr "潜艇在水下时对战舰的侦察范围"
 
 msgid "IDS_PARAMS_MODIFIER_VISIONDIST"
 msgstr "侦察范围"
@@ -50041,9 +49912,6 @@ msgstr "梅奥"
 msgid "IDS_PAUH617_D7_HULL_STOCK"
 msgstr "法兰德"
 
-msgid "IDS_PAUH618_D7_HULL_TOP"
-msgstr "法兰德(B)"
-
 msgid "IDS_PAUH621_MAHAN_1936"
 msgstr "马汉(A)"
 
@@ -50193,9 +50061,6 @@ msgstr "康科德桥"
 msgid "IDS_PAUH738_D8_HULL_STOCK"
 msgstr "霍格"
 
-msgid "IDS_PAUH739_D8_HULL_TOP"
-msgstr "霍格(B)"
-
 msgid "IDS_PAUH741_ATLANTA_1942"
 msgstr "亚特兰大"
 
@@ -50288,9 +50153,6 @@ msgstr "弗莱彻(B)"
 
 msgid "IDS_PAUH823_FLETCHER_1945"
 msgstr "弗莱彻(C)"
-
-msgid "IDS_PAUH824_D9_HULL_TOP"
-msgstr "马菲特(B)"
 
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "依阿华(A)"
@@ -50899,9 +50761,6 @@ msgstr "Mk7 mod.1"
 msgid "IDS_PAUS614_D7_SUO_STOCK"
 msgstr "Mk7 mod.1"
 
-msgid "IDS_PAUS615_D7_SUO_TOP"
-msgstr "Mk7 mod.2"
-
 msgid "IDS_PAUS621_SUO"
 msgstr "Mk7 mod.1"
 
@@ -50995,9 +50854,6 @@ msgstr "Mk8 mod.2"
 msgid "IDS_PAUS723_D8_SUO_STOCK"
 msgstr "Mk8 mod.1"
 
-msgid "IDS_PAUS724_D8_SUO_TOP"
-msgstr "Mk8 mod.2"
-
 msgid "IDS_PAUS731_SUO"
 msgstr "Mk8 mod.1"
 
@@ -51083,9 +50939,6 @@ msgid "IDS_PAUS821_SUO"
 msgstr "Mk9 mod.1"
 
 msgid "IDS_PAUS822_SUO"
-msgstr "Mk9 mod.2"
-
-msgid "IDS_PAUS823_D9_SUO_TOP"
 msgstr "Mk9 mod.2"
 
 msgid "IDS_PAUS831_SUO_BLACK"
@@ -52338,9 +52191,6 @@ msgstr "102 mm/50 BL Mk.VII（PVI炮座）"
 
 msgid "IDS_PBGS154_4IN_40_MKXII_SI"
 msgstr "102 mm QF Mark XII"
-
-msgid "IDS_PBGS155_3IN_45_20CWT_QF_HA_MARKI_HA_MARKSII"
-msgstr "76 mm/45 20cwt QF HA Mk.I（CPV炮座）"
 
 msgid "IDS_PBGS157_3IN_HA_12PDR"
 msgstr "76 mm/45 20cwt QF HA Mk.I（CPV炮座）"
@@ -62810,9 +62660,6 @@ msgstr "黑暗中的光芒（极难）"
 
 msgid "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_NAME_RESULT_SCREEN"
 msgstr "黑暗中的光芒（极难）"
-
-msgid "IDS_PCVO030_OP_RANDOM_DESCRIPTION"
-msgstr "系统将随机选择一个开放中的行动。"
 
 msgid "IDS_PCVO030_OP_RANDOM_GOAL"
 msgstr "系统将随机选择一个开放中的行动。"
@@ -74457,9 +74304,6 @@ msgstr "150 mm L/55 MPL C/35"
 
 msgid "IDS_PGGS098_15CM_SK_C28_MPL_C_36"
 msgstr "150 mm/55 SK C/28（Dop. MPL C/36炮座）"
-
-msgid "IDS_PGGS101_88MM45_SK_35"
-msgstr "88 mm/45 SK C/35（Ubts LC/35炮座）"
 
 msgid "IDS_PGGS103_150MM_42_SK_C09"
 msgstr "150 mm/45 SK C/09（MPL C/13炮座）"
@@ -90380,12 +90224,6 @@ msgstr "在港口中显示当前时间。"
 
 msgid "IDS_PORT_CUSTOM"
 msgstr "个人"
-
-msgid "IDS_PORT_DRY"
-msgstr "海军基地"
-
-msgid "IDS_PORT_DRY_TOOLTIP"
-msgstr "海军基地港口"
 
 msgid "IDS_PORT_DUNKIRK"
 msgstr "敦刻尔克"
@@ -108205,17 +108043,8 @@ msgstr "除星期五、周末和节假日的特定时间外，未成年儿童禁
 msgid "IDS_RESTRICTION_TYPE_PARENTAL_CONTROL"
 msgstr "您即将达到游戏时间限制。"
 
-msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_PENALTY_DESCRIPTION"
-msgstr "您因下列违规行为而受到惩罚："
-
-msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_PUNISHEMENT_DESCRIPTION"
-msgstr "您因下列违规行为而受到惩罚："
-
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "您在战斗中存在下列违规行为："
-
-msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_RESOURCES_WITHDRAWAL"
-msgstr "您获取的资源不会发放至您的账号。"
 
 msgid "IDS_RETRAINED_FOR"
 msgstr "已被重新训练至"
@@ -113002,20 +112831,8 @@ msgstr "免费补给箱插槽"
 msgid "IDS_REWARD_MOLYBDENUM_TITLE"
 msgstr "军团代币"
 
-msgid "IDS_REWARD_MYSTERYREWARD_DESCRIPTION"
-msgstr "最终奖励目前已被隐藏。您将在作战任务开放时看到它。"
-
-msgid "IDS_REWARD_MYSTERYREWARD_TITLE"
-msgstr "机密文件"
-
 msgid "IDS_REWARD_PARAGONXP_TITLE"
 msgstr "研究点"
-
-msgid "IDS_REWARD_PORTALREWARD_DESCRIPTION"
-msgstr "发放给在“海军霸者”类别作战任务中取得优异战绩的玩家。在活动结果汇总后自动发放给获胜者。"
-
-msgid "IDS_REWARD_PORTALREWARD_TITLE"
-msgstr "特殊奖励"
 
 msgid "IDS_REWARD_PORTAL_DESCRIPTION"
 msgstr "发放给在“海军霸者”类别作战任务中取得优异战绩的玩家。在活动结果汇总后自动发放给获胜者。"
@@ -117577,9 +117394,6 @@ msgstr "由于成功校正火炮射击，战舰的属性已暂时提升。"
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_BATTERY"
 msgstr "战舰状态"
 
-msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_BUFF"
-msgstr "增益"
-
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_CONSUMABLE"
 msgstr "消耗品"
 
@@ -117939,12 +117753,6 @@ msgstr "连发射击"
 
 msgid "IDS_SHIP_PARAM_BURST_FIRE_RELOAD_TIME"
 msgstr "主炮装填时间"
-
-msgid "IDS_SHIP_PARAM_BURST_FIRE_SALVO_COUNT"
-msgstr "每轮连发的射击次数"
-
-msgid "IDS_SHIP_PARAM_BURST_FIRE_SALVO_SHOT_DELAY"
-msgstr "最短射击间隔"
 
 msgid "IDS_SHIP_PARAM_CHARGE_LASERS_MAX_DIST"
 msgstr "激光作用范围"
@@ -121101,12 +120909,6 @@ msgstr "特殊战舰"
 msgid "IDS_SPECIAL_SHIPS_DESCRIPTION"
 msgstr "此战舰可以具有一组不同的属性。战舰能以各种资源兑换或从活动中获得。"
 
-msgid "IDS_SPECIAL_SIGNAL"
-msgstr "特殊信号旗"
-
-msgid "IDS_SPECTATE_ALL_TEAMS"
-msgstr "全部团队"
-
 msgid "IDS_SPECTATE_ALPHA"
 msgstr "Alpha队"
 
@@ -121175,9 +120977,6 @@ msgstr "在战舰之间切换"
 
 msgid "IDS_SPECTATE_SWITCH_SHIP_DESCRIPTION"
 msgstr "可在追踪镜头模式下使用"
-
-msgid "IDS_SPECTATE_SWITCH_TEAM"
-msgstr "选择团队"
 
 msgid "IDS_SPECTATE_SWITCH_TO_CENTER"
 msgstr "将镜头移到画面中央的对象"
@@ -121953,9 +121752,6 @@ msgstr "任务"
 msgid "IDS_STRATEGIC_ACTIONS_TASK_CURRENT"
 msgstr "当前任务"
 
-msgid "IDS_STRATEGIC_ACTIONS_TASK_HINT"
-msgstr "点击查看新年嘉年华活动的任务"
-
 msgid "IDS_STRATEGIC_ACTIONS_TASK_NEXT"
 msgstr "下一个任务"
 
@@ -122531,9 +122327,6 @@ msgstr "超出游戏时长的惩罚已取消"
 msgid "IDS_SYS_MSG_ARC_CHANGE_SIDE"
 msgstr "您已选择团队"
 
-msgid "IDS_SYS_MSG_AUTO_BUY_LOOTBOX"
-msgstr "补给箱收集"
-
 msgid "IDS_SYS_MSG_AUTO_COMPENSATION"
 msgstr "补偿"
 
@@ -122542,9 +122335,6 @@ msgstr "自动安装战舰装备"
 
 msgid "IDS_SYS_MSG_AUTO_OPEN_LOOTBOX"
 msgstr "开启补给箱"
-
-msgid "IDS_SYS_MSG_AUTO_PURCHASE"
-msgstr "获取补给箱"
 
 msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
 msgstr "已获得补给箱"
@@ -122559,9 +122349,6 @@ msgid "IDS_SYS_MSG_BATTLEPASS_RECEIVED"
 msgstr "已获得免费通行证"
 
 msgid "IDS_SYS_MSG_BATTLEPASS_REWARDS_CLAIM"
-msgstr "已获得战斗通行证奖励"
-
-msgid "IDS_SYS_MSG_BATTLEPASS_REWARD_CLAIM"
 msgstr "已获得战斗通行证奖励"
 
 msgid "IDS_SYS_MSG_BATTLEPASS_TYPE_CHANGED"
@@ -122791,9 +122578,6 @@ msgstr "已购买消耗品"
 
 msgid "IDS_SYS_MSG_BUY_ACTIVATE_EXTERIOR_MSKIN"
 msgstr "已购买和绑定涂装"
-
-msgid "IDS_SYS_MSG_BUY_LOOTBOX"
-msgstr "已收集补给箱"
 
 msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_COMPLETED"
 msgstr "已完成战役"
@@ -125669,9 +125453,6 @@ msgstr "主要武器修改型1"
 msgid "IDS_TITLE_PCM031_SECONDARYWEAPON_MOD_I"
 msgstr "辅助武器修改型1"
 
-msgid "IDS_TITLE_PCM032_POWDERMAGAZINE_MOD_I"
-msgstr "弹药库修改型1"
-
 msgid "IDS_TITLE_PCM033_GUIDANCE_MOD_I"
 msgstr "瞄准系统修改型1"
 
@@ -126266,39 +126047,6 @@ msgstr ""
 msgid "IDS_TOOLTIP_HANGARVOLUME"
 msgstr "甲板上的飞机"
 
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_BRAWLBATTLE"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_CLANBATTLE"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_CLUBBATTLE"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_COOPERATIVEBATTLE"
-msgstr "玩家对战电脑"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_EVENTBATTLE"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_PVEBATTLE"
-msgstr "玩家对战电脑"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_RANDOMBATTLE"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_RANKEDBATTLE"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_RANKEDBATTLE_OLD"
-msgstr "玩家对战玩家"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_TRAININGBATTLE"
-msgstr "战斗训练"
-
-msgid "IDS_TOOLTIP_HEADER_DESCRIPTION_TUTORIALBATTLE"
-msgstr "玩家对战电脑"
-
 msgid "IDS_TOOLTIP_HEALTH"
 msgstr "主要战舰参数之一。当生命值变为0时，战舰将被摧毁。"
 
@@ -126460,9 +126208,6 @@ msgstr "这艘战舰为租用的并且会在租用期届满后移除："
 
 msgid "IDS_TOOLTIP_REWARDS_TITLE"
 msgstr "奖励"
-
-msgid "IDS_TOOLTIP_REWARD_NEXT_MONTH"
-msgstr "奖励将在下个月开放。"
 
 msgid "IDS_TOOLTIP_REWARD_TAKEN"
 msgstr "获得奖励"
@@ -127524,12 +127269,6 @@ msgstr "移除此战舰上安装的所有加成"
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
 msgstr "拆卸所有信号旗"
 
-msgid "IDS_UNINSTALL_ALL_SIGNALS_BATTLE_GROUP_HINT"
-msgstr "拆卸此战舰安装的全部信号旗"
-
-msgid "IDS_UNINSTALL_ALL_SIGNALS_GROUP"
-msgstr "拆卸全部"
-
 msgid "IDS_UNINSTALL_ALL_SIGNALS_HINT"
 msgstr "拆卸此战舰上的所有信号旗"
 
@@ -127629,9 +127368,6 @@ msgstr "完成战役中的任务以获得最终大奖。"
 msgid "IDS_UNLOCKS_23"
 msgstr "出售库存中不需要的配件、升级品和其它物品。"
 
-msgid "IDS_UNLOCKS_24"
-msgstr "与其他玩家一起完成剧情任务并对抗电脑。"
-
 msgid "IDS_UNLOCKS_2827"
 msgstr "加入军团——在团队中继续作战！"
 
@@ -127640,9 +127376,6 @@ msgstr "与真实玩家对战。"
 
 msgid "IDS_UNLOCKS_3029"
 msgstr "在兵工厂里购买新的珍贵物品。"
-
-msgid "IDS_UNLOCKS_3103"
-msgstr "与真实玩家对战。"
 
 msgid "IDS_UNLOCKS_3124"
 msgstr "与其他玩家一起完成剧情任务并对抗电脑。"
@@ -127746,15 +127479,6 @@ msgstr "您最多可同时接取三个目标。"
 msgid "IDS_UNLOCKS_DESCRIPTION_23_0"
 msgstr "出售库存中不需要的配件、升级品和其它物品。"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
-msgstr "在“行动”中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的故事元素。"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
-msgstr "完成主要目标即可获得胜利。完成次要目标将获得更多资源。"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
-msgstr "行动的难度取决于队伍中战舰的类型和等级。"
-
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_0"
 msgstr "想要参与军团之间的战斗，您需要先加入军团。"
 
@@ -127778,9 +127502,6 @@ msgstr "您可以获取战舰、港口船位、补给箱、经济加成、升级
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3029_2"
 msgstr "在兵工厂里，您也可以购买金币、高级账号天数，以及更多物品。"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
-msgstr "与真实玩家对战。随机组成队伍。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
 msgstr "在“行动”中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的故事元素。"
@@ -127861,11 +127582,6 @@ msgstr ""
 "<body>您现在已可以使用\n"
 "<h3>库存管理</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_24"
-msgstr ""
-"<body>您现在可以加入\n"
-"<h3>行动</h3></body>"
-
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr ""
 "<body>您现在可以加入\n"
@@ -127880,11 +127596,6 @@ msgid "IDS_UNLOCKS_LEVEL_UP_3029"
 msgstr ""
 "<body>您现在已可以使用\n"
 "<h3>兵工厂</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3103"
-msgstr ""
-"<body>您现在可以加入\n"
-"<h3>随机战</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3124"
 msgstr ""
@@ -127934,9 +127645,6 @@ msgstr "要前往战役界面，点击港口界面左侧的横幅。"
 msgid "IDS_UNLOCKS_LOCATION_23"
 msgstr "库存管理界面只能通过玩家菜单进入。"
 
-msgid "IDS_UNLOCKS_LOCATION_24"
-msgstr "在战斗模式选择屏幕上可用。"
-
 msgid "IDS_UNLOCKS_LOCATION_2827"
 msgstr "军团战和战斗训练可从战斗模式选择界面进入。"
 
@@ -127945,9 +127653,6 @@ msgstr "战斗模式选项位于“加入战斗”按钮的旁边。"
 
 msgid "IDS_UNLOCKS_LOCATION_3029"
 msgstr "要前往兵工厂，点击港口界面左侧的横幅。"
-
-msgid "IDS_UNLOCKS_LOCATION_3103"
-msgstr "战斗模式选择按钮位于“加入战斗”按钮旁边。"
 
 msgid "IDS_UNLOCKS_LOCATION_3124"
 msgstr "可见于战斗模式选择界面。"
@@ -128000,9 +127705,6 @@ msgstr "战役"
 msgid "IDS_UNLOCKS_TITLE_23"
 msgstr "库存管理"
 
-msgid "IDS_UNLOCKS_TITLE_24"
-msgstr "行动"
-
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "军团战"
 
@@ -128011,9 +127713,6 @@ msgstr "随机战"
 
 msgid "IDS_UNLOCKS_TITLE_3029"
 msgstr "兵工厂"
-
-msgid "IDS_UNLOCKS_TITLE_3103"
-msgstr "随机战"
 
 msgid "IDS_UNLOCKS_TITLE_3124"
 msgstr "行动"
@@ -128414,9 +128113,6 @@ msgstr "敌方攻击来袭"
 msgid "IDS_VOLLEY_AIRCARRIER"
 msgstr "敌方攻击来袭"
 
-msgid "IDS_VOLUMETRICCLOUDS"
-msgstr "天空与云层的品质"
-
 msgid "IDS_VOVA_SKRIPACH"
 msgstr "沃瓦叔叔/小提琴手"
 
@@ -128557,9 +128253,6 @@ msgstr "部分所选信号旗不可用"
 
 msgid "IDS_WARNING_USELESS_PERK"
 msgstr "在战舰的选定配置下，此技能效率很低。"
-
-msgid "IDS_WARNING_USELESS_SIGNAL"
-msgstr "在战舰的选定配置下，此信号旗效率很低。"
 
 msgid "IDS_WATCH_EDUCATIONAL_VIDEO"
 msgstr "观赏介绍影片"
@@ -129036,12 +128729,6 @@ msgstr "您将很快进入游戏。"
 
 msgid "IDS_YU_CHENG"
 msgstr "Yu Cheng"
-
-msgid "IDS_ZHOUYU"
-msgstr "周瑜"
-
-msgid "IDS_ZHUGELIANG"
-msgstr "诸葛亮"
 
 msgid "IDS_ZIKAKU"
 msgstr "戈尔贡"

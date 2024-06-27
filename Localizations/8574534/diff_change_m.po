@@ -1,0 +1,52 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_AUTOPURCHASE_TOOLTIP_DESCRIPTION_EXPENDABLE_SIGNAL"
+msgstr "进入战斗时，若所选类型信号旗只剩一个，将自动购买该类型的普通信号旗。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr "通过在13.6版本领取每日奖励或达到一定的战斗通行证等级，以及在13.6、13.7版本于兵工厂的礼包链中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr "用于购买X级驱逐舰林奇，林奇和IX级驱逐舰马菲特的永久涂装，VIII级驱逐舰霍格的永久加成包和永久涂装，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr "用于购买IX级巡洋舰谢尔巴科夫及其永久涂装“辉煌”，VII级战列舰波尔塔瓦的战舰部件，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_9"
+msgstr "战舰代币"
+
+msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
+msgstr "用于购买包含“II-IV级加值战舰”、“V级加值战舰”、“VI级加值战舰”、“VIII级加值战舰”和“IX级加值战舰”补给箱的礼包，研究点，精英加成补给箱，以及其他资源。"
+
+msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
+msgstr "进入战斗时，若所选的普通/特殊加成只剩最后一个，将自动进行购买。"
+
+msgid "IDS_EVENTUM_9_COLON"
+msgstr "战舰代币："
+
+msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_AUTOPURCHASE_CONDITION"
+msgstr "启用自动购买进入战斗时，若所选的普通/特殊加成只剩最后一个，将自动进行购买。"
+
+msgid "IDS_REWARD_EVENTUM_9_TITLE"
+msgstr "战舰代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
+msgstr "已购买战舰代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
+msgstr "已获得战舰代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
+msgstr "战舰代币已移除"
