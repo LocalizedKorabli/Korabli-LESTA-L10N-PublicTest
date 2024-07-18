@@ -1,6 +1,9 @@
 name: sync2gitee
 on:
-  [push, pull_request]
+  push:
+    branches: ["main", "Localizations"]
+  pull_request:
+    branches: ["main", "Localizations"]
 jobs:
   repo-sync:
     env:
