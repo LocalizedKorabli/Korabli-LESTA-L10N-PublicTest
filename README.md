@@ -1,1 +1,1 @@
-# Korabli-LESTA-L10N-PublicTest
+# 战舰世界莱服非官方本地化（PT）
