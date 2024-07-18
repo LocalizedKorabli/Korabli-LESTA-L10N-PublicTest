@@ -1,0 +1,8 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_PARTNERS_LL_OODLE"
+msgstr ""
+"Uses Oodle. Copyright (C) 2008–2024 by Epic Games Tools LLC.\n"
+"Uses Oodle Texture. Copyright (C) 2008–2024 by Epic Games Tools LLC."

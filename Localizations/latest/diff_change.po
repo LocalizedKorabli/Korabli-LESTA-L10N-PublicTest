@@ -1,62 +1,175 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
 
-msgid "IDS_AUTOPURCHASE_TOOLTIP_DESCRIPTION_EXPENDABLE_SIGNAL"
+msgid "IDS_ADVANCED_CREW_STATUS"
+msgstr "Редкий командир"
+
+msgid "IDS_BATTLEPASS_CARD_STATUS_POINTS"
+msgstr "До получения награды:"
+
+msgid "IDS_CHOOSE_SHIP_FOR_FIRST_BATTLE"
+msgstr "Выберите корабль для первого боя"
+
+msgid "IDS_CREW_PANEL_MAX_LEVEL"
+msgstr "[el_left_sm]%(crewLevel)s[el_right_15_sm] Максимальный уровень"
+
+msgid "IDS_CREW_TALENTS_AND_VANITY_TOOLTIP_TITLE"
+msgstr "Национальные таланты и персонализации:"
+
+msgid "IDS_CURRENCY_EVENTUM_10"
+msgstr "Летние жетоны"
+
+msgid "IDS_CURRENCY_EVENTUM_10_GET_DESCRIPTION"
+msgstr "За выполнение боевых задач события в течение ограниченного времени в обновлении 13.7, а также за достижение уровней Боевого пропуска, в разделе «Ежедневные награды» и из наборов в Адмиралтействе до конца обновления 13.7."
+
+msgid "IDS_CURRENCY_EVENTUM_10_SPEND_DESCRIPTION"
+msgstr "На случайные наборы с эсминцем IX уровня Halford и постоянным камуфляжем «Громовая птица» для него, с контейнерами «Премиум корабль VII. Запасы коллекционера», «Премиум корабль VIII. Запасы коллекционера» и с другим имуществом, на контейнеры «Сокровищница флота» до конца обновления 13.7, а также на заполнение шкалы прогресса для получения суперлинкора Maine с постоянным камуфляжем «Курортный» для него в течение ограниченного времени в обновлении 13.7."
+
+msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
+msgstr "Временный ресурс события «Наше лето». С выходом обновления 13.8 жетоны будут списаны без компенсации."
+
+msgid "IDS_CUSTOMROOMSDESCRIPTION1LABEL"
+msgstr "В Тренировочных боях опыт и кредиты не начисляются. Боеприпасы, снаряжение и сигналы не расходуются."
+
+msgid "IDS_ELITE_CREW_STATUS"
+msgstr "Элитный командир"
+
+msgid "IDS_EVENTUM_10_COLON"
+msgstr "Летние жетоны:"
+
+msgid "IDS_GUIDING_TIP_57_DESC"
+msgstr "Продайте имущество, которое вы не используете, чтобы получить кредиты."
+
+msgid "IDS_HIGHEST_RANK"
+msgstr "Максимальный уровень командира"
+
+msgid "IDS_INSTRUCTION_CAMERA_EXCURSION_RESET"
+msgstr "Нажмите, чтобы сбросить положение камеры"
+
+msgid "IDS_MOUSE_INSTRUCTION_GO_TO_PREVIEW"
+msgstr "Перейти к исторической справке о корабле"
+
+msgid "IDS_PARAMS_MODIFIER_AAAURARECEIVEDAMAGECOEFF"
+msgstr "Постоянный урон от ПВО"
+
+msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_CRUISER"
+msgstr "Очки боеспособности за каждый уровень корабля"
+
+msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_DESTROYER"
+msgstr "Очки боеспособности за каждый уровень корабля"
+
+msgid "IDS_PARAMS_MODIFIER_PLANEBUBBLEARMORCOEFF"
+msgstr "Урон от разрывов снарядов ПВО"
+
+msgid "IDS_PARAMS_MODIFIER_PLANEHEALTHPERLEVEL"
+msgstr "Очки боеспособности самолёта за каждый уровень корабля"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPREADMULTIPLIER"
+msgstr "Максимальное рассеивание боеприпасов эскадрилий"
+
+msgid "IDS_PJSD548"
+msgstr "Mika"
+
+msgid "IDS_PJSD548_DESCR"
+msgstr "Как-то раз в лагере «Совёнок» прошёл конкурс по конструированию моделей. Долгие часы работы над чертежами подарили победителям путёвку на пляж, где появился корабль с до боли знакомыми деталями..."
+
+msgid "IDS_PJSD548_FULL"
+msgstr "Mika"
+
+msgid "IDS_PJUA717_ART_MIKA"
+msgstr "127-мм/38 Mk.12 в установке Mk.30 mod.0/mod.1"
+
+msgid "IDS_PJUH731_HULL_MIKA"
+msgstr "Mika"
+
+msgid "IDS_PRUH608_B7_HULL_A"
+msgstr "Адмирал Сенявин"
+
+msgid "IDS_PRUH728_B8_HULL_STOCK"
+msgstr "Адмирал Истомин"
+
+msgid "IDS_PRUH821_B9_HULL_A"
+msgstr "Адмирал Корнилов"
+
+msgid "IDS_REWARD_EVENTUM_10_TITLE"
+msgstr "Летние жетоны"
+
+msgid "IDS_SHIPS_BRANCHES_FEATURES_HINT"
+msgstr "Отличия от других кораблей этого класса соответствующих уровней"
+
+msgid "IDS_SHIPS_BRANCHES_FEATURES_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "Перейти к особенностям ветки кораблей"
+
+msgid "IDS_SHIP_MODIFIER_PXOM103_AIRBARRIER_ENGINE_BOOST"
+msgstr "Повышение манёвренности"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_TALENT"
+msgstr "Национальный талант"
+
+msgid "IDS_SHIP_PARAM_ARTILLERY_MIN_SWITCH_TIME"
+msgstr "Время смены типа снаряда"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE"
+msgstr "Заметность с самолётов"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP"
+msgstr "Заметность с кораблей"
+
+msgid "IDS_SKILL_DESC_DETECTION_AIMING"
+msgstr "Отображается количество противников, которые держат ваш корабль под прицелом орудий главного калибра или которые атакуют вашу эскадрилью орудиями ПВО."
+
+msgid "IDS_SYS_MESSAGE_GROUP_SESSION_STATISTICS_DESCRIPTION"
+msgstr "Статистика боёв за сутки (сбрасывается автоматически каждый день в %(_nextRefreshTime)s МСК)"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
+msgstr "Летние жетоны куплены"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
+msgstr "Получены летние жетоны "
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
+msgstr "Списаны летние жетоны"
+
+msgid "IDS_TALENTS_AND_VANITIES"
+msgstr "Национальные таланты и персонализации"
+
+msgid "IDS_TALENT_CAT_NAME_DEFAULT"
+msgstr "Национальный талант"
+
+msgid "IDS_TIPS_MODULES_DESCRIPTION"
 msgstr ""
-"Стандартные сигналы будут покупаться автоматически, если вы выходите в бой "
-"с последними сигналами этого типа."
+"Модули корабля могут быть выведены из строя.\n"
+"\n"
+"Используйте «Аварийную команду» для мгновенного ремонта повреждённых модулей."
 
-msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr ""
-"За достижение уровней Боевого пропуска и в разделе «Ежедневные награды» "
-"до конца обновления 13.6, а также из наборов в Адмиралтействе до конца "
-"обновления 13.7."
+msgid "IDS_UNIQUE_CREW"
+msgstr "Легендарный командир"
 
-msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr ""
-"На последовательные наборы с эсминцем X уровня Lynch, с постоянными "
-"камуфляжами для Lynch, эсминца IX уровня Maffitt и эсминца VIII уровня Hogg,"
-" с экономическим комплектом для Hogg, а также на другое имущество до конца "
-"обновления 13.7."
+msgid "IDS_UNIQUE_CREW_CAN_NOT_BE_DEMOBOLIZED"
+msgstr "Легендарного командира нельзя демобилизовать"
 
-msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr ""
-"На крейсер IX уровня «Щербаков» и камуфляж «Блистательный» для него, "
-"на конструкции линкора VII уровня «Полтава», а также на другое имущество "
-"во время проведения события в обновлениях 13.6 и 13.7."
+msgid "IDS_UNIQUE_CREW_DESCRIPTION"
+msgstr "Легендарный командир может обладать улучшенными навыками, талантами и возможностью персонализации"
 
-msgid "IDS_CURRENCY_EVENTUM_9"
-msgstr "Корабельные жетоны"
+msgid "IDS_UNIQUE_CREW_STATUS"
+msgstr "Легендарный командир"
 
-msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
-msgstr ""
-"На случайные наборы с контейнерами «Премиум корабль II–IV», «Премиум "
-"корабль V», «Премиум корабль VI», «Премиум корабль VIII» и «Премиум "
-"корабль IX», очками исследования, контейнерами «Элитные бонусы» и другим "
-"имуществом во время проведения события."
+msgid "IDS_UNLOCKS_DESCRIPTION_3029_1"
+msgstr "Вы можете приобрести корабли, слоты в Порту, контейнеры, экономические бонусы, модернизации, сигналы, камуфляжи и нашивки, а также рекрутировать редких и легендарных командиров."
 
-msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
-msgstr ""
-"Стандартные и особые бонусы будут покупаться автоматически, если вы выходите"
-" в бой с последними бонусами этих типов."
+msgid "IDS_USAOVECHKINPREMHELL"
+msgstr "Tsar Alexander"
 
-msgid "IDS_EVENTUM_9_COLON"
-msgstr "Корабельные жетоны:"
-
-msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_AUTOPURCHASE_CONDITION"
-msgstr ""
-"При включённой автопокупке стандартные и особые бонусы будут покупаться "
-"автоматически, если вы выходите в бой с последними бонусами этих типов."
-
-msgid "IDS_REWARD_EVENTUM_9_TITLE"
-msgstr "Корабельные жетоны"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
-msgstr "Корабельные жетоны куплены"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
-msgstr "Получены корабельные жетоны"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
-msgstr "Списаны корабельные жетоны"
+msgid "IDS_USA_ARC_COMPANY_COMMANDER_DESCRIPTION"
+msgstr "Легендарный командир с талантами, персонализациями и улучшенными навыками"

@@ -12,41 +12,164 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.4\n"
 
-msgid "IDS_AUTOPURCHASE_TOOLTIP_DESCRIPTION_EXPENDABLE_SIGNAL"
-msgstr "进入战斗时，若所选类型信号旗只剩一个，将自动购买该类型的普通信号旗。"
+msgid "IDS_ADVANCED_CREW_STATUS"
+msgstr "稀有指挥官"
 
-msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "通过在13.6版本领取每日奖励或达到一定的战斗通行证等级，以及在13.6、13.7版本于兵工厂的礼包链中获得。"
+msgid "IDS_BATTLEPASS_CARD_STATUS_POINTS"
+msgstr "距离获得奖励还需要："
 
-msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "用于购买X级驱逐舰林奇，林奇和IX级驱逐舰马菲特的永久涂装，VIII级驱逐舰霍格的永久加成包和永久涂装，以及其他资源。"
+msgid "IDS_CHOOSE_SHIP_FOR_FIRST_BATTLE"
+msgstr "为您的第一场战斗选择战舰"
 
-msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "用于购买IX级巡洋舰谢尔巴科夫及其永久涂装“辉煌”，VII级战列舰波尔塔瓦的战舰部件，以及其他资源。"
+msgid "IDS_CREW_PANEL_MAX_LEVEL"
+msgstr "[el_left_sm]%(crewLevel)s[el_right_15_sm]最高等级"
 
-msgid "IDS_CURRENCY_EVENTUM_9"
-msgstr "战舰代币"
+msgid "IDS_CREW_TALENTS_AND_VANITY_TOOLTIP_TITLE"
+msgstr "国家天赋和个性化选项："
 
-msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
-msgstr "用于购买包含“II-IV级加值战舰”、“V级加值战舰”、“VI级加值战舰”、“VIII级加值战舰”和“IX级加值战舰”补给箱的礼包，研究点，精英加成补给箱，以及其他资源。"
+msgid "IDS_CURRENCY_EVENTUM_10"
+msgstr "夏季代币"
 
-msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
-msgstr "进入战斗时，若所选的普通/特殊加成只剩最后一个，将自动进行购买。"
+msgid "IDS_CURRENCY_EVENTUM_10_GET_DESCRIPTION"
+msgstr "通过在13.7版本期间完成作战任务、达到战斗通行证等级，以及从每日奖励和兵工厂礼包中获得。"
 
-msgid "IDS_EVENTUM_9_COLON"
-msgstr "战舰代币："
+msgid "IDS_CURRENCY_EVENTUM_10_SPEND_DESCRIPTION"
+msgstr "用于在13.7版本期间购买随机礼包，其中包含IX级驱逐舰哈尔福德及其永久涂装“雷鸟”，“VII级加值战舰”、“VIII级加值战舰”补给箱，以及其他资源。还用于购买“舰队宝库”补给箱、填充进度条以获得带有永久涂装“度假”的超级战列舰缅因。"
 
-msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_AUTOPURCHASE_CONDITION"
-msgstr "启用自动购买进入战斗时，若所选的普通/特殊加成只剩最后一个，将自动进行购买。"
+msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
+msgstr "“我们的夏天”活动的临时资源。13.8版本更新后，代币将被无偿收回。"
 
-msgid "IDS_REWARD_EVENTUM_9_TITLE"
-msgstr "战舰代币"
+msgid "IDS_CUSTOMROOMSDESCRIPTION1LABEL"
+msgstr "在战斗训练中，您不会获得银币或经验，同时也不会消耗弹药、消耗品或信号旗。"
 
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
-msgstr "已购买战舰代币"
+msgid "IDS_ELITE_CREW_STATUS"
+msgstr "精英指挥官"
 
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
-msgstr "已获得战舰代币"
+msgid "IDS_EVENTUM_10_COLON"
+msgstr "夏季代币："
 
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
-msgstr "战舰代币已移除"
+msgid "IDS_GUIDING_TIP_57_DESC"
+msgstr "您可以出售任何不使用的物品以获得银币。"
+
+msgid "IDS_HIGHEST_RANK"
+msgstr "最高等级"
+
+msgid "IDS_INSTRUCTION_CAMERA_EXCURSION_RESET"
+msgstr "点击重置镜头位置"
+
+msgid "IDS_MOUSE_INSTRUCTION_GO_TO_PREVIEW"
+msgstr "查看此战舰的历史资料"
+
+msgid "IDS_PARAMS_MODIFIER_AAAURARECEIVEDAMAGECOEFF"
+msgstr "防空持续伤害"
+
+msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_CRUISER"
+msgstr "每个战舰等级的生命值"
+
+msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_DESTROYER"
+msgstr "每个战舰等级的生命值"
+
+msgid "IDS_PARAMS_MODIFIER_PLANEBUBBLEARMORCOEFF"
+msgstr "敌方防空炮弹爆炸伤害"
+
+msgid "IDS_PARAMS_MODIFIER_PLANEHEALTHPERLEVEL"
+msgstr "每个战舰等级的飞机生命值"
+
+msgid "IDS_PARAMS_MODIFIER_PLANESPREADMULTIPLIER"
+msgstr "中队投弹最大误差"
+
+msgid "IDS_PJSD548"
+msgstr "米卡"
+
+msgid "IDS_PJSD548_DESCR"
+msgstr "索维约克（Совёнок）夏令营举行了一次模型制作比赛。在漫长的图纸设计后，获胜者能得到一次去海边游玩的机会。海边有一艘船，船上的细节让人眼花缭乱……"
+
+msgid "IDS_PJSD548_FULL"
+msgstr "米卡"
+
+msgid "IDS_PJUA717_ART_MIKA"
+msgstr "127-мм/38 Mk.12（Mk.30 mod.0/mod.1炮塔）"
+
+msgid "IDS_PJUH731_HULL_MIKA"
+msgstr "米卡"
+
+msgid "IDS_PRUH608_B7_HULL_A"
+msgstr "谢尼亚文海军上将"
+
+msgid "IDS_PRUH728_B8_HULL_STOCK"
+msgstr "伊斯托明海军上将"
+
+msgid "IDS_PRUH821_B9_HULL_A"
+msgstr "科尔尼洛夫海军上将"
+
+msgid "IDS_REWARD_EVENTUM_10_TITLE"
+msgstr "夏季代币"
+
+msgid "IDS_SHIPS_BRANCHES_FEATURES_HINT"
+msgstr "与对应等级同类型战舰的区别"
+
+msgid "IDS_SHIPS_BRANCHES_FEATURES_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "查看战舰分支特点"
+
+msgid "IDS_SHIP_MODIFIER_PXOM103_AIRBARRIER_ENGINE_BOOST"
+msgstr "机动性提高"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_TALENT"
+msgstr "国家天赋"
+
+msgid "IDS_SHIP_PARAM_ARTILLERY_MIN_SWITCH_TIME"
+msgstr "炮弹类型切换时间"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE"
+msgstr "对空被侦察范围"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP"
+msgstr "对海被侦察范围"
+
+msgid "IDS_SKILL_DESC_DETECTION_AIMING"
+msgstr "在被侦察指示器处，显示正在用主炮瞄准您战舰或是正在用防空炮攻击您中队的战舰数量。"
+
+msgid "IDS_SYS_MESSAGE_GROUP_SESSION_STATISTICS_DESCRIPTION"
+msgstr "每日战斗统计（莫斯科时间%(_nextRefreshTime)s自动重置）"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
+msgstr "已购买夏季代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
+msgstr "已获得夏季代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
+msgstr "夏季代币已移除"
+
+msgid "IDS_TALENTS_AND_VANITIES"
+msgstr "国家天赋和个性化选项"
+
+msgid "IDS_TALENT_CAT_NAME_DEFAULT"
+msgstr "国家天赋"
+
+msgid "IDS_TIPS_MODULES_DESCRIPTION"
+msgstr ""
+"战舰配件可能会受到攻击而瘫痪，可使用伤害控制小组消耗品立即修复被瘫痪的配件。\n"
+"\n"
+"当仅有副炮或防空炮被瘫痪（而未出现火灾、进水、被潜艇声呐脉冲高亮等情况）时，不能使用伤害控制小组消耗品。"
+
+msgid "IDS_UNIQUE_CREW"
+msgstr "传奇指挥官"
+
+msgid "IDS_UNIQUE_CREW_CAN_NOT_BE_DEMOBOLIZED"
+msgstr "传奇指挥官无法被解雇"
+
+msgid "IDS_UNIQUE_CREW_DESCRIPTION"
+msgstr "独特指挥官可拥有强化版技能、国家天赋和个性化选项"
+
+msgid "IDS_UNIQUE_CREW_STATUS"
+msgstr "传奇指挥官"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3029_1"
+msgstr "您可以获取战舰、港口船位、补给箱、经济加成、升级品、信号旗、涂装和补丁，您还可以征募稀有和传奇指挥官。"
+
+msgid "IDS_USAOVECHKINPREMHELL"
+msgstr "Tsar Alexander"
+
+msgid "IDS_USA_ARC_COMPANY_COMMANDER_DESCRIPTION"
+msgstr "传奇指挥官拥有强化版技能、国家天赋和个性化选项"
