@@ -6,7 +6,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
 "Language-Team: \n"
-"Language: ru\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -553,10 +553,10 @@ msgid "IDS_CITADEL_HEALTH_REGENERATION_HEIGHT"
 msgstr "修复战舰核心区伤害的效率较高"
 
 msgid "IDS_COMPLEXITY"
-msgstr "复杂度"
+msgstr "上手难度"
 
 msgid "IDS_COMPLEXITY_COLON"
-msgstr "复杂度："
+msgstr "上手难度："
 
 msgid "IDS_CREW_ASSIGN_SHIP_TEXT"
 msgstr "为战舰指派指挥官"
@@ -1286,16 +1286,16 @@ msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_TITLE_SHORT"
 msgstr "永恒之夏"
 
 msgid "IDS_SHIPS_BRANCHES_CURRENT_PARAMS"
-msgstr "配件"
+msgstr "当前装备"
 
 msgid "IDS_SHIPS_BRANCHES_DEFAULT_PARAMS"
-msgstr "基本特性配件"
+msgstr "标准装备"
 
 msgid "IDS_SHIPS_BRANCHES_TAB_ALL_SHIPS"
-msgstr "分支所有战舰"
+msgstr "此分支所有战舰"
 
 msgid "IDS_SHIP_BRANCHES_FEATURE"
-msgstr "特点"
+msgstr "特性"
 
 msgid "IDS_SHIP_COMPLEXITY_HIGH"
 msgstr "上手难度高"
@@ -1384,7 +1384,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE_AND_SHIP"
 msgstr "对空和对海被侦察性"
 
 msgid "IDS_SHIP_OWN_STATUS"
-msgstr "状态效果"
+msgstr "已拥有此战舰"
 
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_HIGH"
 msgstr "生存性较高"
@@ -1477,10 +1477,10 @@ msgid "IDS_SUBMARINE_SPEED_SURFACE_LOW"
 msgstr "水面航速较低"
 
 msgid "IDS_SUBST_SHIP_TAG_HEADER"
-msgstr "与其他%(_shipLevel)s级%(_shipClass)s的不同之处"
+msgstr "与其他%(_shipLevel)s级%(_shipClass)s的区别"
 
 msgid "IDS_SUBST_SHIP_TAG_HEADER_LEGENDARY"
-msgstr "与其他%(_shipClass)s的不同之处"
+msgstr "与其他%(_shipClass)s的区别"
 
 msgid "IDS_SYS_MSG_CREW_BOUND_TO_NATION"
 msgstr "指挥官国籍已指定"
