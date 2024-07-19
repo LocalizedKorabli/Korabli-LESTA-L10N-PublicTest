@@ -574,7 +574,7 @@ msgid "IDS_CREW_SPECIALIZATION_TO_NATION"
 msgstr "指定国籍："
 
 msgid "IDS_CREW_TRAINING_SHIP_TEXT"
-msgstr "训练指挥官"
+msgstr "训练指挥官，使其适应"
 
 msgid "IDS_CURRENT_SHIP_FEATURES_HINT"
 msgstr "与同等级同类型战舰的区别"

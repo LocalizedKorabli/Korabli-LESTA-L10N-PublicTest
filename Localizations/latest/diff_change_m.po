@@ -130,7 +130,7 @@ msgid "IDS_SKILL_DESC_DETECTION_AIMING"
 msgstr "在被侦察指示器处，显示正在用主炮瞄准您战舰或是正在用防空炮攻击您中队的战舰数量。"
 
 msgid "IDS_SYS_MESSAGE_GROUP_SESSION_STATISTICS_DESCRIPTION"
-msgstr "每日战斗统计（莫斯科时间%(_nextRefreshTime)s自动重置）"
+msgstr "每日战斗统计（北京时间早上10:00自动重置）"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "已购买夏季代币"
