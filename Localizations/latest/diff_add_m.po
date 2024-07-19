@@ -109,10 +109,10 @@ msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_DESTROYERS_LOW"
 msgstr "轰炸机对付驱逐舰效率较低"
 
 msgid "IDS_AVIATION_BOMBERS_HEALTH_HIGH"
-msgstr "轰炸机生存性较高"
+msgstr "轰炸机生存性较好"
 
 msgid "IDS_AVIATION_BOMBERS_HEALTH_LOW"
-msgstr "轰炸机生存性较低"
+msgstr "轰炸机生存性较差"
 
 msgid "IDS_AVIATION_BOMBERS_JET_ATTACKER_SIZE_HIGH"
 msgstr "每个攻击序列中战术轰炸机数量较多"
@@ -121,10 +121,10 @@ msgid "IDS_AVIATION_BOMBERS_JET_ATTACKER_SIZE_LOW"
 msgstr "每个攻击序列中战术轰炸机数量较少"
 
 msgid "IDS_AVIATION_BOMBERS_JET_HEALTH_HIGH"
-msgstr "战术轰炸机生存性较高"
+msgstr "战术轰炸机生存性较好"
 
 msgid "IDS_AVIATION_BOMBERS_JET_HEALTH_LOW"
-msgstr "战术轰炸机生存性较低"
+msgstr "战术轰炸机生存性较差"
 
 msgid "IDS_AVIATION_BOMBERS_JET_PLANES_IN_SQUADRON_HIGH"
 msgstr "战术轰炸机中队飞机数量较多"
@@ -211,10 +211,10 @@ msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_DESTROYERS_LOW"
 msgstr "攻击机对付驱逐舰效率较低"
 
 msgid "IDS_AVIATION_FIGHTERS_HEALTH_HIGH"
-msgstr "攻击机生存性较高"
+msgstr "攻击机生存性较好"
 
 msgid "IDS_AVIATION_FIGHTERS_HEALTH_LOW"
-msgstr "攻击机生存性较低"
+msgstr "攻击机生存性较差"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_ATTACKER_SIZE_HIGH"
 msgstr "每个攻击序列中战术攻击机数量较多"
@@ -223,10 +223,10 @@ msgid "IDS_AVIATION_FIGHTERS_JET_ATTACKER_SIZE_LOW"
 msgstr "每个攻击序列中战术攻击机数量较少"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_HEALTH_HIGH"
-msgstr "战术攻击机生存性较高"
+msgstr "战术攻击机生存性较好"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_HEALTH_LOW"
-msgstr "战术攻击机生存性较低"
+msgstr "战术攻击机生存性较差"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_PLANES_IN_SQUADRON_HIGH"
 msgstr "战术攻击机中队飞机数量较多"
@@ -319,19 +319,19 @@ msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_DESTROYERS_LOW"
 msgstr "弹跳轰炸机对付驱逐舰效率较低"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_HIGH"
-msgstr "弹跳轰炸机生存性较高"
+msgstr "弹跳轰炸机生存性较好"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_LOW"
-msgstr "弹跳轰炸机生存性较低"
+msgstr "弹跳轰炸机生存性较差"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_LOW_SECONDARY"
-msgstr "弹跳轰炸机生存性较低"
+msgstr "弹跳轰炸机生存性较差"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_HEALTH_HIGH"
-msgstr "战术弹跳轰炸机生存性较高"
+msgstr "战术弹跳轰炸机生存性较好"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_HEALTH_LOW"
-msgstr "战术弹跳轰炸机生存性较低"
+msgstr "战术弹跳轰炸机生存性较差"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_PLANES_IN_SQUADRON_HIGH"
 msgstr "战术弹跳轰炸机中队飞机数量较多"
@@ -424,10 +424,10 @@ msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_DESTROYERS_LOW"
 msgstr "鱼雷轰炸机对付驱逐舰效率较低"
 
 msgid "IDS_AVIATION_TORPEDOES_HEALTH_HIGH"
-msgstr "鱼雷轰炸机生存性较高"
+msgstr "鱼雷轰炸机生存性较好"
 
 msgid "IDS_AVIATION_TORPEDOES_HEALTH_LOW"
-msgstr "鱼雷轰炸机生存性较低"
+msgstr "鱼雷轰炸机生存性较差"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_ATTACKER_SIZE_HIGH"
 msgstr "每个攻击序列中战术鱼雷轰炸机数量较多"
@@ -436,10 +436,10 @@ msgid "IDS_AVIATION_TORPEDOES_JET_ATTACKER_SIZE_LOW"
 msgstr "每个攻击序列中战术鱼雷轰炸机数量较少"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_HEALTH_HIGH"
-msgstr "战术鱼雷轰炸机生存性较高"
+msgstr "战术鱼雷轰炸机生存性较好"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_HEALTH_LOW"
-msgstr "战术鱼雷轰炸机生存性较低"
+msgstr "战术鱼雷轰炸机生存性较差"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_PLANES_IN_SQUADRON_HIGH"
 msgstr "战术鱼雷轰炸机中队飞机数量较多"
@@ -608,10 +608,10 @@ msgid "IDS_FLOOD_DAMAGE_LOW"
 msgstr "鱼雷造成进水的伤害较低"
 
 msgid "IDS_FORWARD_ENGINE_FORSAG_HIGH"
-msgstr "引擎增压消耗品对最高航速的加成较高"
+msgstr "加减速能力较高"
 
 msgid "IDS_FORWARD_ENGINE_FORSAG_LOW"
-msgstr "引擎增压消耗品对最高航速的加成较低"
+msgstr "加减速能力较低"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_TOOLTIP_TEXT"
 msgstr "剩余技能点数：%(skillPoints)s"
@@ -647,91 +647,91 @@ msgid "IDS_GUIDING_TIP_310_HEADER"
 msgstr "分支特点"
 
 msgid "IDS_HEALTH_HIGH"
-msgstr "生存性较高"
+msgstr "生存性较好"
 
 msgid "IDS_HEALTH_LOW"
-msgstr "生存性较低"
+msgstr "生存性较差"
 
 msgid "IDS_HIGHEST_ACOUSTIC_TORPEDO_ALPHA_DAMAGE"
-msgstr "声导鱼雷最大伤害"
+msgstr "声导鱼雷伤害最高"
 
 msgid "IDS_HIGHEST_ACOUSTIC_TORPEDO_MAX_DIST"
-msgstr "声导鱼雷最大射程"
+msgstr "声导鱼雷射程最远"
 
 msgid "IDS_HIGHEST_ACOUSTIC_TORPEDO_SPEED"
-msgstr "声导鱼雷最高航速"
+msgstr "声导鱼雷航速最高"
 
 msgid "IDS_HIGHEST_AIR_DEFENSE_DISTANCE"
-msgstr "对空防御最大射程"
+msgstr "对空防御射程最远"
 
 msgid "IDS_HIGHEST_AIR_DEFENSE_DPS"
-msgstr "对空防御最大每秒伤害"
+msgstr "对空防御每秒伤害最高"
 
 msgid "IDS_HIGHEST_BATTERY_CAPACITY"
-msgstr "最大下潜能力"
+msgstr "下潜能力最高"
 
 msgid "IDS_HIGHEST_DISGUISE"
-msgstr "最高隐蔽性"
+msgstr "隐蔽性最好"
 
 msgid "IDS_HIGHEST_HEALTH"
-msgstr "最高生存性"
+msgstr "生存性最好"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AMMO_AP_ALPHA"
-msgstr "穿甲弹最大伤害"
+msgstr "穿甲弹伤害最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AMMO_HE_ALPHA"
-msgstr "高爆弹最大伤害"
+msgstr "高爆弹伤害最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY"
-msgstr "任何距离下主炮最高精度"
+msgstr "任何距离下主炮精度最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AP_PENETRATION"
-msgstr "穿甲弹最高穿甲能力"
+msgstr "穿甲弹穿甲能力最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_BARRELS_NUM"
-msgstr "主炮最大数量"
+msgstr "主炮数量最多"
 
 msgid "IDS_HIGHEST_MAIN_GUN_LONG_DISTANCE_SHOOTING_ACCURACY"
-msgstr "远距离下主炮最高精度"
+msgstr "远距离下主炮精度最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_MAX_DIST"
-msgstr "主炮最大射程"
+msgstr "主炮射程最远"
 
 msgid "IDS_HIGHEST_MAIN_GUN_SHORT_DISTANCE_SHOOTING_ACCURACY"
-msgstr "近距离下主炮最高精度"
+msgstr "近距离下主炮精度最高"
 
 msgid "IDS_HIGHEST_MAIN_GUN_SHOT_DELAY"
-msgstr "主炮最高射速"
+msgstr "主炮射速最高"
 
 msgid "IDS_HIGHEST_MANEUVER"
-msgstr "最高机动性"
+msgstr "机动性最高"
 
 msgid "IDS_HIGHEST_SPEED"
-msgstr "最高航速"
+msgstr "航速最高"
 
 msgid "IDS_HIGHEST_SUBMARINE_SPEED_DEEP_WATER"
-msgstr "最高水下航速"
+msgstr "水下航速最高"
 
 msgid "IDS_HIGHEST_SUBMARINE_SPEED_SURFACE"
-msgstr "最高水面航速"
+msgstr "水面航速最高"
 
 msgid "IDS_HIGHEST_TORPEDO_ALPHA_DAMAGE"
-msgstr "鱼雷最大伤害"
+msgstr "鱼雷伤害最高"
 
 msgid "IDS_HIGHEST_TORPEDO_BARRELS_NUM"
-msgstr "鱼雷发射管最大数量"
+msgstr "鱼雷发射管数量最多"
 
 msgid "IDS_HIGHEST_TORPEDO_MAX_DIST"
-msgstr "鱼雷最大射程"
+msgstr "鱼雷射程最远"
 
 msgid "IDS_HIGHEST_TORPEDO_RELOAD_FAST"
-msgstr "鱼雷最快装填速度"
+msgstr "鱼雷装填速度最快"
 
 msgid "IDS_HIGHEST_TORPEDO_SPEED"
-msgstr "鱼雷最高航速"
+msgstr "鱼雷航速最高"
 
 msgid "IDS_HIGHEST_VISIBILITY_FACTOR"
-msgstr "最低被侦察性"
+msgstr "被侦察性最低"
 
 msgid "IDS_HISTORICAL_INFORMATION"
 msgstr "历史资料"
@@ -1387,10 +1387,10 @@ msgid "IDS_SHIP_OWN_STATUS"
 msgstr "已拥有此战舰"
 
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_HIGH"
-msgstr "生存性较高"
+msgstr "生存性较好"
 
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_LOW"
-msgstr "生存性较低"
+msgstr "生存性较差"
 
 msgid "IDS_SHIP_PREVIEW"
 msgstr "关于战舰"
