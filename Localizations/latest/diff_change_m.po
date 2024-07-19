@@ -88,7 +88,7 @@ msgid "IDS_PJSD548_FULL"
 msgstr "米卡"
 
 msgid "IDS_PJUA717_ART_MIKA"
-msgstr "127-мм/38 Mk.12（Mk.30 mod.0/mod.1炮塔）"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0/mod.1炮塔）"
 
 msgid "IDS_PJUH731_HULL_MIKA"
 msgstr "米卡"

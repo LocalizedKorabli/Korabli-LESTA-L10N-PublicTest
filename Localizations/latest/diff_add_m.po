@@ -115,28 +115,28 @@ msgid "IDS_AVIATION_BOMBERS_HEALTH_LOW"
 msgstr "轰炸机生存性较低"
 
 msgid "IDS_AVIATION_BOMBERS_JET_ATTACKER_SIZE_HIGH"
-msgstr "每个攻击序列中喷气式轰炸机数量较多"
+msgstr "每个攻击序列中战术轰炸机数量较多"
 
 msgid "IDS_AVIATION_BOMBERS_JET_ATTACKER_SIZE_LOW"
-msgstr "每个攻击序列中喷气式轰炸机数量较少"
+msgstr "每个攻击序列中战术轰炸机数量较少"
 
 msgid "IDS_AVIATION_BOMBERS_JET_HEALTH_HIGH"
-msgstr "喷气式轰炸机生存性较高"
+msgstr "战术轰炸机生存性较高"
 
 msgid "IDS_AVIATION_BOMBERS_JET_HEALTH_LOW"
-msgstr "喷气式轰炸机生存性较低"
+msgstr "战术轰炸机生存性较低"
 
 msgid "IDS_AVIATION_BOMBERS_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "喷气式轰炸机中队飞机数量较多"
+msgstr "战术轰炸机中队飞机数量较多"
 
 msgid "IDS_AVIATION_BOMBERS_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "喷气式轰炸机中队飞机数量较少"
+msgstr "战术轰炸机中队飞机数量较少"
 
 msgid "IDS_AVIATION_BOMBERS_JET_SPEED_HIGH"
-msgstr "喷气式轰炸机航速较高"
+msgstr "战术轰炸机航速较高"
 
 msgid "IDS_AVIATION_BOMBERS_JET_SPEED_LOW"
-msgstr "喷气式轰炸机航速较低"
+msgstr "战术轰炸机航速较低"
 
 msgid "IDS_AVIATION_BOMBERS_PLANES_IN_SQUADRON_HIGH"
 msgstr "轰炸机中队飞机数量较多"
@@ -175,10 +175,10 @@ msgid "IDS_AVIATION_BOMB_ATTACK_COUNT_LOW"
 msgstr "轰炸机携带炸弹数量较少"
 
 msgid "IDS_AVIATION_BOMB_TIME_TO_RESTORE_FAST"
-msgstr "轰炸机攻击准备时间较短"
+msgstr "轰炸机整备时间较短"
 
 msgid "IDS_AVIATION_BOMB_TIME_TO_RESTORE_SLOW"
-msgstr "轰炸机攻击准备时间较长"
+msgstr "轰炸机整备时间较长"
 
 msgid "IDS_AVIATION_FIGHTERS_ATTACKER_SIZE_HIGH"
 msgstr "每个攻击序列中攻击机数量较多"
@@ -217,28 +217,28 @@ msgid "IDS_AVIATION_FIGHTERS_HEALTH_LOW"
 msgstr "攻击机生存性较低"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_ATTACKER_SIZE_HIGH"
-msgstr "每个攻击序列中喷气式攻击机数量较多"
+msgstr "每个攻击序列中战术攻击机数量较多"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_ATTACKER_SIZE_LOW"
-msgstr "每个攻击序列中喷气式攻击机数量较少"
+msgstr "每个攻击序列中战术攻击机数量较少"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_HEALTH_HIGH"
-msgstr "喷气式攻击机生存性较高"
+msgstr "战术攻击机生存性较高"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_HEALTH_LOW"
-msgstr "喷气式攻击机生存性较低"
+msgstr "战术攻击机生存性较低"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "喷气式攻击机中队飞机数量较多"
+msgstr "战术攻击机中队飞机数量较多"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "喷气式攻击机中队飞机数量较少"
+msgstr "战术攻击机中队飞机数量较少"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_SPEED_HIGH"
-msgstr "喷气式攻击机航速较高"
+msgstr "战术攻击机航速较高"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_SPEED_LOW"
-msgstr "喷气式攻击机航速较低"
+msgstr "战术攻击机航速较低"
 
 msgid "IDS_AVIATION_FIGHTERS_PLANES_IN_SQUADRON_HIGH"
 msgstr "攻击机中队飞机数量较多"
@@ -283,10 +283,10 @@ msgid "IDS_AVIATION_ROCKET_ATTACK_COUNT_LOW"
 msgstr "攻击机携带火箭弹数量较少"
 
 msgid "IDS_AVIATION_ROCKET_TIME_TO_RESTORE_FAST"
-msgstr "攻击机攻击准备时间较短"
+msgstr "攻击机整备时间较短"
 
 msgid "IDS_AVIATION_ROCKET_TIME_TO_RESTORE_SLOW"
-msgstr "攻击机攻击准备时间较长"
+msgstr "攻击机整备时间较长"
 
 msgid "IDS_AVIATION_SKIP_AP_BOMBS_AVAILABLE"
 msgstr "弹跳轰炸机携带穿甲炸弹"
@@ -328,22 +328,22 @@ msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_LOW_SECONDARY"
 msgstr "弹跳轰炸机生存性较低"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_HEALTH_HIGH"
-msgstr "喷气式弹跳轰炸机生存性较高"
+msgstr "战术弹跳轰炸机生存性较高"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_HEALTH_LOW"
-msgstr "喷气式弹跳轰炸机生存性较低"
+msgstr "战术弹跳轰炸机生存性较低"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "喷气式弹跳轰炸机中队飞机数量较多"
+msgstr "战术弹跳轰炸机中队飞机数量较多"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "喷气式弹跳轰炸机中队飞机数量较少"
+msgstr "战术弹跳轰炸机中队飞机数量较少"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_SPEED_HIGH"
-msgstr "喷气式弹跳轰炸机航速较高"
+msgstr "战术弹跳轰炸机航速较高"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_SPEED_LOW"
-msgstr "喷气式弹跳轰炸机航速较低"
+msgstr "战术弹跳轰炸机航速较低"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_PLANES_IN_SQUADRON_HIGH"
 msgstr "弹跳轰炸机中队飞机数量较多"
@@ -385,10 +385,10 @@ msgid "IDS_AVIATION_SKIP_BOMB_AVAILABLE"
 msgstr "可使用弹跳轰炸机"
 
 msgid "IDS_AVIATION_SKIP_BOMB_TIME_TO_RESTORE_FAST"
-msgstr "弹跳轰炸机攻击准备时间较短"
+msgstr "弹跳轰炸机整备时间较短"
 
 msgid "IDS_AVIATION_SKIP_BOMB_TIME_TO_RESTORE_SLOW"
-msgstr "弹跳轰炸机攻击准备时间较长"
+msgstr "弹跳轰炸机整备时间较长"
 
 msgid "IDS_AVIATION_SKIP_HE_BOMBS_AVAILABLE"
 msgstr "弹跳轰炸机携带高爆炸弹"
@@ -430,28 +430,28 @@ msgid "IDS_AVIATION_TORPEDOES_HEALTH_LOW"
 msgstr "鱼雷轰炸机生存性较低"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_ATTACKER_SIZE_HIGH"
-msgstr "每个攻击序列中喷气式鱼雷轰炸机数量较多"
+msgstr "每个攻击序列中战术鱼雷轰炸机数量较多"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_ATTACKER_SIZE_LOW"
-msgstr "每个攻击序列中喷气式鱼雷轰炸机数量较少"
+msgstr "每个攻击序列中战术鱼雷轰炸机数量较少"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_HEALTH_HIGH"
-msgstr "喷气式鱼雷轰炸机生存性较高"
+msgstr "战术鱼雷轰炸机生存性较高"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_HEALTH_LOW"
-msgstr "喷气式鱼雷轰炸机生存性较低"
+msgstr "战术鱼雷轰炸机生存性较低"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "喷气式鱼雷轰炸机中队飞机数量较多"
+msgstr "战术鱼雷轰炸机中队飞机数量较多"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "喷气式鱼雷轰炸机中队飞机数量较少"
+msgstr "战术鱼雷轰炸机中队飞机数量较少"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_SPEED_HIGH"
-msgstr "喷气式鱼雷轰炸机航速较高"
+msgstr "战术鱼雷轰炸机航速较高"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_SPEED_LOW"
-msgstr "喷气式鱼雷轰炸机航速较低"
+msgstr "战术鱼雷轰炸机航速较低"
 
 msgid "IDS_AVIATION_TORPEDOES_PLANES_IN_SQUADRON_HIGH"
 msgstr "鱼雷轰炸机中队飞机数量较多"
@@ -499,10 +499,10 @@ msgid "IDS_AVIATION_TORPEDO_SPEED_LOW"
 msgstr "机载鱼雷航速较低"
 
 msgid "IDS_AVIATION_TORPEDO_TIME_TO_RESTORE_FAST"
-msgstr "鱼雷轰炸机攻击准备时间较短"
+msgstr "鱼雷轰炸机整备时间较短"
 
 msgid "IDS_AVIATION_TORPEDO_TIME_TO_RESTORE_SLOW"
-msgstr "鱼雷轰炸机攻击准备时间较长"
+msgstr "鱼雷轰炸机整备时间较长"
 
 msgid "IDS_BATTERY_CAPACITY_HIGH"
 msgstr "下潜能力较高"
@@ -1173,7 +1173,7 @@ msgid "IDS_PHUA502_ART_KORTENAER"
 msgstr "120 mm/45 QF Mk.IX（CPXXII炮座）"
 
 msgid "IDS_PHUE502_ENG_KORTENAER"
-msgstr "推进系统：40 000马力"
+msgstr "推进系统：40000马力"
 
 msgid "IDS_PHUH503_HULL_KORTENAER"
 msgstr "科顿艾尔"
@@ -1228,7 +1228,7 @@ msgstr "533 mm Mk15"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS_AUTO"
 msgstr ""
-"以副炮炮弹命中敌舰，每次命中可提高完成进度。\n"
+"以副炮炮弹命中敌舰，以提高完成进度。\n"
 "若您不活跃，将开始损失进度。当您的进度达到100%时，作战指令将自动启用。"
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_0_COMMON_GROUP_TITLE_FULL"
@@ -1250,7 +1250,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE"
-msgstr "舰队宝库补给箱"
+msgstr "“舰队宝库”补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE_SHORT"
 msgstr "舰队宝库"
@@ -1345,7 +1345,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_WEAPONS_RELOAD_FACTOR"
 msgstr "装填速度提高"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DAMAGE_RESIST"
-msgstr "伤害抵御能力"
+msgstr "伤害降低"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ATBA"
 msgstr "副炮伤害降低"
@@ -1375,7 +1375,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_WEAPON_DAMAGE"
 msgstr "伤害提高"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PLANE_SPAWN_TIME"
-msgstr "中队整备加速"
+msgstr "中队整备速度提高"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
 msgstr "对空被侦察性"
