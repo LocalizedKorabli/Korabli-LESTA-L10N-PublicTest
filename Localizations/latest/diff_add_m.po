@@ -599,7 +599,7 @@ msgid "IDS_FIRST_BATTLE_DESCRIPTION"
 msgstr "您可以驾驶其他国家的战舰出战。"
 
 msgid "IDS_FLOOD_CHANCE_FACTOR_TORPEDO_CHANGED"
-msgstr "鱼雷造成进水的几率已增加"
+msgstr "鱼雷造成进水的几率已提高"
 
 msgid "IDS_FLOOD_DAMAGE_HIGH"
 msgstr "鱼雷造成进水的伤害较高"
@@ -608,10 +608,10 @@ msgid "IDS_FLOOD_DAMAGE_LOW"
 msgstr "鱼雷造成进水的伤害较低"
 
 msgid "IDS_FORWARD_ENGINE_FORSAG_HIGH"
-msgstr "加减速能力较高"
+msgstr "加速能力较高"
 
 msgid "IDS_FORWARD_ENGINE_FORSAG_LOW"
-msgstr "加减速能力较低"
+msgstr "加速能力较低"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_TOOLTIP_TEXT"
 msgstr "剩余技能点数：%(skillPoints)s"
@@ -869,10 +869,10 @@ msgid "IDS_MAIN_GUN_SHOT_DELAY_LOW"
 msgstr "主炮射速较低"
 
 msgid "IDS_MANEUVER_HIGH"
-msgstr "机动性较高"
+msgstr "机动性较好"
 
 msgid "IDS_MANEUVER_LOW"
-msgstr "机动性较低"
+msgstr "机动性较差"
 
 msgid "IDS_MOUSE_INSTRUCTION_SHIP_FEATURES"
 msgstr "查看战舰特性"
@@ -1396,7 +1396,7 @@ msgid "IDS_SHIP_PREVIEW"
 msgstr "关于战舰"
 
 msgid "IDS_SHIP_SPECIAL_UNIVERSAL"
-msgstr "在战斗中的角色"
+msgstr "可胜任多种战斗任务"
 
 msgid "IDS_SHIP_TAG_AIRCARRIER"
 msgstr "航空母舰"
@@ -1555,10 +1555,10 @@ msgid "IDS_VASILY_YUTOV"
 msgstr "Vasily Yutov"
 
 msgid "IDS_VISIBILITY_FACTOR_HIGH"
-msgstr "隐蔽性较高"
+msgstr "隐蔽性较好"
 
 msgid "IDS_VISIBILITY_FACTOR_LOW"
-msgstr "隐蔽性较低"
+msgstr "隐蔽性较差"
 
 msgid "IDS_YULIA_SUMMER"
 msgstr "尤莉娅（Юля）"
