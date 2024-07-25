@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_PGSB519"
+msgstr "Lothringen"
+
+msgid "IDS_PGSB519_DESCR"
+msgstr "Доктрина Кригсмарине предусматривала рейдерские действия крупных кораблей в Атлантике против британской торговли и снабжения. С этой целью с конца 1920-х — начала 1930-х гг. разрабатывались корабли, в том числе авианесущие с артиллерийским вооружением крейсеров и линкоров. Проект Atlantik-Flugzeugkreuzer A-III предполагал установку двух трёхорудийных башен крупного калибра."
+
+msgid "IDS_PGSB519_FULL"
+msgstr "Lothringen"
+
+msgid "IDS_PGSB519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB519_YEAR"
+msgstr "1942 г."

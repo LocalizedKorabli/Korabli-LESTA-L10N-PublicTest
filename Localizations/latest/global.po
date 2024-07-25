@@ -31076,7 +31076,7 @@ msgid "IDS_GUIDING_TIP_307_HEADER"
 msgstr "分支特点"
 
 msgid "IDS_GUIDING_TIP_308_DESC"
-msgstr "这里显示了此分支战舰的平均上手难度，您也可以单独查看每艘战舰的上手难度。"
+msgstr "这里显示了此分支战舰的总体上手难度，您也可以单独查看每艘战舰的上手难度。"
 
 msgid "IDS_GUIDING_TIP_308_HEADER"
 msgstr "上手难度"
@@ -76867,6 +76867,21 @@ msgstr "1"
 msgid "IDS_PGSB509_YEAR"
 msgstr "1945"
 
+msgid "IDS_PGSB510"
+msgstr "洛林"
+
+msgid "IDS_PGSB510_DESCR"
+msgstr "纳粹德国海军学说设想在大西洋对英国贸易和补给发动由大型战舰带领的突袭行动。为此，从20世纪20年代末到30年代初，其设计了多种战舰，包括搭载巡洋舰和战列舰标准火炮的航空母舰。Atlantik-Flugzeugkreuzer A-III项目计划安装两座三联装大口径主炮炮塔。"
+
+msgid "IDS_PGSB510_FULL"
+msgstr "洛林"
+
+msgid "IDS_PGSB510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB510_YEAR"
+msgstr "1942"
+
 msgid "IDS_PGSB517"
 msgstr "AL海因里希"
 
@@ -76896,21 +76911,6 @@ msgstr "1"
 
 msgid "IDS_PGSB518_YEAR"
 msgstr "1945"
-
-msgid "IDS_PGSB519"
-msgstr "洛林"
-
-msgid "IDS_PGSB519_DESCR"
-msgstr "纳粹德国海军学说设想在大西洋对英国贸易和补给发动由大型战舰带领的突袭行动。为此，从1920年代末到1930年代初，其设计了包括搭载舰炮的巡洋舰和战列舰在内的多种舰艇。Atlantik-Flugzeugkreuzer A-III项目计划安装两座三联装大口径炮塔。"
-
-msgid "IDS_PGSB519_FULL"
-msgstr "洛林"
-
-msgid "IDS_PGSB519_NUMBER"
-msgstr "1"
-
-msgid "IDS_PGSB519_YEAR"
-msgstr "1942"
 
 msgid "IDS_PGSB528"
 msgstr "安哈尔特"
@@ -79756,7 +79756,7 @@ msgid "IDS_PGUS817_SUO_BLACK_POMMERN"
 msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS818_SUO_LOTHRINGEN"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 10 Mod. 1"
 
 msgid "IDS_PGUS819_C9_SUO_STOCK"
 msgstr "FKS Typ 9"
@@ -123574,6 +123574,12 @@ msgstr "已购买志愿者代币"
 
 msgid "IDS_SYS_MSG_BOUGHT_SHIP"
 msgstr "已购买战舰"
+
+msgid "IDS_SYS_MSG_BOUGHT_SHIP_COMPONENT"
+msgstr "已购买战舰部件"
+
+msgid "IDS_SYS_MSG_BOUGHT_SHIP_MATERIAL"
+msgstr "已购买备件"
 
 msgid "IDS_SYS_MSG_BOUGHT_SKIN"
 msgstr "已购买永久涂装"
