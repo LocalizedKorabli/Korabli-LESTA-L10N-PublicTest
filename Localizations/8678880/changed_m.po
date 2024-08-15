@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_GUIDING_TIP_308_DESC"
+msgstr "这里显示了此分支战舰的总体上手难度，您也可以单独查看每艘战舰的上手难度。"
+
+msgid "IDS_PGUS818_SUO_LOTHRINGEN"
+msgstr "FKS Typ 10 Mod. 1"

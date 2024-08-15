@@ -10,10 +10,187 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Generator: Poedit 3.4.4\n"
 
-msgid "IDS_GUIDING_TIP_308_DESC"
-msgstr "这里显示了此分支战舰的总体上手难度，您也可以单独查看每艘战舰的上手难度。"
+msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
+msgstr "一起组成小队游玩时，征募人和海军战友必须获得总计至少4个“占领”或“协助占领”勋带。"
 
-msgid "IDS_PGUS818_SUO_LOTHRINGEN"
-msgstr "FKS Typ 10 Mod. 1"
+msgid "IDS_ACOUSTIC_TORPEDO_ALPHA_DAMAGE_HIGH"
+msgstr "单枚声导鱼雷伤害较高"
+
+msgid "IDS_ACOUSTIC_TORPEDO_ALPHA_DAMAGE_LOW"
+msgstr "单枚声导鱼雷伤害较低"
+
+msgid "IDS_AFFECTED_CONSUMABLES_TOOLTIP_TITLE"
+msgstr "所改变的消耗品："
+
+msgid "IDS_ASYMM_2POINT_COOP"
+msgstr "非对称战斗"
+
+msgid "IDS_ASYMM_3POINT_COOP"
+msgstr "非对称战斗"
+
+msgid "IDS_ASYMM_COOP_SPECIAL"
+msgstr "非对称战斗"
+
+msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_HIGH"
+msgstr "单枚炸弹伤害较高"
+
+msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_LOW"
+msgstr "单枚炸弹伤害较低"
+
+msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_HIGH"
+msgstr "单枚火箭弹伤害较高"
+
+msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_LOW"
+msgstr "单枚火箭弹伤害较低"
+
+msgid "IDS_AVIATION_TORPEDO_ALPHA_DAMAGE_HIGH"
+msgstr "单枚鱼雷伤害较高"
+
+msgid "IDS_AVIATION_TORPEDO_ALPHA_DAMAGE_LOW"
+msgstr "单枚鱼雷伤害较低"
+
+msgid "IDS_BATTLEPASS_PURCHASE_GOLD_TEXT"
+msgstr ""
+"您可购买含有金币的礼包\n"
+"以获取高级通行证和季节加成"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "您可以获得进步代币"
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "进步代币"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr "通过在活动期间完成作战任务获得；在13.8-13.9版本，通过于兵工厂礼包链中获得；在13.8版本结束前，通过达到战斗通行证等级或领取每日奖励获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr "用于兑换包含稀有/精英信号旗、超级补给箱、稀有/精英加成、Lesta Games补给箱、“舰队宝库”补给箱、“未来回响”补给箱、X级/超级战舰永久加成包，以及其他资源的卡片。"
+
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "“未来回响”活动的临时资源，13.10版本发布后，代币将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_5"
+msgstr "翡翠代币"
+
+msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
+msgstr "通过于13.8-25.1版本活动期间，在有限时间内完成作战任务获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
+msgstr "在25.1版本结束前，用于兑换包含VII级战列舰科林伍德的战舰部件、“稀有加成”补给箱、“西游记”补给箱、“农历新年”补给箱、稀有信号旗以及超级补给箱的随机礼包链。"
+
+msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
+msgstr "“翡翠季”活动的临时资源。25.2版本发布后，代币将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_7"
+msgstr "骑士代币"
+
+msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
+msgstr "于13.8-13.9版本活动期间，通过在有限时间内完成作战任务、以及通过购买兵工厂礼包链获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
+msgstr "用于在13.8-13.9版本期间，兑换VIII级驱逐舰Z-32、Z-33和Z-38以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
+msgstr "“北海骑士团”活动的临时资源。13.10版本发布后，代币将被无偿收回。"
+
+msgid "IDS_EVENTUM_2_COLON"
+msgstr "进步代币："
+
+msgid "IDS_EVENTUM_5_COLON"
+msgstr "翡翠代币："
+
+msgid "IDS_EVENTUM_7_COLON"
+msgstr "骑士代币："
+
+msgid "IDS_INSTALL_RESTRICTION_MSKIN"
+msgstr "可安装在大部分战舰上："
+
+msgid "IDS_MAIN_GUN_AMMO_AP_ALPHA_HIGH"
+msgstr "单枚穿甲弹伤害较高"
+
+msgid "IDS_MAIN_GUN_AMMO_AP_ALPHA_LOW"
+msgstr "单枚穿甲弹伤害较低"
+
+msgid "IDS_MAIN_GUN_AMMO_HE_ALPHA_HIGH"
+msgstr "单枚高爆弹伤害较高"
+
+msgid "IDS_MAIN_GUN_AMMO_HE_ALPHA_LOW"
+msgstr "单枚高爆弹伤害较低"
+
+msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "与其他玩家一起对抗电脑玩家。您的对手虽然在数量上占优，但作战实力不如您。"
+
+msgid "IDS_PCVE020_DESCRIPTION"
+msgstr "对抗电脑玩家，其虽然在数量上占优，但作战实力较弱。"
+
+msgid "IDS_PGPR009_LOTHRINGEN"
+msgstr "Wfr.Gr.8.8E"
+
+msgid "IDS_PGSD548_YEAR"
+msgstr "1943"
+
+msgid "IDS_PGSD558_YEAR"
+msgstr "1943"
+
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "进步代币"
+
+msgid "IDS_REWARD_EVENTUM_5_TITLE"
+msgstr "翡翠代币"
+
+msgid "IDS_REWARD_EVENTUM_7_TITLE"
+msgstr "骑士代币"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE"
+msgstr "Dom.ru补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE_SHORT"
+msgstr "Dom.ru"
+
+msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
+msgstr "非对称战斗"
+
+msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
+msgstr "洛林建造完成"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DAMAGE_RESIST"
+msgstr "生存性提升"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "已购买进步代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
+msgstr "已购买翡翠代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
+msgstr "已购买骑士代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_BP_POINTS"
+msgstr "已获得战斗通行证点数"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "已获得进步代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
+msgstr "已获得翡翠代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
+msgstr "已获得骑士代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "进步代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
+msgstr "翡翠代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
+msgstr "骑士代币已移除"
+
+msgid "IDS_TORPEDO_ALPHA_DAMAGE_HIGH"
+msgstr "单枚鱼雷伤害较高"
+
+msgid "IDS_TORPEDO_ALPHA_DAMAGE_LOW"
+msgstr "单枚鱼雷伤害较低"

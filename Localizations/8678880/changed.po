@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "IDS_GUIDING_TIP_308_DESC"
+msgstr "Здесь показана сложность освоения ветки кораблей. Сложность можно посмотреть и у каждого корабля отдельно."
+
+msgid "IDS_PGUS818_SUO_LOTHRINGEN"
+msgstr "FKS Typ 10 Mod. 1"
