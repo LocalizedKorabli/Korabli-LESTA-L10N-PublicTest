@@ -84,7 +84,7 @@ msgid "IDS_GUIDING_TIP_311_HEADER"
 msgstr "战舰类型"
 
 msgid "IDS_GUIDING_TIP_312_DESC"
-msgstr "将鼠标悬停在战舰类型上，了解其特性及在战斗中的作用。"
+msgstr "将鼠标悬停在战舰类型上，了解其特性及在战斗中的角色定位。"
 
 msgid "IDS_GUIDING_TIP_312_HEADER"
 msgstr "战舰特性"
@@ -561,19 +561,19 @@ msgid "IDS_RIBBON_SUBRIBBON_DROP"
 msgstr "拾取增益"
 
 msgid "IDS_ROLE_SHIP_TYPE_AIRCARRIER"
-msgstr "作用：输出与侦察"
+msgstr "角色定位：输出者与侦察者"
 
 msgid "IDS_ROLE_SHIP_TYPE_BATTLESHIP"
-msgstr "作用：输出与承伤"
+msgstr "角色定位：输出者与承伤者"
 
 msgid "IDS_ROLE_SHIP_TYPE_CRUISER"
-msgstr "作用：输出与支援"
+msgstr "角色定位：输出者与支援者"
 
 msgid "IDS_ROLE_SHIP_TYPE_DESTROYER"
-msgstr "作用：侦察与支援"
+msgstr "角色定位：侦察者与支援者"
 
 msgid "IDS_ROLE_SHIP_TYPE_SUBMARINE"
-msgstr "作用：输出"
+msgstr "角色定位：输出者"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
 msgstr "进步先驱"
@@ -585,7 +585,7 @@ msgid "IDS_SHIP_SPECIAL_HYBRID"
 msgstr "混合型战舰"
 
 msgid "IDS_SHIP_TYPE_COMMON_DESCRIPTION"
-msgstr "此类型战舰的共同特点，每艘战舰都拥有独特的参数。"
+msgstr "以上为此类型战舰的典型特性，每艘战舰都拥有其独特的参数。"
 
 msgid "IDS_SHIP_TYPE_PARAM_COMBAT_RANGE"
 msgstr "作战距离"
