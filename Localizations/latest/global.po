@@ -935,22 +935,22 @@ msgid "IDS_ACCUMULATE_ELITE_EXP"
 msgstr "用由高等级指挥官驾驶的战舰在战斗中获取经验。"
 
 msgid "IDS_ACCURACY"
-msgstr "精度"
+msgstr "命中率"
 
 msgid "IDS_ACCURACY_ATBA"
-msgstr "副炮精度"
+msgstr "副炮命中率"
 
 msgid "IDS_ACCURACY_ATBA_TOOLTIP"
 msgstr "副炮炮弹命中率"
 
 msgid "IDS_ACCURACY_MAIN"
-msgstr "主炮精度"
+msgstr "主炮命中率"
 
 msgid "IDS_ACCURACY_MAIN_TOOLTIP"
 msgstr "主炮炮弹命中率"
 
 msgid "IDS_ACCURACY_TORPEDO"
-msgstr "鱼雷精度"
+msgstr "鱼雷命中率"
 
 msgid "IDS_ACCURACY_TORPEDO_TOOLTIP"
 msgstr "鱼雷命中率"
@@ -13030,7 +13030,7 @@ msgid "IDS_CREW_ASSIGNED_TO_SELECT_SHIP"
 msgstr "已指派至："
 
 msgid "IDS_CREW_ASSIGN_SHIP_TEXT"
-msgstr "为战舰指派指挥官"
+msgstr "将指挥官指派到"
 
 msgid "IDS_CREW_CAN_NOT_BE_DEMOBOLIZED"
 msgstr "此指挥官无法被解雇"
@@ -18655,7 +18655,7 @@ msgid "IDS_CREW_SKILL_UNSELECT_INSTRUCTION"
 msgstr "取消技能选定"
 
 msgid "IDS_CREW_SPECIALIZATION_TO_NATION"
-msgstr "指定国籍："
+msgstr "国籍："
 
 msgid "IDS_CREW_SPECIALIZATION_TO_SELECT_SHIP"
 msgstr "已训练至："
@@ -19164,7 +19164,7 @@ msgid "IDS_CURRENCY_SANTIUM_STATUS"
 msgstr "特殊资源"
 
 msgid "IDS_CURRENCY_SESSION_STATS"
-msgstr "今日战斗总收益"
+msgstr "战斗收益"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr "战舰部件—%(_shipName)s"
@@ -87900,7 +87900,7 @@ msgid "IDS_PJSD107"
 msgstr "晓"
 
 msgid "IDS_PJSD107_DESCR"
-msgstr "第三批“特殊型”驱逐舰的特点是略微缩短的舰体和减少的排水量。实现的方式是提高锅炉的蒸汽容量，从而减少其数量。赤月号于1930年2月铺设龙骨，它两年后被分配到第6驱逐舰编队。二战期间，它掩护了日军在马来亚、荷属东印度群岛和菲律宾的登陆，它参加了所罗门群岛战役。1942年，赤月号在萨沃岛海战中被一支由美国海军巡洋舰和驱逐舰组成的特遣部队击沉。"
+msgstr "第三批“特殊型”驱逐舰的特点是略微缩短的舰体和减少的排水量。实现的方式是提高锅炉的蒸汽容量，从而减少其数量。晓于1930年2月铺设龙骨，它两年后被分配到第6驱逐舰编队。二战期间，它掩护了日军在马来亚、荷属东印度群岛和菲律宾的登陆，它参加了所罗门群岛战役。1942年，晓在萨沃岛海战中被一支由美国海军巡洋舰和驱逐舰组成的特遣部队击沉。"
 
 msgid "IDS_PJSD107_FULL"
 msgstr "晓"
@@ -116267,7 +116267,7 @@ msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
 msgstr "进步先驱"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_NAME"
-msgstr "罢工——取得进步的关键"
+msgstr "进步源于艰苦奋斗"
 
 msgid "IDS_SECOND_SOVIETBBARC_NAME"
 msgstr "主炮"
@@ -121174,7 +121174,7 @@ msgid "IDS_SKILL_PLANES_TORPEDO_SPEED"
 msgstr "机载鱼雷加速"
 
 msgid "IDS_SKILL_PLANES_TORPEDO_UW_REDUCED"
-msgstr "近发引信"
+msgstr "鱼雷/水雷近发引信"
 
 msgid "IDS_SKILL_SUBMARINE_ALT_TORPEDO"
 msgstr "Alt Torpedoes 2"
@@ -126104,7 +126104,7 @@ msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "科学无国界"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
-msgstr "各国科学家，联合起来！"
+msgstr "全世界的科学家，联合起来！"
 
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "荣耀的名字"
@@ -127854,7 +127854,7 @@ msgid "IDS_TOOLTIP_STATUS_NEED_RETRAINING_TO_ASSIGN"
 msgstr "要将指挥官移至这艘战舰，则需要重新训练。"
 
 msgid "IDS_TOOLTIP_STATUS_NO_NATION_AND_SPECIALIZATION_CREW"
-msgstr "未指定国籍。未进行训练。"
+msgstr "未指定国籍，未进行训练。"
 
 msgid "IDS_TOOLTIP_STATUS_NO_SPECIALIZATION_CREW"
 msgstr "未进行训练"
@@ -129575,7 +129575,7 @@ msgid "IDS_VICTORY"
 msgstr "胜利"
 
 msgid "IDS_VICTORY_PERCENT"
-msgstr "胜利"
+msgstr "胜率"
 
 msgid "IDS_VICTORY_PERCENT_TOOLTIP"
 msgstr "获胜战斗场次与战斗总场次的比率"
