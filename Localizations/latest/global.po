@@ -92643,7 +92643,7 @@ msgid "IDS_PREMIUM_ACCOUNT_PLUS_XP_TOOLTIP"
 msgstr "每场战斗后额外获得%(coeffXP)s经验"
 
 msgid "IDS_PREMIUM_ACCOUNT_STATUS_ACTIVE"
-msgstr "剩余过期时间：%(days)s"
+msgstr "有效期：%(days)s"
 
 msgid "IDS_PREMIUM_ACCOUNT_STATUS_NOT_ACTIVE"
 msgstr "尚未购买"
@@ -129497,10 +129497,10 @@ msgid "IDS_USE_DYNAMIC_CROSSHAIRS"
 msgstr "使用带有动态水平瞄准线的准星"
 
 msgid "IDS_USE_GUI_EFFECTS"
-msgstr "起火和进水特效"
+msgstr "简化起火/进水特效"
 
 msgid "IDS_USE_GUI_EFFECTS_DESCRIPTION"
-msgstr "显示起火和进水动画效果。关闭可减轻显卡负载。"
+msgstr "用相应颜色的半透明静态遮罩来代替起火/进水的动态特效。开启可减轻显卡负载。"
 
 msgid "IDS_USE_PROMODE"
 msgstr "使用代理模式"
@@ -130003,7 +130003,7 @@ msgid "IDS_WG_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
 
 msgid "IDS_WG_PREMIUM_ACCOUNT_ENDS_TIME"
-msgstr "Lesta Games高级账号剩余过期时间：%(timeLeft)s"
+msgstr "Lesta Games高级账号有效期：%(timeLeft)s"
 
 msgid "IDS_WG_PREMIUM_ACCOUNT_XP_VALUE"
 msgstr "+%(value)s %"
@@ -130117,7 +130117,7 @@ msgid "IDS_WOWS_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_ENDS_TIME"
-msgstr "战舰高级账号剩余过期时间：%(timeLeft)s"
+msgstr "战舰高级账号有效期：%(timeLeft)s"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_XP_VALUE"
 msgstr "+%(value)s %"
