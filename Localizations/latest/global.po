@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: Korabli-LESTA-L10N\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
@@ -4825,9 +4825,6 @@ msgstr " "
 msgid "IDS_AMMOTYPE_HE_EVENT_HW20"
 msgstr " "
 
-msgid "IDS_AMMO_SPENT"
-msgstr "消耗弹药"
-
 msgid "IDS_AMMUNITION"
 msgstr "弹药"
 
@@ -7510,9 +7507,6 @@ msgstr "冲撞"
 msgid "IDS_BATTLE_STATS_RAMS_HINT"
 msgstr "受到的冲撞伤害"
 
-msgid "IDS_BATTLE_STATS_REAMMUNITION"
-msgstr "弹药补给"
-
 msgid "IDS_BATTLE_STATS_RECEIVED_AIRPLANES_BOMBS_HITS"
 msgstr "炸弹命中"
 
@@ -8249,9 +8243,6 @@ msgstr "投掷的炸弹"
 
 msgid "IDS_BOMBS_SHOTS_HINT"
 msgstr "炸弹投掷数"
-
-msgid "IDS_BOMBS_SPENT"
-msgstr "投掷的炸弹"
 
 msgid "IDS_BONUS"
 msgstr "奖励"
@@ -19463,9 +19454,6 @@ msgstr "Dà Róng"
 msgid "IDS_DBOMBS_AIRSUP"
 msgstr "深水炸弹"
 
-msgid "IDS_DBOMBS_SPENT"
-msgstr "投掷的深水炸弹"
-
 msgid "IDS_DD_CAS_AFTTRANS"
 msgstr "舱壁"
 
@@ -19624,39 +19612,6 @@ msgstr "深水炸弹"
 
 msgid "IDS_DEPTH_CHARGES_AVAILABILITY_WARNING"
 msgstr "深水炸弹仅在有潜艇的战斗中有效。"
-
-msgid "IDS_DESCRIPTION_CLASS_AIRCARRIER"
-msgstr ""
-"无主炮的战舰。专为空中战术侦察而设计。可使用飞机执行远程作战任务，并迅速转移目标。\n"
-"\n"
-"飞机对付所有战舰类型都很有效，但航空母舰本身较脆弱，需要队友掩护。"
-
-msgid "IDS_DESCRIPTION_CLASS_BATTLESHIP"
-msgstr ""
-"拥有强大火炮的重型装甲战舰。由于装备远程火炮，可在相当长的距离内作战。\n"
-"\n"
-"对付巡洋舰最有效。"
-
-msgid "IDS_DESCRIPTION_CLASS_CRUISER"
-msgstr ""
-"拥有一般装甲防护和良好火炮的多功能战舰。适合用炮火为队友提供支援，并对抗敌机。\n"
-"\n"
-"对付驱逐舰最有效。"
-
-msgid "IDS_DESCRIPTION_CLASS_DESTROYER"
-msgstr ""
-"航速高、机动性强的轻型战舰，装甲防护能力较差。适合侦察、占领关键区域和通过设置烟幕来支援队友。\n"
-"\n"
-"对付战列舰最有效。"
-
-msgid "IDS_DESCRIPTION_CLASS_PREMIUM"
-msgstr "各种类型的非研发战舰。在每场战斗中提供更多银币，使玩家更有可能加速获得全局经验。"
-
-msgid "IDS_DESCRIPTION_CLASS_SUBMARINE"
-msgstr ""
-"能够潜入水中一段时间的战舰，下潜时间受其下潜能力限制。主要攻击手段为鱼雷。\n"
-"\n"
-"对付所有类型的战舰都很有效，但被敌人发现时非常脆弱。"
 
 msgid "IDS_DESCRIPTION_PCZA002_BISMARK"
 msgstr ""
@@ -37180,9 +37135,6 @@ msgstr "水雷"
 msgid "IDS_MINES_RELEASED"
 msgstr "布下的水雷"
 
-msgid "IDS_MINES_SPENT"
-msgstr "消耗的水雷"
-
 msgid "IDS_MINE_BOMBER_AIRSUP"
 msgstr "空袭：水雷轰炸机"
 
@@ -38024,9 +37976,6 @@ msgstr "战斗特点"
 
 msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "与其他玩家一起对抗电脑玩家。您的对手虽然在数量上占优，但作战实力不如您。"
-
-msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "不过，您的作战能力将胜过敌人——您可以使用更高等级的战舰投入战斗。"
 
 msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_2_HEADER"
 msgstr "参与规则"
@@ -93527,9 +93476,6 @@ msgstr "533 mm tubo lanciasiluri"
 msgid "IDS_PRGT664_PLOP"
 msgstr "Plopplop"
 
-msgid "IDS_PRICE"
-msgstr "费用"
-
 msgid "IDS_PRICES_CHANGED"
 msgstr "因为特殊活动的更新，价格已改变。"
 
@@ -115046,15 +114992,6 @@ msgstr "强酸命中"
 msgid "IDS_RIBBON_RIBBON_ACOUSTIC_HIT"
 msgstr "命中"
 
-msgid "IDS_RIBBON_RIBBON_BASE_CAPTURE"
-msgstr "占领"
-
-msgid "IDS_RIBBON_RIBBON_BASE_CAPTURE_ASSIST"
-msgstr "协助占领"
-
-msgid "IDS_RIBBON_RIBBON_BASE_DEFENSE"
-msgstr "防御"
-
 msgid "IDS_RIBBON_RIBBON_BOMB"
 msgstr "命中"
 
@@ -115081,9 +115018,6 @@ msgstr "摧毁水雷"
 
 msgid "IDS_RIBBON_RIBBON_DETECTED"
 msgstr "发现"
-
-msgid "IDS_RIBBON_RIBBON_DROP"
-msgstr "拾得增益"
 
 msgid "IDS_RIBBON_RIBBON_EFFECTIVE_SMOKES"
 msgstr "掩护"
@@ -115332,9 +115266,6 @@ msgid "IDS_ROCKETS_AIRSUP"
 msgstr "火箭弹"
 
 msgid "IDS_ROCKETS_RELEASED"
-msgstr "发射的火箭弹"
-
-msgid "IDS_ROCKETS_SPENT"
 msgstr "发射的火箭弹"
 
 msgid "IDS_ROLE_SHIP_TYPE_AIRCARRIER"
@@ -116453,9 +116384,6 @@ msgstr ""
 "注意！服务器将在\n"
 "<h3>%(timeLeft)s</h3>内重新启动。\n"
 "您将会被转移到不同的服务器。"
-
-msgid "IDS_SERVICE_AND_AMMUNITION_RECHARGE_COLON"
-msgstr "弹药补给和战后维护："
 
 msgid "IDS_SERVICE_C"
 msgstr "维护"
@@ -121340,9 +121268,6 @@ msgstr "弹跳炸弹"
 msgid "IDS_SKIPBOMBS_AIRSUP"
 msgstr "弹跳炸弹"
 
-msgid "IDS_SKIP_BOMBS_SPENT"
-msgstr "投掷的弹跳炸弹"
-
 msgid "IDS_SKIP_VIDEO"
 msgstr "跳过启动界面视频"
 
@@ -123425,21 +123350,6 @@ msgstr "装甲甲板斜面"
 msgid "IDS_ST_TRANS"
 msgstr "尾端横向围板"
 
-msgid "IDS_SUBHEADER_BRAWLBATTLE"
-msgstr "对抗真人玩家"
-
-msgid "IDS_SUBHEADER_COOPERATIVEBATTLE"
-msgstr "对抗电脑玩家"
-
-msgid "IDS_SUBHEADER_EVENTBATTLE"
-msgstr "对抗真人玩家"
-
-msgid "IDS_SUBHEADER_PVEBATTLE"
-msgstr "对抗电脑玩家"
-
-msgid "IDS_SUBHEADER_RANDOMBATTLE"
-msgstr "对抗真人玩家"
-
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "挑战规则"
 
@@ -123919,9 +123829,6 @@ msgstr "权限等级已解锁"
 msgid "IDS_SYS_MSG_ADMIN_TEXT_MESSAGE"
 msgstr "管理员信息"
 
-msgid "IDS_SYS_MSG_ADVANCED_BATTLEPASS_BOUGHT"
-msgstr "已购买高级通行证+季节加成"
-
 msgid "IDS_SYS_MSG_ALBUM_REWARDED"
 msgstr "收藏已完成"
 
@@ -123952,14 +123859,8 @@ msgstr "开启补给箱"
 msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
 msgstr "已获得补给箱"
 
-msgid "IDS_SYS_MSG_BATTLEPASS_BOUGHT"
-msgstr "已购买高级战斗通行证"
-
 msgid "IDS_SYS_MSG_BATTLEPASS_LEVEL_BOUGHT"
 msgstr "已购买战斗通行证等级"
-
-msgid "IDS_SYS_MSG_BATTLEPASS_RECEIVED"
-msgstr "已获得免费通行证"
 
 msgid "IDS_SYS_MSG_BATTLEPASS_REWARDS_CLAIM"
 msgstr "已获得战斗通行证奖励"
@@ -124772,9 +124673,6 @@ msgstr "已出售战舰"
 
 msgid "IDS_SYS_MSG_SHIP_SERVE"
 msgstr "战舰维护"
-
-msgid "IDS_SYS_MSG_SHIP_SERVE_AMMUNITION_RECHARGE"
-msgstr "弹药补给"
 
 msgid "IDS_SYS_MSG_SHIP_SERVE_SERVICE"
 msgstr "维护"
@@ -128080,9 +127978,6 @@ msgstr "您的鱼雷丢失了目标"
 
 msgid "IDS_TORPEDOES_SHOTS_HINT"
 msgstr "鱼雷发射数"
-
-msgid "IDS_TORPEDOES_SPENT"
-msgstr "消耗的鱼雷"
 
 msgid "IDS_TORPEDOS_RELEASED"
 msgstr "发射的鱼雷"
