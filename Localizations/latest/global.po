@@ -125287,7 +125287,7 @@ msgid "IDS_TALENT_PWW010_RIBBONS_11"
 msgstr "鱼雷武器专家"
 
 msgid "IDS_TALENT_PWW010_RIBBONS_11_DESCRIPTION"
-msgstr "每8次成功用鱼雷命中敌舰后激活。"
+msgstr "每用鱼雷命中敌舰8次，激活一次。"
 
 msgid "IDS_TALENT_PWW010_RIBBONS_16"
 msgstr "防空炮专家"
@@ -125311,7 +125311,7 @@ msgid "IDS_TALENT_PZW426_RIBBONS_18_19"
 msgstr "鱼雷攻击专家"
 
 msgid "IDS_TALENT_PZW426_RIBBONS_18_19_DESCRIPTION"
-msgstr "用鱼雷命中敌舰6次时激活，每场战斗可激活一次。"
+msgstr "用舰载鱼雷命中敌舰6次时激活，每场战斗可激活一次。"
 
 msgid "IDS_TALIYA"
 msgstr "Taliya"
