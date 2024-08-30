@@ -5744,13 +5744,13 @@ msgid "IDS_AVAILABLE_TO_PARAGON_CAROUSEL_FILTER_TOOLTIP"
 msgstr "筛选适合参加海军演习的战舰"
 
 msgid "IDS_AVA_ALERT_LEVEL"
-msgstr "选择一艘等级合适的战舰"
+msgstr "请选择等级合适的战舰"
 
 msgid "IDS_AVA_ALERT_RANDOM_BATTLE"
-msgstr "选择一个合适的战斗模式。"
+msgstr "请选择合适的战斗模式"
 
 msgid "IDS_AVA_ALERT_RANDOM_BATTLE_AND_LEVEL"
-msgstr "选择一个合适的战舰等级和战斗模式。"
+msgstr "请选择合适的战舰和战斗模式。"
 
 msgid "IDS_AVA_COMMON_REWARD"
 msgstr "当日奖励"
@@ -6523,7 +6523,7 @@ msgid "IDS_BATTLEPASS_BUTTON_CLAIM_REWARD"
 msgstr "领取奖励"
 
 msgid "IDS_BATTLEPASS_CARD_BONUSES_TITLE"
-msgstr "季节加成"
+msgstr "赛季加成"
 
 msgid "IDS_BATTLEPASS_CARD_LEVEL"
 msgstr "等级%(level)s"
@@ -6622,7 +6622,7 @@ msgstr ""
 "等级1的奖励。"
 
 msgid "IDS_BATTLEPASS_PAID_REWARD_TOOLTIP_TEXT_1"
-msgstr "您还可以购买在战斗通行证期间生效的季节加成。"
+msgstr "您还可以购买在战斗通行证期间生效的赛季加成。"
 
 msgid "IDS_BATTLEPASS_PAID_REWARD_TOOLTIP_TITLE"
 msgstr "奖励和加成"
@@ -6642,7 +6642,7 @@ msgstr "免费通行证任务"
 msgid "IDS_BATTLEPASS_PURCHASE_GOLD_TEXT"
 msgstr ""
 "您可购买含有金币的礼包\n"
-"以获取高级通行证和季节加成"
+"以获取高级通行证和赛季加成"
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_SUBTITLE"
 msgstr "您可在购买后立即领取已购得的等级的奖励"
@@ -6718,7 +6718,7 @@ msgstr "购买战斗通行证"
 
 msgid "IDS_BATTLEPASS_PURCHASE_TYPE_BONUSES"
 msgstr ""
-"季节\n"
+"赛季\n"
 "加成"
 
 msgid "IDS_BATTLEPASS_PURCHASE_TYPE_FREE"
@@ -6729,7 +6729,7 @@ msgstr ""
 msgid "IDS_BATTLEPASS_PURCHASE_TYPE_PAID_ENHANCED"
 msgstr ""
 "高级通行证\n"
-"+季节加成"
+"+赛季加成"
 
 msgid "IDS_BATTLEPASS_PURCHASE_TYPE_PAID_REGULAR"
 msgstr ""
@@ -6773,7 +6773,7 @@ msgid "IDS_BATTLEPASS_TASKS_BUTTON"
 msgstr "查看作战任务"
 
 msgid "IDS_BATTLEPASS_TYPE_BONUSES"
-msgstr "季节加成"
+msgstr "赛季加成"
 
 msgid "IDS_BATTLEPASS_TYPE_FREE"
 msgstr "免费通行证"
@@ -6787,12 +6787,12 @@ msgstr ""
 "通行证"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED"
-msgstr "高级通行证+季节加成"
+msgstr "高级通行证+赛季加成"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED_SHORT_TITLE"
 msgstr ""
 "高级通行证\n"
-"+季节加成"
+"+赛季加成"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_REGULAR"
 msgstr "高级通行证"
@@ -6809,7 +6809,7 @@ msgid "IDS_BATTLEPASS_TYPE_RECEIVED_FREE"
 msgstr "已获得免费通行证"
 
 msgid "IDS_BATTLEPASS_TYPE_RECEIVED_PAID_ENHANCED"
-msgstr "已获得高级通行证+季节加成"
+msgstr "已获得高级通行证+赛季加成"
 
 msgid "IDS_BATTLEPASS_TYPE_RECEIVED_PAID_REGULAR"
 msgstr "已获得高级通行证"
@@ -6818,7 +6818,7 @@ msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_FREE"
 msgstr "该进度条可立即推进，无需额外购买通行证。"
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_ENHANCED_RECEIVED"
-msgstr "包含额外奖励和季节加成。"
+msgstr "包含额外奖励和赛季加成。"
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR"
 msgstr "该进度条包含额外奖励。"
@@ -8389,7 +8389,7 @@ msgid "IDS_BRAWLS_DENY_REASON_SEASON_NOT_STARTED"
 msgstr "请等待赛季开始。"
 
 msgid "IDS_BRAWLS_DENY_REASON_WRONG_SHIP_LEVEL"
-msgstr "选择一艘合适等级的战舰。"
+msgstr "请选择合适等级的战舰。"
 
 msgid "IDS_BRAWL_BATTLE_INFORMER_DIVISION"
 msgstr "团队规模：%(_maxPlayers)sv%(_maxPlayers)s。小队最大规模：%(_divisionSize)s。"
@@ -26023,7 +26023,7 @@ msgid "IDS_DOGTAG_PCNU083_NAME"
 msgstr "终极公测勇士"
 
 msgid "IDS_DOGTAG_PCNU083_QUEST"
-msgstr "授予达成所有公开测试季节最终结果的纪念徽章。"
+msgstr "授予在公开测试中所有阶段取得最终结果的玩家的纪念徽章。"
 
 msgid "IDS_DOGTAG_PCNU084_DESCRIPTION"
 msgstr "军团测试用户是我们舰队中真正的精英，他们敏锐的眼睛有助于确保我们保质保量完成所有更新。"
@@ -30832,13 +30832,13 @@ msgid "IDS_GUIDING_TIP_268_DESC"
 msgstr "获取高级通行证即可获得已达成等级的额外奖励！"
 
 msgid "IDS_GUIDING_TIP_268_HEADER"
-msgstr "季节即将结束"
+msgstr "赛季即将结束"
 
 msgid "IDS_GUIDING_TIP_269_DESC"
-msgstr "您还未领取已达成等级的奖励——赶快在季节结束前领取！"
+msgstr "您还未领取已达成等级的奖励——赶快在赛季结束前领取！"
 
 msgid "IDS_GUIDING_TIP_269_HEADER"
-msgstr "季节即将结束"
+msgstr "赛季即将结束"
 
 msgid "IDS_GUIDING_TIP_26_DESC"
 msgstr "研发战舰。若您在分支中的前置战舰上没有获取足够的经验，可以使用全局经验。"
@@ -47249,13 +47249,13 @@ msgid "IDS_PASB012_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASB013"
-msgstr "阿肯色Beta"
+msgstr "阿肯色β"
 
 msgid "IDS_PASB013_DESCR"
 msgstr "USS阿肯色号是怀俄明级第二艘战列舰，于1910年铺设龙骨，并在2年后服役。一战期间，它被分配到由皇家海军指挥的第9战列舰分队。二战爆发后，阿肯色号执行中立巡逻。美国参战后，它也在大西洋护送船团。后来，它支援了诺曼底登陆，并为入侵法国南部提供火力支援。1945年，它在硫磺岛和冲绳岛登陆战中提供火力支援。战后，阿肯色号将士兵运回美国，并参加了在比基尼环礁进行的核试验。"
 
 msgid "IDS_PASB013_FULL"
-msgstr "阿肯色Beta"
+msgstr "阿肯色β"
 
 msgid "IDS_PASB013_NUMBER"
 msgstr "2"
@@ -87049,13 +87049,13 @@ msgid "IDS_PJSC018_YEAR"
 msgstr "1938"
 
 msgid "IDS_PJSC026"
-msgstr "岩城Alpha"
+msgstr "岩城α"
 
 msgid "IDS_PJSC026_DESCR"
 msgstr "在20世纪10年代后期，根据日本舰队的发展计划，预计建造六艘巡洋舰，以天龙级改进后的设计为基础。借鉴众多新设计方案，这些战舰将增加第五门主炮并减轻舰体重量。项目从未实施，但进一步法展促成了球磨级巡洋舰的问世。"
 
 msgid "IDS_PJSC026_FULL"
-msgstr "岩城Alpha"
+msgstr "岩城α"
 
 msgid "IDS_PJSC026_NUMBER"
 msgstr "0"
@@ -108939,7 +108939,7 @@ msgid "IDS_READY_TO_BATTLE_DENY_REASON_ALL_SHIPS_SOLD"
 msgstr "购买此战舰来用它来进入战斗。"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_EVENT_SHIPS_ONLY"
-msgstr "选择一艘万圣节战舰参加行动。"
+msgstr "请选择万圣节战舰参加行动。"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_EXCEPT_EVENT_SHIPS"
 msgstr "万圣节战舰仅能参加行动。"
@@ -116279,16 +116279,16 @@ msgid "IDS_SELECT_NEXT_AIRPLANE"
 msgstr "下支中队"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_CLAN"
-msgstr "选择一艘适合军团战的战舰"
+msgstr "请选择适合军团战的战舰"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_EVENT"
-msgstr "选择一艘适合当前所选战斗模式的战舰"
+msgstr "请选择适合当前所选战斗模式的战舰"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_OPERATION"
-msgstr "从中选择一艘可以参加行动的战舰"
+msgstr "请选择可以参加行动的战舰"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRAINING"
-msgstr "选择一艘可用于战斗训练的战舰"
+msgstr "请选择可用于战斗训练的战舰"
 
 msgid "IDS_SELECT_PORT"
 msgstr "选择港口"
@@ -122982,7 +122982,7 @@ msgid "IDS_STARTBATTLE_LOCK_REASON_NOT_IN_DIVISION"
 msgstr "建立或加入小队来进行挑战。"
 
 msgid "IDS_STARTBATTLE_LOCK_REASON_WRONG_SHIP"
-msgstr "选择一艘符合挑战条件的战舰。"
+msgstr "请选择符合挑战条件的战舰。"
 
 msgid "IDS_STARTS_IN"
 msgstr "距离开始还剩"
@@ -123480,7 +123480,7 @@ msgid "IDS_SUBST_BATTLEPASS_PAID_TOOLTIP_TEXT"
 msgstr "等级%(_level)s 高级通行证"
 
 msgid "IDS_SUBST_BATTLEPASS_STATUS_TIME"
-msgstr "季节将于%(timeLeft)s后结束"
+msgstr "本赛季将于%(timeLeft)s后结束"
 
 msgid "IDS_SUBST_BONUSTAG_CONDITIONS_DESCRIPTION"
 msgstr "赢得任意模式战斗或在一场战斗中获得%(_baseExpCount)s点基础经验。"
@@ -123495,7 +123495,7 @@ msgid "IDS_SUBST_DOCK_BANNER_BATTLEPASS_PROGRESS_TEXT"
 msgstr "距离等级%(_level)s："
 
 msgid "IDS_SUBST_DOCK_BANNER_BATTLEPASS_TOOLTIP_TIME"
-msgstr "季节将于%(_timeLeft)s后结束"
+msgstr "本赛季将于%(_timeLeft)s后结束"
 
 msgid "IDS_SUBST_ENSIGN"
 msgstr "%(_exteriorNameIds)s旗帜"
@@ -124352,10 +124352,10 @@ msgid "IDS_SYS_MSG_OPEN_SEVERAL_LOOTBOXES"
 msgstr "已开启补给箱"
 
 msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_BOUGHT"
-msgstr "已购买高级战斗通行证+季节加成"
+msgstr "已购买高级战斗通行证+赛季加成"
 
 msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_RECEIVED"
-msgstr "已获得高级战斗通行证+季节加成"
+msgstr "已获得高级战斗通行证+赛季加成"
 
 msgid "IDS_SYS_MSG_PAID_REGULAR_BATTLEPASS_BOUGHT"
 msgstr "已购买高级战斗通行证"
@@ -125176,7 +125176,7 @@ msgid "IDS_TALENT_PAW102_ACHIEVEMENT_3"
 msgstr "无影无踪"
 
 msgid "IDS_TALENT_PAW102_ACHIEVEMENT_3_DESCRIPTION"
-msgstr "获得“一炮双响”成就时激活，每场战斗可激活一次。"
+msgstr "获得“一炮双响”成就时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PBW100_ACHIEVEMENT_2"
 msgstr "水火无情"
@@ -125188,13 +125188,13 @@ msgid "IDS_TALENT_PBW100_RIBBONS_0"
 msgstr "掠夺装备"
 
 msgid "IDS_TALENT_PBW100_RIBBONS_0_DESCRIPTION"
-msgstr "摧毁2艘敌舰后激活，每场战斗可激活一次。"
+msgstr "摧毁2艘敌舰后激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PBW100_RIBBONS_8_15"
 msgstr "快如闪电"
 
 msgid "IDS_TALENT_PBW100_RIBBONS_8_15_DESCRIPTION"
-msgstr "造成敌舰进水4次后激活，每场战斗可激活一次。"
+msgstr "造成敌舰进水4次后激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PFW405_ACHIEVEMENT_2"
 msgstr "气焰熏天"
@@ -125221,19 +125221,19 @@ msgid "IDS_TALENT_PGW103_RIBBONS_12"
 msgstr "航空装备专家"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_12_DESCRIPTION"
-msgstr "用任意飞机武器命中敌舰30次时激活，每场战斗可激活一次。"
+msgstr "用任意飞机武器命中敌舰30次时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_13"
 msgstr "主炮组装填手"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_13_DESCRIPTION"
-msgstr "用主炮炮弹命中敌舰140次时激活，每场战斗可激活一次。"
+msgstr "用主炮炮弹命中敌舰140次时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_14"
 msgstr "副炮组装填手"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_14_DESCRIPTION"
-msgstr "用副炮炮弹命中敌舰100次时激活，每场战斗可激活一次。"
+msgstr "用副炮炮弹命中敌舰100次时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PGW103_RIBBONS_1_DESCRIPTION"
 msgstr ""
@@ -125251,13 +125251,13 @@ msgid "IDS_TALENT_PIW101_RIBBONS_10"
 msgstr "隐藏储备"
 
 msgid "IDS_TALENT_PIW101_RIBBONS_10_DESCRIPTION"
-msgstr "用主炮炮弹命中敌舰100次时激活，每场战斗可激活一次。"
+msgstr "用主炮炮弹命中敌舰100次时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PIW101_RIBBONS_9"
 msgstr "火力增程"
 
 msgid "IDS_TALENT_PIW101_RIBBONS_9_DESCRIPTION"
-msgstr "摧毁1艘敌舰后激活，每场战斗可激活一次。"
+msgstr "摧毁1艘敌舰后激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PJW018_ACHIEVEMENT_0"
 msgstr "紧急储备"
@@ -125281,7 +125281,7 @@ msgid "IDS_TALENT_PRW406_HEALTH_1_5_6"
 msgstr "胜利意志"
 
 msgid "IDS_TALENT_PRW406_HEALTH_1_5_6_DESCRIPTION"
-msgstr "战舰生命值低于10%时激活，每场战斗可激活一次。"
+msgstr "战舰生命值低于10%时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PWW010_RIBBONS_11"
 msgstr "鱼雷武器专家"
@@ -125293,13 +125293,13 @@ msgid "IDS_TALENT_PWW010_RIBBONS_16"
 msgstr "防空炮专家"
 
 msgid "IDS_TALENT_PWW010_RIBBONS_16_DESCRIPTION"
-msgstr "击落20架敌机后激活，每场战斗可激活一次。"
+msgstr "击落20架敌机后激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PZW426_ACHIEVEMENT_2"
 msgstr "高度警戒"
 
 msgid "IDS_TALENT_PZW426_ACHIEVEMENT_2_DESCRIPTION"
-msgstr "获得“侦察尖兵”成就时激活，每场战斗可激活一次。"
+msgstr "获得“侦察尖兵”成就时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALENT_PZW426_DAMAGE_17"
 msgstr "紧急补给"
@@ -125311,7 +125311,7 @@ msgid "IDS_TALENT_PZW426_RIBBONS_18_19"
 msgstr "鱼雷攻击专家"
 
 msgid "IDS_TALENT_PZW426_RIBBONS_18_19_DESCRIPTION"
-msgstr "用舰载鱼雷命中敌舰6次时激活，每场战斗可激活一次。"
+msgstr "用舰载鱼雷命中敌舰6次时激活，每场战斗仅可激活一次。"
 
 msgid "IDS_TALIYA"
 msgstr "Taliya"
@@ -125861,16 +125861,16 @@ msgid "IDS_TEXTURE_FILTERING"
 msgstr "纹理过滤"
 
 msgid "IDS_TEXTURE_FILTERING_ANISOTROPIC_16X"
-msgstr "各向异性 16x"
+msgstr "各向异性16x"
 
 msgid "IDS_TEXTURE_FILTERING_ANISOTROPIC_2X"
-msgstr "各向异性 2x"
+msgstr "各向异性2x"
 
 msgid "IDS_TEXTURE_FILTERING_ANISOTROPIC_4X"
-msgstr "各向异性 4x"
+msgstr "各向异性4x"
 
 msgid "IDS_TEXTURE_FILTERING_ANISOTROPIC_8X"
-msgstr "各向异性 8x"
+msgstr "各向异性8x"
 
 msgid "IDS_TEXTURE_FILTERING_BILINEAR"
 msgstr "双线性"
@@ -126029,28 +126029,28 @@ msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRAINING"
 msgstr "所选战舰不可用于战斗训练模式"
 
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_CLAN"
-msgstr "选择一艘合适等级的战舰。"
+msgstr "请选择合适等级的战舰"
 
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_EVENT"
-msgstr "选择一艘合适等级的战舰。"
+msgstr "请选择合适等级的战舰"
 
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_OPERATION"
-msgstr "选择一艘等级合适的战舰"
+msgstr "请选择合适等级的战舰"
 
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRAINING"
-msgstr "选择一艘等级合适的战舰"
+msgstr "请选择合适等级的战舰"
 
 msgid "IDS_THIS_SHIP_NATION_IS_NOT_ALLOWED_FOR_CLAN"
-msgstr "选择一艘合适国家的战舰"
+msgstr "请选择合适国家的战舰"
 
 msgid "IDS_THIS_SHIP_NATION_IS_NOT_ALLOWED_FOR_EVENT"
-msgstr "选择一艘合适国家的战舰"
+msgstr "请选择合适国家的战舰"
 
 msgid "IDS_THIS_SHIP_NATION_IS_NOT_ALLOWED_FOR_OPERATION"
-msgstr "选择一艘合适国家的战舰"
+msgstr "请选择合适国家的战舰"
 
 msgid "IDS_THIS_SHIP_NATION_IS_NOT_ALLOWED_FOR_TRAINING"
-msgstr "选择一艘合适国家的战舰"
+msgstr "请选择合适国家的战舰"
 
 msgid "IDS_THURSDAY"
 msgstr "周四"
@@ -129988,7 +129988,7 @@ msgid "IDS_WORKTIME"
 msgstr "启用"
 
 msgid "IDS_WORLD_OF_WARSHIPS"
-msgstr "《战舰世界》"
+msgstr "战舰世界"
 
 msgid "IDS_WOT_KATUKOV"
 msgstr "米哈伊尔•卡图科夫"
