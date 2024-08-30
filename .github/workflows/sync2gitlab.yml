@@ -1,7 +1,12 @@
 name: sync2gitlab
 
 on:
-  push
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   sync:
