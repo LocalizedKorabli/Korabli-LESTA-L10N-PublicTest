@@ -3,10 +3,10 @@ name: sync2gitlab
 on:
   push:
     branches:
-      - main
+      - Localizations
   pull_request:
     branches:
-      - main
+      - Localizations
 
 jobs:
   sync:
