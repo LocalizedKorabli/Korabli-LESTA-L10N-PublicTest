@@ -2,7 +2,7 @@
 
   <img  width="160" src="https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/26415d14-c46e-4bdd-aa26-f7f0234911ce" alt="logo">
 
-<h3>LocalizedKorabli战舰世界莱服（PT）本地化</h3>
+<h3>澪刻战舰世界莱服（PT）本地化</h3>
 
 [![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest/releases/latest)
@@ -85,7 +85,7 @@
 
 ## 项目传送门
 
-LocalizedKorabli正面向多个语言、服务器类型制作本地化，
+澪刻正面向多个语言、服务器类型制作本地化，
 您可以通过点击以下表格中的链接快速访问相应的项目仓库。
 
 | 语言\服务器类型 | 正式服 | PT服 |
