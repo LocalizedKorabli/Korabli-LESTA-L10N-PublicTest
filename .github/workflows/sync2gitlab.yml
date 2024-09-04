@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - Localizations
-  pull_request:
-    branches:
-      - Localizations
 
 jobs:
   sync:
