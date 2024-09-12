@@ -1,0 +1,1501 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TSAR_MOREY_COMPLETED"
+msgstr "完成收藏“胜者之路”。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
+msgstr "与战舰等级、数量均占优势的电脑玩家战斗"
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_TSAR_MOREY_COMPLETED"
+msgstr "胜者之路"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_RUSY_VS_LIZARDS_ASYMM_BATTLE"
+msgstr "可在非对称战斗中完成。"
+
+msgid "IDS_ACHIEVEMENT_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
+msgstr "破釜沉舟"
+
+msgid "IDS_AC_DUAL_CIT_SSC_INCLIN"
+msgstr "装甲甲板斜面"
+
+msgid "IDS_AVIATION_BOMBERS_JET_BOMB_ATTACK_COUNT_HIGH"
+msgstr "每架飞机携带多枚炸弹"
+
+msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_AP_SHORT"
+msgstr "穿甲弹"
+
+msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_CS_SHORT"
+msgstr "半穿甲弹"
+
+msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_HE_SHORT"
+msgstr "高爆弹"
+
+msgid "IDS_CAROUSEL_PCVE023_FILTER"
+msgstr "筛选适合非对称战斗的战舰"
+
+msgid "IDS_CAUSED_ARTILLERY_SECONDARY_CALIBER_HINT"
+msgstr "副炮命中次数和造成的伤害"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE023"
+msgstr "选择非对称战斗"
+
+msgid "IDS_COMMONWEALTH_GENITIVE"
+msgstr "联邦"
+
+msgid "IDS_CONCRETE_SHIPS_HEADER"
+msgstr "只允许使用特定战舰。"
+
+msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
+msgstr "瞄准正在移动的敌舰时应考虑提前量。"
+
+msgid "IDS_COST_TO_RECEIVE_COLON"
+msgstr "需要花费："
+
+msgid "IDS_CREW_EPIC_SKILL_DENIAL_ATTENTION_INFO"
+msgstr "技能将恢复其原始效果"
+
+msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL"
+msgstr "放弃对以下技能的强化"
+
+msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL_FREE"
+msgstr "放弃强化？"
+
+msgid "IDS_CREW_INFO_MODAL_ALTERNATE_SKILL_NO_MENTOR_INFO_STATUS"
+msgstr "可从稀有、精英和传奇指挥官处学习其他技能"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP"
+msgstr "精英训练"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_SKILLS_UNLOCKED_COUNT"
+msgstr "已学习的技能："
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_1"
+msgstr "第1~3项技能"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_2"
+msgstr "第4~6项技能"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_3"
+msgstr "从第7项技能起"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_TALENT"
+msgstr "国家天赋"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_DESCRIPTION"
+msgstr "对于每个战舰类型，精英指挥官最多可学习三个强化版技能。每个后续技能的费用取决于所有类型的总技能数量。"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_HEADER"
+msgstr "强化版技能"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_MAX_PERKS_UNLOCKED_STATUS_LINE"
+msgstr "学习的技能数量已到达最大限制"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_NOT_MAX_LEVEL_STATUS_LINE"
+msgstr "指挥官达到最高等级时，可进行精英训练。"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_DESCRIPTION"
+msgstr "精英指挥官可以从传奇指挥官处学习一个国家天赋和个性化选项。"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_HEADER"
+msgstr "国家天赋"
+
+msgid "IDS_CREW_INFO_MODAL_EPIC_SKILL_NO_MENTOR_INFO_STATUS"
+msgstr "稀有、精英和传奇指挥官可以学习强化版技能"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_NO_MENTOR_INFO_STATUS"
+msgstr "若拥有%(_nationName)s传奇指挥官，您将可以习得其国家天赋"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_CREW_LEVEL"
+msgstr "指挥官达到21级后可以习得国家天赋"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_MENTOR_IN_GAME"
+msgstr "仅当此国家的传奇指挥官出现在游戏中时，您才可以习得其国家天赋"
+
+msgid "IDS_CREW_SKILL_DENIAL_ATTENTION_INFO"
+msgstr "您随时可以重新学习此技能"
+
+msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_0"
+msgstr "将失去精英指挥官经验"
+
+msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_1"
+msgstr "将返还25%消耗的经验"
+
+msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_2"
+msgstr "将返还所有消耗的经验"
+
+msgid "IDS_CREW_SKILL_DENIAL_FULL"
+msgstr "放弃学习技能？确认花费"
+
+msgid "IDS_CREW_SKILL_DENIAL_FULL_FREE"
+msgstr "放弃学习技能？"
+
+msgid "IDS_CREW_SKILL_LEARN_ADDITIONAL_INFO"
+msgstr "通过花费技能点数习得后，您才可以使用此技能"
+
+msgid "IDS_CREW_TALENT_DENIAL_ATTENTION_INFO"
+msgstr "您随时可以重新学习此天赋"
+
+msgid "IDS_CREW_TALENT_DENIAL_FULL"
+msgstr "放弃学习天赋？确认花费"
+
+msgid "IDS_CREW_TALENT_DENIAL_FULL_FREE"
+msgstr "放弃学习天赋？"
+
+msgid "IDS_CREW_TALENT_LEARN_ADDITIONAL_INFO"
+msgstr "指挥官将在习得天赋的同时获得个性化选项"
+
+msgid "IDS_DANKA_SHCHUS"
+msgstr "丹卡•什丘斯"
+
+msgid "IDS_DESCRIPTION_PCZA038_TSAR_MOREY"
+msgstr ""
+"热血沸腾的激情、团队协作、瞬间决定战斗胜负的突发状况——所有这些对于战舰世界中的锦标赛参与者和观众来说都是再熟悉不过了。\n"
+"\n"
+"本收藏献给那些时刻关注比赛的人，献给那些组织比赛的人，当然，也献给那些已经走上胜利之路，不走到最后决不回头的人！"
+
+msgid "IDS_DOBROJIR_DROBODANOVICH"
+msgstr "多布罗日尔•德罗波丹诺维奇"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AP_SEC"
+msgstr ""
+"穿透装甲并在战舰内部爆炸，造成可观的伤害。\n"
+"\n"
+"若装甲厚度不足，炮弹将过度击穿，从而造成很低的伤害。\n"
+"\n"
+"若以锐角射入则可能会被装甲弹开产生跳弹。"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_CS_SEC"
+msgstr ""
+"能有效对抗轻装甲目标并造成可观的伤害。\n"
+"\n"
+"若未击穿或发生跳弹，则无伤害。"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_HE_SEC"
+msgstr ""
+"能有效对抗轻装甲目标。\n"
+"\n"
+"这些炮弹有极高的潜在伤害并有高几率对目标造成火灾或配件瘫痪。"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE_ALT"
+msgstr ""
+"弹跳轰炸机使用一组威力强大的炸弹攻击目标。\n"
+"炸弹有高几率造成火灾。"
+
+msgid "IDS_DOCK_AMMO_TITLE_AP_SEC"
+msgstr "穿甲弹（AP）"
+
+msgid "IDS_DOCK_AMMO_TITLE_CS_SEC"
+msgstr "半穿甲弹（SAP）"
+
+msgid "IDS_DOCK_AMMO_TITLE_HE_SEC"
+msgstr "高爆弹（HE）"
+
+msgid "IDS_DOCK_AMMO_TITLE_SKIP_HE_ALT"
+msgstr "弹跳轰炸机（HE）"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE_SHINANO"
+msgstr "即时维修战舰"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_0"
+msgstr "达到21级后，精英指挥官可以从您拥有的其他指挥官处学习国家天赋和强化版技能。"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_1"
+msgstr "强化版技能和国家天赋需要通过精英指挥官经验获取，之后也可以被更换为其他技能。"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_2"
+msgstr "在指挥官达到最高等级后，您可以进入“个人档案”页面管理精英指挥官能力。"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_0"
+msgstr "精英指挥官能力"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_1"
+msgstr "技能与天赋"
+
+msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_2"
+msgstr "个人档案"
+
+msgid "IDS_ELITE_CREW_BANNER_TITLE"
+msgstr "精英训练"
+
+msgid "IDS_ELITE_CREW_NOT_READY_ONBOARDING_BANNER_SUBTITLE"
+msgstr "在指挥官达到最高等级后可用"
+
+msgid "IDS_ELITE_CREW_READY_ONBOARDING_BANNER_SUBTITLE"
+msgstr "查看个人档案以选择技能和国家天赋"
+
+msgid "IDS_EULA_TEXT_1"
+msgstr "点击“接受”即表示您已阅读，同意受其约束，并会遵守最终用户许可协议中的条款，且会对任何违反规则之行为负责。"
+
+msgid "IDS_EULA_TEXT_2"
+msgstr "最终用户许可协议和任何修订皆为重要，并对游戏的所有玩家都具有约束力。"
+
+msgid "IDS_EUROPE_GENITIVE"
+msgstr "欧洲"
+
+msgid "IDS_FAST_TRAINING_BUTTON_LABEL"
+msgstr "加速训练"
+
+msgid "IDS_FB_AL_01"
+msgstr "Party Member"
+
+msgid "IDS_FB_AL_02"
+msgstr "Comrade"
+
+msgid "IDS_FB_AL_03"
+msgstr "Commander"
+
+msgid "IDS_FB_AL_04"
+msgstr "Revolt"
+
+msgid "IDS_FB_AL_05"
+msgstr "Commune"
+
+msgid "IDS_FB_EN_01"
+msgstr "Furusato"
+
+msgid "IDS_FB_EN_02"
+msgstr "Oka"
+
+msgid "IDS_FB_EN_03"
+msgstr "Haoto"
+
+msgid "IDS_FB_EN_04"
+msgstr "Tatsu"
+
+msgid "IDS_FB_EN_05"
+msgstr "Tori"
+
+msgid "IDS_FB_EN_11"
+msgstr "Koyama"
+
+msgid "IDS_FB_EN_12"
+msgstr "Itadaki"
+
+msgid "IDS_FB_EN_13"
+msgstr "Senkan"
+
+msgid "IDS_FB_EN_14"
+msgstr "Kan"
+
+msgid "IDS_FB_EN_15"
+msgstr "Gunkan"
+
+msgid "IDS_FIRST_BATTLE_AND_GAME_DESCRIPTION"
+msgstr "在第一场战斗中与电脑玩家对战。完成几场战斗后将解锁与真实玩家对战、新战舰和升级品等功能。"
+
+msgid "IDS_FIRST_BATTLE_GOAL"
+msgstr "全歼敌舰"
+
+msgid "IDS_FIRST_BATTLE_LOADING_AIMING_DESCRIPTION"
+msgstr "瞄准正在移动的敌舰时应考虑提前量。"
+
+msgid "IDS_FIRST_BATTLE_LOADING_AIMING_HEADER"
+msgstr "瞄准"
+
+msgid "IDS_FIRST_BATTLE_LOADING_BINOCULAR_DESCRIPTION"
+msgstr "使用望远镜来更精确地瞄准。"
+
+msgid "IDS_FIRST_BATTLE_LOADING_BINOCULAR_HEADER"
+msgstr "望远镜"
+
+msgid "IDS_FIRST_BATTLE_LOADING_SHOOTING_DESCRIPTION"
+msgstr "准星变为绿色说明武器已准备好，随时可以开火。"
+
+msgid "IDS_FIRST_BATTLE_LOADING_SHOOTING_HEADER"
+msgstr "开火"
+
+msgid "IDS_FIRST_BATTLE_NAME"
+msgstr "第一场战斗"
+
+msgid "IDS_FIRST_TSAR_MOREY_NAME"
+msgstr "梦之队"
+
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE023"
+msgstr "队伍规模：5v12"
+
+msgid "IDS_FOURTH_TSAR_MOREY_NAME"
+msgstr "胜者之路"
+
+msgid "IDS_FRANCE_GENITIVE"
+msgstr "法国"
+
+msgid "IDS_GERMANY_GENITIVE"
+msgstr "德国"
+
+msgid "IDS_GUIDING_TIP_313_DESC"
+msgstr "与其他玩家组成队伍战斗。"
+
+msgid "IDS_GUIDING_TIP_313_HEADER"
+msgstr "开始战斗"
+
+msgid "IDS_HINT_CREW_INFO_UNAVAILABLE_DUE_IN_FORMATION"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能查看指挥官的个人档案。"
+
+msgid "IDS_HINT_CREW_WITHOUT_NATION"
+msgstr "指挥官国籍未指定"
+
+msgid "IDS_INSTALL_RESTRICTION_SPECIFIC_SHIP"
+msgstr "可安装在："
+
+msgid "IDS_IN_PCVE023"
+msgstr "非对称战斗"
+
+msgid "IDS_ITALY_GENITIVE"
+msgstr "意大利"
+
+msgid "IDS_JAPAN_GENITIVE"
+msgstr "日本"
+
+msgid "IDS_KSANKA_SHCHUS"
+msgstr "桑卡•什丘斯"
+
+msgid "IDS_LEARN_MORE_LABEL"
+msgstr "了解更多"
+
+msgid "IDS_MAX_LEVEL_CREW"
+msgstr "最高等级"
+
+msgid "IDS_MAX_LEVEL_CREW_TOOLTIP_DESCRIPTION"
+msgstr "指挥官已达到最高训练等级。该指挥官在战斗中获得的所有经验将转换为精英指挥官经验。"
+
+msgid "IDS_MODAL_FIRST_BATTLE_ENDED_HEADER"
+msgstr "首战告捷"
+
+msgid "IDS_MODAL_FIRST_BATTLE_ENDED_OBTAINED_SHIP"
+msgstr "您获得了一艘战舰"
+
+msgid "IDS_MODAL_WINDOW_CREW_PERSONAL_FILE"
+msgstr "个人档案"
+
+msgid "IDS_MODAL_WINDOW_HEADER_ELITE_CREW_ACADEMY"
+msgstr "精英训练"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_HEADER"
+msgstr "非对称战斗"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "您将与一支由电脑玩家控制的舰队战斗，敌舰数量、等级均占优势。"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "相应地，您队伍的战舰将获得增益。"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_HEADER"
+msgstr "参与条件"
+
+msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您可以单独参战，也可以组成最多3人的小队。"
+
+msgid "IDS_MODAL_WINDOW_TITLE_EPIC_SKILL_DENY"
+msgstr "放弃强化技能"
+
+msgid "IDS_MODAL_WINDOW_TITLE_SKILL_DENY"
+msgstr "放弃学习技能"
+
+msgid "IDS_MODAL_WINDOW_TITLE_SKILL_UPGRADE"
+msgstr "强化技能"
+
+msgid "IDS_MODAL_WINDOW_TITLE_TALENT_DENY"
+msgstr "放弃学习天赋"
+
+msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
+msgstr "习得天赋"
+
+msgid "IDS_MONGOL_TM"
+msgstr "Guō Hóngfàn"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
+msgstr "放弃强化技能"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_SLOT_INFOTIP_OPEN"
+msgstr "查看强化列表"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_UPGRADE"
+msgstr "强化技能"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_DENY"
+msgstr "放弃学习天赋"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_RECEIVE"
+msgstr "习得天赋"
+
+msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_SLOT_INFOTIP_OPEN"
+msgstr "查看天赋列表"
+
+msgid "IDS_NAVAL_FLAG_IRAN"
+msgstr "伊朗海军"
+
+msgid "IDS_NAVAL_FLAG_IRAN_DESCRIPTION"
+msgstr "伊朗伊斯兰共和国成立于1979年，此前的革命推翻了君主制。伊朗海军军舰的旗帜与1980年通过的国旗相同。绿色代表伊斯兰教，白色象征和平，红色象征勇气和英勇。旗帜的白色部分上下方有两行用古库法体书写的阿拉伯文字。这是“真主至大”这句话，重复了22次。之所以选择数字22，是因为伊斯兰革命在1979年2月11日，即伊朗历1357年巴赫曼月的22日取得了胜利。"
+
+msgid "IDS_NAVAL_FLAG_VIETNAM"
+msgstr "越南海军"
+
+msgid "IDS_NAVAL_FLAG_VIETNAM_DESCRIPTION"
+msgstr "越南民主共和国（1945–1976年）是国际公认的越南北部国家。1975年，越南民主共和国的武装力量和越南南方民族解放阵线击败了17度线以南的越南共和国军队。统一国家——越南社会主义共和国正式成立。旗帜上的星星象征着越南共产党领导，红色代表革命的成功。"
+
+msgid "IDS_NETHERLANDS_GENITIVE"
+msgstr "荷兰"
+
+msgid "IDS_PAGM234_5IN25_MK40"
+msgstr "127 mm/25 Mk.17（Mk.40炮座）"
+
+msgid "IDS_PAN_AMERICA_GENITIVE"
+msgstr "泛美"
+
+msgid "IDS_PAN_ASIA_GENITIVE"
+msgstr "泛亚"
+
+msgid "IDS_PAPA165_127MM_CS_ARCHERFISH"
+msgstr "127 mm CS"
+
+msgid "IDS_PAPT066_ARCHERFISH"
+msgstr "Mk29"
+
+msgid "IDS_PAPT067_ARCHERFISH_MZ"
+msgstr "Mk29 MIE"
+
+msgid "IDS_PARAMS_MODIFIER_ACCURACYINCREASERATEMULTIPLIER"
+msgstr "中队瞄准速度"
+
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYDAMAGECOEF"
+msgstr "主炮伤害"
+
+msgid "IDS_PARAMS_MODIFIER_ATTACKCOOLDOWNMULTIPLIER"
+msgstr "中队攻击间隔"
+
+msgid "IDS_PARAMS_MODIFIER_BURNCHANCEMULTIPLIER"
+msgstr "高爆弹造成火灾的几率"
+
+msgid "IDS_PARAMS_MODIFIER_GMPENETRATIONCOEFFCS"
+msgstr "主炮半穿甲弹的穿甲能力"
+
+msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
+msgstr "副炮伤害"
+
+msgid "IDS_PARAMS_MODIFIER_GMSIDEALRADIUS"
+msgstr "副炮炮弹最大误差"
+
+msgid "IDS_PARAMS_MODIFIER_GMSMAXDIST"
+msgstr "副炮射程"
+
+msgid "IDS_PARAMS_MODIFIER_GMSSHOTDELAY"
+msgstr "副炮装填时间"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
+msgstr "受到的主炮伤害"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
+msgstr "受到的鱼雷伤害"
+
+msgid "IDS_PASS610"
+msgstr "射水鱼"
+
+msgid "IDS_PASS610_DESCR"
+msgstr ""
+"该巴劳鱵级潜艇于1943年1月开工，5月下水，9月服役。经过船员训练和试航后，她被派往太平洋战区。\n"
+"在1943年12月到1944年9月的前四次巡逻中，这艘潜艇并未取得任何战果。直到在1944年11月28日的第五次巡逻中，射水鱼袭击了从横须贺前往吴港的航空母舰信浓，用四枚鱼雷将其击沉。\n"
+"战后，射水鱼作为训练舰服役，她还曾出现在电影中，并参与了水文考察。1968年，该艇被认定不适合继续服役，随后被舰队除名，并在之后的演习中充当靶舰。"
+
+msgid "IDS_PASS610_FULL"
+msgstr "射水鱼"
+
+msgid "IDS_PASS610_NUMBER"
+msgstr "120"
+
+msgid "IDS_PASS610_YEAR"
+msgstr "1943"
+
+msgid "IDS_PAUA917_ART_ARCHERFISH"
+msgstr "127 mm/25 Mk.17（Mk.40炮座）"
+
+msgid "IDS_PAUE928_ENG_ARCHERFISH"
+msgstr "推进系统：5480马力"
+
+msgid "IDS_PAUH925_HULL_ARCHERFISH"
+msgstr "射水鱼"
+
+msgid "IDS_PAUQ905_SONAR_ARCHERFISH"
+msgstr "Mk10"
+
+msgid "IDS_PAUS919_SUO_ARCHERFISH"
+msgstr "Mk10"
+
+msgid "IDS_PAUT915_TORP_ARCHERFISH"
+msgstr "Mk29 mod. 0和Mk28 MIE"
+
+msgid "IDS_PCEC143_CAMO_KOTS_LUKOMORYE_RED"
+msgstr "金赤交织"
+
+msgid "IDS_PCEC144_CAMO_KOTS_LUKOMORYE_GREEN"
+msgstr "橡树之绿"
+
+msgid "IDS_PCEC146_CAMO_RUS"
+msgstr "贝加尔湖"
+
+msgid "IDS_PCEE706_GER_GL_EA_FLAG"
+msgstr "德国巡洋舰"
+
+msgid "IDS_PCEE706_GER_GL_EA_FLAG_DESCRIPTION"
+msgstr "汉萨同盟的战舰悬挂着红白相间的旗帜。汉萨同盟是中世纪自由城市的欧洲贸易联盟，典型的汉萨战舰是科格船，这是一种单桅帆船，船体高大而坚固。"
+
+msgid "IDS_PCEE706_GER_GL_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "为纪念新德国巡洋舰在13.9版本的抢先体验中登场。"
+
+msgid "IDS_PCEE714_SHINANO_FLAG"
+msgstr "信浓"
+
+msgid "IDS_PCEE714_SHINANO_FLAG_DESCRIPTION"
+msgstr "在12世纪，历史悠久的信浓省由传奇的日本源氏家族统治。源氏家族的家纹上绘有龙胆叶和竹叶。"
+
+msgid "IDS_PCEE715_ARCHERFISH_FLAG"
+msgstr "USS射水鱼"
+
+msgid "IDS_PCEE715_ARCHERFISH_FLAG_DESCRIPTION"
+msgstr "二战时期的美国潜艇USS射水鱼的徽章上画着一条用弓射出鱼雷的鱼。这条鱼背着一个装满鱼雷的箭筒，头上戴着传奇侠盗罗宾汉的帽子。"
+
+msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
+msgstr "闪电'63"
+
+msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG_DESCRIPTION"
+msgstr "格伦瓦尔德十字勋章是波兰的军事勋章，授予在与侵略者的武装斗争中，为争取波兰的自由和独立表现英勇的人士。该勋章的设想起源于波兰工人党军事组织人民卫队的总部，该组织在二战期间于被德国占领的领土上开展活动。"
+
+msgid "IDS_PCEE717_RUS_BOGATUR_FLAG"
+msgstr "红色舰队"
+
+msgid "IDS_PCEE717_RUS_BOGATUR_FLAG_DESCRIPTION"
+msgstr "惧败者守，欲胜者攻。"
+
+msgid "IDS_PCEE718_REPTILIAN_FLAG"
+msgstr "绿色舰队"
+
+msgid "IDS_PCEE718_REPTILIAN_FLAG_DESCRIPTION"
+msgstr "百战百胜，非善之善者也；不战而屈人之兵，善之善者也。"
+
+msgid "IDS_PCEE719_SVERDLOVSK_FLAG"
+msgstr "斯维尔德洛夫斯克"
+
+msgid "IDS_PCEE719_SVERDLOVSK_FLAG_DESCRIPTION"
+msgstr "苏联时期的斯维尔德洛夫斯克是一个全苏工业中心，其核心企业是乌拉尔重型机械厂。这个巨型工厂是苏联工厂中获得勋章最多的，共有11枚。1942年和1983年，乌拉尔重型机械厂两次获得劳动红旗勋章。"
+
+msgid "IDS_PCEM022_STEEL_8LVL"
+msgstr "钢铁制造"
+
+msgid "IDS_PCEM023_STEEL_9LVL"
+msgstr "钢铁制造"
+
+msgid "IDS_PCEM024_STEEL_11LVL"
+msgstr "钢铁制造"
+
+msgid "IDS_PCEM025_COAL_8LVL"
+msgstr "碳纤维"
+
+msgid "IDS_PCEM026_COAL_9LVL"
+msgstr "碳纤维"
+
+msgid "IDS_PCEM027_COAL_10LVL"
+msgstr "碳纤维"
+
+msgid "IDS_PCEM028_COAL_11LVL"
+msgstr "碳纤维"
+
+msgid "IDS_PCEM029_COAL_MSKIN"
+msgstr "碳纤维"
+
+msgid "IDS_PCVE023"
+msgstr "非对称战斗"
+
+msgid "IDS_PCVE023_DESCRIPTION"
+msgstr "与在战舰数量和等级上均占优势的电脑玩家作战。"
+
+msgid "IDS_PCVE023_MATCHMAKER_DESCRIPTION"
+msgstr "与在战舰数量和等级上均占优势的电脑玩家作战。"
+
+msgid "IDS_PCZA038_TSAR_MOREY"
+msgstr "胜者之路"
+
+msgid "IDS_PCZA038_TSAR_MOREY_QUOTES"
+msgstr "“胜者之路”"
+
+msgid "IDS_PCZC923_TSAR_MOREY_1_1"
+msgstr "队长"
+
+msgid "IDS_PCZC923_TSAR_MOREY_1_1_DESCRIPTION"
+msgstr ""
+"谁能只用一个眼神就吓倒对手？谁的一声怒吼能打断所有争论，让你专心比赛？只有他能让最不听话的同伴团结在他周围。\n"
+"\n"
+"他就是你们的队长！"
+
+msgid "IDS_PCZC924_TSAR_MOREY_1_2"
+msgstr "MVP"
+
+msgid "IDS_PCZC924_TSAR_MOREY_1_2_DESCRIPTION"
+msgstr "最专业、最有荣誉感、最有效率的比赛选手。对上他的敌人只能知难而退。传言有一次，他甚至一边弹奏着古斯里琴，一边赢下了比赛。"
+
+msgid "IDS_PCZC925_TSAR_MOREY_1_3"
+msgstr "战术会议"
+
+msgid "IDS_PCZC925_TSAR_MOREY_1_3_DESCRIPTION"
+msgstr ""
+"在阴暗角落里，有一群人左顾右盼，他们压低声音窃窃私语，似乎在密谋着什么……\n"
+"\n"
+"哦，不，这只是一只队伍在讨论下一场比赛的秘密战术罢了。毕竟，小心无大错，谁知道会不会有人偷听呢？"
+
+msgid "IDS_PCZC926_TSAR_MOREY_1_4"
+msgstr "宿命论者"
+
+msgid "IDS_PCZC926_TSAR_MOREY_1_4_DESCRIPTION"
+msgstr ""
+"那位认为弹药库永远是半空的玩家。他早已知晓比赛的结果——“这是制裁！”他告诉所有人。\n"
+"\n"
+"每支队伍中可能都有这样一个人。如果你发现队友不是，也许你应该思考一下：这个人会不会是你自己？"
+
+msgid "IDS_PCZC927_TSAR_MOREY_2_1"
+msgstr "裁判"
+
+msgid "IDS_PCZC927_TSAR_MOREY_2_1_DESCRIPTION"
+msgstr ""
+"严厉但公正，无偏见且不受贿：这才是真正的电子竞技裁判。他的小腿肌肉极为发达，因为他只站着观看比赛。\n"
+"\n"
+"“不知晓规则并不能让你免于受罚！”"
+
+msgid "IDS_PCZC928_TSAR_MOREY_2_2"
+msgstr "志愿者团队"
+
+msgid "IDS_PCZC928_TSAR_MOREY_2_2_DESCRIPTION"
+msgstr ""
+"当大雾弥漫时，当最后一丝力量耗尽时，当黎明的曙光还未出现时，他们来了——一支由最优秀、最有经验的志愿者组成的队伍！就像第一缕阳光洒向大地时带来的温暖一样，志愿者们总是冲在最前面，竭尽所能提供帮助。\n"
+"\n"
+"感谢你们的工作！"
+
+msgid "IDS_PCZC929_TSAR_MOREY_2_3"
+msgstr "专业解说"
+
+msgid "IDS_PCZC929_TSAR_MOREY_2_3_DESCRIPTION"
+msgstr ""
+"什么才是专业解说的特质？是他能捕捉到战斗中关键时刻的锐利眼光？还是让他能及时且生动地描述屏幕上一切的敏捷反应和语言技巧？亦或是他纵观全图分析战局的能力？无论如何，每位观众都明白，正是因为有了解说员的存在，每一场比赛转播才成为了充满激情和现场感的精彩盛会。\n"
+"\n"
+"“毛！老子是专业解说好嘛？不要带这种节奏！”"
+
+msgid "IDS_PCZC930_TSAR_MOREY_2_4"
+msgstr "女记者"
+
+msgid "IDS_PCZC930_TSAR_MOREY_2_4_DESCRIPTION"
+msgstr ""
+"当战斗的喧嚣褪去，队伍稍作休息，屏幕暗下来的时候，就该她登场了。这位拿着麦克风的女孩就像一个冷血的掠食者，悄无声息地四处潜行，寻找她的目标……完美的伪装、对环境有条不紊的分析、精确计算的动作——当采访开始时，受害者甚至来不及意识到发生了什么。\n"
+"\n"
+"从来没有人能够从她的问题中逃脱！"
+
+msgid "IDS_PCZC931_TSAR_MOREY_3_1"
+msgstr "技术性失败"
+
+msgid "IDS_PCZC931_TSAR_MOREY_3_1_DESCRIPTION"
+msgstr ""
+"你可能非常强大，但如果你没有阅读规则，这有什么用呢？没有任何队伍能免于技术性失败。\n"
+"\n"
+"不过不要气馁。总结错误，继续前进，迈向胜利！"
+
+msgid "IDS_PCZC932_TSAR_MOREY_3_2"
+msgstr "嗨到不行"
+
+msgid "IDS_PCZC932_TSAR_MOREY_3_2_DESCRIPTION"
+msgstr ""
+"你的队伍正在一艘接一艘地击沉敌舰。肾上腺素飙升，队友们手感火热。\n"
+"\n"
+"开炮！\n"
+"\n"
+"命中核心区！\n"
+"\n"
+"胜利！\n"
+"\n"
+"桌子一震，键帽四处飞散……\n"
+"\n"
+"不要成为情绪的奴隶！"
+
+msgid "IDS_PCZC933_TSAR_MOREY_3_3"
+msgstr "万全准备"
+
+msgid "IDS_PCZC933_TSAR_MOREY_3_3_DESCRIPTION"
+msgstr ""
+"笔记本？有！\n"
+"\n"
+"战术平板？在这儿！\n"
+"\n"
+"备用路由器、电源、可靠的计划——一切都已考虑周全。\n"
+"\n"
+"没有什么能让一个做了万全准备的参赛者感到紧张！"
+
+msgid "IDS_PCZC934_TSAR_MOREY_3_4"
+msgstr "再给我5分钟！"
+
+msgid "IDS_PCZC934_TSAR_MOREY_3_4_DESCRIPTION"
+msgstr "比赛是以分钟计的活动，但其走向往往难以预测——对抗激烈、局势胶着，以至于不总是能按时完成。幸运的是，我们的裁判都理解这一点，并且如果真的有必要，他们愿意多等一会儿。"
+
+msgid "IDS_PCZC935_TSAR_MOREY_4_1"
+msgstr "一击必杀"
+
+msgid "IDS_PCZC935_TSAR_MOREY_4_1_DESCRIPTION"
+msgstr ""
+"“是了，我是战列舰。所以呢？我速度慢、转向困难？你能转过侧面再跟我说这些吗？”\n"
+"\n"
+"战列舰是阵地战大师，他们总是知道哪里可以找到合适的目标。只需要一轮准确的齐射。"
+
+msgid "IDS_PCZC936_TSAR_MOREY_4_2"
+msgstr "多面手"
+
+msgid "IDS_PCZC936_TSAR_MOREY_4_2_DESCRIPTION"
+msgstr ""
+"“轻型、中型、重型？烟雾、雷达还是水听？鱼雷、主炮和副炮？都可以有！”\n"
+"\n"
+"巡洋舰是最通用的战舰类型，这在每场比赛中都显而易见——没有任何事是巡洋舰办不到的！"
+
+msgid "IDS_PCZC937_TSAR_MOREY_4_3"
+msgstr "心理战"
+
+msgid "IDS_PCZC937_TSAR_MOREY_4_3_DESCRIPTION"
+msgstr ""
+"“我说了算。如果我觉得敌人不能占点——那么他们就占不了。不可能让他们轻轻松松拿下。”\n"
+"\n"
+"驱逐舰是全队的眼睛，对战斗有巨大影响。对于驱逐舰指挥官来说，每一场战斗不仅仅是视觉上的盛宴，还是一场真正的心理战！不过，关键是不要算计到自己头上。"
+
+msgid "IDS_PCZC938_TSAR_MOREY_4_4"
+msgstr "我们呢？"
+
+msgid "IDS_PCZC938_TSAR_MOREY_4_4_DESCRIPTION"
+msgstr ""
+"“我们航空母舰什么时候能参加比赛？今年or明年？”\n"
+"\n"
+"“or。”"
+
+msgid "IDS_PERSONAL_FILE_BUTTON_LABEL"
+msgstr "个人档案"
+
+msgid "IDS_PGES401_HERTHA_EA"
+msgstr "莱茵城堡"
+
+msgid "IDS_PGES402_FREYA_EA"
+msgstr "莱茵城堡"
+
+msgid "IDS_PGES403_HANSA_EA"
+msgstr "莱茵城堡"
+
+msgid "IDS_PJAB510_SHINANO_STOCK"
+msgstr "C6N Saiun"
+
+msgid "IDS_PJAD510_SHINANO_STOCK"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJAF510_SHINANO_STOCK"
+msgstr "A8M Rikufū"
+
+msgid "IDS_PJES513_NATSUKAZE_GOLDEN"
+msgstr "日本漆"
+
+msgid "IDS_PJPB510_SHINANO_STOCK"
+msgstr "Type 90 No. 50 Mk. 2"
+
+msgid "IDS_PJPR510_SHINANO_STOCK"
+msgstr "Type 3 No. 5 Mod. 27 Mk. 1"
+
+msgid "IDS_PJPT510_SHINANO_STOCK"
+msgstr "Type 91 mod. 7"
+
+msgid "IDS_PJSA510"
+msgstr "信浓"
+
+msgid "IDS_PJSA510_DESCR"
+msgstr ""
+"大和级战列舰三号舰于1940年5月在横须贺开工，但在1941年12月停止了建造。在中途岛海战后，高层决定将该舰改建为航空母舰。未完成的战列舰船体无法容纳足够大的机库，限制了其航空中队的规模。她的防雷带与大和级战列舰相同，弹药库的装甲保持不变，而其他部分的垂直主装甲带则为了减轻重量而被显著削弱。\n"
+"信浓于1944年10月作为航空母舰下水，并于11月加入舰队，尽管当时她并未完全准备好服役。1944年11月28日，这艘航母在从横须贺前往吴港的途中被美国潜艇USS射水鱼号攻击，在被四枚鱼雷命中舰体后倾覆，最终沉没。"
+
+msgid "IDS_PJSA510_FULL"
+msgstr "信浓"
+
+msgid "IDS_PJSA510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSA510_YEAR"
+msgstr "1944"
+
+msgid "IDS_PJUB907_TB_SHINANO"
+msgstr "C6N Saiun"
+
+msgid "IDS_PJUD907_DB_SHINANO"
+msgstr "A7M Reppū"
+
+msgid "IDS_PJUE915_ENG_SHINANO"
+msgstr "推进系统：150000马力"
+
+msgid "IDS_PJUF906_FC_SHINANO"
+msgstr "Type10"
+
+msgid "IDS_PJUH916_HULL_SHINANO"
+msgstr "信浓"
+
+msgid "IDS_PJUI907_F_SHINANO"
+msgstr "A7M Reppū"
+
+msgid "IDS_PRES505_NEUSTRASHIMY_MOSFILM"
+msgstr "红色骑兵"
+
+msgid "IDS_PRPA221_240MM_CS_SVERDLOVSK"
+msgstr "240 mm SAP Model. 1944"
+
+msgid "IDS_PRPA222_240MM_AP_SVERDLOVSK"
+msgstr "240 mm AP Model. 1944"
+
+msgid "IDS_PRPA910_130MM_HE_SG_KREMLIN"
+msgstr "HE-42"
+
+msgid "IDS_PRPA911_457MM_KREMLIN"
+msgstr "457 mm AP Model. 1946"
+
+msgid "IDS_PRSB910"
+msgstr "不破"
+
+msgid "IDS_PRSB910_DESCR"
+msgstr "用于第一场战斗的战舰。"
+
+msgid "IDS_PRSB910_FULL"
+msgstr "不破"
+
+msgid "IDS_PRSB910_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSB910_YEAR"
+msgstr "1941"
+
+msgid "IDS_PRSC559"
+msgstr "斯维尔德洛夫斯克"
+
+msgid "IDS_PRSC559_DESCR"
+msgstr ""
+"根据1937年8月的苏联国防委员会第87号决议，新重巡洋舰的建造被提上日程。9月，TT3方案被制定。该方案的设计草图由第17中央设计局执行，代号69。\n"
+"在1938年，方案设计经过修订，增强了装甲。1939年11月，两艘重巡洋舰在列宁格勒和尼古拉耶夫开工，但在卫国战争开始后，这些战舰的建造被暂停。\n"
+"该版本设想用三座来自同一中央设计局设计的重巡洋舰项目X的240mm主炮替换该方案原先的主炮。"
+
+msgid "IDS_PRSC559_FULL"
+msgstr "斯维尔德洛夫斯克"
+
+msgid "IDS_PRSC559_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC559_YEAR"
+msgstr "1937"
+
+msgid "IDS_PRUA819_ART_SVERDLOVSK"
+msgstr "240 mm/60（MK-3-240炮座）"
+
+msgid "IDS_PRUA980_ART_KREMLIN"
+msgstr "457 mm/48 B-45（SM-8炮座）"
+
+msgid "IDS_PRUE818_ENG_SVERDLOVSK"
+msgstr "推进系统：150000马力"
+
+msgid "IDS_PRUE980_ENG_KREMLIN"
+msgstr "推进系统：280000马力"
+
+msgid "IDS_PRUH826_HULL_SVERDLOVSK"
+msgstr "斯维尔德洛夫斯克"
+
+msgid "IDS_PRUH980_HULL_KREMLIN"
+msgstr "不破"
+
+msgid "IDS_PRUS825_SUO_SVERDLOVSK"
+msgstr "SUO IX"
+
+msgid "IDS_PRUS980_SUO_KREMLIN"
+msgstr "SUO XI"
+
+msgid "IDS_PWGA111_70K_37MM"
+msgstr "37 mm 70-K炮座"
+
+msgid "IDS_PWGA113_37MM_67_V11"
+msgstr "37 mm V-11炮座"
+
+msgid "IDS_PWGM110_100MM_B_34_MK_XIX"
+msgstr "100 mm/56 Model. 1940（Mk.XIX炮座）"
+
+msgid "IDS_PWGT112_533MM_1N_3TUBES"
+msgstr "533 mm 三联"
+
+msgid "IDS_PWPA053_100MM_HE_BLYSKAWICA_1963"
+msgstr "HE-56"
+
+msgid "IDS_PWPA054_100MM_AP_BLYSKAWICA_1963"
+msgstr "AP-56"
+
+msgid "IDS_PWPT023_BLYSKAWICA_1963"
+msgstr "Torped M1947"
+
+msgid "IDS_PWSD518"
+msgstr "闪电'63"
+
+msgid "IDS_PWSD518_DESCR"
+msgstr "该驱逐舰是根据波兰的订单在英国建造的，并在第二次世界大战中成为最著名的战舰之一。在1947年春季，她被移交给新成立的波兰政府。在1951-52年间，该舰进行了现代化改造：主炮和防空炮被更换为苏联型号。她还在1960年代进行了多次海外访问和演习。"
+
+msgid "IDS_PWSD518_FULL"
+msgstr "闪电'63"
+
+msgid "IDS_PWSD518_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD518_YEAR"
+msgstr "1937"
+
+msgid "IDS_PWUA704_ART_BLYSKAWICA_63"
+msgstr "100 mm/56 Model. 1940（Mk.XIX炮座）"
+
+msgid "IDS_PWUE704_ENG_BLYSKAWICA_63"
+msgstr "推进系统：54000马力"
+
+msgid "IDS_PWUH706_HULL_BLYSKAWICA_63"
+msgstr "闪电'63"
+
+msgid "IDS_PWUS706_SUO_BLYSKAWICA_63"
+msgstr "SUO Mk 8"
+
+msgid "IDS_PWUT705_TORP_BLYSKAWICA_63"
+msgstr "Mark 10"
+
+msgid "IDS_PZAD901_ASW_T5"
+msgstr "Beriyev MBR-2"
+
+msgid "IDS_PZAD902_ASW_T6"
+msgstr "Beriyev MBR-2"
+
+msgid "IDS_PZAD903_ASW_T8"
+msgstr "Beriyev Be-6"
+
+msgid "IDS_PZAD904_ASW_T10"
+msgstr "Beriyev Be-6"
+
+msgid "IDS_PZES521_YUEYANG_TM"
+msgstr "蛟龙"
+
+msgid "IDS_PZGA157_45MM_SM_20_ZIF"
+msgstr "45 mm SM-20-ZIF炮座"
+
+msgid "IDS_PZGA158_45MM_SM_16"
+msgstr "45 mm SM-16炮座"
+
+msgid "IDS_PZGA164_2_PDR_MKVIII_8BARREL"
+msgstr "40 mm/39 Vickers QF Mk.VIII（Mk.VI炮座）"
+
+msgid "IDS_PZGA167_57MM_75_AK_725_TWIN"
+msgstr "57 mm AK-725炮座"
+
+msgid "IDS_PZGA169_30MM_64_AK_230"
+msgstr "30 mm AK-230炮座"
+
+msgid "IDS_PZGM155_MK_3_305_BIS"
+msgstr "305 mm/54 B-50（炮塔）"
+
+msgid "IDS_PZGM162_12IN_50_MK_XVI"
+msgstr "305 mm/50 MK.XVI（炮塔）"
+
+msgid "IDS_PZGM163_12IN_50_MK_XIV"
+msgstr "305 mm/50 MK.XIV（炮塔）"
+
+msgid "IDS_PZGM166_305MM_61_CM_42_QUAD"
+msgstr "305 mm/62 Model. 1948（SM-42炮座）"
+
+msgid "IDS_PZGM168_130MM_58_CM_62"
+msgstr "130 mm/58 Model. 1957（SM-62炮座）"
+
+msgid "IDS_PZGM173_6IN_47_MK16_TRIPLE"
+msgstr "152 mm/47 DP Mk.16（炮塔）"
+
+msgid "IDS_PZGS161_152MM_57_BL_118"
+msgstr "152 mm/57（BL-118炮座）"
+
+msgid "IDS_PZGS165_4_5IN45_MK_5"
+msgstr "113 mm/45 QF Mk.V（RP41 Mk.VI炮座）"
+
+msgid "IDS_PZGS171_6IN_50_BL_MKXXII_MKXVIII"
+msgstr "152 mm/50 BL Mk.XXII（Mk.XVIII炮座）"
+
+msgid "IDS_PZGS172_6IN50_MK_XXI"
+msgstr "152 mm/50 BL Mk.XXII（Mk.XVIII炮座）"
+
+msgid "IDS_PZPA076_305MM_HE_MKXIV"
+msgstr "305 mm HE Mk XIV."
+
+msgid "IDS_PZPA077_305MM_AP_MKXIV"
+msgstr "305 mm AP Mk XIV."
+
+msgid "IDS_PZPA078_114MM_HE_MK16"
+msgstr "113 mm HE Mk XVI"
+
+msgid "IDS_PZPA079_152MM_HE_6CRH_MK4"
+msgstr "152 mm HE 6crh Mk IV"
+
+msgid "IDS_PZPA080_130MM_HE_XIAN"
+msgstr "HE-42"
+
+msgid "IDS_PZPA081_130MM_AP_XIAN"
+msgstr "AP-42"
+
+msgid "IDS_PZPA082_152MM_HE_SG"
+msgstr "152 mm HE Mk V"
+
+msgid "IDS_PZPA083_305MM_HE_CM_42"
+msgstr "305 mm HE Model. 1928 г."
+
+msgid "IDS_PZPA084_305MM_AP_CM_42"
+msgstr "305 mm AP Model. 1928 г."
+
+msgid "IDS_PZPA085_152MM_OFU35_SG"
+msgstr "152 mm OFU-35"
+
+msgid "IDS_PZPA086_305MM_55_HE"
+msgstr "305 mm HE Model. 1928"
+
+msgid "IDS_PZPA087_305MM_55_AP"
+msgstr "305 mm AP Model. 1928"
+
+msgid "IDS_PZPA088_152MM_HE_HENGSHUI"
+msgstr "152 mm HE Mk39"
+
+msgid "IDS_PZPA089_152MM_AP_HENGSHUI"
+msgstr "152 mm AP 130 lb Mk35"
+
+msgid "IDS_PZPT056_HENGSHUI"
+msgstr "533 mm Mk16 mod. 2"
+
+msgid "IDS_PZPT057_XI_AN"
+msgstr "53-51"
+
+msgid "IDS_PZSB106"
+msgstr "扎克里"
+
+msgid "IDS_PZSB106_DESCR"
+msgstr ""
+"1926年，英国工程师J.瑟斯顿提出了一个名为“Vickers Design 892”的战列舰设计。该设计的排水量为26500吨，炮塔布局与纳尔逊级战列舰相似：两座安装在舰首的305mm炮塔。\n"
+"在该方案进一步的设计中，主炮数量可能会增加到七门，但最大航速会有所降低。如果该设计得以实施，考虑到与西方国家的盟友关系，泰国可能会在战后购买这艘战舰。"
+
+msgid "IDS_PZSB106_FULL"
+msgstr "扎克里"
+
+msgid "IDS_PZSB106_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB106_YEAR"
+msgstr "1926"
+
+msgid "IDS_PZSB107"
+msgstr "佐勒菲卡尔"
+
+msgid "IDS_PZSB107_DESCR"
+msgstr ""
+"1926年，英国工程师J.瑟斯顿提出的战列舰设计，其排水量为26500吨，炮塔布局类似于纳尔逊级。如果该设计得以实施，该舰将配备更多的主炮：七门主炮和八座副炮塔。为此，最大航速将会有所降低，装甲也会有所削弱。\n"
+"如果按照该设计进行建造，伊朗可能会在战后购买这艘战舰，因为当时伊朗正积极寻求购买美国和英国的战舰以扩大自己的海军规模。"
+
+msgid "IDS_PZSB107_FULL"
+msgstr "佐勒菲卡尔"
+
+msgid "IDS_PZSB107_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB107_YEAR"
+msgstr "1926"
+
+msgid "IDS_PZSB108"
+msgstr "升龙"
+
+msgid "IDS_PZSB108_DESCR"
+msgstr ""
+"假想的战后现代化设计，基于波罗的海造船厂KB-4的A型战列舰项目——用高平两用炮塔替换反潜炮和主炮后炮塔，剩余的主炮则更换为55倍径的305mm炮。\n"
+"经过现代化改造后，按照苏联的军事政治考虑，该舰可能会转交给亚太地区的盟友国家，例如越南。"
+
+msgid "IDS_PZSB108_FULL"
+msgstr "升龙"
+
+msgid "IDS_PZSB108_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB108_YEAR"
+msgstr "1936"
+
+msgid "IDS_PZSB109"
+msgstr "东风"
+
+msgid "IDS_PZSB109_DESCR"
+msgstr ""
+"基于波罗的海造船厂KB-4的A型战列舰项目的一种现代化设计可能性——用高平两用炮塔替换反潜炮和主炮后炮塔，剩余的主炮则更换为55倍径的305mm炮。\n"
+"在苏联与中国之间的互助计划背景下，经过现代化改造和重新武装后，该舰可能会移交给中国。"
+
+msgid "IDS_PZSB109_FULL"
+msgstr "东风"
+
+msgid "IDS_PZSB109_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB109_YEAR"
+msgstr "1936"
+
+msgid "IDS_PZSB110"
+msgstr "天宫"
+
+msgid "IDS_PZSB110_DESCR"
+msgstr ""
+"基于波罗的海造船厂KB-4的A型战列舰项目的一种现代化设计可能性。此版本的现代化改造计划用高平两用炮塔替换反潜炮和主炮后炮塔，剩余的主炮则更换为62倍径的305mm炮。\n"
+"经过现代化改造后，该舰可能会在苏联与中国的科技合作计划下移交给中国。"
+
+msgid "IDS_PZSB110_FULL"
+msgstr "天宫"
+
+msgid "IDS_PZSB110_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB110_YEAR"
+msgstr "1936"
+
+msgid "IDS_PZSC111"
+msgstr "西安"
+
+msgid "IDS_PZSC111_DESCR"
+msgstr ""
+"1950年，苏联内务部第四特局的三家设计局开发了几种轻型巡洋舰的初步设计。MLK-10x130型巡洋舰装备了五座双联130mm火炮。\n"
+"在我们假想的1960年代现代化中，考虑将BL-110炮更换为SM-62炮，这种炮在防空方面更为有效。经过现代化改造后，该舰可能会在中苏科技合作计划中被移交给中国。"
+
+msgid "IDS_PZSC111_FULL"
+msgstr "西安"
+
+msgid "IDS_PZSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSC111_YEAR"
+msgstr "1950"
+
+msgid "IDS_PZSC519"
+msgstr "衡水"
+
+msgid "IDS_PZSC519_DESCR"
+msgstr "测试战舰。"
+
+msgid "IDS_PZSC519_FULL"
+msgstr "衡水"
+
+msgid "IDS_PZSC519_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSC519_YEAR"
+msgstr "1939"
+
+msgid "IDS_PZUA506_B6_ART_STOCK"
+msgstr "305 mm/50 MK.XIV/MK.XVI（炮塔）"
+
+msgid "IDS_PZUA603_B7_ART_STOCK"
+msgstr "305 mm/50 MK.XIV/MK.XVI（炮塔）"
+
+msgid "IDS_PZUA710_B8_ART_STOCK"
+msgstr "305 mm/54 B-50（炮塔）"
+
+msgid "IDS_PZUA809_B9_ART_STOCK"
+msgstr "305 mm/54 B-50（炮塔）"
+
+msgid "IDS_PZUA810_ART_HENGSHUI"
+msgstr "152 mm/47 Mk.16（炮塔）"
+
+msgid "IDS_PZUA905_C11_ART_STOCK"
+msgstr "130 mm/58 Model 1957（SM-62炮座）"
+
+msgid "IDS_PZUA906_B10_ART_STOCK"
+msgstr "305 mm/62 Model 1948（SM-42炮座）"
+
+msgid "IDS_PZUE505_B6_ENG_STOCK"
+msgstr "推进系统：45000马力"
+
+msgid "IDS_PZUE603_B7_ENG_STOCK"
+msgstr "推进系统：50000马力"
+
+msgid "IDS_PZUE712_B8_ENG_STOCK"
+msgstr "推进系统：192000马力"
+
+msgid "IDS_PZUE809_B9_ENG_STOCK"
+msgstr "推进系统：201000马力"
+
+msgid "IDS_PZUE810_ENG_HENGSHUI"
+msgstr "推进系统：120000马力"
+
+msgid "IDS_PZUE905_C11_ENG_STOCK"
+msgstr "推进系统：111000马力"
+
+msgid "IDS_PZUE906_B10_ENG_STOCK"
+msgstr "推进系统：201000马力"
+
+msgid "IDS_PZUH507_B6_HULL_STOCK"
+msgstr "扎克里"
+
+msgid "IDS_PZUH605_B7_HULL_STOCK"
+msgstr "佐勒菲卡尔"
+
+msgid "IDS_PZUH714_B8_HULL_STOCK"
+msgstr "升龙"
+
+msgid "IDS_PZUH811_B9_HULL_STOCK"
+msgstr "东风"
+
+msgid "IDS_PZUH812_HULL_HENGSHUI"
+msgstr "衡水"
+
+msgid "IDS_PZUH905_C11_HULL_STOCK"
+msgstr "西安"
+
+msgid "IDS_PZUH906_B10_HULL_STOCK"
+msgstr "天宫"
+
+msgid "IDS_PZUS507_B6_SUO_STOCK"
+msgstr "Mk VI"
+
+msgid "IDS_PZUS605_B7_SUO_STOCK"
+msgstr "Mk VII"
+
+msgid "IDS_PZUS712_B8_SUO_STOCK"
+msgstr "SUO VIII"
+
+msgid "IDS_PZUS811_B9_SUO_STOCK"
+msgstr "SUO IX"
+
+msgid "IDS_PZUS812_SUO_HENGSHUI"
+msgstr "Mk9"
+
+msgid "IDS_PZUS905_C11_SUO_STOCK"
+msgstr "SUO XI"
+
+msgid "IDS_PZUS906_B10_SUO_STOCK"
+msgstr "SUO X"
+
+msgid "IDS_PZUT806_TORP_HENGSHUI"
+msgstr "533 mm Mk XV"
+
+msgid "IDS_PZUT905_C11_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_QUESTION_SKILL_UPGRADE_FOR"
+msgstr "强化技能？确认花费"
+
+msgid "IDS_QUESTION_TALENT_UNLOCK_FOR"
+msgstr "习得天赋？确认花费"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VII-VIII级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VII–VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE"
+msgstr "“日本舰队”补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE_SHORT"
+msgstr "日本舰队"
+
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_TITLE"
+msgstr "“胜者之路”补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_TITLE_SHORT"
+msgstr "胜者之路"
+
+msgid "IDS_RUSSIA_GENITIVE"
+msgstr "苏联"
+
+msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_STATUS_LINE"
+msgstr "在所选战斗模式中只能使用特定战舰。"
+
+msgid "IDS_SECOND_TSAR_MOREY_NAME"
+msgstr "配角"
+
+msgid "IDS_SEC_MAIN_CALIBER"
+msgstr "中口径主炮"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM126_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM135_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_MODIFIER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF_APPLIED"
+msgstr "防御特性提升"
+
+msgid "IDS_SHIP_PARAM_SEC_MAIN_GUN"
+msgstr "中口径主炮"
+
+msgid "IDS_SOUND_MOD_DOBROJIR_DROBODANOVICH"
+msgstr "多布罗日尔•德罗波丹诺维奇"
+
+msgid "IDS_SPAIN_GENITIVE"
+msgstr "西班牙"
+
+msgid "IDS_STATUS_LINE_CANT_HOLD_MORE_EPIC_SKILLS_ON_SHIP_CLASS"
+msgstr "指挥官在此战舰类型上学习的技能数量已到达最大限制"
+
+msgid "IDS_STATUS_LINE_CANT_HOLD_MORE_THAN_ONE_TALENT"
+msgstr "若要习得新的国家天赋，必须放弃已有的国家天赋"
+
+msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL"
+msgstr "您没有具备此强化版技能的指挥官"
+
+msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_SUCH_TALENT"
+msgstr "您没有具备此天赋的指挥官"
+
+msgid "IDS_STATUS_LINE_SKILL_CAN_BE_MADE_EPIC"
+msgstr "技能可强化"
+
+msgid "IDS_SYS_MSG_BATTLE_RESULTS_11"
+msgstr "战斗结束"
+
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_DENIAL"
+msgstr "已放弃强化技能"
+
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_UNLOCKING"
+msgstr "技能已强化"
+
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_DENIAL"
+msgstr "已放弃习得天赋"
+
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_UNLOCKING"
+msgstr "天赋已习得"
+
+msgid "IDS_SYS_MSG_CREW_MENTORSHIP_AVAILABLE"
+msgstr "可进行精英训练"
+
+msgid "IDS_THIRD_TSAR_MOREY_NAME"
+msgstr "一帆风顺"
+
+msgid "IDS_TOOLTIP_SEC_MAIN_GUN"
+msgstr "中口径主炮"
+
+msgid "IDS_UNITED_KINGDOM_GENITIVE"
+msgstr "英国"
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_AIRCARRIER"
+msgstr "航空母舰强化版技能："
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_BATTLESHIP"
+msgstr "战列舰强化版技能："
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_CRUISER"
+msgstr "巡洋舰强化版技能："
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_DESTROYER"
+msgstr "驱逐舰强化版技能："
+
+msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_SUBMARINE"
+msgstr "潜艇强化版技能："
+
+msgid "IDS_USA_GENITIVE"
+msgstr "美国"
+
+msgid "IDS_VALERKA_MESHCHERYAKOV"
+msgstr "瓦列尔卡•梅谢利亚科夫"
+
+msgid "IDS_WAITING_FOR_DEMOBILIZATION_TIMER"
+msgstr "等待解雇：%(_timeLeft)s"
+
+msgid "IDS_YASHKA_GYPSY"
+msgstr "吉普赛人雅什卡"
+
+msgid "IDS_YOU_WILL_RECEIVE"
+msgstr "您将获得"
+
+msgid "IDS_YURIY_VOROBYEV"
+msgstr "尤里•沃罗比耶夫"
