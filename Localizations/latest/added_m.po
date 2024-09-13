@@ -31,22 +31,22 @@ msgid "IDS_AC_DUAL_CIT_SSC_INCLIN"
 msgstr "装甲甲板斜面"
 
 msgid "IDS_AVIATION_BOMBERS_JET_BOMB_ATTACK_COUNT_HIGH"
-msgstr "每架飞机携带多枚炸弹"
+msgstr "战术轰炸机携带炸弹数量较多"
 
 msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_AP_SHORT"
-msgstr "穿甲弹"
+msgstr "中口径主炮穿甲弹"
 
 msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_CS_SHORT"
-msgstr "半穿甲弹"
+msgstr "中口径主炮半穿甲弹"
 
 msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_HE_SHORT"
-msgstr "高爆弹"
+msgstr "中口径主炮高爆弹"
 
 msgid "IDS_CAROUSEL_PCVE023_FILTER"
 msgstr "筛选适合非对称战斗的战舰"
 
 msgid "IDS_CAUSED_ARTILLERY_SECONDARY_CALIBER_HINT"
-msgstr "副炮命中次数和造成的伤害"
+msgstr "中口径主炮命中次数和造成的伤害"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE023"
 msgstr "选择非对称战斗"
@@ -485,16 +485,16 @@ msgid "IDS_PARAMS_MODIFIER_GMPENETRATIONCOEFFCS"
 msgstr "主炮半穿甲弹的穿甲能力"
 
 msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
-msgstr "副炮伤害"
+msgstr "中口径主炮伤害"
 
 msgid "IDS_PARAMS_MODIFIER_GMSIDEALRADIUS"
-msgstr "副炮炮弹最大误差"
+msgstr "中口径主炮炮弹最大误差"
 
 msgid "IDS_PARAMS_MODIFIER_GMSMAXDIST"
-msgstr "副炮射程"
+msgstr "中口径主炮射程"
 
 msgid "IDS_PARAMS_MODIFIER_GMSSHOTDELAY"
-msgstr "副炮装填时间"
+msgstr "中口径主炮装填时间"
 
 msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
 msgstr "受到的主炮伤害"
@@ -1170,7 +1170,7 @@ msgstr "西安"
 
 msgid "IDS_PZSC111_DESCR"
 msgstr ""
-"1950年，苏联内务部第四特局的三家设计局开发了几种轻型巡洋舰的初步设计。MLK-10x130型巡洋舰装备了五座双联130mm火炮。\n"
+"1950年，苏联内务部第四局的三家设计局开发了几种轻型巡洋舰的初步设计。MLK-10x130型巡洋舰装备了五座双联130mm火炮。\n"
 "在我们假想的1960年代现代化中，考虑将BL-110炮更换为SM-62炮，这种炮在防空方面更为有效。经过现代化改造后，该舰可能会在中苏科技合作计划中被移交给中国。"
 
 msgid "IDS_PZSC111_FULL"
