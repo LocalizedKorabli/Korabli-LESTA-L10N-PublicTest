@@ -13054,10 +13054,10 @@ msgid "IDS_CREW_EPIC_SKILL_DENIAL_ATTENTION_INFO"
 msgstr "技能将恢复其原始效果"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL"
-msgstr "放弃对以下技能的强化"
+msgstr "取消对以下技能的强化"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL_FREE"
-msgstr "放弃强化版技能？"
+msgstr "取消强化？"
 
 msgid "IDS_CREW_FAST_LEARNING"
 msgstr "加速训练"
@@ -18703,7 +18703,7 @@ msgid "IDS_CREW_SKILL_DENIAL_ATTENTION_INFO"
 msgstr "您随时可以重新强化此技能"
 
 msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_0"
-msgstr "将失去精英指挥官经验"
+msgstr "不会返还任何经验"
 
 msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_1"
 msgstr "将返还25%消耗的经验"
@@ -18712,10 +18712,10 @@ msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_2"
 msgstr "将返还所有消耗的经验"
 
 msgid "IDS_CREW_SKILL_DENIAL_FULL"
-msgstr "放弃强化版技能？确认花费"
+msgstr "取消强化？确认花费"
 
 msgid "IDS_CREW_SKILL_DENIAL_FULL_FREE"
-msgstr "放弃强化版技能？"
+msgstr "取消强化？"
 
 msgid "IDS_CREW_SKILL_LEARN_ADDITIONAL_INFO"
 msgstr "通过花费技能点数学习后，您才可以使用此技能"
@@ -38663,7 +38663,7 @@ msgid "IDS_MODAL_WINDOW_TITLE_ECONOMIC_BOOSTS"
 msgstr "经济加成"
 
 msgid "IDS_MODAL_WINDOW_TITLE_EPIC_SKILL_DENY"
-msgstr "放弃强化版技能"
+msgstr "取消强化"
 
 msgid "IDS_MODAL_WINDOW_TITLE_MULTIBOOST_LINK"
 msgstr "绑定永久加成包"
@@ -38696,7 +38696,7 @@ msgid "IDS_MODAL_WINDOW_TITLE_SIGNAL_PURCHASE"
 msgstr "购买信号旗"
 
 msgid "IDS_MODAL_WINDOW_TITLE_SKILL_DENY"
-msgstr "放弃强化版技能"
+msgstr "取消强化"
 
 msgid "IDS_MODAL_WINDOW_TITLE_SKILL_UPGRADE"
 msgstr "强化技能"
@@ -39029,7 +39029,7 @@ msgid "IDS_MOUSE_INSTRUCTION_CHOOSE"
 msgstr "选择%(_battleType)s"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
-msgstr "放弃强化版技能"
+msgstr "取消强化"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_SLOT_INFOTIP_OPEN"
 msgstr "查看强化列表"
@@ -125506,13 +125506,13 @@ msgid "IDS_SYS_MSG_CREW_LEVEL_UP"
 msgstr "指挥官等级已提升"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_DENIAL"
-msgstr "已放弃强化版技能"
+msgstr "强化已取消"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_UNLOCKING"
 msgstr "技能已强化"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_DENIAL"
-msgstr "已放弃天赋"
+msgstr "天赋已放弃"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_UNLOCKING"
 msgstr "天赋已激活"
