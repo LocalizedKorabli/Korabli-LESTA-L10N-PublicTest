@@ -70,16 +70,16 @@ msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL"
 msgstr "放弃对以下技能的强化"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL_FREE"
-msgstr "放弃强化？"
+msgstr "放弃强化版技能？"
 
 msgid "IDS_CREW_INFO_MODAL_ALTERNATE_SKILL_NO_MENTOR_INFO_STATUS"
-msgstr "可从稀有、精英和传奇指挥官处学习其他技能"
+msgstr "可从稀有、精英和传奇指挥官处获得其他技能"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP"
 msgstr "精英训练"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_SKILLS_UNLOCKED_COUNT"
-msgstr "已学习的技能："
+msgstr "已强化的技能："
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_SKILLS_1"
 msgstr "第1~3项技能"
@@ -94,37 +94,37 @@ msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_TALENT"
 msgstr "国家天赋"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_DESCRIPTION"
-msgstr "对于每个战舰类型，精英指挥官最多可学习三个强化版技能。每个后续技能的费用取决于所有类型的总技能数量。"
+msgstr "对于每个战舰类型，精英指挥官最多可获得三项强化版技能。技能的强化费用取决于该指挥官在所有战舰类型上已获得的强化版技能总数。"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_HEADER"
 msgstr "强化版技能"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_MAX_PERKS_UNLOCKED_STATUS_LINE"
-msgstr "学习的技能数量已到达最大限制"
+msgstr "获得的强化版技能数量已到达最大限制"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_NOT_MAX_LEVEL_STATUS_LINE"
 msgstr "指挥官达到最高等级时，可进行精英训练。"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_DESCRIPTION"
-msgstr "精英指挥官可以从传奇指挥官处学习一个国家天赋和个性化选项。"
+msgstr "精英指挥官可以激活相同国籍传奇指挥官拥有的国家天赋，并获得相应个性化选项。"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_HEADER"
 msgstr "国家天赋"
 
 msgid "IDS_CREW_INFO_MODAL_EPIC_SKILL_NO_MENTOR_INFO_STATUS"
-msgstr "稀有、精英和传奇指挥官可以学习强化版技能"
+msgstr "精英指挥官可从稀有、传奇指挥官处获得强化版技能"
 
 msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_NO_MENTOR_INFO_STATUS"
-msgstr "若拥有%(_nationName)s传奇指挥官，您将可以习得其国家天赋"
+msgstr "若拥有%(_nationName)s传奇指挥官，您将可以激活相应国家天赋"
 
 msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_CREW_LEVEL"
-msgstr "指挥官达到21级后可以习得国家天赋"
+msgstr "指挥官达到21级后可以激活国家天赋"
 
 msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_MENTOR_IN_GAME"
-msgstr "仅当此国家的传奇指挥官出现在游戏中时，您才可以习得其国家天赋"
+msgstr "仅当此国家的传奇指挥官出现在游戏中时，您才可以激活相应国家天赋"
 
 msgid "IDS_CREW_SKILL_DENIAL_ATTENTION_INFO"
-msgstr "您随时可以重新学习此技能"
+msgstr "您随时可以重新强化此技能"
 
 msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_0"
 msgstr "将失去精英指挥官经验"
@@ -136,25 +136,25 @@ msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_2"
 msgstr "将返还所有消耗的经验"
 
 msgid "IDS_CREW_SKILL_DENIAL_FULL"
-msgstr "放弃学习技能？确认花费"
+msgstr "放弃强化版技能？确认花费"
 
 msgid "IDS_CREW_SKILL_DENIAL_FULL_FREE"
-msgstr "放弃学习技能？"
+msgstr "放弃强化版技能？"
 
 msgid "IDS_CREW_SKILL_LEARN_ADDITIONAL_INFO"
-msgstr "通过花费技能点数习得后，您才可以使用此技能"
+msgstr "通过花费技能点数学习后，您才可以使用此技能"
 
 msgid "IDS_CREW_TALENT_DENIAL_ATTENTION_INFO"
-msgstr "您随时可以重新学习此天赋"
+msgstr "您随时可以重新激活此天赋"
 
 msgid "IDS_CREW_TALENT_DENIAL_FULL"
-msgstr "放弃学习天赋？确认花费"
+msgstr "放弃天赋？确认花费"
 
 msgid "IDS_CREW_TALENT_DENIAL_FULL_FREE"
-msgstr "放弃学习天赋？"
+msgstr "放弃天赋？"
 
 msgid "IDS_CREW_TALENT_LEARN_ADDITIONAL_INFO"
-msgstr "指挥官将在习得天赋的同时获得个性化选项"
+msgstr "指挥官将在激活天赋的同时获得个性化选项"
 
 msgid "IDS_DANKA_SHCHUS"
 msgstr "丹卡•什丘斯"
@@ -209,10 +209,10 @@ msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE_SHINANO"
 msgstr "即时维修战舰"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_0"
-msgstr "达到21级后，精英指挥官可以从您拥有的其他指挥官处学习国家天赋和强化版技能。"
+msgstr "达到21级后，精英指挥官可以从您拥有的其他指挥官处获得国家天赋和强化版技能。"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_1"
-msgstr "强化版技能和国家天赋需要通过精英指挥官经验获取，之后也可以被更换为其他技能。"
+msgstr "强化版技能和国家天赋需要通过精英指挥官经验获取，之后也可以被更换为其他天赋或技能。"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_2"
 msgstr "在指挥官达到最高等级后，您可以进入“个人档案”页面管理精英指挥官能力。"
@@ -401,25 +401,25 @@ msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "您可以单独参战，也可以组成最多3人的小队。"
 
 msgid "IDS_MODAL_WINDOW_TITLE_EPIC_SKILL_DENY"
-msgstr "放弃强化技能"
+msgstr "放弃强化版技能"
 
 msgid "IDS_MODAL_WINDOW_TITLE_SKILL_DENY"
-msgstr "放弃学习技能"
+msgstr "放弃强化版技能"
 
 msgid "IDS_MODAL_WINDOW_TITLE_SKILL_UPGRADE"
 msgstr "强化技能"
 
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_DENY"
-msgstr "放弃学习天赋"
+msgstr "放弃天赋"
 
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
-msgstr "习得天赋"
+msgstr "激活天赋"
 
 msgid "IDS_MONGOL_TM"
 msgstr "Guō Hóngfàn"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
-msgstr "放弃强化技能"
+msgstr "放弃强化版技能"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_SLOT_INFOTIP_OPEN"
 msgstr "查看强化列表"
@@ -428,10 +428,10 @@ msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_UPGRADE"
 msgstr "强化技能"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_DENY"
-msgstr "放弃学习天赋"
+msgstr "放弃天赋"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_RECEIVE"
-msgstr "习得天赋"
+msgstr "激活天赋"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_NATIONAL_TALENT_SLOT_INFOTIP_OPEN"
 msgstr "查看天赋列表"
@@ -1170,7 +1170,7 @@ msgstr "西安"
 
 msgid "IDS_PZSC111_DESCR"
 msgstr ""
-"1950年，苏联内务部第四局的三家设计局开发了几种轻型巡洋舰的初步设计。MLK-10x130型巡洋舰装备了五座双联130mm火炮。\n"
+"1950年，苏联内务部第四局的三家设计局激活了几种轻型巡洋舰的初步设计。MLK-10x130型巡洋舰装备了五座双联130mm火炮。\n"
 "在我们假想的1960年代现代化中，考虑将BL-110炮更换为SM-62炮，这种炮在防空方面更为有效。经过现代化改造后，该舰可能会在中苏科技合作计划中被移交给中国。"
 
 msgid "IDS_PZSC111_FULL"
@@ -1291,7 +1291,7 @@ msgid "IDS_QUESTION_SKILL_UPGRADE_FOR"
 msgstr "强化技能？确认花费"
 
 msgid "IDS_QUESTION_TALENT_UNLOCK_FOR"
-msgstr "习得天赋？确认花费"
+msgstr "激活天赋？确认花费"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -1426,10 +1426,10 @@ msgid "IDS_SPAIN_GENITIVE"
 msgstr "西班牙"
 
 msgid "IDS_STATUS_LINE_CANT_HOLD_MORE_EPIC_SKILLS_ON_SHIP_CLASS"
-msgstr "指挥官在此战舰类型上学习的技能数量已到达最大限制"
+msgstr "指挥官在此战舰类型上强化的技能数量已到达最大限制"
 
 msgid "IDS_STATUS_LINE_CANT_HOLD_MORE_THAN_ONE_TALENT"
-msgstr "若要习得新的国家天赋，必须放弃已有的国家天赋"
+msgstr "若要激活新的国家天赋，必须放弃已有的国家天赋"
 
 msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL"
 msgstr "您没有具备此强化版技能的指挥官"
@@ -1444,16 +1444,16 @@ msgid "IDS_SYS_MSG_BATTLE_RESULTS_11"
 msgstr "战斗结束"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_DENIAL"
-msgstr "已放弃强化技能"
+msgstr "已放弃强化版技能"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_EPIC_SKILL_UNLOCKING"
 msgstr "技能已强化"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_DENIAL"
-msgstr "已放弃习得天赋"
+msgstr "已放弃天赋"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_UNLOCKING"
-msgstr "天赋已习得"
+msgstr "天赋已激活"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_AVAILABLE"
 msgstr "可进行精英训练"
