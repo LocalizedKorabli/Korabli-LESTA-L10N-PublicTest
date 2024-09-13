@@ -67,7 +67,7 @@ msgid "IDS_CREW_EPIC_SKILL_DENIAL_ATTENTION_INFO"
 msgstr "技能将恢复其原始效果"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL"
-msgstr "取消对以下技能的强化"
+msgstr "取消强化？确认花费"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_FULL_FREE"
 msgstr "取消强化？"
