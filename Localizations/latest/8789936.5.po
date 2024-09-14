@@ -7118,7 +7118,7 @@ msgid "IDS_BATTLE_STATS_ALLIES_TARGET_REACHED_DESTINATION"
 msgstr "我方运输舰抵达目的地"
 
 msgid "IDS_BATTLE_STATS_ALLIES_TECHNICAL_RESULTS"
-msgstr "我方团队已完成任务。"
+msgstr "我方团队已完成任务"
 
 msgid "IDS_BATTLE_STATS_AMMO_AP_SHORT"
 msgstr "穿甲弹"
@@ -7388,7 +7388,7 @@ msgid "IDS_BATTLE_STATS_ENEMIES_TARGET_REACHED_DESTINATION"
 msgstr "敌方运输舰抵达目的地"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_TECHNICAL_RESULTS"
-msgstr "敌方团队已完成任务。"
+msgstr "敌方团队已完成任务"
 
 msgid "IDS_BATTLE_STATS_ENEMY"
 msgstr "敌军"
