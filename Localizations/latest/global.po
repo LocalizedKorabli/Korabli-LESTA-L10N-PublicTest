@@ -7082,16 +7082,16 @@ msgid "IDS_BATTLE_STATS_ALIVE_TIME_HINT"
 msgstr "战斗消耗时间"
 
 msgid "IDS_BATTLE_STATS_ALLIES_AIRSHIP_ARRIVED"
-msgstr "我方飞艇首先抵达目的地。"
+msgstr "我方飞艇首先抵达目的地"
 
 msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
-msgstr "我方团队占领了基地。"
+msgstr "我方团队占领了基地"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE"
-msgstr "我方团队已完成任务。"
+msgstr "我方团队已完成任务"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE_ON_TIMEOUT"
-msgstr "战斗时间结束，我方团队以优胜点数获胜。"
+msgstr "我方团队以更多的点数获胜"
 
 msgid "IDS_BATTLE_STATS_ALLIES_PLANES_KILLED"
 msgstr "我方飞机被摧毁"
@@ -7100,22 +7100,22 @@ msgid "IDS_BATTLE_STATS_ALLIES_PLANES_KILLED_HINT"
 msgstr "您在此战斗中摧毁的我方飞机数"
 
 msgid "IDS_BATTLE_STATS_ALLIES_PROTECTED_TARGETS_DESTROYED"
-msgstr "所有我方运输舰已被击毁。"
+msgstr "所有我方运输舰都被击毁"
 
 msgid "IDS_BATTLE_STATS_ALLIES_PROTECTED_TARGETS_SURVIVED"
-msgstr "我方运输舰并未在规定时间内被击毁。"
+msgstr "敌方未能在规定时间内击毁我方运输舰"
 
 msgid "IDS_BATTLE_STATS_ALLIES_PVE_MISSION_FAILED"
-msgstr "我们的团队未完成主要目标。"
+msgstr "我们的团队未完成主要目标"
 
 msgid "IDS_BATTLE_STATS_ALLIES_PVE_MISSION_SUCCEEDED"
-msgstr "我们的团队已完成主要目标。"
+msgstr "我们的团队已完成主要目标"
 
 msgid "IDS_BATTLE_STATS_ALLIES_SUNK"
-msgstr "所有我方战舰被摧毁。"
+msgstr "所有我方战舰都被摧毁"
 
 msgid "IDS_BATTLE_STATS_ALLIES_TARGET_REACHED_DESTINATION"
-msgstr "我方运输舰抵达目的地。"
+msgstr "我方运输舰抵达目的地"
 
 msgid "IDS_BATTLE_STATS_ALLIES_TECHNICAL_RESULTS"
 msgstr "我方团队已完成任务。"
@@ -7364,28 +7364,28 @@ msgid "IDS_BATTLE_STATS_ENEMIES"
 msgstr "敌军"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_AIRSHIP_ARRIVED"
-msgstr "敌方飞艇首先抵达目的地。"
+msgstr "敌方飞艇首先抵达目的地"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_CAPTURED_BASE"
-msgstr "敌方团队占领了基地。"
+msgstr "敌方团队占领了基地"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE"
-msgstr "敌方团队已完成任务。"
+msgstr "敌方团队已完成任务"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE_ON_TIMEOUT"
-msgstr "战斗时间结束，敌方团队以优胜点数获胜。"
+msgstr "敌方团队以更多的点数获胜"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_PROTECTED_TARGETS_DESTROYED"
-msgstr "所有敌方运输舰已被击毁。"
+msgstr "所有敌方运输舰都被击毁"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_PROTECTED_TARGETS_SURVIVED"
-msgstr "敌方运输舰并未在规定时间内被击毁。"
+msgstr "并未在规定时间内击毁敌方运输舰"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_SUNK"
-msgstr "敌方所有战舰被摧毁。"
+msgstr "所有敌方战舰都被摧毁"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_TARGET_REACHED_DESTINATION"
-msgstr "敌方运输舰抵达目的地。"
+msgstr "敌方运输舰抵达目的地"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_TECHNICAL_RESULTS"
 msgstr "敌方团队已完成任务。"
@@ -7604,10 +7604,10 @@ msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_HE_SHORT"
 msgstr "中口径主炮高爆弹"
 
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE"
-msgstr "在战斗中获得"
+msgstr "战斗收益"
 
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE_CREDITS"
-msgstr "在战斗中获得"
+msgstr "战斗收益"
 
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE_CREDITS_HINT"
 msgstr "您在战斗中获得的银币"
@@ -30291,7 +30291,7 @@ msgid "IDS_GAMEMODE_GAMEMODE_ARMS_RACE_RULES_DESCRIPTION_TEXT_0"
 msgstr "为战舰和飞机中队提供生命值恢复"
 
 msgid "IDS_GAMEMODE_GAMEMODE_ARMS_RACE_RULES_DESCRIPTION_TEXT_1"
-msgstr "提高战舰武器装填和中队整备的速度"
+msgstr "提高战舰武器装填和飞机整备的速度"
 
 msgid "IDS_GAMEMODE_GAMEMODE_ARMS_RACE_RULES_DESCRIPTION_TEXT_2"
 msgstr "提高战舰武器和中队的伤害"
@@ -45651,7 +45651,7 @@ msgid "IDS_PARAMS_MODIFIER_AIRDEFENSEDISPWORKTIMECOEFF_MODERNIZATION"
 msgstr "防御型对空火力消耗品作用时间"
 
 msgid "IDS_PARAMS_MODIFIER_AIRPLANERELOADCOEFF"
-msgstr "中队整备时间"
+msgstr "飞机整备时间"
 
 msgid "IDS_PARAMS_MODIFIER_AIRPLANESAMMOCOUNT"
 msgstr "攻击机弹药"
@@ -45666,7 +45666,7 @@ msgid "IDS_PARAMS_MODIFIER_AIRPLANESFIGHTERVITALITYTIME"
 msgstr "攻击机生命值"
 
 msgid "IDS_PARAMS_MODIFIER_AIRPLANESPREPARETIME"
-msgstr "中队整备时间"
+msgstr "飞机整备时间"
 
 msgid "IDS_PARAMS_MODIFIER_ALLCONSUMABLERELOADTIME"
 msgstr "战舰消耗品准备和装填时间"
@@ -46538,7 +46538,7 @@ msgid "IDS_PARAMS_MODIFIER_PLANEREGENERATIONRATE"
 msgstr "使用中队的维修消耗品后恢复的生命值总量"
 
 msgid "IDS_PARAMS_MODIFIER_PLANERELOADTIME"
-msgstr "中队整备时间"
+msgstr "飞机整备时间"
 
 msgid "IDS_PARAMS_MODIFIER_PLANESMOKEGENERATORWORKTIMECOEFF"
 msgstr "机载发烟器消耗品作用时间"
@@ -110337,7 +110337,7 @@ msgid "IDS_RELOADTIME"
 msgstr "装填时间"
 
 msgid "IDS_RELOAD_ACTIVE_DESC"
-msgstr "提高战舰武器装填和中队整备的速度"
+msgstr "提高战舰武器装填和飞机整备的速度"
 
 msgid "IDS_REMOVED_CHAT_MESSAGE"
 msgstr "信息已删除"
@@ -119399,7 +119399,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM022_PLANECONSUMABLETIME"
 msgstr "中队消耗品装填时间"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM023_PLANERELOADTIME"
-msgstr "中队整备速度已提高"
+msgstr "中队整备速度已提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM024_DAMAGERESIST"
 msgstr "伤害降低"
@@ -119411,13 +119411,13 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM026_ENGINEBOOST_H2020"
 msgstr "Phobos：迅捷"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM043_GSSHOTIMPROVE"
-msgstr "改进的副炮性能"
+msgstr "副炮性能提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM044_AR_HULLHEALTH_SUBMARINE"
 msgstr "生命值提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM045_AR_WEAPONDAMAGE"
-msgstr "伤害提高"
+msgstr "伤害提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM046_AR_PLANESHEALTH"
 msgstr "生命值提升"
@@ -119486,7 +119486,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM900_ENERGY"
 msgstr "能量单位数"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PLANE_SPAWN_TIME"
-msgstr "中队整备速度提高"
+msgstr "中队整备速度提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM001_REGENERATION_H2020"
 msgstr "生命值恢复"
@@ -119495,7 +119495,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM002_DAMAGERESIST_H2020"
 msgstr "伤害降低"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM003_HULLHEALTH_H2020"
-msgstr "生命值提高"
+msgstr "生命值提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM004_HEALDAMAGECOEF_H2020"
 msgstr "吸血"
@@ -119705,7 +119705,7 @@ msgid "IDS_SHIP_MODIFIER_PCOM022_PLANECONSUMABLETIME_APPLIED"
 msgstr "中队消耗品装填时间已缩短"
 
 msgid "IDS_SHIP_MODIFIER_PCOM023_PLANERELOADTIME_APPLIED"
-msgstr "中队整备速度已提升"
+msgstr "飞机整备速度已提升"
 
 msgid "IDS_SHIP_MODIFIER_PCOM024_DAMAGERESIST_APPLIED"
 msgstr "已降低即将到来的伤害"
@@ -125221,7 +125221,7 @@ msgid "IDS_SYS_MSG_BATTLE_STATS_SHIPS_KILLED"
 msgstr "摧毁战舰数"
 
 msgid "IDS_SYS_MSG_BATTLE_STATS_TAKEN_TILL_BATTLE"
-msgstr "在战斗中获得"
+msgstr "战斗收益"
 
 msgid "IDS_SYS_MSG_BET_CANCELED"
 msgstr "已取消出价"

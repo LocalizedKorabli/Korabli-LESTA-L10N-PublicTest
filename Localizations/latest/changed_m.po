@@ -26,10 +26,10 @@ msgid "IDS_AVIATION_HYBRID_TORPEDO_BOMBER"
 msgstr "可使用战术鱼雷轰炸机"
 
 msgid "IDS_BATTLE_STATS_ALLIES_TECHNICAL_RESULTS"
-msgstr "我方团队已完成任务。"
+msgstr "我方团队已完成任务"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_TECHNICAL_RESULTS"
-msgstr "敌方团队已完成任务。"
+msgstr "敌方团队已完成任务"
 
 msgid "IDS_BY_DESTOYED_PLANES"
 msgstr "击落飞机数"
