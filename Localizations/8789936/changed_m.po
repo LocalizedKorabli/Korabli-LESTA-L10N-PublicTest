@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_AVIATION_HYBRID_BOMBERS"
+msgstr "可使用战术轰炸机"
+
+msgid "IDS_AVIATION_HYBRID_FIGHTERS"
+msgstr "可使用战术攻击机"
+
+msgid "IDS_AVIATION_HYBRID_SKIP_BOMBERS"
+msgstr "可使用战术弹跳轰炸机"
+
+msgid "IDS_AVIATION_HYBRID_TORPEDO_BOMBER"
+msgstr "可使用战术鱼雷轰炸机"
+
+msgid "IDS_BATTLE_STATS_ALLIES_TECHNICAL_RESULTS"
+msgstr "我方团队已完成任务"
+
+msgid "IDS_BATTLE_STATS_ENEMIES_TECHNICAL_RESULTS"
+msgstr "敌方团队已完成任务"
+
+msgid "IDS_BY_DESTOYED_PLANES"
+msgstr "击落飞机数"
+
+msgid "IDS_BY_EXPERIENCE"
+msgstr "获得经验"
+
+msgid "IDS_BY_KILLS"
+msgstr "摧毁战舰数"
+
+msgid "IDS_BY_REWARDS"
+msgstr "获得成就数"
+
+msgid "IDS_CONFIRMATION_AUTO_FIN_BATTLE_AFTER_EXIT"
+msgstr "战场上只剩下电脑玩家。若离开战斗，已取得优势的团队将获胜。"
+
+msgid "IDS_CREW_HIRE_PREM_SHIP_TEXT_0"
+msgstr "指派到加值或特殊战舰上不需要训练指挥官。"
+
+msgid "IDS_CREW_PROFILE_INFO"
+msgstr "查看个人档案"
+
+msgid "IDS_CREW_SKILL_POINTS"
+msgid_plural "IDS_CREW_SKILL_POINTS"
+msgstr[0] "%(count)d技能点"
+
+msgid "IDS_CURRENCY_EVENTUM_3"
+msgstr "德国代币"
+
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr "通过在13.9版本期间完成作战任务，以及在13.9-13.10版本期间于兵工厂购买礼包链获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr "在13.10版本结束前，用于兑换兵工厂专题页上的战舰与其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
+msgstr "“德国巡洋舰”活动的临时资源。13.11版本更新后，代币将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_4"
+msgstr "日本代币"
+
+msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
+msgstr "通过在13.9版本期间完成作战任务，以及在13.9-13.10版本期间于兵工厂购买礼包链获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr "在13.10版本结束前，用于兑换兵工厂专题页上的战舰与其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
+msgstr "临时资源。13.11版本更新后，代币将被无偿收回。"
+
+msgid "IDS_EVENTUM_3_COLON"
+msgstr "德国代币："
+
+msgid "IDS_EVENTUM_4_COLON"
+msgstr "日本代币："
+
+msgid "IDS_EXCLUDED_SHIPS_HEADER"
+msgstr "不可加入战斗的战舰"
+
+msgid "IDS_FIRST_BATTLE_DESCRIPTION"
+msgstr "第一场战斗"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_AIRCARRIER"
+msgstr "航空母舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_BATTLESHIP"
+msgstr "战列舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_CRUISER"
+msgstr "巡洋舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_DESTROYER"
+msgstr "驱逐舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_NOT_AVAILABLE_SUBMARINE"
+msgstr "潜艇不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_NOT_AVAILABLE"
+msgstr "%(level)s级战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_SUPERSHIP_NOT_AVAILABLE"
+msgstr "超级战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_COMMONWEALTH"
+msgstr "联邦战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_EUROPE"
+msgstr "欧洲战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_FRANCE"
+msgstr "法国战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_GERMANY"
+msgstr "德国战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_ITALY"
+msgstr "意大利战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_JAPAN"
+msgstr "日本战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_NETHERLANDS"
+msgstr "荷兰战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_PAN_AMERICA"
+msgstr "泛美战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_PAN_ASIA"
+msgstr "泛亚战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_RUSSIA"
+msgstr "苏联战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_SPAIN"
+msgstr "西班牙战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_UNITED_KINGDOM"
+msgstr "英国战舰不可用"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_NOT_AVAILABLE_USA"
+msgstr "美国战舰不可用"
+
+msgid "IDS_LIMITED_SHIPS_HEADER"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能查看指挥官个人档案。"
+
+msgid "IDS_PARAMS_MODIFIER_BOMBKRUPPMULTIPLIER"
+msgstr "穿甲炸弹的穿甲能力"
+
+msgid "IDS_PARAMS_MODIFIER_ROCKETKRUPPMULTIPLIER"
+msgstr "穿甲火箭弹的穿甲能力"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYALL"
+msgstr "受到的所有类型伤害"
+
+msgid "IDS_PAUE900_S10_ENG_STOCK"
+msgstr "推进系统：5480马力"
+
+msgid "IDS_PJGA195_120MM_LAUNCHER"
+msgstr "120 mm AA Rocket"
+
+msgid "IDS_REWARD_EVENTUM_3_TITLE"
+msgstr "德国代币"
+
+msgid "IDS_REWARD_EVENTUM_4_TITLE"
+msgstr "日本代币"
+
+msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_HEADER"
+msgstr "限制"
+
+msgid "IDS_SHIP_EXP_DEFICIT"
+msgstr "继续战斗，获取经验，研发新战舰！"
+
+msgid "IDS_SHIP_EXP_DESCRIPTION"
+msgstr "需要更多经验来研发新配件和战舰。"
+
+msgid "IDS_SHIP_EXP_FULL"
+msgstr "您现在可以研发新战舰了！"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
+msgstr "已购买德国代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
+msgstr "已购买日本代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
+msgstr "已获得德国代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
+msgstr "已获得日本代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
+msgstr "德国代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
+msgstr "日本代币已移除"

@@ -4523,7 +4523,7 @@ msgid "IDS_AKENO_MASHIRO"
 msgstr "Akeno Misaki"
 
 msgid "IDS_ALISA_SUMMER"
-msgstr "阿丽夏（Алиса）"
+msgstr "阿丽夏"
 
 msgid "IDS_ALLBATTLETYPES"
 msgstr "所有战斗模式"
@@ -12021,7 +12021,7 @@ msgid "IDS_CONTEXT_TUTORIAL_IMPULSE_LASER"
 msgstr "按住[KEY_LEFTMOUSE]使用激光。"
 
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
-msgstr "瞄准正在移动的敌舰时应考虑提前量。"
+msgstr "瞄准正在移动的敌舰时应考虑提前量"
 
 msgid "IDS_CONTEXT_TUTORIAL_REPAIR_BURN"
 msgstr "把火扑灭"
@@ -15431,6 +15431,9 @@ msgstr "指挥官达到21级后可以激活国家天赋"
 
 msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_MENTOR_IN_GAME"
 msgstr "仅当此国家的传奇指挥官出现在游戏中时，您才可以激活相应国家天赋"
+
+msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_NATION"
+msgstr "指挥官只有在国籍被指定后才能获得国家天赋。"
 
 msgid "IDS_CREW_INFO_SKILLS_MATRIX_TITLE"
 msgstr "技能"
@@ -20469,7 +20472,7 @@ msgid "IDS_DISABLING_AA_AND_ATBA"
 msgstr "禁用防空炮与副炮"
 
 msgid "IDS_DISABLING_AA_AND_ATBA_PREF_TOOLTIP_DESCRIPTION"
-msgstr "禁用对空防御和副炮。"
+msgstr "禁用防空炮和副炮。"
 
 msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_BATTLE"
 msgstr "要将指挥官送回预备队，请等待他们从战斗中返回。"
@@ -25238,7 +25241,7 @@ msgid "IDS_DOGTAG_PCNB394_DESCRIPTION"
 msgstr "咏叹调（Ария）是苏联和俄罗斯的一支传奇乐队，成立于20世纪80年代中期，属于重金属音乐流派。在其漫长的演艺生涯中，咏叹调乐队录制了数十首名曲，赢得了该流派乐迷和广大听众的喜爱。"
 
 msgid "IDS_DOGTAG_PCNB394_NAME"
-msgstr "咏叹调（Ария）乐队"
+msgstr "咏叹调乐队"
 
 msgid "IDS_DOGTAG_PCNB395_DESCRIPTION"
 msgstr "为了纪念参与护送北极船团PQ-17的运输舰和护航舰船员的英勇事迹。"
@@ -26672,7 +26675,7 @@ msgid "IDS_DUAL_ST_ST_DECK"
 msgstr "甲板"
 
 msgid "IDS_DUBININ_ARIA"
-msgstr "维塔利•杜比宁（Виталий Дубинин）"
+msgstr "维塔利•杜比宁"
 
 msgid "IDS_DUNK_CAPN"
 msgstr "Jack Dunkirk"
@@ -26713,7 +26716,7 @@ msgid "IDS_DYNAMIC_LIGHTING_DESCRIPTION"
 msgstr "动态光源的光照品质。"
 
 msgid "IDS_DZHABRAILOV"
-msgstr "帖木儿•扎布拉伊洛夫（Тимур Джабраилов）"
+msgstr "帖木儿•扎布拉伊洛夫"
 
 msgid "IDS_EARLY_ACCESS"
 msgstr "抢先体验"
@@ -27917,6 +27920,9 @@ msgstr "加速训练"
 
 msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_ADAPTATION"
 msgstr "完成指挥官在这艘战舰的重新训练，就可以更快学习技能。"
+
+msgid "IDS_FAST_TRAINING_DISABLE_REASON_NATION_COMMON"
+msgstr "指挥官国籍未指定，无法加速训练。"
 
 msgid "IDS_FAST_TRAINING_DISABLE_REASON_SHIP_IS_IN_BATTLE"
 msgstr "加速训练将在指挥官从战斗中返回后可用。"
@@ -29512,7 +29518,7 @@ msgid "IDS_FIRST_AZURLANESUBCOLLECTION_NAME"
 msgstr "白鹰联邦"
 
 msgid "IDS_FIRST_BATTLE_AND_GAME_DESCRIPTION"
-msgstr "在第一场战斗中与电脑玩家对战。完成几场战斗后将解锁与真实玩家对战、新战舰和升级品等功能。"
+msgstr "在第一场战斗中与电脑玩家对战。完成几场战斗后将解锁与真人玩家对战、新战舰和升级品等功能。"
 
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
 msgstr "第一场战斗"
@@ -30788,7 +30794,7 @@ msgid "IDS_GUIDING_TIP_119_HEADER"
 msgstr "行动"
 
 msgid "IDS_GUIDING_TIP_11_DESC"
-msgstr "随机战中的敌方团队由真实玩家组成，但如有必要，部分空位可能会分配给电脑玩家。"
+msgstr "随机战中的敌方团队由真人玩家组成，但如有必要，部分空位可能会分配给电脑玩家。"
 
 msgid "IDS_GUIDING_TIP_11_HEADER"
 msgstr "随机战"
@@ -31652,7 +31658,7 @@ msgid "IDS_GUIDING_TIP_76_HEADER"
 msgstr "选择战斗模式"
 
 msgid "IDS_GUIDING_TIP_77_DESC"
-msgstr "随机战中的敌方团队由真实玩家组成，但如有必要，部分空位可能会分配给电脑玩家。"
+msgstr "随机战中的敌方团队由真人玩家组成，但如有必要，部分空位可能会分配给电脑玩家。"
 
 msgid "IDS_GUIDING_TIP_77_HEADER"
 msgstr "随机战"
@@ -33235,7 +33241,7 @@ msgid "IDS_HOLDING_BASE"
 msgstr "守住"
 
 msgid "IDS_HOLSTININ_ARIA"
-msgstr "弗拉基米尔•霍尔斯金（Владимир Холстинин）"
+msgstr "弗拉基米尔•霍尔斯金"
 
 msgid "IDS_HORACEHOOD"
 msgstr "Horace Hood"
@@ -34067,7 +34073,7 @@ msgid "IDS_JOIN_TRAINING_ROOM_MOUSE_HINT"
 msgstr "加入战斗"
 
 msgid "IDS_JORICK_ARIA"
-msgstr "乔里克（Жорик）"
+msgstr "乔里克"
 
 msgid "IDS_JTALIYA"
 msgstr "塔利亚"
@@ -34340,7 +34346,7 @@ msgid "IDS_KEY_VOLUMEUP"
 msgstr "Vol Up"
 
 msgid "IDS_KHARITONOV"
-msgstr "亚历山大•哈里托诺夫（Александр Харитонов）"
+msgstr "亚历山大•哈里托诺夫"
 
 msgid "IDS_KILLED_BY_YOURSELF"
 msgstr "被您摧毁"
@@ -34579,7 +34585,7 @@ msgid "IDS_LEGENDARY_PROGRAM_USA"
 msgstr "长期造船计划，1950"
 
 msgid "IDS_LENA_SUMMER"
-msgstr "莉娜（Лена）"
+msgstr "莉娜"
 
 msgid "IDS_LEO_GRADWELL"
 msgstr "Leo Gradwell"
@@ -39600,7 +39606,7 @@ msgid "IDS_NAVAL_FLAG_VIETNAM"
 msgstr "越南海军"
 
 msgid "IDS_NAVAL_FLAG_VIETNAM_DESCRIPTION"
-msgstr "越南民主共和国（1945–1976年）是国际公认的越南北部国家。1975年，越南民主共和国的武装力量和越南南方民族解放阵线击败了17度线以南的越南共和国军队。统一国家——越南社会主义共和国正式成立。旗帜上的星星象征着越南共产党领导，红色代表革命的成功。"
+msgstr "越南民主共和国（1945–1976）是国际公认的越南北部国家。1975年，越南民主共和国的武装力量和越南南方民族解放阵线击败了17度线以南的越南共和国军队。一个统一的国家——越南社会主义共和国正式成立。旗帜上的星星象征着越南共产党领导，红色代表革命的成功。"
 
 msgid "IDS_NAVAL_FLAG_YUGOSLAVIA"
 msgstr "南斯拉夫海军"
@@ -39726,7 +39732,7 @@ msgid "IDS_NEWBIE_QUESTS_2_NAME"
 msgstr "使用II级战舰进入战斗"
 
 msgid "IDS_NEWBIE_QUESTS_3_DESCRIPTION"
-msgstr "与真实玩家对战。在这些战斗中获胜的难度更大，但可以获得更多银币和经验。"
+msgstr "与真人玩家对战。在这些战斗中获胜的难度更大，但可以获得更多银币和经验。"
 
 msgid "IDS_NEWBIE_QUESTS_3_NAME"
 msgstr "赢得一场随机战"
@@ -40192,6 +40198,9 @@ msgstr "小队的潜艇数不受限制"
 
 msgid "IDS_NO_MONEY_FOR_UNMOUNT"
 msgstr "没有足够金币用来拆卸"
+
+msgid "IDS_NO_NATION_CREW"
+msgstr "未指定国籍"
 
 msgid "IDS_NO_NEW_SYSTEM_MESSAGES"
 msgstr "无消息"
@@ -53107,7 +53116,7 @@ msgid "IDS_PBES379_UKBB_DUNKAN"
 msgstr "工业"
 
 msgid "IDS_PBES380_ST_VINCENT_ARIA"
-msgstr "奇美拉（Химера）"
+msgstr "奇美拉"
 
 msgid "IDS_PBES396_REPULSEBLACK"
 msgstr "特别"
@@ -62338,7 +62347,7 @@ msgid "IDS_PCEE652_MICHELANGELO_FLAG_DESCRIPTION"
 msgstr "米开朗基罗•博那罗蒂（1475年-1564年）是佛罗伦萨共和国公民。在1529年和1530年查理五世皇帝的军队入侵此地期间，他作为首席军事工程师表现出色。在12世纪到16世纪期间，佛罗伦萨共和国的纹章绘有风格化的鸢尾花造型，置于水滴形的盾牌中，旗帜是印有白色十字的红布。"
 
 msgid "IDS_PCEE654_ARIA_FLAG"
-msgstr "咏叹调（Ария）"
+msgstr "咏叹调"
 
 msgid "IDS_PCEE654_ARIA_FLAG_DESCRIPTION"
 msgstr "咏叹调（Ария）是苏联和俄罗斯的一支传奇乐队，成立于20世纪80年代中期，属于重金属音乐流派。在其漫长的演艺生涯中，咏叹调乐队录制了数十首名曲，赢得了该流派乐迷和广大听众的喜爱。"
@@ -63795,7 +63804,7 @@ msgid "IDS_PCVE018"
 msgstr "暮光之战"
 
 msgid "IDS_PCVE018_DESCRIPTION"
-msgstr "在逐渐缩小的战斗区域中与真实玩家对战。"
+msgstr "在逐渐缩小的战斗区域中与真人玩家对战。"
 
 msgid "IDS_PCVE018_EV17HALLOWEEN"
 msgstr "暮光之战"
@@ -72082,7 +72091,7 @@ msgstr "裁判"
 
 msgid "IDS_PCZC927_TSAR_MOREY_2_1_DESCRIPTION"
 msgstr ""
-"严厉但公正，无偏见且不受贿：这才是真正的电子竞技裁判。他的小腿肌肉极为发达，因为他只站着观看比赛。\n"
+"严厉但公正，无偏见且不受贿——这才是真正的电子竞技裁判。他的小腿肌肉极为发达，因为他只站着观看比赛。\n"
 "\n"
 "“不知晓规则并不能让你免于受罚！”"
 
@@ -72093,7 +72102,7 @@ msgid "IDS_PCZC928_TSAR_MOREY_2_2_DESCRIPTION"
 msgstr ""
 "当大雾弥漫时，当最后一丝力量耗尽时，当黎明的曙光还未出现时，他们来了——一支由最优秀、最有经验的志愿者组成的队伍！就像第一缕阳光洒向大地时带来的温暖一样，志愿者们总是冲在最前面，竭尽所能提供帮助。\n"
 "\n"
-"感谢你们的工作！"
+"感谢他们的辛勤付出！"
 
 msgid "IDS_PCZC929_TSAR_MOREY_2_3"
 msgstr "专业解说"
@@ -92419,7 +92428,7 @@ msgid "IDS_POLAND"
 msgstr "波兰"
 
 msgid "IDS_POLYAKOV"
-msgstr "帕维尔•波利亚科夫（Павел Поляков）"
+msgstr "帕维尔•波利亚科夫"
 
 msgid "IDS_POPEYE"
 msgstr "Popeye"
@@ -93693,7 +93702,7 @@ msgid "IDS_PRGA086_DSHKM_2B_12_7MM_NO_LAMP"
 msgstr "12.7 mm DShK（DShKM-2B枪座）"
 
 msgid "IDS_PRGA089_25MM_4M120"
-msgstr "25 mm 110-PM（4М-120炮座）"
+msgstr "25 mm 110-PM（4M-120炮座）"
 
 msgid "IDS_PRGA091_75MM_CANE"
 msgstr "75 mm Model 1892（Meller防空炮座）"
@@ -94116,10 +94125,10 @@ msgid "IDS_PRGS177_130MM57_6_BL132"
 msgstr "130 mm/58（BL-132炮座）"
 
 msgid "IDS_PRGS182_120MM50_BARRELS_2_M1933"
-msgstr "120 mm/50 ОТО Model 1933（炮塔）"
+msgstr "120 mm/50 OTO Model 1933（炮塔）"
 
 msgid "IDS_PRGS183_120MM50_BARRELS_2_M1933_RM2"
-msgstr "120 mm/50 ОТО Model 1933（炮塔）"
+msgstr "120 mm/50 OTO Model 1933（炮塔）"
 
 msgid "IDS_PRGS192_130MM_57_BL_132_B"
 msgstr "130 mm/58（BL-132B炮座）"
@@ -101657,7 +101666,7 @@ msgid "IDS_PWGA067_57MM_ZIF_75"
 msgstr "57 mm ZIF-75炮座"
 
 msgid "IDS_PWGA069_25MM_4M120"
-msgstr "25 mm 110-PM（4М-120炮座）"
+msgstr "25 mm 110-PM（4M-120炮座）"
 
 msgid "IDS_PWGA072_20MM_OERLIKON_MK20_TWIN"
 msgstr "20 mm Oerlikon（Mk.24炮座）"
@@ -107185,7 +107194,7 @@ msgid "IDS_PZGA090_57MM_ZIF_31B"
 msgstr "57 mm ZIF-31B炮座"
 
 msgid "IDS_PZGA091_25MM_4M120"
-msgstr "25 mm 110-PM（4М-120炮座）"
+msgstr "25 mm 110-PM（4M-120炮座）"
 
 msgid "IDS_PZGA092_20MM_OERLIKON_MK_V"
 msgstr "20 mm Oerlikon Mk.II（Mk.V炮座）"
@@ -107767,10 +107776,10 @@ msgid "IDS_PZPA082_152MM_HE_SG"
 msgstr "152 mm HE Mk V"
 
 msgid "IDS_PZPA083_305MM_HE_CM_42"
-msgstr "305 mm HE Model. 1928 г."
+msgstr "305 mm HE Model. 1928"
 
 msgid "IDS_PZPA084_305MM_AP_CM_42"
-msgstr "305 mm AP Model. 1928 г."
+msgstr "305 mm AP Model. 1928"
 
 msgid "IDS_PZPA085_152MM_OFU35_SG"
 msgstr "152 mm OFU-35"
@@ -109642,7 +109651,7 @@ msgid "IDS_RANDOMBATTLE_MATCHMAKER_DESCRIPTION"
 msgstr "随机选择的地图和战斗模式。"
 
 msgid "IDS_RANDOMBATTLE_SHORT_DESCRIPTION"
-msgstr "对战真实玩家。匹配系统将随机创建团队。"
+msgstr "与真人玩家对战。匹配系统将随机创建团队。"
 
 msgid "IDS_RANDOM_OPERATION_AVAILABLE_WITHOUT_DIVISION"
 msgstr "您无需组队即可参与"
@@ -122558,7 +122567,7 @@ msgid "IDS_SKY_LIGHT_MAP"
 msgstr "地图天空光线"
 
 msgid "IDS_SLAVYANA_SUMMER"
-msgstr "斯拉维娅（Славя）"
+msgstr "斯拉维娅"
 
 msgid "IDS_SLOT_PURCHASE"
 msgstr "船位购买"
@@ -122941,19 +122950,19 @@ msgid "IDS_SOUND_MOD_ENTERTAINMENT_STARSCREAM"
 msgstr "变形金刚 — 红蜘蛛"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_ALISA_SUMMER"
-msgstr "阿丽夏（Алиса）"
+msgstr "阿丽夏"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_LENA_SUMMER"
-msgstr "莉娜（Лена）"
+msgstr "莉娜"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_SLAVYANA_SUMMER"
-msgstr "斯拉维娅（Славя）"
+msgstr "斯拉维娅"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_ULYANA_SUMMER"
-msgstr "乌里扬娜（Ульяна）"
+msgstr "乌里扬娜"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_YULIA_SUMMER"
-msgstr "尤莉娅（Юля）"
+msgstr "尤莉娅"
 
 msgid "IDS_SOUND_MOD_FREDRIK_HENRIK"
 msgstr "Fredrik Henrik af Chapman"
@@ -127431,7 +127440,7 @@ msgid "IDS_TIPS_AIRCRAFT_AIR_DEFENSE_ENEMY"
 msgstr "敌方对空防御"
 
 msgid "IDS_TIPS_AIRCRAFT_AIR_DEFENSE_ENEMY_DESCRIPTION"
-msgstr "通过改变飞行中队的速度和方向躲避追踪弹和防空炮弹的爆炸。"
+msgstr "通过改变飞行中队的速度和方向躲避曳光弹和防空炮弹。"
 
 msgid "IDS_TIPS_AIRCRAFT_CARRIER"
 msgstr "航空母舰"
@@ -127560,9 +127569,9 @@ msgstr "对空防御/副炮"
 
 msgid "IDS_TIPS_AIR_DEFENSE_DESCRIPTION"
 msgstr ""
-"对空防御和副炮会自动开火。\n"
+"防空炮和副炮会自动开火。\n"
 "\n"
-"为防止跟踪器在烟幕中暴露您的位置，您可以使用[CMD_SWITCH_ATBA_AIRDEFENSE]键禁用对空防御和副炮。"
+"为防止曳光弹暴露您在烟幕中的位置，您可以使用[CMD_SWITCH_ATBA_AIRDEFENSE]键禁用防空炮和副炮。"
 
 msgid "IDS_TIPS_AIR_DEFENSE_SECTOR_GAIN"
 msgstr "防空区域强化"
@@ -130053,7 +130062,7 @@ msgid "IDS_ULTRA"
 msgstr "极高"
 
 msgid "IDS_ULYANA_SUMMER"
-msgstr "乌里扬娜（Ульяна）"
+msgstr "乌里扬娜"
 
 msgid "IDS_UNABLED_ACTION_WITH_PLAYER"
 msgstr "玩家操作不可用"
@@ -130238,17 +130247,17 @@ msgstr "完成战役中的任务以获得最终大奖。"
 msgid "IDS_UNLOCKS_23"
 msgstr "出售库存中不需要的配件、升级品和其它物品。"
 
+msgid "IDS_UNLOCKS_24"
+msgstr "与其他玩家一起对抗电脑玩家，并完成剧情任务。"
+
 msgid "IDS_UNLOCKS_2827"
 msgstr "加入军团——在团队中继续作战！"
-
-msgid "IDS_UNLOCKS_3"
-msgstr "与真实玩家对战。"
 
 msgid "IDS_UNLOCKS_3029"
 msgstr "在兵工厂里购买新的珍贵物品。"
 
-msgid "IDS_UNLOCKS_3124"
-msgstr "与其他玩家一起完成剧情任务并对抗电脑。"
+msgid "IDS_UNLOCKS_3103"
+msgstr "与真人玩家对战。"
 
 msgid "IDS_UNLOCKS_4"
 msgstr "RESEARCH_USE"
@@ -130349,6 +130358,15 @@ msgstr "您最多可同时接取三个目标。"
 msgid "IDS_UNLOCKS_DESCRIPTION_23_0"
 msgstr "出售库存中不需要的配件、升级品和其它物品。"
 
+msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
+msgstr "在“行动”中，您的团队必须在与电脑玩家战斗的同时完成各种任务。每个行动都有独特的故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
+msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
+msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_0"
 msgstr "想要参与军团之间的战斗，您需要先加入军团。"
 
@@ -130373,17 +130391,8 @@ msgstr "您可以获取战舰、港口船位、补给箱、经济加成、升级
 msgid "IDS_UNLOCKS_DESCRIPTION_3029_2"
 msgstr "在兵工厂里，您也可以购买金币、高级账号天数，以及更多物品。"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
-msgstr "在“行动”中，您的团队必须在与电脑战斗的同时完成各种任务。每个行动都有独特的故事元素。"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
-msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
-msgstr "行动的难度取决于队伍中战舰的类型和等级。"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
-msgstr "与真实玩家对战。随机组成队伍。"
+msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
+msgstr "与真人玩家对战。随机组成队伍。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_0"
 msgstr "若您没有足够的战舰经验去研发战舰或配件，可以使用全局经验。"
@@ -130452,25 +130461,25 @@ msgstr ""
 "<body>您现在已可以使用\n"
 "<h3>库存管理</h3></body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr ""
 "<body>您现在可以加入\n"
 "<h3>军团战</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3"
-msgstr ""
-"<body>您现在可以加入\n"
-"<h3>随机战</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3029"
 msgstr ""
 "<body>您现在已可以使用\n"
 "<h3>兵工厂</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgid "IDS_UNLOCKS_LEVEL_UP_3103"
 msgstr ""
 "<body>您现在可以加入\n"
-"<h3>行动</h3></body>"
+"<h3>随机战</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
@@ -130515,17 +130524,17 @@ msgstr "要前往战役界面，点击港口界面左侧的横幅。"
 msgid "IDS_UNLOCKS_LOCATION_23"
 msgstr "库存管理界面只能通过玩家菜单进入。"
 
+msgid "IDS_UNLOCKS_LOCATION_24"
+msgstr "可见于战斗模式选择界面。"
+
 msgid "IDS_UNLOCKS_LOCATION_2827"
 msgstr "军团战和战斗训练可从战斗模式选择界面进入。"
-
-msgid "IDS_UNLOCKS_LOCATION_3"
-msgstr "战斗模式选项位于“加入战斗”按钮的旁边。"
 
 msgid "IDS_UNLOCKS_LOCATION_3029"
 msgstr "要前往兵工厂，点击港口界面左侧的横幅。"
 
-msgid "IDS_UNLOCKS_LOCATION_3124"
-msgstr "可见于战斗模式选择界面。"
+msgid "IDS_UNLOCKS_LOCATION_3103"
+msgstr "战斗模式选项位于“加入战斗”按钮的旁边。"
 
 msgid "IDS_UNLOCKS_LOCATION_5"
 msgstr "您的全局经验总量显示在港口界面的右上角。"
@@ -130575,17 +130584,17 @@ msgstr "战役"
 msgid "IDS_UNLOCKS_TITLE_23"
 msgstr "库存管理"
 
+msgid "IDS_UNLOCKS_TITLE_24"
+msgstr "行动"
+
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "军团战"
-
-msgid "IDS_UNLOCKS_TITLE_3"
-msgstr "随机战"
 
 msgid "IDS_UNLOCKS_TITLE_3029"
 msgstr "兵工厂"
 
-msgid "IDS_UNLOCKS_TITLE_3124"
-msgstr "行动"
+msgid "IDS_UNLOCKS_TITLE_3103"
+msgstr "随机战"
 
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "全局经验"
@@ -131232,7 +131241,7 @@ msgstr "欢迎！"
 msgid "IDS_WELCOM_WOW_TEXT"
 msgstr ""
 "在您的第一场战斗中与电脑对战。\n"
-"在完成几场战斗后，您将解锁更多权限：与真实玩家对战、研发/购买新战舰等。"
+"在完成几场战斗后，您将解锁更多权限：与真人玩家对战、研发/购买新战舰等。"
 
 msgid "IDS_WELTHUND"
 msgstr "Welthund"
@@ -131643,7 +131652,7 @@ msgid "IDS_YOU_WILL_RECEIVE"
 msgstr "您将获得"
 
 msgid "IDS_YULIA_SUMMER"
-msgstr "尤莉娅（Юля）"
+msgstr "尤莉娅"
 
 msgid "IDS_YURIY_VOROBYEV"
 msgstr "尤里•沃罗比耶夫"
