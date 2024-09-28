@@ -4487,7 +4487,7 @@ msgid "IDS_AIR_DEFENSE_TOOLTIP_DESELECT_SECTOR"
 msgstr "取消区域强化"
 
 msgid "IDS_AIR_DEFENSE_TOOLTIP_FIRE_DENSITY"
-msgstr "防空平均秒伤"
+msgstr "防空炮平均每秒伤害"
 
 msgid "IDS_AIR_DEFENSE_TOOLTIP_SELECT_SECTOR"
 msgstr "加强区域"
@@ -28176,10 +28176,10 @@ msgid "IDS_FEAT_BAD_MAIN_HEPEN"
 msgstr "高爆弹的穿甲能力较弱"
 
 msgid "IDS_FEAT_BAD_MAIN_LOWBALLISTIC"
-msgstr "射击无法越过障碍物"
+msgstr "炮弹无法越过障碍物"
 
 msgid "IDS_FEAT_BAD_MAIN_LOWBALLISTIC_DESC"
-msgstr "弹道较低，射击无法越过较高地形。"
+msgstr "弹道较低，炮弹无法越过较高地形。"
 
 msgid "IDS_FEAT_BAD_MAIN_RANGE"
 msgstr "射程较近"
@@ -28950,7 +28950,7 @@ msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_NO_WORKTIMEBONUS_DESC"
 msgstr "战舰最高航速加成较高。"
 
 msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_SPEED_DURATION_COOLDOWN_CHARGES_DESC"
-msgstr "只能在水面和潜望深度使用，一旦潜入水下则会丢失剩余的作用时间。此消耗品提供的最高航速加成较高、作用时间较长、装载数较多且装填时间较短。"
+msgstr "只能在水面和潜望深度使用，一旦潜入水下就会丢失剩余的作用时间。此消耗品提供的最高航速加成较高、作用时间较长、装载数较多且装填时间较短。"
 
 msgid "IDS_FEAT_GOOD_MOVE_MANEUVER"
 msgstr "机动性较好"
@@ -36744,10 +36744,10 @@ msgid "IDS_MAIN_GUN_AP_EFFICIENCY_LOW"
 msgstr "穿甲弹效率较低"
 
 msgid "IDS_MAIN_GUN_AP_FLY_TIME_FAST"
-msgstr "弹道较低，射击无法越过较高地形，但从远距离进行精准射击的难度较低"
+msgstr "弹道较低，炮弹无法越过较高地形，但从远距离进行精准射击的难度较低"
 
 msgid "IDS_MAIN_GUN_AP_FLY_TIME_SLOW"
-msgstr "弹道较高，射击容易越过较高地形，但从远距离进行精准射击的难度较高"
+msgstr "弹道较高，炮弹容易越过较高地形，但从远距离进行精准射击的难度较高"
 
 msgid "IDS_MAIN_GUN_AP_PENETRATION_HIGH"
 msgstr "穿甲弹穿甲能力较高"
@@ -39073,7 +39073,7 @@ msgid "IDS_MOUSE_INSTRUCTION_DISABLE_PREVIEW_SIGNAL"
 msgstr "隐藏信号旗"
 
 msgid "IDS_MOUSE_INSTRUCTION_GO_TO_PREVIEW"
-msgstr "查看此战舰的历史资料"
+msgstr "查看战舰历史资料"
 
 msgid "IDS_MOUSE_INSTRUCTION_GO_TO_SKILLS_TO_LEARN"
 msgstr "要学习技能，请前往指挥官技能界面"
@@ -42954,7 +42954,7 @@ msgid "IDS_OTHER_FEATURE_CATEGORY_MINES_BOMBERS"
 msgstr "水雷轰炸机"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_MOVEMENT"
-msgstr "移动"
+msgstr "机动性"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_PINGER_GUN"
 msgstr "声呐"
@@ -68890,9 +68890,9 @@ msgstr "沙恩霍斯特：大炮即政权！"
 
 msgid "IDS_PCZC446_CAPT_2_5_SCHARNHORST_DESCRIPTION"
 msgstr ""
-"沙恩霍斯特是一艘需要一定技巧来操控的战舰（严肃脸！）。必备技能包括生存专家和鱼雷加速。它们将提高你战列舰在海上的持续作战能力，并提高该舰鱼雷武器的效率。\n"
+"沙恩霍斯特是一艘需要一定技巧来操控的战舰（严肃脸）。必备技能包括生存专家和鱼雷加速。它们将提高你战列舰在海上的持续作战能力，并提高该舰鱼雷武器的效率。\n"
 "\n"
-"沙恩霍斯特另一个引以为豪的特点是主炮组装填时间仅需20秒！比同级任何其他战列舰都要快。火炮的精精度也达到了极限。有了这些杀手锏，你甚至可以揍翻技术更强的对手。\n"
+"沙恩霍斯特另一个引以为豪的特点是装填主炮组仅需20秒！比同级任何其他战列舰都要快。火炮的精度也达到了极限。有了这些杀手锏，你甚至可以揍翻技术更强的对手。\n"
 "\n"
 "同样重要的是，沙恩霍斯特非常适合占领关键区域。有了像它这样的鱼雷，它可以单独击败驱逐舰！"
 
@@ -119021,7 +119021,7 @@ msgid "IDS_SHIP_MANAGEMENT_MODULES_BLOCK_HEADER"
 msgstr "配件"
 
 msgid "IDS_SHIP_MANAGEMENT_PREVIEW"
-msgstr "关于战舰"
+msgstr "资料"
 
 msgid "IDS_SHIP_MANAGEMENT_SKIP_ALT_SUBBLOCK_DESCR"
 msgstr "弹跳轰炸机的武器和消耗品"
@@ -127467,7 +127467,7 @@ msgid "IDS_TIPS_AIRCRAFT_SQUADRON_ATTACK_STATE"
 msgstr "攻击状态"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_ATTACK_STATE_DESCRIPTION"
-msgstr "水面上的白色瞄准线代表您的中队将发动完全瞄准的袭击的位置。按下鼠标左键设定飞机飞过目标上方。当瞄准标线变为绿色时，按下鼠标左键以投放炸弹。请注意，若您在攻击过程中进行移动，精精度会下降。一旦完成攻击，飞机将返回航空母舰。"
+msgstr "水面上的白色瞄准线代表您的中队将发动完全瞄准的袭击的位置。按下鼠标左键设定飞机飞过目标上方。当瞄准标线变为绿色时，按下鼠标左键以投放炸弹。请注意，若您在攻击过程中进行移动，精度将会下降。一旦完成攻击，飞机将返回航空母舰。"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_BOMBERS_AP"
 msgstr "轰炸机（AP）"
@@ -128548,7 +128548,7 @@ msgid "IDS_TOOLTIP_AA_AVERAGE_CONST_DAMAGE"
 msgstr "所有防空炮组作用区域内的每秒平均伤害"
 
 msgid "IDS_TOOLTIP_AA_BUBBLE_DAMAGE_IN_A_SECOND"
-msgstr "防空炮弹爆炸秒伤"
+msgstr "防空炮弹爆炸每秒伤害"
 
 msgid "IDS_TOOLTIP_AA_GUN"
 msgstr "防空武器"
@@ -131091,10 +131091,10 @@ msgid "IDS_WAITING_TIME"
 msgstr "等待时间："
 
 msgid "IDS_WAITING_TIME_HINT"
-msgstr "若您在队列中的等待时间过长，请选择其他等级、类型不同的战舰。"
+msgstr "若您在队列中的等待时间过长，请选择其他等级或类型的战舰。"
 
 msgid "IDS_WAITING_TRANSACTION"
-msgstr "操作进行中……"
+msgstr "操作进行中…"
 
 msgid "IDS_WAIT_FOR_NEXT_RANK_SEASON_ANNOUNCEMENT"
 msgstr "等待下一个赛季的公布"
