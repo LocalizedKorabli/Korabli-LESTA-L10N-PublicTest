@@ -12,51 +12,1820 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_UNAVAILABLE_DUE_TO_NO_NATION"
-msgstr "指挥官只有在国籍被指定后才能获得国家天赋。"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DE_JAPAN"
+msgstr "使用旧日本帝国的战舰参与战斗获胜。"
 
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_NATION_COMMON"
-msgstr "指挥官国籍未指定，无法加速训练。"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DE_RUSSIA"
+msgstr "使用俄罗斯帝国的战舰参与战斗获胜。"
 
-msgid "IDS_NO_NATION_CREW"
-msgstr "未指定国籍"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_ATBA_CALIBER"
+msgstr "对一艘敌舰造成伤害并击毁它。最后一次攻击必须是由副炮造成。"
 
-msgid "IDS_UNLOCKS_24"
-msgstr "与其他玩家一起对抗电脑玩家，并完成剧情任务。"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_DOUBLE_KILL"
+msgstr "摧毁2艘敌舰。摧毁第一艘后须在%(timeInterval)s秒内摧毁第二艘。"
 
-msgid "IDS_UNLOCKS_3103"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_FIRST_BLOOD"
+msgstr "成为第一个击沉敌舰的玩家。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_HEADBUTT"
+msgstr "撞沉一艘敌舰并且在撞击后自身幸存。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_INSTANT_KILL"
+msgstr "在5秒内使用任意武器，对1艘敌舰造成至少为其基础生命值%(_damageRatio_percent)s的伤害并摧毁此战舰。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_IRONCLAD"
+msgstr "从%(damagersCount)s名或更多敌人处受到至少为自己战舰基础生命值%(damageRatio_percent)s的伤害并存活下来。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_MAIN_CALIBER"
+msgstr "对%(victimsCount)s艘或更多敌舰造成伤害。造成的伤害必须至少为敌方团队总生命值的%(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_RETRIBUTION"
+msgstr "在您的战舰被击毁后摧毁任何敌舰。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_SUPPORT"
+msgstr "对%(victimsCount)s艘或更多敌舰造成伤害。对每艘战舰造成的伤害必须至少为其基础生命值的%(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_UNSINKABLE"
+msgstr "因进水受到至少为己身战舰基础生命值%(damageRatio_percent)s的伤害并存活下来。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_WARRIOR"
+msgstr "击毁%(victimsCount)s艘或更多敌舰。"
+
+msgid "IDS_ACHIEVEMENT_DE_JAPAN"
+msgstr "旭日章"
+
+msgid "IDS_ACHIEVEMENT_DE_RUSSIA"
+msgstr "圣乔治十字章"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_ATBA_CALIBER"
+msgstr "近战专家"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_DOUBLE_KILL"
+msgstr "一炮双响"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_FIRST_BLOOD"
+msgstr "第一滴血"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_HEADBUTT"
+msgstr "不死鸟"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_INSTANT_KILL"
+msgstr "毁灭打击"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_IRONCLAD"
+msgstr "无人能挡"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_MAIN_CALIBER"
+msgstr "重创"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_RETRIBUTION"
+msgstr "轻伤不下火线"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_SUPPORT"
+msgstr "支援"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_UNSINKABLE"
+msgstr "永不沉没"
+
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_WARRIOR"
+msgstr "海怪出没"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_DREADNOUGHT"
+msgstr "可在铁甲舰时代中完成。"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_DREADNOUGHT_BB_CA"
+msgstr "可在铁甲舰时代中完成，您需要用战列舰或巡洋舰加入战斗。"
+
+msgid "IDS_AVIATION_HYBRID_MINE_BOMBER"
+msgstr "可使用战术水雷轰炸机"
+
+msgid "IDS_CAROUSEL_PCVE027_FILTER"
+msgstr "筛选适合铁甲舰时代模式的战舰"
+
+msgid "IDS_CHANGE_TRAINING_ROOM_SETTINGS_TOOLTIP"
+msgstr "更改战斗和房间的设置"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE027"
+msgstr "选择铁甲舰时代"
+
+msgid "IDS_CLEAR_MESSAGE_QUEUE"
+msgstr "全部清除"
+
+msgid "IDS_CONTEXT_TUTORIAL_DREADNOUGHT_EVENT"
+msgstr "按[CMD_DE_EVENT_INFO]以了解战斗特点"
+
+msgid "IDS_DESC_PCM102_T11_DD_CA_BB_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM103_T11_DD_CA_BB_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM104_T11_DD_CA_BB_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM105_T11_DD_CA_BB_SUPGRADE_MOD_IV"
+msgstr " "
+
+msgid "IDS_DESC_PCM106_T11_DD_CA_BB_SUPGRADE_MOD_V"
+msgstr " "
+
+msgid "IDS_DESC_PCM107_T11_CV_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM108_T11_CV_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM109_T11_CV_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM110_T11_SS_SUPGRADE_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM111_T11_SS_SUPGRADE_MOD_II"
+msgstr " "
+
+msgid "IDS_DESC_PCM112_T11_SS_SUPGRADE_MOD_III"
+msgstr " "
+
+msgid "IDS_DESC_PCM113_MAINGUN_MOD_I"
+msgstr " "
+
+msgid "IDS_DESC_PCM114_TORPEDOMOD_MOD_0"
+msgstr " "
+
+msgid "IDS_DESC_PCM115_FLIGHTCONTROL_MOD_0"
+msgstr " "
+
+msgid "IDS_DESC_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM903_T11_DD_CA_BB_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM904_T11_DD_CA_BB_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM905_T11_DD_CA_BB_SUPGRADE_MOD_IV_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM906_T11_DD_CA_BB_SUPGRADE_MOD_V_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM907_T11_CV_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM908_T11_CV_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM909_T11_CV_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM910_T11_SS_SUPGRADE_MOD_I_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM911_T11_SS_SUPGRADE_MOD_II_TEST"
+msgstr " "
+
+msgid "IDS_DESC_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
+msgstr " "
+
+msgid "IDS_DE_FIGHTER_RESPAWN"
+msgstr "铁甲舰时代"
+
+msgid "IDS_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "铁甲舰时代"
+
+msgid "IDS_DE_IJICHI"
+msgstr "伊集院彦次郎"
+
+msgid "IDS_DE_SEREBRENNIKOV"
+msgstr "彼得•谢列布连尼科夫"
+
+msgid "IDS_DISABLE_SPECTATORS_TOOLTIP"
+msgstr "“未分配”组中没有足够多的空位容纳所有观察者。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY900_REGENCREWDE"
+msgstr "通过修复轻度损伤恢复战舰的部分生命值，并修复战舰所有部分的装甲。"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY900_REGENCREWDE"
+msgstr "局部维修"
+
+msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
+msgstr "生命值恢复"
+
+msgid "IDS_DOGTAG_PCNB450_DESCRIPTION"
+msgstr "宙斯是希腊神话中的雷神，奥林匹斯山的主神。宙斯被认为是赫菲斯托斯、阿波罗、赫拉克勒斯、赫尔墨斯、珀耳塞福涅等许多神祇和英雄的父亲。"
+
+msgid "IDS_DOGTAG_PCNB450_NAME"
+msgstr "宙斯"
+
+msgid "IDS_ENABLE_TEAM_CUSTOMIZATION"
+msgstr "自定义队伍"
+
+msgid "IDS_ENABLE_TEAM_CUSTOMIZATION_TOOLTIP"
+msgstr "更改队伍名称"
+
+msgid "IDS_GO_TO_SSE_MOTIVATOR_TASK"
+msgstr "查看任务"
+
+msgid "IDS_GUIDING_TIP_314_DESC"
+msgstr "优先任务现在将显示在您的港口界面左侧。"
+
+msgid "IDS_GUIDING_TIP_314_HEADER"
+msgstr "优先任务"
+
+msgid "IDS_GUIDING_TIP_315_DESC"
+msgstr "您可以完成一项新的优先任务！"
+
+msgid "IDS_GUIDING_TIP_315_HEADER"
+msgstr "任务变动"
+
+msgid "IDS_GUIDING_TIP_316_DESC"
+msgstr "已完成每日任务。在每日任务重置前，您可以完成其他任务。"
+
+msgid "IDS_GUIDING_TIP_316_HEADER"
+msgstr "已完成每日任务"
+
+msgid "IDS_GUIDING_TIP_317_DESC"
+msgstr "已完成每周任务。在每周任务重置前，您可以完成其他任务。"
+
+msgid "IDS_GUIDING_TIP_317_HEADER"
+msgstr "已完成每周任务"
+
+msgid "IDS_HELP_ACTIVE_ZONES"
+msgstr "作用区域"
+
+msgid "IDS_HELP_AIRCARRIER_CONSUMABLES"
+msgstr "航空母舰消耗品"
+
+msgid "IDS_HELP_AIRPLANE_THROTTLE_UP"
+msgstr "喷气式助推器"
+
+msgid "IDS_HELP_AIRSHIP"
+msgstr "我方飞艇"
+
+msgid "IDS_HELP_AIR_DEFENSE"
+msgstr "防空炮"
+
+msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE"
+msgstr "深水炸弹空袭"
+
+msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_HE"
+msgstr "高爆炸弹空袭"
+
+msgid "IDS_HELP_BATTLE_COMMANDS"
+msgstr "战斗中"
+
+msgid "IDS_HELP_BATTLE_DESIGNATIONS"
+msgstr "战斗中的图标"
+
+msgid "IDS_HELP_BY_PLANE_DETECT"
+msgstr "被敌机发现"
+
+msgid "IDS_HELP_CALLFIGHTERS_UPGRADE"
+msgstr "截击机"
+
+msgid "IDS_HELP_CAPTURE_CONTROL"
+msgstr "占领区域"
+
+msgid "IDS_HELP_COMMON_COMMANDS"
+msgstr "通用"
+
+msgid "IDS_HELP_CROSSHAIR"
+msgstr "准星"
+
+msgid "IDS_HELP_DEFINITELY_DETECT"
+msgstr "在2km或更短的距离下被发现"
+
+msgid "IDS_HELP_DEGECTIVE_MODULES"
+msgstr "瘫痪的配件"
+
+msgid "IDS_HELP_DETECT"
+msgstr "被发现"
+
+msgid "IDS_HELP_DETECT_DISTANCE"
+msgstr "您战舰的被侦察范围"
+
+msgid "IDS_HELP_DIVEBOMBER_AP"
+msgstr "轰炸机（AP）"
+
+msgid "IDS_HELP_DIVEBOMBER_HE"
+msgstr "轰炸机（HE）"
+
+msgid "IDS_HELP_ENEMIES_AIRSHIP"
+msgstr "敌方飞艇"
+
+msgid "IDS_HELP_ESCADRILLE"
+msgstr "中队"
+
+msgid "IDS_HELP_ESCADRILLE_CONSUMABLES"
+msgstr "中队消耗品"
+
+msgid "IDS_HELP_FAST_RELOAD"
+msgstr "装填助推器"
+
+msgid "IDS_HELP_FIGHTER_AP"
+msgstr "攻击机（AP）"
+
+msgid "IDS_HELP_FIGHTER_HE"
+msgstr "攻击机（HE）"
+
+msgid "IDS_HELP_FIRE_ON_AIRCARRIER"
+msgstr "您的航空母舰起火"
+
+msgid "IDS_HELP_FORSAGE_SQUADRONS"
+msgstr "中队引擎增压"
+
+msgid "IDS_HELP_GUN_STATES"
+msgstr "武器状态"
+
+msgid "IDS_HELP_HULL_HEALTH"
+msgstr "生命值提升"
+
+msgid "IDS_HELP_INDICATORS_DIFFERENT"
+msgstr "其他图标"
+
+msgid "IDS_HELP_LANDFALL"
+msgstr "碰撞"
+
+msgid "IDS_HELP_LOCATION_REVEALED"
+msgstr "您的大致方位已被无线电记录"
+
+msgid "IDS_HELP_MAP_BORDER"
+msgstr "地图边界"
+
+msgid "IDS_HELP_MINEBOMBER"
+msgstr "水雷轰炸机"
+
+msgid "IDS_HELP_MINEFIELD"
+msgstr "雷区"
+
+msgid "IDS_HELP_MINES"
+msgstr "水雷"
+
+msgid "IDS_HELP_OBSTACLE"
+msgstr "障碍物"
+
+msgid "IDS_HELP_OIL_LEAK"
+msgstr "溢油"
+
+msgid "IDS_HELP_OIL_LEAK_PENDING"
+msgstr "燃油系统受损"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1"
+msgstr "飞机"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1_DESC_0"
+msgstr "航空母舰的主要武器是飞行中队。它们可以携带火箭弹、炸弹、鱼雷或水雷。中队还可以侦察敌舰和敌机。"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2"
+msgstr "自动巡航"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2_DESC_0"
+msgstr "在控制飞行中队时，您可以开启自动巡航模式，使用战术地图来设置航空母舰的移动路径。"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2_DESC_1"
+msgstr "在战术地图上设置路径点，以让航空母舰驶向那里。"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3"
+msgstr "航空母舰装备"
+
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3_DESC_0"
+msgstr "航空母舰没有主炮，但配备了副炮和防空炮，以及在必要时会自动使用的武器和消耗品。"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1"
+msgstr "武器"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1_DESC_0"
+msgstr "战列舰的主炮能造成可观的伤害，但装填时间较长。"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1_DESC_1"
+msgstr "战列舰主炮的射程较远。"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2"
+msgstr "生存能力"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2_DESC_0"
+msgstr "战列舰拥有较好的装甲防护和较高的生命值。"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2_DESC_1"
+msgstr "但由于航速低、机动性差，战列舰很容易受到攻击。"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3"
+msgstr "隐蔽性"
+
+msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3_DESC_0"
+msgstr "战列舰隐蔽性较差，容易向敌军暴露自己的位置。"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_1"
+msgstr "武器"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_1_DESC_0"
+msgstr "在许多方面中，巡洋舰的特性介于战列舰和驱逐舰之间。"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_2"
+msgstr "消耗品"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_2_DESC_0"
+msgstr "巡洋舰的消耗品种类一般较多，可以在不同场景下发挥有效作用。"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3"
+msgstr "多样性"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3_DESC_0"
+msgstr "巡洋舰之间的差异可能很大。"
+
+msgid "IDS_HELP_PECULIARITIES_CRUISER_3_DESC_1"
+msgstr "请注意战舰的装备和技战术特性。"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1"
+msgstr "武器"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1_DESC_0"
+msgstr "大多数驱逐舰都配备了鱼雷。"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_1_DESC_1"
+msgstr "驱逐舰主炮射速较高，但射程较短。"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_2"
+msgstr "隐蔽性"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_2_DESC_0"
+msgstr "驱逐舰隐蔽性较好，这使他们能够侦察敌舰并发动突袭。"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_3"
+msgstr "支援"
+
+msgid "IDS_HELP_PECULIARITIES_DESTROYER_3_DESC_0"
+msgstr "大多数驱逐舰可配备“发烟器”，使它们更难被发现，同时也能为队友提供掩护。"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1"
+msgstr "武器"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_0"
+msgstr "大多数潜艇都装备了声呐导向鱼雷。声呐脉冲命中同一区域两次可提高已发射鱼雷的机动性。"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_1"
+msgstr "使用声呐会暴露潜艇的大致方位。"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2"
+msgstr "下潜深度"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
+msgstr "潜艇可在三种深度下航行：水面、潜望深度和最大深度。"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
+msgstr "在最大深度时，潜艇较难被发现，但其侦察能力也大大降低。"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3"
+msgstr "下潜能力"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
+msgstr "下潜能力未耗尽时，潜艇可以待在水下。潜艇在水下时消耗下潜能力，在水面上时恢复下潜能力。"
+
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_1"
+msgstr "下潜能力耗尽后，潜艇将紧急上浮至水面。"
+
+msgid "IDS_HELP_PLANE_DETECT"
+msgstr "被敌机发现"
+
+msgid "IDS_HELP_PMK"
+msgstr "副炮"
+
+msgid "IDS_HELP_PROJECTILE_FLIGHT_TIME"
+msgstr "炮弹飞行时间"
+
+msgid "IDS_HELP_REGENERATION"
+msgstr "生命值恢复"
+
+msgid "IDS_HELP_SALVO_AT_SHIP"
+msgstr "来袭预警"
+
+msgid "IDS_HELP_SHIP_AT_GUNPOINT"
+msgstr "敌人正在瞄准您的战舰"
+
+msgid "IDS_HELP_SHIP_DETECT"
+msgstr "被敌舰发现"
+
+msgid "IDS_HELP_SHIP_IN_SMOKE"
+msgstr "您被烟幕所掩护"
+
+msgid "IDS_HELP_SHIP_THREATS"
+msgstr "战舰遭遇威胁"
+
+msgid "IDS_HELP_SHIP_TYPES"
+msgstr "战舰类型"
+
+msgid "IDS_HELP_SHIP_WAS_FOUND_BY_RADAR"
+msgstr "战舰已被监视雷达发现"
+
+msgid "IDS_HELP_SHIP_WAS_FOUND_BY_SUBMARINE_LOCATOR"
+msgstr "战舰已被潜艇监视设备发现"
+
+msgid "IDS_HELP_SKIPBOMBER"
+msgstr "弹跳轰炸机"
+
+msgid "IDS_HELP_SONAR"
+msgstr "声呐"
+
+msgid "IDS_HELP_SPOTTER"
+msgstr "侦察机"
+
+msgid "IDS_HELP_STATES"
+msgstr "战舰状态"
+
+msgid "IDS_HELP_STEERING_MACHINE"
+msgstr "操舵装置"
+
+msgid "IDS_HELP_TAB_CONTROLS"
+msgstr "控制"
+
+msgid "IDS_HELP_TAB_INDICATORS"
+msgstr "图标"
+
+msgid "IDS_HELP_TAB_MODULES"
+msgstr "装备"
+
+msgid "IDS_HELP_TORPEDOBOMBER"
+msgstr "鱼雷轰炸机"
+
+msgid "IDS_HELP_TORPEDO_FOCUSING"
+msgstr "您可能成为声导鱼雷的目标"
+
+msgid "IDS_HELP_VOLLEY_RANGE"
+msgstr "射程"
+
+msgid "IDS_HELP_WEAPON_DAMAGE"
+msgstr "伤害提升"
+
+msgid "IDS_HELP_ZONE_IN_SMOKE"
+msgstr "烟幕扩散时间"
+
+msgid "IDS_INSTALL_ALL_RECOMMENDED_BUT_NOT_ALL_MODERNIZATIONS_TOOLTIP"
+msgstr "其他插槽无推荐升级品"
+
+msgid "IDS_IN_PCVE027"
+msgstr "铁甲舰时代"
+
+msgid "IDS_KILO"
+msgstr "千"
+
+msgid "IDS_MINIMAP_OPTIONS_SHOOTSGRANGEENABLED"
+msgstr "中口径主炮射程"
+
+msgid "IDS_MININ"
+msgstr "库兹马•米宁"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "装甲破坏"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "炮弹可以破坏装甲。"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "如果某一区域的装甲被完全破坏，炮弹将可以直接命中战舰核心区，造成可观伤害。"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "大口径主炮和中口径主炮"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "大口径主炮能够造成可观伤害，但装填时间较长。"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "中口径主炮装填较快，但造成的伤害较低。"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "重返战场"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "若有友方战列舰或巡洋舰存活，驱逐舰可以在被摧毁后重新返回战斗。"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_HEADER"
+msgstr "参与条件"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "您需要全歼敌舰。"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_HEADER"
+msgstr "铁甲舰时代"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "您需要全歼敌舰或占领基地。"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "被摧毁的驱逐舰在一段时间后可以重新返回战斗。若无存活的友方战列舰或巡洋舰，则不能重返战场。"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_HEADER"
+msgstr "装甲破坏"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "炮弹可以破坏装甲。"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "如果某一区域的装甲被完全破坏，炮弹将可以直接命中战舰核心区，造成可观伤害。"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_HEADER"
+msgstr "中口径主炮"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "除了大口径主炮和副炮外，一些装甲舰还装备了中口径主炮。"
+
+msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "与大口径主炮相比，中口径主炮装填较快，但伤害较低。"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
+msgstr "特兰西瓦尼亚的最终航行"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "连接黑暗世界的传送门再次开启，邪恶势力正在侵入我们的世界！战场周围全是污秽，任何进入其中的己方战舰将持续失去生命值，而身处其中的敌对势力将更能承受来袭的伤害。"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "特兰西瓦尼亚号在其周围布下一个可以抵御污秽的魔法区域。但魔法会减弱，因此安全区域会逐渐缩小。"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_HEADER"
+msgstr "目标"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "只有特兰西瓦尼亚号才能终结这一连串事件。您需要护送它进入传送门，这样它才能彻底摧毁传送门！"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_HEADER"
+msgstr "增益"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "您的战舰在战斗中会应用属性修改来改变它的战斗属性。每失去一艘己方战舰，己方团队剩余战舰都将获得增益。"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "收集高塔的碎片以提高特兰西瓦尼亚号的伤害抵御能力。"
+
+msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "系统将随机选择地图和战斗类型。"
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "赛季分为多个冲刺回合。每一个冲刺回合都会重置联盟进度。"
+
+msgid "IDS_NOT_WINNER_TEAM"
+msgstr "两队以平局结束战斗"
+
+msgid "IDS_PAPA166_203MM_HE_CHANCELLORSVILLE"
+msgstr "203 mm HE/HC Mk25"
+
+msgid "IDS_PAPA167_203MM_AP_CHANCELLORSVILLE"
+msgstr "203 mm AP Mk19"
+
+msgid "IDS_PARAMS_MODIFIER_AAAURADAMAGEBONUS"
+msgstr "远程防空炮组射程内的持续伤害"
+
+msgid "IDS_PARAMS_MODIFIER_AABUBBLEDAMAGEBONUS"
+msgstr "防空炮弹爆炸伤害"
+
+msgid "IDS_PARAMS_MODIFIER_AACRITPROB"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_AAREPAIRTIME"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_CRASHCREWWORKTIMEBONUS"
+msgstr "损害管制小组消耗品作用时间"
+
+msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_DESTROYER"
+msgstr "副炮伤害"
+
+msgid "IDS_PARAMS_MODIFIER_GSCRITPROB"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_GSREPAIRTIME"
+msgstr " "
+
+msgid "IDS_PARAMS_MODIFIER_PLANEALPHADAMAGECOEFF"
+msgstr "中队武器伤害"
+
+msgid "IDS_PARAMS_MODIFIER_SEGMENTHEALPERCENT"
+msgstr "每秒装甲"
+
+msgid "IDS_PARAMS_MODIFIER_UWSOURCEDMGREDUCTION"
+msgstr "受到鱼雷、水雷和深水炸弹的伤害"
+
+msgid "IDS_PARAMS_MODIFIER_WEAPONRYCRITPROB"
+msgstr "所有类型武器瘫痪的风险"
+
+msgid "IDS_PARAMS_MODIFIER_WEAPONRYREPAIRTIME"
+msgstr "所有类型武器维修时间"
+
+msgid "IDS_PASC517"
+msgstr "钱斯勒斯维尔"
+
+msgid "IDS_PASC517_DESCR"
+msgstr ""
+"美国的侦查巡洋舰设计工作早在1913年便已开始，并且直到第一次世界大战结束后也还在继续进行。在1919年，战舰的大体参数已经确定：10000-12000吨的排水量、武器为8-12门203mm火炮。\n"
+"在1919-1925年，该项目一共产出了三十多种初步设计，包括那些在舰首呈阶梯式布置主炮的设计。这些设计的进一步发展也促使了彭萨科拉级巡洋舰的问世。"
+
+msgid "IDS_PASC517_FULL"
+msgstr "钱斯勒斯维尔"
+
+msgid "IDS_PASC517_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC517_YEAR"
+msgstr "1925"
+
+msgid "IDS_PAUA614_ART_CHANCELLORSVILLE"
+msgstr ""
+"203 mm/55 Mk.14\n"
+"（双联装/三联装炮座）"
+
+msgid "IDS_PAUE615_ENG_CHANCELLORSVILLE"
+msgstr "推进系统：107000马力"
+
+msgid "IDS_PAUH618_HULL_CHANCELLORSVILLE"
+msgstr "钱斯勒斯维尔"
+
+msgid "IDS_PAUS615_SUO_CHANCELLORSVILLE"
+msgstr "Mk7"
+
+msgid "IDS_PBES360_ZEUS"
+msgstr "炫目雷鸣"
+
+msgid "IDS_PBSB520"
+msgstr "宙斯"
+
+msgid "IDS_PBSB520_DESCR"
+msgstr "伟大的宙斯是天火的主宰，他拥有无畏的精神和必胜的意志。他雄伟的肌肉线条和威武的身影让对手胆战心惊。宙斯在战场上如雷霆万钧，给敌舰以毁灭性的打击。他的炮火如闪电划破云层，准确无误地击中目标，留下的只有绝望。"
+
+msgid "IDS_PBSB520_FULL"
+msgstr "宙斯"
+
+msgid "IDS_PBSB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSB520_YEAR"
+msgstr "1949"
+
+msgid "IDS_PBUA916_ART_ZEUS"
+msgstr "457 mm/45 Mk.II（炮塔）"
+
+msgid "IDS_PBUE920_ENG_ZEUS"
+msgstr "推进系统：135650马力"
+
+msgid "IDS_PBUH920_HULL_ZEUS"
+msgstr "宙斯"
+
+msgid "IDS_PBUS915_SUO_ZEUS"
+msgstr "Mk X"
+
+msgid "IDS_PCEE699_ZEUS_FLAG"
+msgstr "宙斯"
+
+msgid "IDS_PCEE699_ZEUS_FLAG_DESCRIPTION"
+msgstr "宙斯是希腊神话中的雷神，奥林匹斯山的主神。宙斯被认为是赫菲斯托斯、阿波罗、赫拉克勒斯、赫尔墨斯、珀耳塞福涅等许多神祇和英雄的父亲。"
+
+msgid "IDS_PCEE700_BLACK_AZUMA_FLAG"
+msgstr "吾妻B"
+
+msgid "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE701_BLACK_S_189_FLAG"
+msgstr "S-189 B"
+
+msgid "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG"
+msgstr "闪电B"
+
+msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG"
+msgstr "莫洛托夫B"
+
+msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE704_MOLOTOV_FLAG"
+msgstr "莫洛托夫"
+
+msgid "IDS_PCEE704_MOLOTOV_FLAG_DESCRIPTION"
+msgstr "维亚切斯拉夫•米哈伊洛维奇•莫洛托夫（1890–1986），苏联无产阶级革命家、政治家和外交家，曾于1939–1949年和1953–1956年担任人民委员及外交部长等重要职务。在1943–1954年期间，外交部工作人员的帽子上有独特的标志：帽檐上固定有象征苏联的五角星，而帽顶则由象征和平的棕榈枝装饰。"
+
+msgid "IDS_PCEE705_BLACK_ODIN_FLAG"
+msgstr "奥丁B"
+
+msgid "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION"
+msgstr "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。"
+
+msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG"
+msgstr "俄罗斯帝国国旗"
+
+msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG_DESCRIPTION"
+msgstr "俄罗斯帝国国旗的颜色解释于1858年由亚历山大二世皇帝颁布的法令确认。顶部的两条条纹——黑色和黄色（或金色）——对应着金色或黄色底上的黑色双头鹰。底部的条纹是白色或银色，对应着彼得大帝和叶卡捷琳娜二世的徽章。"
+
+msgid "IDS_PCEE721_KUZURYU_FLAG"
+msgstr "九头龙"
+
+msgid "IDS_PCEE721_KUZURYU_FLAG_DESCRIPTION"
+msgstr "九头龙川流经日本福井县，源头位于靠近大野市的山区。这座城市完全被群山环绕，只有通过隧道或山路才能进入。"
+
+msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG"
+msgstr "钱斯勒斯维尔"
+
+msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG_DESCRIPTION"
+msgstr "钱瑟勒斯维尔战役是美国内战中的一场重要战役，在这场战役中，罗伯特•E•李将军率领的美国联邦军队取得了最辉煌的胜利之一——击败了两倍于己的优势敌军。美利坚联盟国的第一面旗帜以奥地利国旗为基础设计，星星围成一个圆圈，象征加入联盟的各州。"
+
+msgid "IDS_PCEE723_FRUNZE_FLAG"
+msgstr "伏龙芝"
+
+msgid "IDS_PCEE723_FRUNZE_FLAG_DESCRIPTION"
+msgstr "米哈伊尔•瓦西里耶维奇•伏龙芝（1885–1925），苏联工农红军统帅、军事理论家、国家领导人。从1925年1月26日起直到同年10月31日去世，他担任苏联革命军事委员会主席，这是俄罗斯苏维埃联邦社会主义共和国（RSFSR）以及后来苏联武装力量的最高集体管理机构。"
+
+msgid "IDS_PCEE726_USSR_FLAG"
+msgstr "苏联国旗"
+
+msgid "IDS_PCEE726_USSR_FLAG_DESCRIPTION"
+msgstr "根据1955年8月19日苏联最高苏维埃主席团法令批准的《苏维埃社会主义共和国联盟国旗法》，苏维埃社会主义共和国联盟的国旗是苏联国家主权和工农在建设共产主义社会的斗争中牢不可破的联盟的象征。"
+
+msgid "IDS_PCVE027"
+msgstr "铁甲舰时代"
+
+msgid "IDS_PCVE027_DESCRIPTION"
+msgstr "在20世纪初的铁甲舰上使用多种口径的火炮进行战斗。"
+
+msgid "IDS_PCVE027_MATCHMAKER_DESCRIPTION"
+msgstr "在20世纪初的铁甲舰上使用多种口径的火炮进行战斗。"
+
+msgid "IDS_PGES340_ODIN_CEREMONIAL"
+msgstr "特典"
+
+msgid "IDS_PGSB548"
+msgstr "奥丁B"
+
+msgid "IDS_PGSB548_DESCR"
+msgstr "在1932年至1934年间，当局考虑了各种项目，以进一步发展和增强德意志级战舰的实力。当局决定加装第三座主炮塔，这导致排水量大幅增加。在获悉法国战列巡洋舰斯特拉斯堡号的属性后，当局意识到必须对此战舰主要武器的口径进行调整。而305毫米口径被认为是最平衡的方案，尤其是英国还希望在即将举行的海军会议上提出将其作为主要口径。"
+
+msgid "IDS_PGSB548_FULL"
+msgstr "奥丁B"
+
+msgid "IDS_PGSB548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSB548_YEAR"
+msgstr "1935"
+
+msgid "IDS_PGUA724_ART_BLACK_ODIN"
+msgstr "305 mm/56 SK C/39（炮塔）"
+
+msgid "IDS_PGUE729_ENG_BLACK_ODIN"
+msgstr "推进系统：137300马力"
+
+msgid "IDS_PGUH737_HULL_BLACK_ODIN"
+msgstr "奥丁B"
+
+msgid "IDS_PGUS726_SUO_BLACK_ODIN"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUT726_TORP_BLACK_ODIN"
+msgstr "G7a T1"
+
+msgid "IDS_PIPA082_254MM_HE_T11"
+msgstr "254 mm proiettili HE"
+
+msgid "IDS_PJAM510_SHINANO_STOCK"
+msgstr "Yokosuka P1Y1"
+
+msgid "IDS_PJAM530_KUZURYU_TOP"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJES429_BLACK_AZUMA"
+msgstr "特别"
+
+msgid "IDS_PJGM215_152MM40_COLOR_BLACK"
+msgstr "152 mm/40 QF EOC Pattern Z（炮廓式）"
+
+msgid "IDS_PJGM216_152MM40_COLOR_WHITE"
+msgstr "152 mm/40 QF EOC Pattern Z（炮廓式）"
+
+msgid "IDS_PJGM218_76MM40_SINGLE"
+msgstr "76 mm/40 Elswick Pattern N（单装炮座）"
+
+msgid "IDS_PJGM219_203MM_45_TWIN"
+msgstr "203 mm/45 EOC Pattern U（双联装炮塔）"
+
+msgid "IDS_PJGM220_152MM40"
+msgstr "152 mm/40 EOC Pattern Z Year Type（单装炮座）"
+
+msgid "IDS_PJGM233_152MM40_CASEMATE"
+msgstr "152 mm/40 EOC Pattern Z（炮廓式）"
+
+msgid "IDS_PJGM991_305MM_MIKASA"
+msgstr "305 mm/40 EOC Pattern G（双联装炮塔）"
+
+msgid "IDS_PJGS209_47MM_33_HOTCHKISS"
+msgstr "47 mm OQF 3-pounder Hotchkiss"
+
+msgid "IDS_PJGS210_47MM_40_HOTCHKISS"
+msgstr "47 mm OQF 3-pounder Hotchkiss"
+
+msgid "IDS_PJGS221_76MM40"
+msgstr "76 mm/40 41st Year Type（单装炮座）"
+
+msgid "IDS_PJGS222_57MM40_HOTCHKISS"
+msgstr "57 mm OQF 6-pdr Hotchkiss"
+
+msgid "IDS_PJGS234_76MM40"
+msgstr "76 mm/40 Elswick Pattern N（单装炮座）"
+
+msgid "IDS_PJGT001_INVISIBLE_TA_MIKASA"
+msgstr "457 mm"
+
+msgid "IDS_PJGT154_450MM"
+msgstr "450 mm 单装"
+
+msgid "IDS_PJPA153_150MM_HE_KUZURYU"
+msgstr "150 mm HE Type 0"
+
+msgid "IDS_PJPA154_150MM_AP_KUZURYU"
+msgstr "150 mm AP Type 0"
+
+msgid "IDS_PJPA155_76MM_CS_SAZANAMI"
+msgstr "76 mm CS Elswick Pattern N"
+
+msgid "IDS_PJPA156_305MM_CS_MIKASA"
+msgstr "305 mm CS EOC Pattern G"
+
+msgid "IDS_PJPA157_203_PPB"
+msgstr "203 mm CS EOC Pattern U"
+
+msgid "IDS_PJPA158_152_PPB"
+msgstr "152 mm CS EOC Pattern Z"
+
+msgid "IDS_PJPA159_152_CS_MIKASA"
+msgstr "152 mm CS EOC Pattern Z"
+
+msgid "IDS_PJPA160_76MM_CS_MIKASA"
+msgstr "76 mm CS Elswick Pattern N"
+
+msgid "IDS_PJPA161_47MM_CS_MIKASA"
+msgstr "47 mm CS"
+
+msgid "IDS_PJPA162_57MM_CS"
+msgstr "57 mm CS"
+
+msgid "IDS_PJPB530_KUZURYU_TOP"
+msgstr "No. 25 Mod. 2"
+
+msgid "IDS_PJPM510_SHINANO_STOCK"
+msgstr "Type JJ"
+
+msgid "IDS_PJPM530_KUZURYU_TOP"
+msgstr "Type JI Mod. 2"
+
+msgid "IDS_PJPT042_SAZANAMI"
+msgstr "457 mm"
+
+msgid "IDS_PJPT124_MIKASA"
+msgstr "457 mm"
+
+msgid "IDS_PJPT125_ASAMA"
+msgstr "457 mm"
+
+msgid "IDS_PJSB502"
+msgstr "三笠'04"
+
+msgid "IDS_PJSB502_DESCR"
+msgstr ""
+"1896年，日本在十年计划中所订购的四艘战列舰中的最后一艘。在设计上，三笠与前级类似，主要区别是改进了反水雷炮的炮廊装甲。\n"
+"该舰由阿姆斯特朗公司设计并建造，甚至比当时最新的英国战舰还要先进。该舰于1899年1月在艾尔斯威克开工，次年11月下水，1902年3月服役。该舰是日俄战争期间东乡平八郎上将的旗舰，参与了黄海海战和对马海峡海战。"
+
+msgid "IDS_PJSB502_FULL"
+msgstr "三笠'04"
+
+msgid "IDS_PJSB502_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB502_YEAR"
+msgstr "1902"
+
+msgid "IDS_PJSC509"
+msgstr "吾妻B"
+
+msgid "IDS_PJSC509_DESCR"
+msgstr "在二战开始前不久，日本发现美国已经开始设计阿拉斯加级大型巡洋舰。他们立即开始为这种类型的战舰设计项目，以抗衡美国巡洋舰。该项目战舰在结构上与大和级战列舰相似，并在3座炮塔中部署9门310毫米新型火炮。该开发于1941年11月停止，最终在中途岛海战之后取消。"
+
+msgid "IDS_PJSC509_FULL"
+msgstr "吾妻B"
+
+msgid "IDS_PJSC509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC509_YEAR"
+msgstr "1940"
+
+msgid "IDS_PJSC512"
+msgstr "浅间"
+
+msgid "IDS_PJSC512_DESCR"
+msgstr ""
+"1896年，舰队补充计划被采纳。该计划包括了建造四艘装甲巡洋舰，一年后这个数字增加到了六艘。前两艘巡洋舰——浅间和常盘——是从英国订购的。这些战舰是根据英国曾为智利建造的奥希金斯号巡洋舰改进而来的。在试航中，该舰甚至超过了设计航速1.5节。两艘战舰都参加了日俄战争和第一次世界大战。\n"
+"浅间于1896年11月在艾尔斯威克建造，1898年3月下水，1899年3月服役。在日俄战争期间，该舰隶属于上村彦之丞上将的舰队，参加了济州岛海战、黄海海战和对马海峡海战。在第一次世界大战期间，她在1915年时因在墨西哥海岸搁浅而受损严重。\n"
+"第二次世界大战期间，浅间在下关被用作海军炮手的训练舰。"
+
+msgid "IDS_PJSC512_FULL"
+msgstr "浅间"
+
+msgid "IDS_PJSC512_NUMBER"
+msgstr "2"
+
+msgid "IDS_PJSC512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PJSC530"
+msgstr "九头龙"
+
+msgid "IDS_PJSC530_DESCR"
+msgstr ""
+"20世纪30年代末，日本所开发的一型巡洋舰项目——潜艇领舰。该舰应该会携带飞机和高平两用主炮。\n"
+"在该项目的其中一个设计类似航空母舰——艏艉的主炮组之间设置有一个相当大的机库，且配备了完整的飞行甲板和舰岛。"
+
+msgid "IDS_PJSC530_FULL"
+msgstr "九头龙"
+
+msgid "IDS_PJSC530_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC530_YEAR"
+msgstr "1944"
+
+msgid "IDS_PJSD512"
+msgstr "涟"
+
+msgid "IDS_PJSD512_DESCR"
+msgstr ""
+"雷级驱逐舰由英国亚罗公司于1897-1899年建造。这些战舰参与了镇压义和团运动，并在之后参加了日俄战争。\n"
+"涟于1897年6月开工，1899年8月下水并服役，并在1900年抵达日本。该舰参加了日俄战争，与守护号战斗，并在对马海峡海战中俘虏了厉害号驱逐舰上受重伤的罗杰斯特温斯基中将。"
+
+msgid "IDS_PJSD512_FULL"
+msgstr "涟"
+
+msgid "IDS_PJSD512_NUMBER"
+msgstr "6"
+
+msgid "IDS_PJSD512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PJUA102_ART_MIKASA"
+msgstr "305 mm/40 EOC Pattern G（双联装炮塔）"
+
+msgid "IDS_PJUA103_ART_ASAMA"
+msgstr "203 mm/45 EOC Pattern U（双联装炮塔）"
+
+msgid "IDS_PJUA104_ART_SAZANAMI"
+msgstr "76 mm/40 Elswick Pattern N（单装炮座）"
+
+msgid "IDS_PJUA809_ART_BLACK_AZUMA"
+msgstr "310 mm/50 Type 0（三联装炮塔）"
+
+msgid "IDS_PJUA913_ART_KUZURYU"
+msgstr "150 mm/60 5th Year Type（三联装炮塔）"
+
+msgid "IDS_PJUE104_ENG_MIKASA"
+msgstr "推进系统：16000马力"
+
+msgid "IDS_PJUE105_ENG_ASAMA"
+msgstr "推进系统：13000马力"
+
+msgid "IDS_PJUE106_ENG_SAZANAMI"
+msgstr "推进系统：6000马力"
+
+msgid "IDS_PJUE810_ENG_BLACK_AZUMA"
+msgstr "推进系统：170000马力"
+
+msgid "IDS_PJUE916_ENG_KUZURYU"
+msgstr "推进系统：212000马力"
+
+msgid "IDS_PJUF907_FC_KUZURYU"
+msgstr "Type8 mod. 1"
+
+msgid "IDS_PJUH102_MIKASA_1904"
+msgstr "三笠"
+
+msgid "IDS_PJUH103_HULL_ASAMA"
+msgstr "浅间"
+
+msgid "IDS_PJUH104_HULL_SAZANAMI"
+msgstr "涟"
+
+msgid "IDS_PJUH815_HULL_BLACK_AZUMA"
+msgstr "吾妻B"
+
+msgid "IDS_PJUH917_HULL_KUZURYU"
+msgstr "九头龙"
+
+msgid "IDS_PJUO900_MB_KUZURYU"
+msgstr "Aichi M6A1 B Nanzan"
+
+msgid "IDS_PJUS105_SUO_MIKASA"
+msgstr "Type2 mod. 1"
+
+msgid "IDS_PJUS106_SUO_ASAMA"
+msgstr "Type2"
+
+msgid "IDS_PJUS107_SUO_SAZANAMI"
+msgstr "Type2"
+
+msgid "IDS_PJUS823_SUO_BLACK_AZUMA"
+msgstr "Type9"
+
+msgid "IDS_PJUS916_SUO_KUZURYU"
+msgstr "Type10"
+
+msgid "IDS_PJUT105_TORP_ASAMA"
+msgstr "457 mm"
+
+msgid "IDS_PJUT108_TORP_MIKASA"
+msgstr "457 mm"
+
+msgid "IDS_PJUT109_TORP_SAZANAMI"
+msgstr "457 mm"
+
+msgid "IDS_PRES406_BLACK_MOLOTOV"
+msgstr "特别"
+
+msgid "IDS_PRES608_BLACK_S_189"
+msgstr "特别"
+
+msgid "IDS_PRGM221_12IN52_MOD4"
+msgstr "305 mm/52 Model 1907（MK-3-12炮座）"
+
+msgid "IDS_PRGM223_75MM_50_CANET_CS"
+msgstr "75 mm/50 Model 1892（Meller炮座）"
+
+msgid "IDS_PRGM225_12IN52_MOD5"
+msgstr "305 mm/52 Model 1907（MK-3-12炮座）"
+
+msgid "IDS_PRGM226_203MM_45_CANET"
+msgstr "203 mm/45 Model 1892（单装炮座）"
+
+msgid "IDS_PRGM227_152MM_45_CASEMATE_SHIELD"
+msgstr "152 mm/45 Model 1892（Canet炮座）"
+
+msgid "IDS_PRGM231_203MM_45_CANET_CASEMATE"
+msgstr "152 mm/45 Model 1892（炮廓式）"
+
+msgid "IDS_PRGM236_305MM40_TWIN"
+msgstr "305 mm/40 Model 1895（炮塔）"
+
+msgid "IDS_PRGS227_152MM_45_CASEMATE_SHIELD"
+msgstr "152 mm/45 Model 1892（炮廓式）"
+
+msgid "IDS_PRGS228_37MM_23_HOTCHKISS"
+msgstr "37 mm Hotchkiss（单装炮座）"
+
+msgid "IDS_PRGS233_47MM_43_5_HOTCHKISS_SHIELD"
+msgstr "47 mm Hotchkiss（单装炮座）"
+
+msgid "IDS_PRGS234_47MM_43_5_HOTCHKISS"
+msgstr "47 mm Hotchkiss（单装炮座）"
+
+msgid "IDS_PRGS235_47MM43_5_HOTCHKISS"
+msgstr "47 mm Hotchkiss（单装炮座）"
+
+msgid "IDS_PRGS239_152MM_45_CANET"
+msgstr "152 mm/45 Model 1892（单装炮座）"
+
+msgid "IDS_PRGS240_152MM_45_CANET"
+msgstr "152 mm/45 Model 1892（单装炮座）"
+
+msgid "IDS_PRGS242_152MM_45_TWIN"
+msgstr "152 mm/45 Model 1892（炮塔）"
+
+msgid "IDS_PRGS900_152MM_45_TWIN_BORODINO"
+msgstr "152 mm/45 Model 1892（炮塔）"
+
+msgid "IDS_PRGT003_INVISIBLE_TA_7M"
+msgstr "381 mm"
+
+msgid "IDS_PRGT222_381MM_SINGLE_TUBE"
+msgstr "381 mm"
+
+msgid "IDS_PRGT900_INVISIBLE_TA_BORODINO"
+msgstr "381 mm"
+
+msgid "IDS_PRPA154_305MM_HE_FRUNZE"
+msgstr "305 mm HE Model 1930"
+
+msgid "IDS_PRPA155_305MM_AP_FRUNZE"
+msgstr "305 mm AP Model 1930"
+
+msgid "IDS_PRPA227_152MM_BORODINO"
+msgstr "152 mm SAP Model 1892"
+
+msgid "IDS_PRPA228_75MM_CS_CANE"
+msgstr "75 mm SAP"
+
+msgid "IDS_PRPA229_203MM_CS_GROMOBOY"
+msgstr "203 mm SAP Model 1892"
+
+msgid "IDS_PRPA230_152MM_CS_CROMOBOY"
+msgstr "152 mm SAP Model 1892"
+
+msgid "IDS_PRPA231_37MM_CS"
+msgstr "37 mm SAP"
+
+msgid "IDS_PRPA232_47MM_CS_HOTCHKISS"
+msgstr "47 mm SAP"
+
+msgid "IDS_PRPA233_305MM_BORODINO"
+msgstr "305 mm SAP Model 1895"
+
+msgid "IDS_PRPA234_75MM_CS_BOYKIY"
+msgstr "75 mm SAP Model 1892"
+
+msgid "IDS_PRPT071_STOROJEVOY"
+msgstr "鱼雷Model 1910"
+
+msgid "IDS_PRPT072_DERZKY"
+msgstr "鱼雷Model 1910"
+
+msgid "IDS_PRPT073_PODVOISKY"
+msgstr "53-38"
+
+msgid "IDS_PRPT074_PR_7"
+msgstr "53-39 mod. 1"
+
+msgid "IDS_PRPT075_MINSK"
+msgstr "53-38U"
+
+msgid "IDS_PRPT076_PR_48"
+msgstr "53-36 mod. 2"
+
+msgid "IDS_PRPT077_IZYASLAV"
+msgstr "鱼雷Model 1912"
+
+msgid "IDS_PRPT078_FRUNZE"
+msgstr "53-31"
+
+msgid "IDS_PRPT079_BORODINO"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRPT080_GROMOBOY"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRPT081_BOYKIY"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRSB502"
+msgstr "博罗季诺'04"
+
+msgid "IDS_PRSB502_DESCR"
+msgstr ""
+"1900-1902年，在圣彼得堡建造了一系列根据皇太子号战列舰的改进而来的战列舰。与前级不同的是，这些战舰拥有更大的动力装置和更重的炮塔。设计师不得不增加该舰的排水量，同时削弱装甲厚度。这些战列舰参加了太平洋第二舰队的东征以及对马海峡海战。\n"
+"博罗季诺在1900年5月于圣彼得堡海军部造船厂开工，1901年9月下水，1904年9月开始服役。在一级上尉彼得•约瑟夫维奇•谢列布伦尼科夫的指挥下，该舰从喀琅施塔得驶向日本海。在对马海峡海战中，她被重创并沉没。"
+
+msgid "IDS_PRSB502_FULL"
+msgstr "博罗季诺'04"
+
+msgid "IDS_PRSB502_NUMBER"
+msgstr "5"
+
+msgid "IDS_PRSB502_YEAR"
+msgstr "1904"
+
+msgid "IDS_PRSB548"
+msgstr "伏龙芝"
+
+msgid "IDS_PRSB548_DESCR"
+msgstr ""
+"波尔塔瓦号战列舰在1919年11月的一次火灾中严重受损：线路被完全烧毁、锅炉和发电装置损坏。在资金极其有限的情况下、该舰被拆除武器并封存。1926年，该舰获得了一个新名字——伏龙芝。同年，该舰的修复工作被列入了红海军建设计划。\n"
+"该舰的修复工作在1928和1930年持续进行。最后，在1931年，有人提议用原先的炮塔将伏龙芝重建为一艘三炮塔战列巡洋舰。次年，造船局下令进行相关的图纸设计工作。1933年，波罗的海造船厂设计局提供了两个版本，其差距体现在烟囱和防空炮的布局上。该舰的现代化改造被纳入了1933-1938年的海军建设计划中，但在次年，现代化改造工作被推迟，后被取消。"
+
+msgid "IDS_PRSB548_FULL"
+msgstr "伏龙芝"
+
+msgid "IDS_PRSB548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB548_YEAR"
+msgstr "1933"
+
+msgid "IDS_PRSC512"
+msgstr "格罗莫博伊"
+
+msgid "IDS_PRSC512_DESCR"
+msgstr ""
+"格罗莫博伊是留里克级和俄罗斯级装甲巡洋舰的进一步发展，装备了三台相同型号的三重膨胀蒸汽引擎，装甲布局被重新设计以保护新的动力装置。\n"
+"该舰于1898年5月在波罗的海造船厂开工，一年后下水，1899年11月服役。在试航之后、该舰就立即被调往了远东，成为了太平洋舰队的一部分。\n"
+"日俄战争期间，该舰是海参崴巡洋舰分舰队的一员。1904年8月参加了朝鲜海峡战役，1904年在波西耶特湾受损。1905年5月，格罗莫博伊的修复工作完成后，又被水雷命中，后续的修复工作直到战争结束才完成。1906年，该舰回到波罗的海。格罗莫博伊还参加了第一次世界大战，并在1917年底一直驻扎在喀琅施塔得。"
+
+msgid "IDS_PRSC512_FULL"
+msgstr "格罗莫博伊"
+
+msgid "IDS_PRSC512_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PRSC526"
+msgstr "莫洛托夫B"
+
+msgid "IDS_PRSC526_DESCR"
+msgstr "1937年，新项目26bis获得了修改后的上层建筑、强化的装甲和新的火控系统。在这个项目下建造的巡洋舰莫洛托夫号于1941年6月服役。在二战期间，它在塞瓦斯托波尔击退了空袭，参加了刻赤登陆行动，并参与了塞瓦斯托波尔保卫战。在1942年被德国鱼雷击中后，莫洛托夫号在波季修理，随后被调至黑海舰队。"
+
+msgid "IDS_PRSC526_FULL"
+msgstr "莫洛托夫B"
+
+msgid "IDS_PRSC526_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSC526_YEAR"
+msgstr "1941"
+
+msgid "IDS_PRSD502"
+msgstr "敏捷"
+
+msgid "IDS_PRSD502_DESCR"
+msgstr ""
+"1897年，英国亚罗公司接受订单建造了一系列350吨的布伊内级驱逐舰。该级战舰是以曾为日本建造的雷级驱逐舰为基础改进设计得来的。这些战舰于1901-1902年在圣彼得堡开工。\n"
+"敏捷是该系列十艘驱逐舰的首舰，于1901年6月开工、同年8月下水。日俄战争期间，该舰参加了黄海海战。1904年12月，在于旅顺港投降之前，该舰停泊在烟台，并在那里被扣押。敏捷是西伯利亚舰队的一员，在两次战争中进行了维修和现代化改造工作。\n"
+"1914-1922年她一直驻扎在海参崴港。在盟军占领海参崴期间，该舰被法军俘虏，并被改名为昆汀•罗斯福。在侵略者离开后，该舰便不再服役。"
+
+msgid "IDS_PRSD502_FULL"
+msgstr "敏捷"
+
+msgid "IDS_PRSD502_NUMBER"
+msgstr "10"
+
+msgid "IDS_PRSD502_YEAR"
+msgstr "1902"
+
+msgid "IDS_PRSS518"
+msgstr "S-189 B"
+
+msgid "IDS_PRSS518_DESCR"
+msgstr "项目613是苏联海军在第二次世界大战经验基础上建造的规模最大的潜艇系列。该艇能够在水下长时间作业。"
+
+msgid "IDS_PRSS518_FULL"
+msgstr "S-189 B"
+
+msgid "IDS_PRSS518_NUMBER"
+msgstr "236"
+
+msgid "IDS_PRSS518_YEAR"
+msgstr "1955"
+
+msgid "IDS_PRUA102_ART_BORODINO"
+msgstr "305 mm/40 Model 1895（炮塔）"
+
+msgid "IDS_PRUA103_ART_GROMOBOY"
+msgstr "203 mm/45 Model 1892（单装炮座）"
+
+msgid "IDS_PRUA104_ART_BOYKIY"
+msgstr "75 mm/50 Model 1892（Meller炮座）"
+
+msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
+msgstr "180 mm/57 Model 1932（MK-3-180炮座）"
+
+msgid "IDS_PRUA714_ART_FRUNZE"
+msgstr "305 mm/52 Model 1907（MK-3-12炮座）"
+
+msgid "IDS_PRUE102_ENG_BORODINO"
+msgstr "推进系统：16300马力"
+
+msgid "IDS_PRUE103_ENG_GROMOBOY"
+msgstr "推进系统：14500马力"
+
+msgid "IDS_PRUE104_ENG_BOYKIY"
+msgstr "推进系统：5700马力"
+
+msgid "IDS_PRUE508_ENG_BLACK_MOLOTOV"
+msgstr "推进系统：110000马力"
+
+msgid "IDS_PRUE720_ENG_BLACK_S_189"
+msgstr "推进系统：4000马力"
+
+msgid "IDS_PRUE722_ENG_FRUNZE"
+msgstr "推进系统：130000马力"
+
+msgid "IDS_PRUH102_HULL_BORODINO"
+msgstr "博罗季诺"
+
+msgid "IDS_PRUH103_HULL_GROMOBOY"
+msgstr "格罗莫博伊"
+
+msgid "IDS_PRUH104_HULL_BOYKIY"
+msgstr "敏捷"
+
+msgid "IDS_PRUH515_HULL_BLACK_MOLOTOV"
+msgstr "莫洛托夫B"
+
+msgid "IDS_PRUH729_HULL_BLACK_S_189"
+msgstr "S-189 B"
+
+msgid "IDS_PRUH730_HULL_FRUNZE"
+msgstr "伏龙芝"
+
+msgid "IDS_PRUQ704_SONAR_BLACK_S_189"
+msgstr "对海搜索8"
+
+msgid "IDS_PRUS102_SUO_BORODINO"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS103_SUO_GROMOBOY"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS104_SUO_BOYKIY"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS709_SUO_FRUNZE"
+msgstr "GFCS VIII"
+
+msgid "IDS_PRUT103_TORP_BORODINO"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRUT104_TORP_GROMOBOY"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRUT105_TORP_BOYKIY"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRUT503_TORP_BLACK_MOLOTOV"
+msgstr "53-38"
+
+msgid "IDS_PRUT709_TORP_BLACK_S_189"
+msgstr "533 mm"
+
+msgid "IDS_PRUT710_TORP_FRUNZE"
+msgstr "533 mm"
+
+msgid "IDS_PWES507_BLACK_BLYSKAWICA"
+msgstr "特别"
+
+msgid "IDS_PWSD517"
+msgstr "闪电B"
+
+msgid "IDS_PWSD517_DESCR"
+msgstr "根据Peking行动的计划，ORP闪电号和其姊妹舰ORP雷霆号于1939年9月突围后抵达英国，并为了北大西洋的行动而进行升级。1940年，此战舰参加了挪威战役和敦刻尔克大撤退。它还参加了在大西洋的护航和巡逻行动，并护送军用运输舰。1944年，闪电号在韦桑岛附近与德国驱逐舰交战，掩护部队在诺曼底登陆。在被移交给新的波兰政府后，这艘驱逐舰进行了现代化改造，主炮和防空炮由苏联式武器取代。1976年5月，闪电号成为格丁尼亚的博物馆舰。"
+
+msgid "IDS_PWSD517_FULL"
+msgstr "闪电B"
+
+msgid "IDS_PWSD517_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD517_YEAR"
+msgstr "1937"
+
+msgid "IDS_PWUA605_ART_BLACK_BLYSKAWICA"
+msgstr "120 mm/50 wz.36 Bofors（护盾式炮座）"
+
+msgid "IDS_PWUE605_ENG_BLACK_BLYSKAWICA"
+msgstr "推进系统：54000马力"
+
+msgid "IDS_PWUH607_HULL_BLACK_BLYSKAWICA"
+msgstr "闪电B"
+
+msgid "IDS_PWUS607_SUO_BLACK_BLYSKAWICA"
+msgstr "SKO Mod. 7"
+
+msgid "IDS_PWUT606_TORP_BLACK_BLYSKAWICA"
+msgstr "Mark 10"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特别指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特别指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特别指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特别指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特别指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "指挥官"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "VI-X级特殊或加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VI–X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE"
+msgstr "“2024年黑色星期五”补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE_SHORT"
+msgstr "2024年黑色星期五"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "宙斯"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VI-X级特殊或加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI-X级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE"
+msgstr "“2024年黑色星期五”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE_SHORT"
+msgstr "2024年黑色星期五"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HIT_SEGMENT"
+msgstr "使用大口径主炮、中口径主炮或鱼雷命中敌方战舰装甲。"
+
+msgid "IDS_RIBBON_RIBBON_HIT_SEGMENT"
+msgstr "命中装甲"
+
+msgid "IDS_RIBBON_SUBRIBBON_DAMAGED_SEGMENT"
+msgstr "破坏装甲"
+
+msgid "IDS_RIBBON_SUBRIBBON_DESTROYED_SEGMENT"
+msgstr "摧毁装甲"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN"
+msgstr "铁甲舰时代 — 标准"
+
+msgid "IDS_SCENARIO_DE_FIGHTER_RESPAWN_DOMINATION"
+msgstr "铁甲舰时代 — 统治"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM147_CRUISERBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM148_DESTROYERBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM149_BATTLESHIPBUFF_DE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM147_CRUISERBUFF_DE"
+msgstr "武器强化"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM148_DESTROYERBUFF_DE"
+msgstr "武器强化"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM149_BATTLESHIPBUFF_DE"
+msgstr "武器强化"
+
+msgid "IDS_SHIP_MODIFIER_PXOM147_CRUISERBUFF_DE_APPLIED"
+msgstr "武器强化"
+
+msgid "IDS_SHIP_MODIFIER_PXOM148_DESTROYERBUFF_DE_APPLIED"
+msgstr "武器强化"
+
+msgid "IDS_SHIP_MODIFIER_PXOM149_BATTLESHIPBUFF_DE_APPLIED"
+msgstr "武器强化"
+
+msgid "IDS_SHOW_HELP_INSTRUCTION"
+msgstr "按下[CMD_HELP]键以打开战斗帮助界面。"
+
+msgid "IDS_SHOW_HELP_TUTORIAL_HINT"
+msgstr "点击以打开帮助界面。"
+
+msgid "IDS_SHOW_NICKNAME_IN_EARS"
+msgstr "队伍中的玩家名称"
+
+msgid "IDS_SHOW_NICKNAME_IN_EARS_DESCRIPTION"
+msgstr "在团队名单中显示玩家名称。"
+
+msgid "IDS_SKIP_PRESENTATION_HINT"
+msgstr "按[ESC]跳过"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_ARCHIPELAGO"
+msgstr "萨哈林群岛1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_ARCHIPELAGO_DESCR"
+msgstr "萨哈林群岛1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_KAMCHATKA"
+msgstr "堪察加1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_KAMCHATKA_DESCR"
+msgstr "堪察加1904"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NEIGHBORS"
+msgstr "海洋边界"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NEIGHBORS_DESCR"
+msgstr "海洋边界"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NE_PASSAGE"
+msgstr "南部海峡"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_NE_PASSAGE_DESCR"
+msgstr "南部海峡"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_OC_ISLANDS"
+msgstr "远方群岛"
+
+msgid "IDS_SPACES/DREADNOUGHTEVENT_OC_ISLANDS_DESCR"
+msgstr "远方群岛"
+
+msgid "IDS_SSE_MOTIVATOR_BP_DAILY_TASKS_COMPLETED"
+msgstr "已完成每日作战任务"
+
+msgid "IDS_SSE_MOTIVATOR_BP_WEEKLY_TASKS_COMPLETED"
+msgstr "已完成每周作战任务"
+
+msgid "IDS_SSE_MOTIVATOR_TASKS_COMPLETED"
+msgstr "已完成当前优先任务"
+
+msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE"
+msgstr "优先任务"
+
+msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE_COLON"
+msgstr "优先任务："
+
+msgid "IDS_SUBST_SSE_MOTIVATOR_RESET_IN"
+msgstr "距离任务重置还剩：%(timeLeft)s"
+
+msgid "IDS_SWAP_SPAWN"
+msgstr "换边"
+
+msgid "IDS_SWAP_SPAWN_TOOLTIP"
+msgstr "更改各队出发位置"
+
+msgid "IDS_SWAP_SPAWN_WAITING"
+msgstr "等待各队更改出发位置"
+
+msgid "IDS_TITLE_PCM102_T11_DD_CA_BB_SUPGRADE_MOD_I"
+msgstr "高效弹药"
+
+msgid "IDS_TITLE_PCM103_T11_DD_CA_BB_SUPGRADE_MOD_II"
+msgstr "近程防御系统"
+
+msgid "IDS_TITLE_PCM104_T11_DD_CA_BB_SUPGRADE_MOD_III"
+msgstr "效能维持系统"
+
+msgid "IDS_TITLE_PCM105_T11_DD_CA_BB_SUPGRADE_MOD_IV"
+msgstr "舰炮火控系统修改型3"
+
+msgid "IDS_TITLE_PCM106_T11_DD_CA_BB_SUPGRADE_MOD_V"
+msgstr "防空系统修改型"
+
+msgid "IDS_TITLE_PCM107_T11_CV_SUPGRADE_MOD_I"
+msgstr "空中作战控制系统"
+
+msgid "IDS_TITLE_PCM108_T11_CV_SUPGRADE_MOD_II"
+msgstr "航弹制导系统"
+
+msgid "IDS_TITLE_PCM109_T11_CV_SUPGRADE_MOD_III"
+msgstr "飞行甲板修改型"
+
+msgid "IDS_TITLE_PCM110_T11_SS_SUPGRADE_MOD_I"
+msgstr "水下作战系统"
+
+msgid "IDS_TITLE_PCM111_T11_SS_SUPGRADE_MOD_II"
+msgstr "潜艇辅助设备"
+
+msgid "IDS_TITLE_PCM112_T11_SS_SUPGRADE_MOD_III"
+msgstr "声呐修改型2"
+
+msgid "IDS_TITLE_PCM113_MAINGUN_MOD_I"
+msgstr "主炮组修改型1"
+
+msgid "IDS_TITLE_PCM114_TORPEDOMOD_MOD_0"
+msgstr "鱼雷发射管修改型1"
+
+msgid "IDS_TITLE_PCM115_FLIGHTCONTROL_MOD_0"
+msgstr "飞行控制修改型1"
+
+msgid "IDS_TITLE_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
+msgstr "高效弹药（测试）"
+
+msgid "IDS_TITLE_PCM903_T11_DD_CA_BB_SUPGRADE_MOD_II_TEST"
+msgstr "近程防御系统（测试）"
+
+msgid "IDS_TITLE_PCM904_T11_DD_CA_BB_SUPGRADE_MOD_III_TEST"
+msgstr "效能维持系统（测试）"
+
+msgid "IDS_TITLE_PCM905_T11_DD_CA_BB_SUPGRADE_MOD_IV_TEST"
+msgstr "舰炮火控系统修改型3（测试）"
+
+msgid "IDS_TITLE_PCM906_T11_DD_CA_BB_SUPGRADE_MOD_V_TEST"
+msgstr "防空系统修改型（测试）"
+
+msgid "IDS_TITLE_PCM907_T11_CV_SUPGRADE_MOD_I_TEST"
+msgstr "空中作战控制系统（测试）"
+
+msgid "IDS_TITLE_PCM908_T11_CV_SUPGRADE_MOD_II_TEST"
+msgstr "航弹制导系统（测试）"
+
+msgid "IDS_TITLE_PCM909_T11_CV_SUPGRADE_MOD_III_TEST"
+msgstr "飞行甲板修改型（测试）"
+
+msgid "IDS_TITLE_PCM910_T11_SS_SUPGRADE_MOD_I_TEST"
+msgstr "水下作战系统（测试）"
+
+msgid "IDS_TITLE_PCM911_T11_SS_SUPGRADE_MOD_II_TEST"
+msgstr "潜艇辅助设备（测试）"
+
+msgid "IDS_TITLE_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
+msgstr "声呐修改型2（测试）"
+
+msgid "IDS_TRAINING_ROOM_TEAM_NAME_WRONG_CHARACTERS"
+msgstr "您输入了无效字符"
+
+msgid "IDS_UNLOCKS_3"
 msgstr "与真人玩家对战。"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
-msgstr "在“行动”中，您的团队必须在与电脑玩家战斗的同时完成各种任务。每个行动都有独特的故事元素。"
+msgid "IDS_UNLOCKS_3117"
+msgstr "研发并购买新战舰。"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
-msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_0"
+msgstr "有多种类型和国家的战舰供您选择：高隐蔽性的驱逐舰、能力均衡的巡洋舰、重装甲的战列舰，以及携带高速高伤害飞机的航空母舰。选择您在战斗中的角色！"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
-msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+msgid "IDS_UNLOCKS_DESCRIPTION_3117_1"
+msgstr "为了提升您的战斗力，您可以使用赚取的经验和银币来研发和购买新战舰，或购买新的配件来升级您的战舰。"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
-msgstr "与真实玩家对战。随机组成队伍。"
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr "对战真实玩家。匹配系统将随机创建团队。"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_24"
-msgstr ""
-"<body>您现在可以加入\n"
-"<h3>行动</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3103"
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr ""
 "<body>您现在可以加入\n"
 "<h3>随机战</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_24"
-msgstr "可见于战斗模式选择界面。"
+msgid "IDS_UNLOCKS_LEVEL_UP_3117"
+msgstr ""
+"<body>您现在可以使用\n"
+"<h3>战舰研发和强化</h3></body>"
 
-msgid "IDS_UNLOCKS_LOCATION_3103"
+msgid "IDS_UNLOCKS_LOCATION_3"
 msgstr "战斗模式选项位于“加入战斗”按钮的旁边。"
 
-msgid "IDS_UNLOCKS_TITLE_24"
-msgstr "行动"
+msgid "IDS_UNLOCKS_LOCATION_3117"
+msgstr "科技树分页中开放了新的战舰。升级品可在装备分页安装。"
 
-msgid "IDS_UNLOCKS_TITLE_3103"
+msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "随机战"
+
+msgid "IDS_UNLOCKS_TITLE_3117"
+msgstr "战舰研发和升级"
+
+msgid "IDS_WINNER_TEAM"
+msgstr "%(_teamName)s队获胜"
