@@ -274,7 +274,7 @@ msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_HE"
 msgstr "高爆炸弹空袭"
 
 msgid "IDS_HELP_BATTLE_COMMANDS"
-msgstr "战斗中"
+msgstr "战斗"
 
 msgid "IDS_HELP_BATTLE_DESIGNATIONS"
 msgstr "战斗中的图标"
@@ -421,13 +421,13 @@ msgid "IDS_HELP_PECULIARITIES_CRUISER_1"
 msgstr "武器"
 
 msgid "IDS_HELP_PECULIARITIES_CRUISER_1_DESC_0"
-msgstr "在许多方面中，巡洋舰的特性介于战列舰和驱逐舰之间。"
+msgstr "在许多方面，巡洋舰的特性介于战列舰和驱逐舰之间。"
 
 msgid "IDS_HELP_PECULIARITIES_CRUISER_2"
 msgstr "消耗品"
 
 msgid "IDS_HELP_PECULIARITIES_CRUISER_2_DESC_0"
-msgstr "巡洋舰的消耗品种类一般较多，可以在不同场景下发挥有效作用。"
+msgstr "巡洋舰的消耗品种类一般较多，可以在不同场景下有效发挥作用。"
 
 msgid "IDS_HELP_PECULIARITIES_CRUISER_3"
 msgstr "多样性"
@@ -601,7 +601,7 @@ msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_HEADER"
 msgstr "重返战场"
 
 msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "若有友方战列舰或巡洋舰存活，驱逐舰可以在被摧毁后重新返回战斗。"
+msgstr "若有友方战列舰或巡洋舰存活，驱逐舰可以在被摧毁后重新返回战场。"
 
 msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_HEADER"
 msgstr "参与条件"
@@ -622,7 +622,7 @@ msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "您需要全歼敌舰或占领基地。"
 
 msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "被摧毁的驱逐舰在一段时间后可以重新返回战斗。若无存活的友方战列舰或巡洋舰，则不能重返战场。"
+msgstr "被摧毁的驱逐舰在一段时间后可以重新返回战场。若无存活的友方战列舰或巡洋舰，则不能重返战场。"
 
 msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_2_HEADER"
 msgstr "装甲破坏"

@@ -564,7 +564,7 @@ msgid "IDS_TITLE_PCM016_FLIGHTCONTROL_MOD_II"
 msgstr "飞行控制修改型3"
 
 msgid "IDS_TITLE_PCM030_MAINWEAPON_MOD_I"
-msgstr "武器保护系统"
+msgstr "武器维护系统"
 
 msgid "IDS_TITLE_PCM070_TORPEDO_MOD_IV"
 msgstr "鱼雷发射管修改型2"
