@@ -295,7 +295,7 @@ msgid "IDS_HELP_CROSSHAIR"
 msgstr "准星"
 
 msgid "IDS_HELP_DEFINITELY_DETECT"
-msgstr "在2km或更短的距离下被发现"
+msgstr "在2km范围内被发现"
 
 msgid "IDS_HELP_DEGECTIVE_MODULES"
 msgstr "瘫痪的配件"
@@ -502,7 +502,7 @@ msgid "IDS_HELP_SALVO_AT_SHIP"
 msgstr "来袭预警"
 
 msgid "IDS_HELP_SHIP_AT_GUNPOINT"
-msgstr "敌人正在瞄准您的战舰"
+msgstr "正在瞄准您战舰的敌人数量"
 
 msgid "IDS_HELP_SHIP_DETECT"
 msgstr "被敌舰发现"
@@ -517,10 +517,10 @@ msgid "IDS_HELP_SHIP_TYPES"
 msgstr "战舰类型"
 
 msgid "IDS_HELP_SHIP_WAS_FOUND_BY_RADAR"
-msgstr "战舰已被监视雷达发现"
+msgstr "战舰被监视雷达发现"
 
 msgid "IDS_HELP_SHIP_WAS_FOUND_BY_SUBMARINE_LOCATOR"
-msgstr "战舰已被潜艇监视设备发现"
+msgstr "战舰被潜艇监视设备发现"
 
 msgid "IDS_HELP_SKIPBOMBER"
 msgstr "弹跳轰炸机"

@@ -295,7 +295,7 @@ msgid "IDS_HELP_DETECTION_INDICATORS"
 msgstr "被发现"
 
 msgid "IDS_HELP_FIGHTER"
-msgstr "攻击机"
+msgstr "战斗机"
 
 msgid "IDS_HELP_FOCUSING"
 msgstr "瞄准中"
