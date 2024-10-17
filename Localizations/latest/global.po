@@ -3429,7 +3429,7 @@ msgid "IDS_ACHIEVEMENT_RUSSO_JAPANESE_WAR"
 msgstr "非对称战斗：日俄战争"
 
 msgid "IDS_ACHIEVEMENT_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
-msgstr "战蜥蜴"
+msgstr "扼住七寸！"
 
 msgid "IDS_ACHIEVEMENT_RVR_NEW_YEAR"
 msgstr "新年之夜"
@@ -7553,7 +7553,7 @@ msgid "IDS_BATTLE_STATS_PERSONAL_REPORT"
 msgstr "个人战绩"
 
 msgid "IDS_BATTLE_STATS_PLANES_DESTROYED"
-msgstr "击落飞机"
+msgstr "击落飞机数"
 
 msgid "IDS_BATTLE_STATS_PLANES_SPOTTED"
 msgstr "侦察中队数"
@@ -20364,13 +20364,13 @@ msgid "IDS_DESC_PCM912_T11_SS_SUPGRADE_MOD_III_TEST"
 msgstr " "
 
 msgid "IDS_DESC_PCM994_MODERNIZATION_SLOT_DUMMY"
-msgstr "测试升级品的效果已被应用到战舰，安装或拆卸都不会造成任何改变。您不能在此插槽中安装其他升级品。"
+msgstr "测试升级品的效果已被应用到战舰，安装或拆卸都不会对战舰性能造成任何改变。您不能在此栏位中安装其他升级品。"
 
 msgid "IDS_DESC_PCM995_MODERNIZATION_SLOT_DUMMY"
-msgstr "测试升级品的效果已被应用到战舰，安装或拆卸都不会造成任何改变。您不能在此插槽中安装其他升级品。"
+msgstr "测试升级品的效果已被应用到战舰，安装或拆卸都不会对战舰性能造成任何改变。您不能在此栏位中安装其他升级品。"
 
 msgid "IDS_DESC_PCM996_MODERNIZATION_SLOT_DUMMY"
-msgstr "测试升级品的效果已被应用到战舰，安装或拆卸都不会造成任何改变。您不能在此插槽中安装其他升级品。"
+msgstr "测试升级品的效果已被应用到战舰，安装或拆卸都不会对战舰性能造成任何改变。您不能在此栏位中安装其他升级品。"
 
 msgid "IDS_DESELECT_AIRPLANES"
 msgstr "取消选定的中队"
@@ -27785,10 +27785,10 @@ msgid "IDS_EVENT_BATTLES_PRIME_TIME_DISABLED"
 msgstr "此活动目前不开放"
 
 msgid "IDS_EVENT_BATTLE_PRIME_TIME_ENDS_IN"
-msgstr "距离时段结束还剩%(_timeLeft)s"
+msgstr "距离时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_EVENT_BATTLE_PRIME_TIME_STARTS_IN"
-msgstr "时段将于%(_timeLeft)s后开始"
+msgstr "距离时段开始还有：%(_timeLeft)s"
 
 msgid "IDS_EVENT_BATTLE_STAGE_UNDEFINED"
 msgstr "状态未知"
@@ -33062,7 +33062,7 @@ msgid "IDS_HINT_COLLAPSE_GROUP"
 msgstr "收起分组"
 
 msgid "IDS_HINT_COLLAPSE_WINDOW"
-msgstr "收起窗口"
+msgstr "最小化窗口"
 
 msgid "IDS_HINT_CREATE_DIVISION"
 msgstr "与其它玩家组成小队"
@@ -33110,7 +33110,7 @@ msgid "IDS_HINT_EXPAND_GROUP"
 msgstr "展开分组"
 
 msgid "IDS_HINT_EXPAND_WINDOW"
-msgstr "窗口最大化"
+msgstr "最大化窗口"
 
 msgid "IDS_HINT_FILTER_DISABLED_CLASS_SUBMARINE"
 msgstr "潜艇在已选地图中不可用"
@@ -33797,7 +33797,7 @@ msgid "IDS_INSTALLED_Q"
 msgstr "已安装："
 
 msgid "IDS_INSTALL_ALL_RECOMMENDED_BUT_NOT_ALL_MODERNIZATIONS_TOOLTIP"
-msgstr "其他插槽无推荐升级品"
+msgstr "其他栏位无推荐升级品"
 
 msgid "IDS_INSTALL_ALL_RECOMMENDED_MODERNIZATIONS"
 msgstr "安装推荐"
@@ -37109,7 +37109,7 @@ msgid "IDS_MAIN_PLANES_ALT_GOOD"
 msgstr "战术中队效率较高"
 
 msgid "IDS_MAIN_PLANES_ALT_SPEED_GOOD"
-msgstr "战术中队速度较高"
+msgstr "战术中队航速较高"
 
 msgid "IDS_MAIN_PLANES_BOMBERS_ALT_GOOD"
 msgstr "战术轰炸机效率较高"
@@ -38562,7 +38562,7 @@ msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_HEADER"
 msgstr "参与条件"
 
 msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "您可以单独参战，也可以驾驶俄罗斯战舰组成最多3人的小队参战。"
+msgstr "您可以单独参战，也可以组成最多3人的小队参战。"
 
 msgid "IDS_MODAL_WINDOW_PCVE024_RULES_HEADER"
 msgstr "护航战"
@@ -46830,7 +46830,7 @@ msgid "IDS_PARAMS_MODIFIER_PLANESPAWNTIME"
 msgstr "飞机整备时间"
 
 msgid "IDS_PARAMS_MODIFIER_PLANESPEED"
-msgstr "中队速度"
+msgstr "中队航速"
 
 msgid "IDS_PARAMS_MODIFIER_PLANESPREADMULTIPLIER"
 msgstr "中队投弹最大误差"
@@ -47154,7 +47154,7 @@ msgid "IDS_PARAMS_MODIFIER_SPEEDCOEFUW"
 msgstr "水下航速"
 
 msgid "IDS_PARAMS_MODIFIER_SQUADRONSPEEDCOEFFFORRIBBONS"
-msgstr "中队速度"
+msgstr "中队航速"
 
 msgid "IDS_PARAMS_MODIFIER_STEERINGGEARJAMMEDWITHOUTSOFTCRIT"
 msgstr "方向舵卡住"
@@ -47402,7 +47402,7 @@ msgid "IDS_PARENTAL_CONTROL_DAILY_LIMIT"
 msgstr "明天"
 
 msgid "IDS_PARENTAL_CONTROL_SESSION_END_IMMINENT_COLON"
-msgstr "时段将于%(_timeLeft)s后结束"
+msgstr "距离时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_PARENTAL_CONTROL_WEEKLY_LIMIT"
 msgstr "下周"
@@ -110833,10 +110833,10 @@ msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_3"
 msgstr "您已在青铜联盟中开始新的冲刺回合"
 
 msgid "IDS_RANKED_PRIME_TIME_ENDS_IN"
-msgstr "时段将于%(_timeLeft)s后结束"
+msgstr "距离时段结束还剩：%(_timeLeft)s"
 
 msgid "IDS_RANKED_PRIME_TIME_STARTS_IN"
-msgstr "时段将于%(_timeLeft)s后开始"
+msgstr "距离时段开始还有：%(_timeLeft)s"
 
 msgid "IDS_RANKED_PRIME_TIME_TOOLTIP_DESC"
 msgstr "排位战于本地时间%(startsIn)s至%(endsIn)s举行。"
@@ -116784,7 +116784,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_TITLE_FULL"
-msgstr "战舰"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "VI-X级特殊或加值战舰"
@@ -118990,7 +118990,7 @@ msgid "IDS_SHIPS_COMPARISON"
 msgstr "战舰对比"
 
 msgid "IDS_SHIPS_DAMAGED"
-msgstr "伤害的战舰"
+msgstr "伤害战舰数"
 
 msgid "IDS_SHIPS_DAMAGED_HINT"
 msgstr "您在此战斗中伤害的敌舰数"
@@ -121742,7 +121742,7 @@ msgid "IDS_SHIP_PARAM_GUARANTEED_VISIBILITY_UNDERWATER"
 msgstr "水下深度"
 
 msgid "IDS_SHIP_PARAM_HANGARVOLUME"
-msgstr "甲板上的飞机"
+msgstr "甲板上的飞机数"
 
 msgid "IDS_SHIP_PARAM_HANGAR_SIZE"
 msgstr "甲板上的飞机数量"
@@ -122032,6 +122032,9 @@ msgstr "单次发射的水雷数"
 msgid "IDS_SHIP_PARAM_SEA_MINES_RELOAD_TIME"
 msgstr "装填时间"
 
+msgid "IDS_SHIP_PARAM_SEC_ARTILLERY_GUNS_COUNT"
+msgstr "中口径炮塔"
+
 msgid "IDS_SHIP_PARAM_SEC_MAIN_GUN"
 msgstr "中口径主炮"
 
@@ -122198,7 +122201,7 @@ msgid "IDS_SHIP_PARAM_SQUADRON_NUM_PLANES"
 msgstr "每支中队飞机数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_NUM_PLANES_AT_HANGAR"
-msgstr "甲板上的飞机"
+msgstr "甲板上的飞机数"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_PLANES_RESTORE_RATE"
 msgstr "飞机整备效率"
@@ -126104,7 +126107,7 @@ msgid "IDS_SUBST_SSE_MOTIVATOR_RESET_IN"
 msgstr "距离任务重置还剩：%(timeLeft)s"
 
 msgid "IDS_SUBST_SSE_STATUS_LOCKED_NEXTEPICNOTUNLOCKEDYET"
-msgstr "将于%(unlockTime)s后开放"
+msgstr "距离任务开放还有：%(unlockTime)s"
 
 msgid "IDS_SUBST_SSE_TIME_LEFT_LAST_DAY"
 msgstr "剩余时间：%(timeLeft)s"
@@ -126661,10 +126664,10 @@ msgid "IDS_SYS_MSG_CHANGE_NAME"
 msgstr "您的用户名已更改"
 
 msgid "IDS_SYS_MSG_CHAT_BAN_ADDED"
-msgstr "已禁言"
+msgstr "您已被禁言"
 
 msgid "IDS_SYS_MSG_CHAT_BAN_DROPPED"
-msgstr "聊天功能已解锁。您现在可以发送消息。"
+msgstr "您已被解除禁言"
 
 msgid "IDS_SYS_MSG_CHECK_ALL_ITEMS"
 msgstr "查看已获得的物品"
@@ -130142,7 +130145,7 @@ msgstr ""
 "在最大深度时，潜艇只会被敌方潜艇或对海搜索发现。"
 
 msgid "IDS_TOOLTIP_HANGARVOLUME"
-msgstr "甲板上的飞机"
+msgstr "甲板上的飞机数"
 
 msgid "IDS_TOOLTIP_HEALTH"
 msgstr "主要战舰参数之一。当生命值变为0时，战舰将被摧毁。"
