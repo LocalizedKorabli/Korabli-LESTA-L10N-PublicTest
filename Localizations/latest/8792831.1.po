@@ -42846,10 +42846,10 @@ msgstr ""
 "所有友军都被摧毁。"
 
 msgid "IDS_OP_09_PAYLOAD_HALF_HEALTH_TASK_END_F"
-msgstr "旗舰受到严重伤害。行动正面临失败！"
+msgstr "旗舰受到严重伤害。行动告急！"
 
 msgid "IDS_OP_09_START_CYCLONE"
-msgstr "在雷暴天气中，战舰的侦察范围和被侦察范围都将降低。主炮开火后被侦察范围增加的持续时间缩短至7秒。"
+msgstr "在雷暴天气中，战舰的侦察范围和被侦察范围都将缩小。主炮开火后被侦察范围增加的持续时间缩短至7秒。"
 
 msgid "IDS_OP_09_THIRD_READY"
 msgstr "发现敌方战列舰！"
