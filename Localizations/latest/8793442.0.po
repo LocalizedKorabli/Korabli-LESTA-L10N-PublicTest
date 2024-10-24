@@ -38251,16 +38251,16 @@ msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_3"
 msgstr "分支中所有战舰（包含配件）将被出售；"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_4"
-msgstr "任何未转换为全局经验的经验将转移到I级战舰。"
+msgstr "涂装、旗帜、信号旗和消耗型经济加成将被拆卸；"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_5"
-msgstr "涂装、旗帜、信号旗和消耗型经济加成将被拆卸。"
+msgstr "当您重新研发战舰时，之前已绑定的永久加成包和永久涂装将可继续使用；"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_6"
-msgstr "当您重新研发战舰时，已绑定的永久加成包和永久涂装将可继续使用。"
+msgstr "升级品将被免费拆卸；"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
-msgstr "指挥官将被调回预备队。"
+msgstr "指挥官将被调回预备队；"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
 msgstr "任何未转换为全局经验的经验将转移到I级战舰。"
