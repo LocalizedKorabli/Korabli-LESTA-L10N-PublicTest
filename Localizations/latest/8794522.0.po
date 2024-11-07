@@ -18801,7 +18801,7 @@ msgid "IDS_CREW_RANK_YUGOSLAVIA_9"
 msgstr "Admiral"
 
 msgid "IDS_CREW_REDISTRIBUTE_PERKS"
-msgstr "重新分配技能点"
+msgstr "重置技能"
 
 msgid "IDS_CREW_RETRAINING"
 msgstr "重新训练指挥官"
