@@ -2526,7 +2526,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR"
 msgstr "控制足够的领土，获得新年嘉年华活动的最终奖励。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR2025_FULL"
-msgstr "在“宅家过年”活动中装饰整个房间。"
+msgstr "在“新年客厅”活动中将整个房间装饰一新。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR_FULL"
 msgstr "在新年嘉年华活动中控制所有领土。"
@@ -3516,7 +3516,7 @@ msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR"
 msgstr "新年嘉年华"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR2025_FULL"
-msgstr "宅家过年"
+msgstr "新年客厅"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR_FULL"
 msgstr "新年嘉年华：海洋霸主"
@@ -19196,13 +19196,13 @@ msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
 msgstr "“我们的夏天”活动的临时资源。13.8版本更新后，代币将被无偿收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "通过在13.11版本结束前驾驶X级或超级战舰参加战斗，完成作战任务，达到高级通行证等级以及完成“宅家过年”活动的任务获得。"
+msgstr "通过在13.11版本结束前驾驶X级或超级战舰加入战斗获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "用于在13.11版本结束前于兵工厂“那年除夕”版块下“许愿码头”分页中获得丰厚的奖励。其中包括：超级巡洋舰皮埃蒙特、X级航空母舰信浓、X级潜艇射水鱼、X级巡洋舰北上、X级战列舰鲁杰罗•迪•劳里亚、X级巡洋舰波多黎各、IX级巡洋舰施罗德海军上将、VIII级战列舰大西洋、新年补给箱、高级新年补给箱以及其他资源。"
+msgstr "用于在13.11版本结束前于兵工厂兑换新年补给箱。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "临时资源。25.1版本更新后，证书将被自动兑换为同等数量的新年补给箱。"
+msgstr "临时资源。25.1版本更新后，证书将被无偿收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
 msgstr "进步代币"
@@ -21961,7 +21961,7 @@ msgstr "阻止敌舰使用消耗品。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY314_TURNAROUND_PVP"
 msgstr ""
-"立即使战舰调头并恢复2000生命值。\n"
+"立即使战舰掉头并恢复2000生命值。\n"
 "\n"
 "若我方剩余的战舰数量少于敌军，生命值恢复效果加倍。"
 
@@ -22011,7 +22011,7 @@ msgstr ""
 "任何增益效果都将持续到战斗结束。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY328_TURNAROUND_H2019"
-msgstr "缩短鱼雷发射管装填时间并使战舰瞬间调头"
+msgstr "缩短鱼雷发射管装填时间并使战舰瞬间掉头"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY329_IMMORTAL_H2019"
 msgstr "侦察范围减半并在被敌方发现前每秒恢复300点生命值。"
@@ -22589,7 +22589,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY412_INVISIBLEREGEN_H2020"
 msgstr "隐蔽修复"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY413_TURNAROUND_H2020"
-msgstr "调头"
+msgstr "掉头"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY414_BUFFSSHIFT_SHOTDELAY"
 msgstr "主要武器射速"
@@ -22628,10 +22628,10 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY508_CRASHCREW_FA2022"
 msgstr "呼呼创可贴"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY509_SPEEDBOOSTER_SMF2024"
-msgstr "冲刺"
+msgstr "引擎增压"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY510_TURNAROUND_SMF2024"
-msgstr "调头"
+msgstr "掉头"
 
 msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
 msgstr "生命值恢复"
@@ -28062,27 +28062,6 @@ msgstr "此为临时国家。战舰将在活动结束后被收回。"
 msgid "IDS_EVENT_SIDE_VICTORY_DAYS"
 msgstr "您所在的队伍获胜的天数"
 
-msgid "IDS_EVENT_SMF_EQUIPMENT_REVERSAL"
-msgstr "可使用“调头”"
-
-msgid "IDS_EVENT_SMF_FORSAGE_HIGH"
-msgstr "“冲刺”的作用时间较长"
-
-msgid "IDS_EVENT_SMF_FORSAGE_LOW"
-msgstr "“冲刺”的作用时间较短"
-
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_FAST_RELOAD"
-msgstr "波浪炮装填较快"
-
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_NARROW_AND_FAST"
-msgstr "高速窄波浪"
-
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_SLOW_RELOAD"
-msgstr "波浪炮装填较慢"
-
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_WIDE_AND_SLOW"
-msgstr "低速宽波浪"
-
 msgid "IDS_EVENT_TIME_TO_FREEZE"
 msgstr "距争霸赛阶段开始："
 
@@ -31031,7 +31010,7 @@ msgid "IDS_GO_TO_SSE_NEWBIE_QUESTS_MOUSE_INSTRUCTION"
 msgstr "前往教学任务界面"
 
 msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
-msgstr "前往“宅家过年”活动"
+msgstr "前往“新年客厅”活动"
 
 msgid "IDS_GO_TO_WAREHOUSE"
 msgstr "前往库存界面"
@@ -65341,7 +65320,7 @@ msgid "IDS_PCZC022_BISMARCK_MASHONA_DESCRIPTION"
 msgstr ""
 "HMS Mashona的徽章，一艘于1939年进入服役的Tribal级驱逐舰。该徽章描绘着南非马沙纳人的传奇图腾形象──津巴布韦鸟。\n"
 "\n"
-"1941年5月，HMS Mashona加入了一个大西洋船团的护卫舰队。5月24日，召回战舰来参加战列舰俾斯麦 的狩猎行动。HMS Mashona 和战列舰 Rodney 一直到5月27日都追在德国侵入者的后面，但因为缺乏燃料而不得不调头。隔天，它被派来帮助 俾斯麦 的德国俯冲轰炸机击沉。"
+"1941年5月，HMS Mashona加入了一个大西洋船团的护卫舰队。5月24日，召回战舰来参加战列舰俾斯麦 的狩猎行动。HMS Mashona 和战列舰 Rodney 一直到5月27日都追在德国侵入者的后面，但因为缺乏燃料而不得不掉头。隔天，它被派来帮助 俾斯麦 的德国俯冲轰炸机击沉。"
 
 msgid "IDS_PCZC023_BISMARCK_COSSACK"
 msgstr "HMS哥萨克人"
@@ -67138,7 +67117,7 @@ msgstr ""
 "\n"
 "USS 奥马哈在大西洋成功地捕获了德国的封锁穿甲舰，并于1944年火力支援了法国南部的盟军登陆。\n"
 "\n"
-"1943年3月，它的姐妹舰，USS 里士满，参加了白令海峡的科曼多尔海战，以一支小型美国中队大胆地攻击了一支强大的日本部队，并使其放弃任务调头离开。"
+"1943年3月，它的姐妹舰，USS 里士满，参加了白令海峡的科曼多尔海战，以一支小型美国中队大胆地攻击了一支强大的日本部队，并使其放弃任务掉头离开。"
 
 msgid "IDS_PCZC179_AA_SALT_LAKE_CITY"
 msgstr "科曼多尔群岛海战中的USS Salt Lake City，1943年"
@@ -107789,7 +107768,7 @@ msgid "IDS_PXUK163_FRANCE_H2020_C_DESC"
 msgstr ""
 "装备了：\n"
 "•隐蔽修复\n"
-"•调头"
+"•掉头"
 
 msgid "IDS_PXUK171_OLAND_H2020_A"
 msgstr "“水下”特殊配件"
@@ -117539,10 +117518,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT
 msgstr "V–VII级"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE"
-msgstr "“新年”补给箱"
+msgstr "“雪姑娘的馈赠”补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
-msgstr "新年"
+msgstr "雪姑娘的馈赠"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -117569,10 +117548,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_
 msgstr "V–VII级"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE"
-msgstr "“新年”高级补给箱"
+msgstr "“圣诞老人的礼物”高级补给箱"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
-msgstr "新年"
+msgstr "圣诞老人的礼物"
 
 msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
 msgstr "免费补给箱空位"
@@ -125108,18 +125087,6 @@ msgstr "Scrooge Nicholson"
 msgid "IDS_SOUND_MOD_SEAGAL"
 msgstr "Steven Seagal（英）"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
-msgstr "兔"
-
-msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_HARE"
-msgstr "兔'21"
-
-msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_WOLF"
-msgstr "狼'21"
-
-msgid "IDS_SOUND_MOD_SMF_SMF_WOLF"
-msgstr "狼"
-
 msgid "IDS_SOUND_MOD_SOVIET_8_MARCH"
 msgstr "Vera Mikhailova"
 
@@ -126520,7 +126487,7 @@ msgid "IDS_STRATEGIC_ACTIONS_BUTTON_TOOLTIP_MESSAGE"
 msgstr "查看信息"
 
 msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
-msgstr "宅家过年"
+msgstr "新年客厅"
 
 msgid "IDS_STRATEGIC_ACTIONS_COMPLETE_ALL_TASKS_COLON"
 msgstr "完成所有任务条件："
@@ -126562,7 +126529,7 @@ msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS_TOOLTIP_TITLE"
 msgstr "进度"
 
 msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
-msgstr "在13.11版本“宅家过年”活动期间生效"
+msgstr "在13.11版本“新年客厅”活动期间生效"
 
 msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING"
 msgstr "关于活动"
@@ -128129,7 +128096,7 @@ msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_BONUS"
 msgstr "获得奖励"
 
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
-msgstr "“宅家过年”活动奖励"
+msgstr "“新年客厅”活动奖励"
 
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARD_CLAIM"
 msgstr "活动奖励"
@@ -132311,7 +132278,7 @@ msgid "IDS_UNLOCKS_13"
 msgstr "指挥官技能可以帮助提升战舰当前的属性值以及获得新的能力。"
 
 msgid "IDS_UNLOCKS_14"
-msgstr "安装信号旗来提升您战舰的性能。"
+msgstr "点击安装特定稀有度的所有信号旗。若信号旗用尽，将自动更换为稀有度更低的信号旗。"
 
 msgid "IDS_UNLOCKS_15"
 msgstr "使用涂装和旗帜自定义您战舰的外观。"

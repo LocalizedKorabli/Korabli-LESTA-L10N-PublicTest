@@ -10,311 +10,60 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
-msgstr ""
-"您将可以在下一个阶段\n"
-"切换团队"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR2025_FULL"
+msgstr "在“宅家过年”活动中装饰整个房间。"
 
-msgid "IDS_ARC_EVENT_FINAL_STAT_TYPE_REWARDS"
-msgstr "已获得的奖励"
-
-msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARDS_LINK_TEXT"
-msgstr "代币奖励"
-
-msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_LINE_SUBHEADER_PERSONAL_POINTS"
-msgstr "进度积分"
-
-msgid "IDS_AUTOPURCHASE_TOOLTIP_DESCRIPTION_EXPENDABLE_SIGNAL"
-msgstr "进入战斗时，若您使用了某类型的最后一面普通信号旗，将自动购买该类型的普通信号旗。"
-
-msgid "IDS_AUTOPURCHASE_TOOLTIP_NO_INSTALLED_PURCHASABLE_ECONOMIC_BOOSTS"
-msgstr "未安装加成"
-
-msgid "IDS_AUTOPURCHASE_TOOLTIP_NO_INSTALLED_PURCHASABLE_SIGNAL"
-msgstr "未安装信号旗"
-
-msgid "IDS_BATTLE_CHALLENGES_DESCRIPTION"
-msgstr "通过拾蛋尽可能多地获得积分。"
-
-msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "新年证书"
+msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR2025_FULL"
+msgstr "宅家过年"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "通过在13.11版本结束前驾驶X级或超级战舰加入战斗获得。"
+msgstr "通过在13.11版本结束前驾驶X级或超级战舰参加战斗，完成作战任务，达到高级通行证等级以及完成“宅家过年”活动的任务获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "用于在13.11版本结束前于兵工厂兑换新年补给箱。"
+msgstr "用于在13.11版本结束前于兵工厂“那年除夕”版块下“许愿码头”分页中获得丰厚的奖励。其中包括：超级巡洋舰皮埃蒙特、X级航空母舰信浓、X级潜艇射水鱼、X级巡洋舰北上、X级战列舰鲁杰罗•迪•劳里亚、X级巡洋舰波多黎各、IX级巡洋舰施罗德海军上将、VIII级战列舰大西洋、新年补给箱、高级新年补给箱以及其他资源。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "临时资源。25.1版本更新后，证书将被无偿收回。"
-
-msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
-msgstr "进入战斗时，若您使用了某类型的最后一个普通或特殊加成，将自动购买相应的普通或特殊加成。"
-
-msgid "IDS_EVENTS"
-msgstr "拾蛋"
-
-msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_BOOSTS_PREINTSTALLING"
-msgstr "若加成用尽，将自动更换为稀有度更低的加成。"
+msgstr "临时资源。25.1版本更新后，证书将被自动兑换为同等数量的新年补给箱。"
 
 msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
-msgstr "前往“新年客厅”活动"
+msgstr "前往“宅家过年”活动"
 
 msgid "IDS_GUIDING_TIP_272_DESC"
 msgstr "是时候装饰房间迎接新年了：完成作战任务并获得奖励！"
 
-msgid "IDS_GUIDING_TIP_273_DESC"
-msgstr "每场战斗后都会更换一次作战任务。可以在活动页面查看任务清单。"
+msgid "IDS_PFSB510_DESCR"
+msgstr "20世纪30年代后期在收到关于待建德国战列舰的情报后作为回应而开发的一个项目，配备3座装有380毫米火炮的四联装炮塔。该项目的两艘战列舰计划于1941年被订购并铺设龙骨。该计划总共有四艘战列舰。若这艘战舰在战后完工，战列舰将配备当时最现代化的防空炮：美国长管127毫米火炮和新式57毫米ACAD炮座。"
 
-msgid "IDS_GUIDING_TIP_274_DESC"
-msgstr "领取您的奖励并继续装饰房间！"
-
-msgid "IDS_GUIDING_TIP_274_HEADER"
-msgstr "已装饰角落"
-
-msgid "IDS_GUIDING_TIP_276_DESC"
-msgstr "选定某个角落，查看进度、当前任务和奖励。"
-
-msgid "IDS_GUIDING_TIP_276_HEADER"
-msgstr "选定角落"
-
-msgid "IDS_GUIDING_TIP_277_DESC"
-msgstr "每个角落都有任务清单，每场战斗中只能完成其中一项。当前任务随每次战斗而改变。"
-
-msgid "IDS_GUIDING_TIP_278_DESC"
-msgstr "通过完成任务获得进度积分来装饰角落。"
-
-msgid "IDS_GUIDING_TIP_279_DESC"
-msgstr "角落完全装饰后，您可以领取奖励。"
-
-msgid "IDS_GUIDING_TIP_282_DESC"
-msgstr "点击安装特定稀有度的所有信号旗。若信号旗用尽，将自动更换为稀有度更低的信号旗。"
-
-msgid "IDS_GUIDING_TIP_30_DESC"
-msgstr "点击安装特定稀有度的所有经济加成。若经济加成用尽，将自动更换为稀有度更低的经济加成。"
-
-msgid "IDS_GUIDING_TIP_95_DESC"
-msgstr "点击安装特定稀有度的所有经济加成。若经济加成用尽，将自动更换为稀有度更低的经济加成。"
-
-msgid "IDS_HELP_CAPTURE_CONTROL"
-msgstr "占领进程正被敌军牵制"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "“三国演义”是一项分四个阶段进行的三队竞赛。每个阶段持续一周。"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
-msgstr "奖励"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "参与即可获得三国代币和独特奖励，奖励内容取决于您在当前阶段所加入的团队。下阶段开始时，您可以更换团队以获取其他奖励。"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "此外，您还可以获得参与活动的纪念成就。"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_HEADER"
-msgstr "参与条件"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "通过用V级及更高等级的战舰参加联合作战、随机战、排位战以及行动来参与活动。"
-
-msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "通过在奖励战舰上获得更多基础经验，您还可以在不加入战斗的情况下领取其他战舰的奖励。"
-
-msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "您港口中的战舰越多，一场战斗可领取的奖励数量就越多。"
-
-msgid "IDS_PAPT059_MK_17_J_HUMP"
-msgstr "Mk17 mod. 1"
-
-msgid "IDS_PARAMS_MODIFIER_AAEXTRABUBBLES"
-msgstr "防空齐射炮弹爆炸数"
-
-msgid "IDS_PARAMS_MODIFIER_GMALPHAFACTOR"
-msgstr "主炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GMDAMAGECOEFF"
-msgstr "主炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
-msgstr "中口径主炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR"
-msgstr "副炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_AIRCARRIER"
-msgstr "副炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_BATTLESHIP"
-msgstr "副炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_CRUISER"
-msgstr "副炮炮弹伤害"
-
-msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_DESTROYER"
-msgstr "副炮炮弹伤害"
-
-msgid "IDS_PJAD510_SHINANO_STOCK"
-msgstr "愛知B7A“流星”"
-
-msgid "IDS_PJAF510_SHINANO_STOCK"
-msgstr "三菱A7M“烈風”"
-
-msgid "IDS_PJPB510_SHINANO_STOCK"
-msgstr "Type 99 No. 80 Mk. 5"
-
-msgid "IDS_PJUD907_DB_SHINANO"
-msgstr "愛知B7A“流星”"
-
-msgid "IDS_RENT_STATUS_TIME_LEFT"
-msgstr "距离租用期结束还剩：%(_timeLeft)s"
-
-msgid "IDS_REWARD_CREDITSCOEFF_TITLE"
-msgstr "新年银币加成"
-
-msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "新年证书"
-
-msgid "IDS_REWARD_STRATEGIC_POINTS_TITLE"
-msgstr "进度积分"
-
-msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "絮库夫：已完工"
-
-msgid "IDS_SHIP_MODIFIER_PXOM009_GMALPHA_H2020_APPLIED"
-msgstr "主炮、波浪炮和激光武器伤害提升"
-
-msgid "IDS_SHIP_MODIFIER_PXOM022_GSALPHA_H2020_APPLIED"
-msgstr "副炮炮弹伤害提升"
-
-msgid "IDS_SHIP_PARAM_WAVE_GUN_MAX_DIST"
-msgstr "波浪最大射程"
-
-msgid "IDS_SHIP_PARAM_WAVE_GUN_SPEED"
-msgstr "波浪速度"
-
-msgid "IDS_SIGNALS_TOOLTIP_INFO_TEXT"
+msgid "IDS_PISS508_DESCR"
 msgstr ""
-"信号旗在军团战和战斗训练中不会消耗。\n"
-"\n"
-"若信号旗用尽，将自动更换为稀有度更低的信号旗。"
+"马尔切洛级潜艇是绿灰色级潜艇的改进型，这些潜艇原本是由葡萄牙订购的，但因合同终止而归入意大利海军。该级潜艇非常成功，她们在机动性、航速和武器数量上表现出色，因此一共订购了11艘。她们为单壳体潜艇，具有侧面浮筒。按照意大利的分类，她们属于“大型巡洋”（亦称“远洋”）潜艇。\n"
+"贾科莫•纳尼在蒙法尔克的亚得里亚海联合造船厂建造，1938年9月加入意大利海军，隶属于第二潜艇编队。第二次世界大战开始后，纳尼进行了三次地中海巡逻，但都没能获得战果，随后于1940年秋季被调往大西洋。在第四次巡逻中，她击沉了一艘瑞典煤炭运输船。贾科莫•纳尼在1941年1月初的第五次巡逻中失踪。"
 
-msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_MAIN_SHORT"
-msgstr "主炮炮弹伤害"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE"
+msgstr "“新年”补给箱"
 
-msgid "IDS_STRATEGIC_ACTIONS_BANNER_TEXT_TERRITORY"
-msgstr "选定角落"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
+msgstr "新年"
 
-msgid "IDS_STRATEGIC_ACTIONS_BUTTON_TOOLTIP_MESSAGE"
-msgstr "查看信息"
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE"
+msgstr "“新年”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
+msgstr "新年"
+
+msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_MAIN_CALIBER_FULL"
+msgstr "尽可能多地获得“主炮命中”勋带"
 
 msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
-msgstr "新年客厅"
+msgstr "宅家过年"
 
-msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS"
-msgstr "进度积分"
-
-msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS_TOOLTIP_TEXT"
-msgstr "通过完成作战任务获得进度积分来装饰角落。"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING"
-msgstr "关于活动"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_0"
-msgstr "通过完成作战任务，装饰每个角落以迎接新年。"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_1"
-msgstr "每个角落的装饰分为3个进度阶段。"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_2"
-msgstr "装饰每个角落都可获得奖励，装饰整个房间后将获得最终奖励！"
-
-msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TITLE_1"
-msgstr "角落"
-
-msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
-msgstr "查看角落"
-
-msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
-msgstr "装饰角落数"
-
-msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
-msgstr "感谢您的辛勤劳动！"
-
-msgid "IDS_STRATEGIC_ACTIONS_STATUS_TASK"
-msgstr "您可以完成其他角落的作战任务并获得奖励。"
-
-msgid "IDS_STRATEGIC_ACTIONS_STATUS_TERRITORY"
-msgstr "选定一个角落以开始接收任务"
-
-msgid "IDS_STRATEGIC_ACTIONS_TASK"
-msgstr "任务"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_ACTIVE_TASK_COLON"
-msgstr "当前任务："
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_ACTIVE_TASK_TOOLTIP_TEXT"
-msgstr "每个角落都有任务清单，每场战斗中只能完成其中一项。当前任务随每次战斗而改变。"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_AVAILABLE"
-msgstr "选定角落"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_LOCKED"
-msgstr "需要先装饰相邻的角落"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_MARKER_TOOLTIP_STATUS_LOCKED"
-msgstr "不可选定，需要先装饰相邻的角落。"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TITLE"
-msgstr "装饰角落的奖励"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
-msgstr "角落奖励"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SCORE"
-msgstr "进度积分"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
-msgstr "已选定的角落"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_LIST"
-msgstr "角落任务"
-
-msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_LIST_TITLE"
-msgstr "任务"
-
-msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_PROGRESSBAR_TITLE"
-msgstr "距离下一个奖励"
-
-msgid "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
-msgid_plural "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
-msgstr[0] "需要装饰%(_count)s个角落"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "已购买新年证书"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "已获得新年证书"
-
-msgid "IDS_SYS_MSG_RECEIVED_STRATEGIC_POINTS"
-msgstr "已获得进度积分"
+msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
+msgstr "在13.11版本“宅家过年”活动期间生效"
 
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
-msgstr "“新年客厅”活动奖励"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "新年证书已移除"
-
-msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL"
-msgstr "准备迎接新年"
-
-msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL"
-msgstr "亚历山大•哈里托诺夫"
-
-msgid "IDS_TOOLTIP_WAVE_GUN_MAX_DIST"
-msgstr "波浪传播的最远距离。"
+msgstr "“宅家过年”活动奖励"
 
 msgid "IDS_UNLOCKS_14"
-msgstr "点击安装特定稀有度的所有信号旗。若信号旗用尽，将自动更换为稀有度更低的信号旗。"
+msgstr "安装信号旗来提升您战舰的性能。"
