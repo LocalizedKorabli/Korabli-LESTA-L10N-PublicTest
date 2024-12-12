@@ -276,13 +276,13 @@ msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION"
 msgstr "显示%(_nationName)s指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
-msgstr "%(_nationName)s指挥官不可用"
+msgstr "没有符合条件的%(_nationName)s指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
 msgstr "显示无国籍指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION_NOT_AVAILABLE"
-msgstr "无国籍指挥官不可用"
+msgstr "没有符合条件的无国籍指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
 msgstr "显示稀有指挥官"
@@ -294,19 +294,19 @@ msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
 msgstr "显示精英指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
-msgstr "稀有指挥官不可用"
+msgstr "没有符合条件的稀有指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
-msgstr "普通指挥官不可用"
+msgstr "没有符合条件的普通指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
-msgstr "精英指挥官不可用"
+msgstr "没有符合条件的精英指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
-msgstr "特别指挥官不可用"
+msgstr "没有符合条件的特别指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
-msgstr "传奇指挥官不可用"
+msgstr "没有符合条件的传奇指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
 msgstr "显示特别指挥官"
@@ -731,7 +731,7 @@ msgid "IDS_PCVT001_DAMAGE_PRIME_GOAL"
 msgstr "尽可能多地对敌舰造成伤害。"
 
 msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
-msgstr "火力"
+msgstr "试炼：火力"
 
 msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
 msgstr "对敌舰造成伤害。"
@@ -752,7 +752,7 @@ msgid "IDS_PCVT002_CITADEL_PRIME_GOAL"
 msgstr "尽可能多地命中敌舰的核心区。"
 
 msgid "IDS_PCVT002_CITADEL_PRIME_NAME"
-msgstr "精度"
+msgstr "试炼：精度"
 
 msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
 msgstr "命中敌舰的核心区。"
@@ -773,7 +773,7 @@ msgid "IDS_PCVT003_FRAGS_PRIME_GOAL"
 msgstr "尽可能多地摧毁敌舰。"
 
 msgid "IDS_PCVT003_FRAGS_PRIME_NAME"
-msgstr "歼灭"
+msgstr "试炼：歼灭"
 
 msgid "IDS_PCVT003_FRAGS_PRIME_TASK_DESCR"
 msgstr "摧毁敌舰。"
@@ -963,7 +963,7 @@ msgid "IDS_PRPT087_SOVREMENNY"
 msgstr "53-39 mod. 5"
 
 msgid "IDS_PRSB526"
-msgstr "绝密"
+msgstr "秘辛"
 
 msgid "IDS_PRSB526_DESCR"
 msgstr ""
@@ -976,7 +976,7 @@ msgstr ""
 "看起来挺合理的，但又不那么合理。"
 
 msgid "IDS_PRSB526_FULL"
-msgstr "绝密"
+msgstr "秘辛"
 
 msgid "IDS_PRSB526_NUMBER"
 msgstr "1"
@@ -1183,7 +1183,7 @@ msgid "IDS_PRUE924_D10_ENG_STOCK"
 msgstr "推进系统：76000马力"
 
 msgid "IDS_PRUH516_HULL_TOP_SECRET"
-msgstr "绝密"
+msgstr "秘辛"
 
 msgid "IDS_PRUH517_D6_HULL_STOCK"
 msgstr "灵敏"
