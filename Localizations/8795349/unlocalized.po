@@ -1357,7 +1357,7 @@ msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_3TYPE_RIBBONS_TITLE"
 msgstr "Получите ленты"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
-msgstr "Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захватил точку» или «Помог захватить»."
+msgstr "Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_TITLE"
 msgstr "Получите ленты"
@@ -2120,9 +2120,6 @@ msgstr "Собрать коллекцию «Путь победителей»."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_USABB_0910_COMPLETED"
 msgstr "Собрать коллекцию «Всегда бесстрашны!»."
-
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_UTOPIA_COMPLETED"
-msgstr "Собрать коллекцию Utopia Show."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_WOWSBD6_COMPLETED"
 msgstr "Собрать коллекцию «Шестой день рождения игры»."
@@ -3004,9 +3001,6 @@ msgstr "Путь победителей"
 msgid "IDS_ACHIEVEMENT_FILLALBUM_USABB_0910_COMPLETED"
 msgstr "Всегда бесстрашны!"
 
-msgid "IDS_ACHIEVEMENT_FILLALBUM_UTOPIA_COMPLETED"
-msgstr "Utopia Show"
-
 msgid "IDS_ACHIEVEMENT_FILLALBUM_WOWSBD6_COMPLETED"
 msgstr "Шестой день рождения игры"
 
@@ -3416,7 +3410,7 @@ msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_RUSY_VS_LIZARDS_ASYMM_BATTLE"
 msgstr "Выполняется в событии «Русы против ящеров»."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_SMF"
-msgstr "Выполняется в «Ну, погоди!»."
+msgstr "Выполняется в «Ловля яиц»."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_TEAM_BATTLE_ROYALE"
 msgstr "Выполняется в Диком бою."
@@ -3883,6 +3877,27 @@ msgstr "Орудия ПВО выведены из строя."
 msgid "IDS_ACTION_LOG_AIR_DEFENSE_DESTRUCTED"
 msgstr "Орудия ПВО уничтожены."
 
+msgid "IDS_ACTION_LOG_ALL_AIR_DEFENSE_DESTRUCTED"
+msgstr "Все орудия ПВО уничтожены."
+
+msgid "IDS_ACTION_LOG_ALL_AIR_DESTRUCTED"
+msgstr "Все орудия ПВО уничтожены."
+
+msgid "IDS_ACTION_LOG_ALL_ATBA_DESTRUCTED"
+msgstr "Вспомогательный калибр полностью уничтожен."
+
+msgid "IDS_ACTION_LOG_ALL_ATBA_GUN_DESTRUCTED"
+msgstr "Вспомогательный калибр полностью уничтожен."
+
+msgid "IDS_ACTION_LOG_ALL_MAIN_CALIBER_DESTRUCTED"
+msgstr "Главный калибр полностью уничтожен."
+
+msgid "IDS_ACTION_LOG_ALL_TORPEDO_DESTRUCTED"
+msgstr "Все торпедные аппараты уничтожены."
+
+msgid "IDS_ACTION_LOG_ALL_TORPEDO_TUBE_DESTRUCTED"
+msgstr "Все торпедные аппараты уничтожены."
+
 msgid "IDS_ACTION_LOG_ARTILLERY_ALERT"
 msgstr "По кораблю произведён залп!"
 
@@ -3895,6 +3910,9 @@ msgstr "Башня ГК уничтожена."
 msgid "IDS_ACTION_LOG_ARTILLERY_GUN_CRIT"
 msgstr "Башня ГК выведена из строя."
 
+msgid "IDS_ACTION_LOG_ARTILLERY_GUN_DESTRUCTED"
+msgstr "Башня ГК уничтожена."
+
 msgid "IDS_ACTION_LOG_ATBA_CRIT"
 msgstr "Вспомогательный калибр выведен из строя."
 
@@ -3903,6 +3921,9 @@ msgstr "Вспомогательный калибр уничтожен."
 
 msgid "IDS_ACTION_LOG_ATBA_GUN_CRIT"
 msgstr "Вспомогательный калибр выведен из строя."
+
+msgid "IDS_ACTION_LOG_ATBA_GUN_DESTRUCTED"
+msgstr "Вспомогательный калибр уничтожен."
 
 msgid "IDS_ACTION_LOG_AVIATION_CRIT"
 msgstr "Авиация выведена из строя."
@@ -3921,6 +3942,9 @@ msgstr "Двигатель повреждён."
 
 msgid "IDS_ACTION_LOG_ENGINE_DESTRUCTED"
 msgstr "Двигатель выведен из строя."
+
+msgid "IDS_ACTION_LOG_FAR_AURA_DESTRUCTED"
+msgstr "Орудия ПВО крупного калибра уничтожены."
 
 msgid "IDS_ACTION_LOG_HANGAR_CRIT"
 msgstr "Самолётный ангар выведен из строя."
@@ -3943,17 +3967,35 @@ msgstr "Корабль атакован!"
 msgid "IDS_ACTION_LOG_MEDIUM_DAMAGE_LEVEL"
 msgstr "Тяжёлые повреждения!"
 
+msgid "IDS_ACTION_LOG_MID_AURA_DESTRUCTED"
+msgstr "Орудия ПВО среднего калибра уничтожены."
+
+msgid "IDS_ACTION_LOG_NEAR_AURA_DESTRUCTED"
+msgstr "Орудия ПВО малого калибра уничтожены."
+
 msgid "IDS_ACTION_LOG_OBSERVATION_CRIT"
 msgstr "Система обнаружения выведена из строя."
 
 msgid "IDS_ACTION_LOG_OBSERVATION_DESTRUCTED"
 msgstr "Система обнаружения уничтожена."
 
+msgid "IDS_ACTION_LOG_PORT_ATBA_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра левого борта уничтожены."
+
+msgid "IDS_ACTION_LOG_PORT_ATBA_GUN_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра левого борта уничтожены."
+
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_CRIT"
 msgstr "Погреб боеприпасов выведен из строя."
 
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_DAMAGED"
 msgstr "Погреб боеприпасов повреждён."
+
+msgid "IDS_ACTION_LOG_STAR_ATBA_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра правого борта уничтожены."
+
+msgid "IDS_ACTION_LOG_STAR_ATBA_GUN_DESTRUCTED"
+msgstr "Орудия вспомогательного калибра правого борта уничтожены."
 
 msgid "IDS_ACTION_LOG_STEERING_GEAR_CRIT"
 msgstr "Рулевая машина повреждена."
@@ -3978,6 +4020,9 @@ msgstr "Торпеды справа по борту!"
 
 msgid "IDS_ACTION_LOG_TORPEDO_TUBE_CRIT"
 msgstr "Торпедное вооружение выведено из строя."
+
+msgid "IDS_ACTION_LOG_TORPEDO_TUBE_DESTRUCTED"
+msgstr "Торпедный аппарат уничтожен."
 
 msgid "IDS_ACTIVATE_RAGE_MODE"
 msgstr "Боевые инструкции"
@@ -4299,9 +4344,6 @@ msgstr "Авианосец обнаружен кораблём противни�
 
 msgid "IDS_AIRCARRIER_LOG_FEEDBACK_SPOTTED_BY_XRAY"
 msgstr "Авианосец обнаружен кораблём противника!"
-
-msgid "IDS_AIRCARRIER_PL_GENITIVE"
-msgstr "авианосцев"
 
 msgid "IDS_AIRCRAFT"
 msgstr "Самолёты"
@@ -4737,9 +4779,6 @@ msgstr "Все достижения"
 msgid "IDS_ALL_ACHIEVEMENTS_EARNED"
 msgstr "Вы получили все доступные на данный момент достижения"
 
-msgid "IDS_ALL_CREW_BUTTON"
-msgstr "ВСЕ КОМАНДИРЫ"
-
 msgid "IDS_ALL_ENEMIES_FROZEN"
 msgstr "Корабли противника выведены из строя."
 
@@ -5055,9 +5094,6 @@ msgstr "Названия всех кораблей этой команды в�
 msgid "IDS_ARC_EVENT_COMMON_SIDE_NONE"
 msgstr "None"
 
-msgid "IDS_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
-msgstr "Задачи завершены"
-
 msgid "IDS_ARC_EVENT_COMMON_STATUS_CALCULATING_EVENT_RESULTS"
 msgstr "Идёт подсчёт результатов"
 
@@ -5066,9 +5102,6 @@ msgstr "Выберите команду"
 
 msgid "IDS_ARC_EVENT_COMMON_STATUS_EVENT_FINISHED"
 msgstr "Событие завершено"
-
-msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
-msgstr "До начала: %(_timeStart)s"
 
 msgid "IDS_ARC_EVENT_CONFIRM_SIDE_CALL_TO_ACTION"
 msgstr "Выбрать?"
@@ -5268,13 +5301,6 @@ msgstr "К экрану события «Троецарствие»"
 
 msgid "IDS_ARC_EVENT_PORT_NOTIFICATION_CHOOSE_SIDE"
 msgstr "Вы вступили в команду %(_sideName)s"
-
-msgid "IDS_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
-msgstr "Все награды получены"
-
-msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
-msgstr[0] "До награды: %(_pointsNext)s очко"
 
 msgid "IDS_ARC_EVENT_PORT_TOOLTIP_NEXT_REWARD"
 msgstr "Следующая награда"
@@ -5560,6 +5586,9 @@ msgstr "Назначить на корабль"
 msgid "IDS_ASSIGN_CREW"
 msgstr "Назначить командира"
 
+msgid "IDS_ASSIGN_CREW_DENY_REASON_CREW_DEMOBILIZATION"
+msgstr "Отмените демобилизацию для назначения командира на корабль."
+
 msgid "IDS_ASSIGN_CREW_DENY_REASON_CURRENT_SHIP_IN_BATTLE"
 msgstr "Дождитесь возвращения командира из боя для назначения на корабль."
 
@@ -5572,11 +5601,14 @@ msgstr "Дождитесь возвращения корабля из боя д
 msgid "IDS_ASSIGN_CREW_DENY_REASON_TARGET_SHIP_IN_FORMATION"
 msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для назначения командира на корабль."
 
+msgid "IDS_ASSIGN_CREW_FULL_BARRACKS"
+msgstr "В Резерве нет свободных мест."
+
 msgid "IDS_ASSIGN_CREW_HEADER"
 msgstr "Назначение командира"
 
 msgid "IDS_ASSIGN_NEW_CREW_DISABLE_REASON_FULL_BARRACKS"
-msgstr "В резерве не осталось мест. Демобилизуйте командиров в резерве."
+msgstr "В Резерве нет свободных мест. Увеличьте Резерв или демобилизуйте командиров в Резерве."
 
 msgid "IDS_ASSIGN_OR_RECRUIT_CREW_MOUSE_INSTRUCTION"
 msgstr "Назначить или рекрутировать командира"
@@ -6420,11 +6452,14 @@ msgstr "Балбес"
 msgid "IDS_BANNED_FOR_CHAT_SPAM"
 msgstr "Вы слишком часто отправляете сообщения в чат."
 
+msgid "IDS_BARRACKS_LIST_TITLE"
+msgstr "Резерв"
+
 msgid "IDS_BARRACKS_LIST_TITLE_COLON"
 msgstr "Резерв:"
 
 msgid "IDS_BARRACK_IS_FULL"
-msgstr "В резерве нет места"
+msgstr "В Резерве нет места"
 
 msgid "IDS_BASE_CAPTURE_POINTS"
 msgstr "Участие в захвате"
@@ -6631,9 +6666,6 @@ msgstr "Награды Улучшенного пропуска за уже до
 msgid "IDS_BATTLEPASS_FAST_REWARDS_SALE_TEXT_COLON"
 msgstr "Награды за приобретение Улучшенного пропуска:"
 
-msgid "IDS_BATTLEPASS_IMPROVED_ACTIVE_STATUS"
-msgstr "Действуют бонусы Боевого пропуска"
-
 msgid "IDS_BATTLEPASS_INFO_TEXT_0"
 msgstr "О Боевом пропуске"
 
@@ -6756,7 +6788,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
 msgstr "Ежедневный бонус за победу"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
-msgstr "Можно получить красных конвертов"
+msgstr "Можно получить жетонов прогресса"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_MODERNIZATION_DISMOUNT"
 msgstr "Демонтаж модернизаций"
@@ -6935,9 +6967,6 @@ msgstr "Уничтожение кораблей противника огнём 
 
 msgid "IDS_BATTLESHIP_LEGENDARY"
 msgstr "Суперлинкор"
-
-msgid "IDS_BATTLESHIP_PL_GENITIVE"
-msgstr "линкоров"
 
 msgid "IDS_BATTLESTATS_SHIP_REWARD_DESC"
 msgstr "Уничтожение кораблей противника:"
@@ -7792,9 +7821,6 @@ msgstr "Итоговая сумма дублонов"
 msgid "IDS_BATTLE_STATS_TO_GO_TO_DOCK"
 msgstr "для выхода в Порт."
 
-msgid "IDS_BATTLE_STATS_TRIAL_ROUNDS_PASSED"
-msgstr "Пройдено этапов: %(successRoundsCount)s/%(totalRoundsCount)s"
-
 msgid "IDS_BATTLE_STATS_WARNING_ICON_HINT"
 msgstr "Внимание! Выполнено в неполном объёме."
 
@@ -8277,74 +8303,8 @@ msgstr "Получите не менее 6 лент «Сбил самолёт�
 msgid "IDS_BATTLE_TASK_TEXT_PCOI024"
 msgstr "Получите не менее 3 лент «Сбил самолёт» и «Сбил истребителем»."
 
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_1"
-msgstr "2-я стадия начнётся через:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_2"
-msgstr "3-я стадия начнётся через:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_3"
-msgstr "4-я стадия начнётся через:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_4"
-msgstr "5-я стадия начнётся через:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_5"
-msgstr "6-я стадия начнётся через:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_6"
-msgstr "7-я стадия не начнётся через:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_1"
-msgstr "Стадия 1. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_2"
-msgstr "Стадия 2. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_3"
-msgstr "Стадия 3. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_4"
-msgstr "Стадия 4. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_5"
-msgstr "Стадия 5. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_6"
-msgstr "Стадия 6. Наносите урон:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_1"
-msgstr "1-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_2"
-msgstr "2-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_3"
-msgstr "3-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_4"
-msgstr "4-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_5"
-msgstr "5-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_6"
-msgstr "6-я стадия:"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_1"
-msgstr "Первый этап: нанесите 20 000 ед. урона"
-
-msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_2"
-msgstr "Второй этап: нанесите 40 000 ед. урона"
-
 msgid "IDS_BATTLE_TIPS"
 msgstr "Подсказки"
-
-msgid "IDS_BATTLE_TRIALS_DESCRIPTION"
-msgstr "Наберите как можно больше очков."
-
-msgid "IDS_BATTLE_TRIALS_TITLE"
-msgstr "Учебные испытания"
 
 msgid "IDS_BECAME_TEAMKILLER"
 msgstr "получил наказание за неспортивное поведение"
@@ -8441,9 +8401,6 @@ msgstr "Праздничная награда"
 
 msgid "IDS_BONUSTAG_SUBHEADER"
 msgstr "Бонус за боевые результаты"
-
-msgid "IDS_BONUS_SCORES"
-msgstr "Бонусные очки"
 
 msgid "IDS_BONUS_TAG_EXPIRATION_DATE"
 msgstr "Дата списания бонуса: %(_date)s"
@@ -8631,9 +8588,6 @@ msgstr "..."
 msgid "IDS_BRUNO_BATTAGLIA"
 msgstr "Bruno Battaglia"
 
-msgid "IDS_BUFF_ACTIVE_IN_BATTLE"
-msgstr "Активируется в бою"
-
 msgid "IDS_BUFF_NEGATIVE"
 msgstr "Негативный эффект"
 
@@ -8678,9 +8632,6 @@ msgstr "Станция"
 
 msgid "IDS_BULGE"
 msgstr "Бортовая обшивка"
-
-msgid "IDS_BULLET"
-msgstr "•"
 
 msgid "IDS_BUMBLEBEE"
 msgstr "Бамблби"
@@ -8785,7 +8736,9 @@ msgid "IDS_CALL_PLAYERS_NAME"
 msgstr "Обратиться к игроку по имени"
 
 msgid "IDS_CALL_TO_ACTION_BANNER_TEXT"
-msgstr "Награда за бой!"
+msgstr ""
+"Выйдите в бой —\n"
+"получите награду!"
 
 msgid "IDS_CAMERACONTROLS"
 msgstr "Управление камерой"
@@ -8893,7 +8846,7 @@ msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
 msgstr "Отображение камуфляжей «Развлекательный контент» отключено"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
-msgstr "Отображение камуфляжей «Ну, погоди!» отключено"
+msgstr "Отображение камуфляжей «Ловля яиц» отключено"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
 msgstr "Отображение камуфляжей «Хэллоуин» отключено"
@@ -8979,8 +8932,8 @@ msgstr "Начинается в %(date)s"
 msgid "IDS_CANCEL"
 msgstr "Отмена"
 
-msgid "IDS_CANCEL_ACTION"
-msgstr "Отменить"
+msgid "IDS_CANCEL_DEMOBILIZATION"
+msgstr "Отменить демобилизацию"
 
 msgid "IDS_CANCEL_ORGANIZER_SEARCH"
 msgstr "Отменить поиск"
@@ -9127,7 +9080,7 @@ msgid "IDS_CAROUSEL_PCVE027_FILTER"
 msgstr "Фильтр кораблей, подходящих для участия в Эпохе броненосцев"
 
 msgid "IDS_CAROUSEL_PCVE028_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в «Ну, погоди!»"
+msgstr "Фильтр кораблей, подходящих для участия в «Ловля яиц»"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "Фильтр кораблей, подходящих для выполнения выбранной Операции"
@@ -9773,7 +9726,7 @@ msgid "IDS_CHOOSE_EVENTBATTLE_PCVE027"
 msgstr "Выбрать Эпоху броненосцев"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE028"
-msgstr "Выбрать «Ну, погоди!»"
+msgstr "Выбрать «Ловля яиц»"
 
 msgid "IDS_CHOOSE_MODERNIZATION"
 msgstr "Выберите модернизацию"
@@ -9854,9 +9807,6 @@ msgstr[0] ""
 
 msgid "IDS_CHOOSE_TRAININGBATTLE"
 msgstr "Выбрать Тренировочный бой"
-
-msgid "IDS_CHOOSE_TRIAL"
-msgstr "Перейти к выбору испытания"
 
 msgid "IDS_CHOOSE_WOWS_NAME"
 msgstr ""
@@ -10973,9 +10923,6 @@ msgstr "Защищайте базу!"
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_BUILDING"
 msgstr "Прикройте %s!"
 
-msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_MINEFIELD"
-msgstr "Установлено союзное минное заграждение"
-
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIRSHIP"
 msgstr "Сопровождайте союзный дирижабль!"
 
@@ -11075,9 +11022,6 @@ msgstr "Подавить цель %s!"
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_KEY_OBJECT"
 msgstr "Нужны координаты %(player)s!"
 
-msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_MINEFIELD"
-msgstr "Остерегайтесь минного заграждения противника"
-
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIRSHIP"
 msgstr "Задержите дирижабль противника!"
 
@@ -11170,9 +11114,6 @@ msgstr "База!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_BUILDING"
 msgstr "%s!"
-
-msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_MINEFIELD"
-msgstr "Союзное минное заграждение"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIRSHIP"
 msgstr "Сопровождайте союзный дирижабль!"
@@ -11267,9 +11208,6 @@ msgstr "%s!"
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_KEY_OBJECT"
 msgstr "Разведка!"
 
-msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_MINEFIELD"
-msgstr "Минное заграждение противника"
-
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIRSHIP"
 msgstr "Задержите дирижабль противника!"
 
@@ -11356,9 +11294,6 @@ msgstr "База!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_BUILDING"
 msgstr "%s!"
-
-msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_MINEFIELD"
-msgstr "Союзное минное заграждение"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIRSHIP"
 msgstr "Сопровождайте союзный дирижабль!"
@@ -11452,9 +11387,6 @@ msgstr "%s!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_KEY_OBJECT"
 msgstr "Нужна разведка!"
-
-msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_MINEFIELD"
-msgstr "Минное заграждение противника"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIRSHIP"
 msgstr "Задержите дирижабль противника!"
@@ -11909,9 +11841,6 @@ msgstr "%(_firstName)s %(_lastName)s"
 msgid "IDS_COMMON_MOUNTED"
 msgstr "Установлено"
 
-msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
-msgstr "Без нации"
-
 msgid "IDS_COMMON_PRICE_FOR_ALL_FREE_EXP"
 msgstr "Стоимость перевода опыта со всех кораблей:"
 
@@ -11988,9 +11917,6 @@ msgstr "John Duncan Morefield"
 msgid "IDS_CONCRETE_SHIPS_HEADER"
 msgstr "Допускаются только определённые корабли."
 
-msgid "IDS_CONDITIONS"
-msgstr "Условия участия"
-
 msgid "IDS_CONDITION_DAMAGE"
 msgstr "Получите %s%s %s за нанесение %s %s."
 
@@ -12050,9 +11976,6 @@ msgstr "Наблюдать за боем"
 
 msgid "IDS_CONGRATULATIONS_FIRST_RANK"
 msgstr "Поздравляем!"
-
-msgid "IDS_CONSPIROLOGIST"
-msgstr "Дункан Ч."
 
 msgid "IDS_CONSTRSIDE"
 msgstr "Обшивка"
@@ -12195,7 +12118,7 @@ msgid "IDS_CONTEXT_BATTLE_AGAINST_SUBMARINE_HINT"
 msgstr "Обнаружив подводную лодку на глубине, используйте для её уничтожения глубинные бомбы."
 
 msgid "IDS_CONTEXT_BUTTON_STATUS_CREW_HAS_RESTRICTION_ON_BARRACKS"
-msgstr "Этого командира нельзя отправить в резерв"
+msgstr "Этого командира нельзя отправить в Резерв"
 
 msgid "IDS_CONTEXT_BUTTON_STATUS_CREW_HAS_RESTRICTION_ON_LEARN_SKILL"
 msgstr "Навыки этого командира недоступны"
@@ -13308,6 +13231,12 @@ msgstr "Назначен на:"
 
 msgid "IDS_CREW_ASSIGN_SHIP_TEXT"
 msgstr "Назначить командира на корабль"
+
+msgid "IDS_CREW_BASKET_DESCRIPTION"
+msgid_plural "IDS_CREW_BASKET_DESCRIPTION"
+msgstr[0] ""
+"Демобилизацию можно отменить в течение %(minutes)s минуты.\n"
+"Отмена демобилизации происходит в списке командиров в Резерве."
 
 msgid "IDS_CREW_CAN_NOT_BE_DEMOBOLIZED"
 msgstr "Этого командира нельзя демобилизовать"
@@ -15632,7 +15561,7 @@ msgid "IDS_CREW_HIRE_CREW_DESCRIPTION_0"
 msgstr "Навыки командира открывают новые возможности и улучшают характеристики корабля."
 
 msgid "IDS_CREW_HIRE_CREW_DESCRIPTION_1"
-msgstr "Назначьте командира из резерва, с другого корабля или рекрутируйте нового."
+msgstr "Назначьте командира из Резерва, с другого корабля или рекрутируйте нового."
 
 msgid "IDS_CREW_HIRE_LAST_CREW"
 msgstr "Вернуть командира"
@@ -15670,9 +15599,6 @@ msgstr "Альтернативные навыки можно получить у
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP"
 msgstr "Элитное обучение"
-
-msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
-msgstr "Следующий навык:"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_SKILLS_UNLOCKED_COUNT"
 msgstr "Получено навыков:"
@@ -15732,10 +15658,7 @@ msgid "IDS_CREW_IN_ADAPTATION_TO_SELECT_SHIP"
 msgstr "Идёт переподготовка"
 
 msgid "IDS_CREW_IN_BARRACKS"
-msgstr "В резерве"
-
-msgid "IDS_CREW_IN_RESERVE_LIST_TITLE"
-msgstr "В резерве"
+msgstr "В Резерве"
 
 msgid "IDS_CREW_LASTNAME_ARGENTINA_0"
 msgstr "Almeida"
@@ -18975,10 +18898,10 @@ msgid "IDS_CREW_RETRAINING_PENALTIES_DURING_RETRAINING"
 msgstr "При назначении на другой корабль на время прохождения переподготовки навыки будут работать со штрафами."
 
 msgid "IDS_CREW_SEND_TO_BARRACKS"
-msgstr "Отправить командира в резерв"
+msgstr "Отправить командира в Резерв"
 
 msgid "IDS_CREW_SEND_TO_BARRACKS_TOOLTIP"
-msgstr "Командир будет отправлен в резерв"
+msgstr "Командир будет отправлен в Резерв"
 
 msgid "IDS_CREW_SKILLS_FREE_RETRAINING_PENALTY_INFO"
 msgstr "Навыки не будут работать до завершения переподготовки"
@@ -19046,15 +18969,6 @@ msgstr "Выбрать навык для изучения"
 msgid "IDS_CREW_SKILL_UNSELECT_INSTRUCTION"
 msgstr "Отменить выбор навыка"
 
-msgid "IDS_CREW_SORT_DEFAULT"
-msgstr "По умолчанию"
-
-msgid "IDS_CREW_SORT_LEVEL"
-msgstr "По уровню"
-
-msgid "IDS_CREW_SORT_TYPE"
-msgstr "По степени редкости"
-
 msgid "IDS_CREW_SPECIALIZATION_TO_NATION"
 msgstr "Присвоена нация:"
 
@@ -19119,7 +19033,7 @@ msgid "IDS_CREW_TOTAL_POINTS_COUNTER"
 msgstr "Общее количество очков навыков командира"
 
 msgid "IDS_CREW_TO_BARRACKS"
-msgstr "Отправить в резерв"
+msgstr "Отправить в Резерв"
 
 msgid "IDS_CREW_TRAINING"
 msgstr "Подготовка командира"
@@ -19150,24 +19064,6 @@ msgstr "За дублоны"
 
 msgid "IDS_CREW_TRAINING_TYPE_HEADER_3"
 msgstr "За элитный опыт командиров"
-
-msgid "IDS_CREW_TYPE"
-msgstr "Степень редкости"
-
-msgid "IDS_CREW_TYPE_ADVANCED"
-msgstr "Редкие"
-
-msgid "IDS_CREW_TYPE_COMMON"
-msgstr "Стандартные"
-
-msgid "IDS_CREW_TYPE_ELITE"
-msgstr "Элитные"
-
-msgid "IDS_CREW_TYPE_SPECIAL"
-msgstr "Особые"
-
-msgid "IDS_CREW_TYPE_UNIQUE"
-msgstr "Легендарные"
 
 msgid "IDS_CREW_VANITY"
 msgstr "Персонализация"
@@ -19212,9 +19108,6 @@ msgstr "Борьба с эсминцами и крейсерами против�
 
 msgid "IDS_CRUISER_LEGENDARY"
 msgstr "Суперкрейсер"
-
-msgid "IDS_CRUISER_PL_GENITIVE"
-msgstr "крейсеров"
 
 msgid "IDS_CRUISE_DEEP_DOWN"
 msgstr "Погружение"
@@ -19367,28 +19260,28 @@ msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
 msgstr "Временный ресурс. С выходом обновления 25.1 новогодние сертификаты будут обменяны на контейнеры «Новогодний» в соотношении 1 к 1."
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "Красные конверты"
+msgstr "Жетоны прогресса"
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач до конца обновления 25.1, а также из наборов в Адмиралтействе до конца события в обновлениях 25.1 и 25.2."
+msgstr "В качестве бонуса за боевые результаты, за выполнение боевых задач события в течение ограниченного времени и из наборов в Адмиралтействе во время проведения события в обновлениях 13.8 и 13.9, а также за достижение уровней Боевого пропуска и в разделе «Ежедневные награды» до конца обновления 13.8."
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "На крейсер IX уровня Hengshui c постоянным тематическим камуфляжем, на случайные наборы с крейсером VI уровня Huanghe, премиум контейнерами «Лунный Новый год», а также на другое имущество до конца события в обновлениях 25.1 и 25.2."
+msgstr "На открытие карточек с редкими и элитными сигналами, Суперконтейнерами, контейнерами «Редкие бонусы», «Элитные бонусы», Lesta Games и «Сокровищница флота», на контейнеры «Эхо будущего», на экономические комплекты для кораблей X уровня и суперкораблей, а также на другое имущество во время проведения события в обновлениях 13.8 и 13.9."
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "Временный ресурс. С выходом обновления 25.3 будет списан без компенсации."
+msgstr "Временный ресурс события «Эхо будущего». С выходом обновления 13.10 жетоны будут списаны без компенсации."
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "Жетоны Пан-Азии"
+msgstr "Немецкие жетоны"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "За достижение уровней Боевого пропуска и в разделе «Ежедневные награды» до конца обновления 25.1, а также из наборов в Адмиралтействе до конца обновления 25.2."
+msgstr "За выполнение боевых задач, за достижение уровней Боевого пропуска и в разделе «Ежедневные награды» до конца обновления 13.9, а также из наборов в Адмиралтействе до конца обновления 13.10."
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "На последовательные наборы с кораблями раннего доступа VI и X уровней Chakri и Tiangong, с экономическими комплектами для Chakri и корабля раннего доступа VIII уровня Hanoi, с постоянными камуфляжами для Hanoi, Tiangong и корабля раннего доступа IX уровня Dongfeng, а также на другое имущество до конца обновления 25.2."
+msgstr "На последовательные наборы с кораблями раннего доступа VII, VIII и X уровней Vineta, Hertha и Hansa, с экономическими комплектами для Vineta и Hertha, с постоянными камуфляжами для Hertha, Hansa и корабля раннего доступа IX уровня Freya, а также на другое имущество до конца обновления 13.10."
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Временный ресурс события «Линкоры Пан-Азии». С выходом обновления 25.3 жетоны будут списаны без компенсации."
+msgstr "Временный ресурс события «Немецкие крейсеры». С выходом обновления 13.11 жетоны будут списаны без компенсации."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "Японские жетоны"
@@ -20225,9 +20118,6 @@ msgstr ""
 "\n"
 "Эта коллекция посвящена тем, кто напряжённо следит за турнирами, тем, кто организует их, и, конечно, тем, кто встал на путь победителей и не свернёт, пока не пройдёт его до конца!"
 
-msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
-msgstr "Utopia Show — интернет-шоу, которое выпускает ролики на научно-популярную тематику. Основной целью создателя является развеивание распространённых мифов о загадочных явлениях и разоблачение конспирологических теорий. Эта коллекция посвящена темам некоторых популярных выпусков Utopia Show."
-
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "В этом испытании нельзя пользоваться орудиями вспомогательного калибра."
 
@@ -20741,9 +20631,6 @@ msgstr "Торпедные атаки на корабли противника. 
 msgid "IDS_DESTROYER_LEGENDARY"
 msgstr "Суперэсминец"
 
-msgid "IDS_DESTROYER_PL_GENITIVE"
-msgstr "эсминцев"
-
 msgid "IDS_DESTROY_RATIO"
 msgstr "Уничтожил / уничтожен"
 
@@ -20876,7 +20763,7 @@ msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
 msgstr "В каждую команду назначается командир, который может управлять игроками своей команды"
 
 msgid "IDS_DISABLE_CREW_PANEL"
-msgstr "Не может быть назначен на другой корабль, отправлен в резерв или демобилизован."
+msgstr "Не может быть назначен на другой корабль, отправлен в Резерв или демобилизован."
 
 msgid "IDS_DISABLE_INVITATIONS_TO_DIVISION"
 msgstr "Не получать приглашения в отряды"
@@ -20900,16 +20787,16 @@ msgid "IDS_DISABLING_AA_AND_ATBA_PREF_TOOLTIP_DESCRIPTION"
 msgstr "Отключить орудия противовоздушной обороны и вспомогательного калибра."
 
 msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_BATTLE"
-msgstr "Дождитесь возвращения командира из боя для отправки в резерв."
+msgstr "Дождитесь возвращения командира из боя для отправки в Резерв."
 
 msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_FORMATION"
-msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для отправки командира в резерв."
+msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для отправки командира в Резерв."
 
 msgid "IDS_DISCIPLINES"
 msgstr "Испытания"
 
 msgid "IDS_DISCIPLINE_CATCHING_EGGS"
-msgstr "НУ, ЗА ЯЙЦАМИ!"
+msgstr "ЗА ЯЙЦАМИ!"
 
 msgid "IDS_DISCIPLINE_CATCHING_EGGS_DESCRIPTION"
 msgstr "Ловите яйца"
@@ -26095,12 +25982,6 @@ msgstr "Ярость холодным блеском играет в глаза
 msgid "IDS_DOGTAG_PCNB451_NAME"
 msgstr "Грозный корги"
 
-msgid "IDS_DOGTAG_PCNB453_DESCRIPTION"
-msgstr "Да это ж бобёр, слышишь? Бобёр, настоящий бобр. Чш-ш-ш, тише, спугнёшь."
-
-msgid "IDS_DOGTAG_PCNB453_NAME"
-msgstr "Бобр"
-
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "Нашивка находится в стадии разработки."
 
@@ -27288,9 +27169,6 @@ msgstr "Корабли раннего доступа можно получить
 msgid "IDS_EARLY_EXIT_BATTLE_ATTENTION"
 msgstr "Бой ещё не окончен! Вы понесёте наказание, если покинете бой, не внеся достаточный вклад в борьбу с противником."
 
-msgid "IDS_EARLY_EXIT_BATTLE_BATTLE_TRIALS"
-msgstr "Испытание ещё не окончено! Вы не получите награды за текущий этап, если покинете испытание сейчас."
-
 msgid "IDS_EARNED"
 msgstr "Получено"
 
@@ -27315,23 +27193,17 @@ msgstr "Экономические бонусы:"
 msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
 msgstr "Если вы выходите в бой с последними стандартными или особыми бонусами, они будут покупаться автоматически."
 
-msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
-msgstr "Установить"
-
 msgid "IDS_ECONOMIC_BOOSTS_TTX_GO_TO_MODAL_WINDOW_TOOLTIP"
 msgstr "Перейти к экрану «Экономические бонусы»"
+
+msgid "IDS_ECONOMIC_BOOSTS_TTX_INSTALL_BTN"
+msgstr "Установить"
 
 msgid "IDS_ECONOMIC_BOOSTS_TTX_LABEL"
 msgstr "Экономические бонусы"
 
 msgid "IDS_ECONOMIC_BOOSTS_TTX_NOT_INSTALLED_HINT"
 msgstr "Нет установленных бонусов"
-
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
-msgstr "Расходуемый"
-
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
-msgstr "Прочие"
 
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_1"
 msgstr "Стандартные"
@@ -27349,13 +27221,13 @@ msgid "IDS_ECONOMIC_BOOST_SLOT_OPEN_INFOTIP"
 msgstr "Открыть список расходуемых бонусов"
 
 msgid "IDS_ECONOMIC_BOOST_SUMMARY_CLANBOOST_ITEM_TOOLTIP"
-msgstr "Клановый бонус"
+msgstr "За клановые заслуги"
 
 msgid "IDS_ECONOMIC_BOOST_SUMMARY_EXPENDABLE_SECTION_TOOLTIP"
 msgstr "Расходуемый"
 
 msgid "IDS_ECONOMIC_BOOST_SUMMARY_GLOBALBOOST_ITEM_TOOLTIP"
-msgstr "Личный бонус"
+msgstr "За личные заслуги"
 
 msgid "IDS_ECONOMIC_BOOST_SUMMARY_MULTIBOOST_ITEM_TOOLTIP"
 msgstr "Экономический комплект"
@@ -27367,7 +27239,7 @@ msgid "IDS_ECONOMIC_BOOST_SUMMARY_PERMANENT_SECTION_TOOLTIP"
 msgstr "Постоянный"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE"
-msgstr "Суммарный бонус"
+msgstr "Бонус"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_CREDITSFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "Кредиты"
@@ -27390,18 +27262,6 @@ msgstr "Редкий расходуемый бонус"
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_4"
 msgstr "Элитный расходуемый бонус"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
-msgstr "Стандартный бонус"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
-msgstr "Особый бонус"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
-msgstr "Редкий бонус"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
-msgstr "Элитный бонус"
-
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "Опыт корабля"
 
@@ -27413,18 +27273,6 @@ msgstr "Постоянный бонус"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_MULTIBOOST"
 msgstr "Постоянный бонус"
-
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREDITS"
-msgstr "Кредиты"
-
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP"
-msgstr "Опыт командира"
-
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP"
-msgstr "Опыт корабля"
-
-msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
-msgstr "Свободный опыт"
 
 msgid "IDS_EDINBURGH_SPACE"
 msgstr "Triangulum"
@@ -28105,9 +27953,6 @@ msgstr "Портал открылся! У вас есть ключ, и вы м
 msgid "IDS_EV2020_RULES_PORTAL_WITHOUT_KEY"
 msgstr "Для выхода в Портал вам необходим ключ."
 
-msgid "IDS_EVAVALENTINE"
-msgstr "Eva Valentine"
-
 msgid "IDS_EVENT"
 msgstr "Событие"
 
@@ -28133,7 +27978,7 @@ msgid "IDS_EVENTBATTLE_PW_CHARGING_POINTS_LOST"
 msgstr "–20 противники"
 
 msgid "IDS_EVENTS"
-msgstr "Ну, погоди!"
+msgstr "Ловля яиц"
 
 msgid "IDS_EVENTS_WINDOW_INSTRUCTION"
 msgstr "События могут включать в себя различные акции. Период действия акций может быть короче, чем период действия основного события."
@@ -28252,6 +28097,27 @@ msgstr "Это временная нация, корабли будут спи�
 msgid "IDS_EVENT_SIDE_VICTORY_DAYS"
 msgstr "Количество победных дней"
 
+msgid "IDS_EVENT_SMF_EQUIPMENT_REVERSAL"
+msgstr "Доступно снаряжение «Разворот»"
+
+msgid "IDS_EVENT_SMF_FORSAGE_HIGH"
+msgstr "«Форсаж» с большим временем действия"
+
+msgid "IDS_EVENT_SMF_FORSAGE_LOW"
+msgstr "«Форсаж» с малым временем действия"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_FAST_RELOAD"
+msgstr "Быстрая перезарядка волномёта"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_NARROW_AND_FAST"
+msgstr "Волномёт пускает узкие и быстрые волны"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_SLOW_RELOAD"
+msgstr "Медленная перезарядка волномёта"
+
+msgid "IDS_EVENT_SMF_WAWE_SHOOTER_WIDE_AND_SLOW"
+msgstr "Волномёт пускает широкие и медленные волны"
+
 msgid "IDS_EVENT_TIME_TO_FREEZE"
 msgstr "До начала этапа соревнования:"
 
@@ -28357,12 +28223,6 @@ msgstr "Сопроводите к Порталу «Трансильванию»
 msgid "IDS_EV_HL_23_TASK_KILLGARGONA_TASK_END_S"
 msgstr "«Горгон Великий» уничтожен!"
 
-msgid "IDS_EV_SA24_DAMAGE_RULES_1"
-msgstr "В этом испытании вам необходимо нанести как можно больше урона"
-
-msgid "IDS_EV_SA24_FRAGS_RULES"
-msgstr "В этом испытании вам необходимо уничтожить как можно больше кораблей"
-
 msgid "IDS_EV_SPACE2024"
 msgstr "К высотам мастерства"
 
@@ -28398,6 +28258,9 @@ msgstr "Подробный интерфейс"
 
 msgid "IDS_EXPANDED_INFO_PREF_TOOLTIP_DESCRIPTION"
 msgstr "Отображается полная информация о кораблях союзников и противников при удержании клавиши."
+
+msgid "IDS_EXPAND_BARRACKS"
+msgstr "Расширить Резерв"
 
 msgid "IDS_EXPAND_CURRENCIES_PANEL_MOUSE_INSTRUCTION"
 msgstr "Развернуть список валют"
@@ -28494,11 +28357,11 @@ msgstr "Устанавливает максимальную дистанцию �
 msgid "IDS_FAST_TRAINING_BUTTON_LABEL"
 msgstr "УСКОРИТЬ ОБУЧЕНИЕ"
 
+msgid "IDS_FAST_TRAINING_CREW_AVAILABLE"
+msgstr "Ускорить обучение"
+
 msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_ADAPTATION"
 msgstr "Завершите переподготовку командира для ускоренного обучения."
-
-msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_DEMOBILIZATION"
-msgstr "Отмените демобилизацию командира для ускоренного обучения."
 
 msgid "IDS_FAST_TRAINING_DISABLE_REASON_NATION_COMMON"
 msgstr "Командиру не присвоена нация. Ускорение обучения недоступно."
@@ -30213,9 +30076,6 @@ msgstr "Команда мечты"
 msgid "IDS_FIRST_USABB_0910_NAME"
 msgstr "Флотоводцы"
 
-msgid "IDS_FIRST_UTOPIA_NAME"
-msgstr "Доска расследований № 1"
-
 msgid "IDS_FIRST_VIVALAFRANCESUBCOLLECTION_NAME"
 msgstr "Корабли"
 
@@ -30652,22 +30512,19 @@ msgid "IDS_FREE_SKILLPOINTS_LEFT"
 msgstr "Свободных очков навыков:"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_AIRCARRIER"
-msgstr "Свободных очков навыков для авианосцев:"
+msgstr "Свободных очков навыков для авианосцев:"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_BATTLESHIP"
-msgstr "Свободных очков навыков для линкоров:"
+msgstr "Свободных очков навыков для линкоров:"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_CRUISER"
-msgstr "Свободных очков навыков для крейсеров:"
+msgstr "Свободных очков навыков для крейсеров:"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_DESTROYER"
-msgstr "Свободных очков навыков для эсминцев:"
-
-msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SHIPCLASS_TOOLTIP_TEXT"
-msgstr "Свободных очков навыков для %(shipClass)s: %(skillPoints)s"
+msgstr "Свободных очков навыков для эсминцев:"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SUBMARINE"
-msgstr "Свободных очков навыков для подводных лодок:"
+msgstr "Свободных очков навыков для подводных лодок:"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_TOOLTIP_TEXT"
 msgstr "Свободных очков навыков: %(skillPoints)s"
@@ -31083,9 +30940,6 @@ msgstr "Время перезарядки орудий ГК уменьшено"
 
 msgid "IDS_GMSIGMACOUNT"
 msgstr "к максимальному рассеиванию снарядов ГК"
-
-msgid "IDS_GNIDOVSKY"
-msgstr "Руперт Г."
 
 msgid "IDS_GODZILLA"
 msgstr "Годзилла"
@@ -31824,13 +31678,13 @@ msgid "IDS_GUIDING_TIP_287_HEADER"
 msgstr "Очки навыков командира"
 
 msgid "IDS_GUIDING_TIP_288_DESC"
-msgstr "В вашем резерве есть командир, вы можете назначить его на корабль."
+msgstr "В вашем Резерве есть командир, вы можете назначить его на корабль."
 
 msgid "IDS_GUIDING_TIP_288_HEADER"
 msgstr "Назначьте командира"
 
 msgid "IDS_GUIDING_TIP_289_DESC"
-msgstr "В вашем резерве есть командир, вы можете назначить его на корабль."
+msgstr "В вашем Резерве есть командир, вы можете назначить его на корабль."
 
 msgid "IDS_GUIDING_TIP_289_HEADER"
 msgstr "Назначьте командира"
@@ -32022,25 +31876,13 @@ msgid "IDS_GUIDING_TIP_316_DESC"
 msgstr "Задачи этого дня выполнены. Пока они обновляются, вы можете выполнить другие задачи."
 
 msgid "IDS_GUIDING_TIP_316_HEADER"
-msgstr "Приоритетные задачи выполнены"
+msgstr "Вызов дня завершён"
 
 msgid "IDS_GUIDING_TIP_317_DESC"
 msgstr "Задачи этой недели выполнены. Пока они обновляются, вы можете выполнить другие задачи."
 
 msgid "IDS_GUIDING_TIP_317_HEADER"
-msgstr "Приоритетные задачи выполнены"
-
-msgid "IDS_GUIDING_TIP_318_DESC"
-msgstr "Испытайте свои силы в бою на кораблях разных наций. Сложность возрастает с каждым выполнением!"
-
-msgid "IDS_GUIDING_TIP_318_HEADER"
-msgstr "Личные испытания: нации"
-
-msgid "IDS_GUIDING_TIP_319_DESC"
-msgstr "Испытайте свои силы в бою на кораблях разных классов. Сложность возрастает с каждым выполнением!"
-
-msgid "IDS_GUIDING_TIP_319_HEADER"
-msgstr "Личные испытания: классы"
+msgstr "Вызов недели завершён"
 
 msgid "IDS_GUIDING_TIP_31_DESC"
 msgstr "Вы получили несколько контейнеров — откройте их и получите награды!"
@@ -32464,6 +32306,9 @@ msgstr "Skull Teufel"
 
 msgid "IDS_HAGURO"
 msgstr "Haguro"
+
+msgid "IDS_HALLOWEEN_BUFF_ACTIVE_IN_BATTLE"
+msgstr "Активируется в бою"
 
 msgid "IDS_HALLOWEEN_TORPEDOES_DESCRIPTION_FROST"
 msgstr "Временно выводят из строя двигатель и все виды вооружения."
@@ -33240,48 +33085,6 @@ msgstr "Период проведения испытания"
 msgid "IDS_HINT_CHALLENGE_TECHNO_CONDITION"
 msgstr "Корабли, на которых можно пройти испытание."
 
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION"
-msgstr "Показать командиров %(_nationName)s"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
-msgstr "Командиры %(_nationName)s недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
-msgstr "Показать командиров без присвоенной нации"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION_NOT_AVAILABLE"
-msgstr "Командиры без присвоенной нации недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
-msgstr "Показать редких командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_COMMON"
-msgstr "Показать стандартных командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
-msgstr "Показать элитных командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
-msgstr "Редкие командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
-msgstr "Стандартные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
-msgstr "Элитные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
-msgstr "Особые командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
-msgstr "Легендарные командиры недоступны"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
-msgstr "Показать особых командиров"
-
-msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNIQUE"
-msgstr "Показать легендарных командиров"
-
 msgid "IDS_HINT_CHECKBOX_DISABLE_SMALL_VIEW"
 msgstr "Отключить компактный вид карусели"
 
@@ -33524,11 +33327,14 @@ msgstr "Играйте в отрядах вместе с другими игро
 msgid "IDS_HINT_CREWEXP"
 msgstr "Полученный опыт командиров"
 
-msgid "IDS_HINT_CREW_FILTERING_SORT"
-msgstr "Выберите порядок отображения командиров"
+msgid "IDS_HINT_CREWEXP_TO_ADAPTATION"
+msgstr "Опыт командиров, необходимый для завершения переподготовки"
 
-msgid "IDS_HINT_CREW_FILTERING_SORT_SET_REVERSE"
-msgstr "Отобразить командиров в обратном порядке"
+msgid "IDS_HINT_CREWEXP_TO_NEXT_SKILLPOINT"
+msgstr "Опыт до получения очка навыков"
+
+msgid "IDS_HINT_CREW_FROM_BARACKS"
+msgstr "Назначить командира из Резерва"
 
 msgid "IDS_HINT_CREW_FROM_SHIP"
 msgstr "Назначить командира с другого корабля"
@@ -33607,6 +33413,9 @@ msgstr "Готов к бою в отряде"
 
 msgid "IDS_HINT_JOIN"
 msgstr "Присоединиться к каналу"
+
+msgid "IDS_HINT_LEFT_CLICK_FOR_CREW_PROFILE"
+msgstr "Посмотреть навыки командира для всех классов кораблей"
 
 msgid "IDS_HINT_LEFT_CLICK_FOR_FURTHER_INFO"
 msgstr "Посмотреть подробную информацию"
@@ -33801,7 +33610,7 @@ msgid "IDS_HIRE_FOR_FREE"
 msgstr "Рекрутировать командира бесплатно?"
 
 msgid "IDS_HIRE_NEW_CREW"
-msgstr "Рекрутировать нового"
+msgstr "Рекрутировать"
 
 msgid "IDS_HISTORICAL_INFORMATION"
 msgstr "ИСТОРИЧЕСКАЯ СПРАВКА"
@@ -33875,9 +33684,6 @@ msgstr "Hou Yi"
 msgid "IDS_HP_SECOND"
 msgid_plural "IDS_HP_SECOND"
 msgstr[0] " очко боеспособности в секунду"
-
-msgid "IDS_HRENSBERG"
-msgstr "Дик Х."
 
 msgid "IDS_HUA_HU"
 msgstr "Hua Hu"
@@ -34529,7 +34335,7 @@ msgid "IDS_IN_PCVE027"
 msgstr "в Эпохе броненосцев"
 
 msgid "IDS_IN_PCVE028"
-msgstr "в «Ну, погоди!»"
+msgstr "в «Ловля яиц»"
 
 msgid "IDS_IN_PVEBATTLE"
 msgstr "в Операции"
@@ -37731,6 +37537,27 @@ msgstr "Houshou Marine"
 msgid "IDS_MARKER_NEW"
 msgstr "НОВОЕ"
 
+msgid "IDS_MARK_ATTACK"
+msgstr "АТАКУЙТЕ"
+
+msgid "IDS_MARK_DEFEND"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MARK_ESCORT"
+msgstr "СОПРОВОЖДАЙТЕ"
+
+msgid "IDS_MARK_KEY_TARGET"
+msgstr "АТАКУЙТЕ"
+
+msgid "IDS_MARK_KEY_TARGET_ALLY"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MARK_KEY_TARGET_DIVISION"
+msgstr "ЗАЩИЩАЙТЕ"
+
+msgid "IDS_MARK_REPAIR"
+msgstr "РЕМОНТ"
+
 msgid "IDS_MARON_YANAGIWARA"
 msgstr "Maron Yanagiwara"
 
@@ -38481,7 +38308,7 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "Событие доступно для кораблей уровня V и выше в Кооперативных, Случайных и Ранговых боях, а также в Операциях."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Обратите внимание: некоторые задачи события учитывают только половину результата в Операциях."
+msgstr "Обратите внимание: некоторые задачи события учитывают только половину результата в операциях."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_HEADER"
 msgstr "Задачи"
@@ -38490,7 +38317,7 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_1"
 msgstr "Для получения наград нужно выполнять задачи, которые постепенно выдаются всем участникам события. Задачи обновляются каждые 2 часа."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_2"
-msgstr "Если результаты не были засчитаны в конце боя, то они будут учтены в задаче следующего двухчасового периода."
+msgstr "Если результаты не успели засчитаться в конце боя, то они будут учтены в задаче следующего двухчасового периода."
 
 msgid "IDS_MODAL_WINDOW_BRAWLBATTLE_RULES_HEADER"
 msgstr "Блиц"
@@ -38589,25 +38416,15 @@ msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_ASIDE_CONTAINER_MULTIBOOST_CARD_PURCHASE
 msgstr "Купить экономический комплект"
 
 msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_ASIDE_CONTAINER_MULTIBOOST_CARD_UNAVAILABLE_HINT"
-msgstr "Недоступно для этого корабля"
+msgstr ""
+"Недоступно\n"
+"для этого корабля"
 
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_DESC"
-msgstr "Установленные расходуемые бонусы списываются за каждый бой."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_HEADER"
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE"
 msgstr "Расходуемые бонусы"
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_DESC"
-msgstr "Бонусы за первую победу в день на корабле, а также другие бонусы."
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_HEADER"
-msgstr "Прочие бонусы"
 
 msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_PERMANENT"
 msgstr "Постоянные бонусы"
-
-msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_PERMANENT_DESC"
-msgstr "Устанавливается на корабль один раз и не расходуется в бою."
 
 msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CENTRAL_BLOCK_CARD_INSTALL_HINT_CREDITS"
 msgstr "Бонус к кредитам"
@@ -38703,7 +38520,7 @@ msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_6"
 msgstr "модернизации будут бесплатно демонтированы;"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
-msgstr "командиры будут отправлены в резерв;"
+msgstr "командиры будут отправлены в Резерв;"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
 msgstr "опыт кораблей ветки будет переведён на корабль I уровня."
@@ -39102,7 +38919,7 @@ msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "По сравнению с главным калибром, орудия среднего калибра перезаряжаются быстрее, но наносят меньше урона."
 
 msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_HEADER"
-msgstr "Ну, погоди!"
+msgstr "Ловля яиц"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_1_HEADER"
 msgstr "НАЧИСЛЕНИЕ ОЧКОВ"
@@ -39111,7 +38928,7 @@ msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
 msgstr ""
 "Золотое яйцо: +30\n"
 "Белое яйцо: +10\n"
-"Акула: −20"
+"Акула: -20"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_2_HEADER"
 msgstr "ВОЛНОМЁТ"
@@ -39120,7 +38937,7 @@ msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "Волны топят яйца и акул, а также уничтожают волны, пущенные с кораблей соперников."
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_HEADER"
-msgstr "Ну, погоди!"
+msgstr "Ловля яиц"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_HEADER"
 msgstr "Задача"
@@ -39144,7 +38961,7 @@ msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_HEADER"
 msgstr "Награды"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "За 1, 2 и 3-е места выдаются памятные достижения."
+msgstr "За 1-е, 2-е и 3-е места выдаются памятные достижения."
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "Чем выше ваш результат, тем больше ресурсов вы получите по итогам боя."
@@ -39175,15 +38992,6 @@ msgstr "В бою к вашему кораблю будет применён �
 
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "Собирая осколки Великих Башен, вы можете увеличивать сопротивление «Трансильвании» урону."
-
-msgid "IDS_MODAL_WINDOW_PCVT001_DAMAGE_PRIME_BATTLE_RULES_HEADER"
-msgstr "Огневая мощь"
-
-msgid "IDS_MODAL_WINDOW_PCVT002_CITADEL_PRIME_BATTLE_RULES_HEADER"
-msgstr "Меткость стрельбы"
-
-msgid "IDS_MODAL_WINDOW_PCVT003_FRAGS_PRIME_BATTLE_RULES_HEADER"
-msgstr "Ликвидация целей"
 
 msgid "IDS_MODAL_WINDOW_POSTBATTLE_KEY_BATTLE_RESULTS_5"
 msgstr "Вы успешно вышли в Портал"
@@ -39464,57 +39272,6 @@ msgstr "Отказ от таланта"
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
 msgstr "Получение таланта"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "ЭТАПЫ"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Выполните задачу текущего этапа, чтобы перейти в следующий. Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "ПРАВИЛА"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "В испытаниях могут действовать ограничения на использование вооружения и снаряжения, а также на управление кораблём."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "ОТМЕТКИ"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Ведите огонь по целям с отметками, чтобы получить больше очков. Используйте указанный тип вооружения или наносите указанный вид урона."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_HEADER"
-msgstr "Учебные испытания"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "В Учебных испытаниях вы можете оттачивать свои боевые навыки, выполняя задания."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Каждое испытание состоит из 5 этапов. Чтобы перейти в следующий этап, нужно выполнить задачу текущего."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_HEADER"
-msgstr "Бонусные очки"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Если вы выполните задачу раньше конца этапа, вы сможете набрать бонусные очки."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Бонусные очки будут учтены в следующем этапе."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
-msgstr "Награды"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Награды выдаются за каждый пройденный этап. Вы не получите награду за этап, если покинете его преждевременно."
-
-msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
-
 msgid "IDS_MODERNIZATION"
 msgstr "Модернизация"
 
@@ -39598,6 +39355,9 @@ msgstr "Глубинные бомбы"
 
 msgid "IDS_MODULE_ENGINE"
 msgstr "Двигатель"
+
+msgid "IDS_MODULE_IS_DESTROYED"
+msgstr "Модуль уничтожен"
 
 msgid "IDS_MODULE_IS_OUT_OF_ORDER"
 msgstr "Модуль выведен из строя"
@@ -39831,7 +39591,7 @@ msgid "IDS_MOUSE_INSTRUCTION_CHOOSE"
 msgstr "Выбрать %(_battleType)s"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
-msgstr "Отказаться от улучшения"
+msgstr "Отказаться от навыка"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_SLOT_INFOTIP_OPEN"
 msgstr "Открыть список улучшений"
@@ -40024,26 +39784,11 @@ msgstr ""
 msgid "IDS_MULTIBOOST_WITH_SHIP_TITLE_OVERRIDE_FOR_WEB"
 msgstr "Экономический комплект — %(shipName)s"
 
-msgid "IDS_MULTIPLIER_TAG_AP"
-msgstr "Бронебойные снаряды (ББ)"
-
-msgid "IDS_MULTIPLIER_TAG_CS"
-msgstr "Полубронебойные снаряды (ПББ)"
-
-msgid "IDS_MULTIPLIER_TAG_FIRE"
-msgstr "Поджог"
-
-msgid "IDS_MULTIPLIER_TAG_HE"
-msgstr "Осколочно-фугасные снаряды (ОФ)"
-
-msgid "IDS_MULTIPLIER_TAG_TORPEDOES"
-msgstr "Торпеды"
-
 msgid "IDS_MULTYCLIENT_PLAY"
 msgstr "ИГРАТЬ"
 
 msgid "IDS_MULT_FILM"
-msgstr "Деревня Урожайная — «Ну, погоди!»"
+msgstr "Деревня Урожайная — «Ловля яиц»"
 
 msgid "IDS_MURAT_SEREZLI"
 msgstr " "
@@ -40141,36 +39886,6 @@ msgstr "Nachi"
 msgid "IDS_NAKHIMOV"
 msgstr "Павел Нахимов"
 
-msgid "IDS_NAME01"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME02"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME03"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME04"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME05"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME06"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME07"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME08"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME09"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME10"
-msgstr "Корабль-цель"
-
 msgid "IDS_NAME11"
 msgstr "Корабль-цель"
 
@@ -40181,30 +39896,6 @@ msgid "IDS_NAME13"
 msgstr "Корабль-цель"
 
 msgid "IDS_NAME14"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME15"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME16"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME17"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME18"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME19"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME1D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME1F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME20"
 msgstr "Корабль-цель"
 
 msgid "IDS_NAME21"
@@ -40219,30 +39910,6 @@ msgstr "Корабль-цель"
 msgid "IDS_NAME24"
 msgstr "Корабль-цель"
 
-msgid "IDS_NAME25"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME26"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME27"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME28"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME29"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME2D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME2F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME30"
-msgstr "Корабль-цель"
-
 msgid "IDS_NAME31"
 msgstr "Корабль-цель"
 
@@ -40253,99 +39920,6 @@ msgid "IDS_NAME33"
 msgstr "Корабль-цель"
 
 msgid "IDS_NAME34"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME35"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME36"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME37"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME38"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME39"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME3D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME3F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME40"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME41"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME42"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME43"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME44"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME45"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME46"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME47"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME48"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME49"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME4D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME4F"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME50"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME51"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME52"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME53"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME54"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME55"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME56"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME57"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME58"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME59"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME5D"
-msgstr "Корабль-цель"
-
-msgid "IDS_NAME5F"
 msgstr "Корабль-цель"
 
 msgid "IDS_NAMEA1"
@@ -40359,30 +39933,6 @@ msgstr "Корабль-цель"
 
 msgid "IDS_NAMEA4"
 msgstr "Корабль-цель"
-
-msgid "IDS_NAME_ALLY_1"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_2"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_3"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_4"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_5"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_6"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_7"
-msgstr "Союзник"
-
-msgid "IDS_NAME_ALLY_8"
-msgstr "Союзник"
 
 msgid "IDS_NAME_OF_SERVER"
 msgstr "Сервер: "
@@ -40842,6 +40392,9 @@ msgstr "Доступно"
 msgid "IDS_NEW_BATTLE"
 msgstr "Новый бой"
 
+msgid "IDS_NEW_CREW_LIST_TITLE"
+msgstr "Новый командир"
+
 msgid "IDS_NEW_DIVISION"
 msgstr "Новый отряд"
 
@@ -41107,10 +40660,8 @@ msgstr "Вы пока не создали ни одного канала"
 msgid "IDS_NO_CREW"
 msgstr "Нет командира"
 
-msgid "IDS_NO_CREW_FOUND_WITH_APPLIED_FILTERING"
-msgstr ""
-"Нет командиров,\n"
-"подходящих по условиям фильтрации"
+msgid "IDS_NO_CREW_IN_BARRACKS_LIST"
+msgstr "Нет подходящих командиров в Резерве"
 
 msgid "IDS_NO_CREW_IN_SHIPS_LIST"
 msgstr "Нет подходящих командиров на других кораблях"
@@ -41210,9 +40761,6 @@ msgstr "Количество подводных лодок не ограниче
 msgid "IDS_NO_MONEY_FOR_UNMOUNT"
 msgstr "Не хватает на демонтаж"
 
-msgid "IDS_NO_MORE_PLACE_IN_RESERVE_TO_CANCEL_DEMOBILIZATION"
-msgstr "Для отмены демобилизации освободите место в резерве."
-
 msgid "IDS_NO_NATION_CREW"
 msgstr "Не присвоена нация"
 
@@ -41230,12 +40778,6 @@ msgstr "Нет кораблей"
 
 msgid "IDS_NO_SIGNALS_ON_STORAGE_HINT"
 msgstr "У вас нет сигналов"
-
-msgid "IDS_NO_SPECIALIZATION_CREW"
-msgstr "Не подготовлен"
-
-msgid "IDS_NO_SPECIALIZATION_REQUIRED_FOR_SHIP_STATUS_LINE"
-msgstr "Можно назначить командира без переподготовки"
 
 msgid "IDS_NO_SUITABLE_SHIPS"
 msgstr "Нет подходящих кораблей"
@@ -46559,7 +46101,7 @@ msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_3"
 msgstr "Модернизации будут бесплатно демонтированы."
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_4"
-msgstr "Командиры будут отправлены в резерв."
+msgstr "Командиры будут отправлены в Резерв."
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_5"
 msgstr "Опыт кораблей ветки будет переведён на корабль I уровня."
@@ -46608,9 +46150,6 @@ msgstr "Игрок в бою"
 
 msgid "IDS_PARAGON_REASON_PLAYER_IN_DIVISION"
 msgstr "Игрок в отряде"
-
-msgid "IDS_PARAMS_BONUS_FOR_VICTORY"
-msgstr "Бонус за победу"
 
 msgid "IDS_PARAMS_MODIFIER_AAAURA"
 msgstr "Средний урон ПВО"
@@ -55239,12 +54778,6 @@ msgstr "305-мм HE Mk IIIa"
 msgid "IDS_PBPA147_305MM_AP_RESISTANCE"
 msgstr "305-мм AP Mk VIIa"
 
-msgid "IDS_PBPA148_381MM_HE_ANSON"
-msgstr "381-мм HE Mk VIIIb SC"
-
-msgid "IDS_PBPA149_381MM_AP_ANSON"
-msgstr "381-мм AP Mk XXIIb SC"
-
 msgid "IDS_PBPA980_406MM_HE_T10"
 msgstr "406-мм ОФ обр. 1937 г."
 
@@ -55514,9 +55047,6 @@ msgstr "622-мм Mk I"
 
 msgid "IDS_PBPT045_622_SCARLET"
 msgstr "622-мм Mk I"
-
-msgid "IDS_PBPT046_ANSON"
-msgstr "533-мм Mk IX*"
 
 msgid "IDS_PBPT104_HERMES_STOCK"
 msgstr "Mark VIII"
@@ -56087,21 +55617,6 @@ msgstr "2"
 
 msgid "IDS_PBSB517_YEAR"
 msgstr "1927 г."
-
-msgid "IDS_PBSB518"
-msgstr "Anson"
-
-msgid "IDS_PBSB518_DESCR"
-msgstr "Гипотетический вариант модернизации линейного крейсера типа Admiral, проведённой в конце 1930-х гг. по образцу модернизации линейного крейсера Renown и линкоров типа Queen Elizabeth. В таком случае корабль получил бы десять 113-мм спаренных установок универсальных орудий и значительное количество малокалиберной зенитной артиллерии."
-
-msgid "IDS_PBSB518_FULL"
-msgstr "Anson"
-
-msgid "IDS_PBSB518_NUMBER"
-msgstr "1"
-
-msgid "IDS_PBSB518_YEAR"
-msgstr "1940 г."
 
 msgid "IDS_PBSB520"
 msgstr "Zeus"
@@ -57348,9 +56863,6 @@ msgstr "234-мм/50 Mk.XII в башенной установке"
 msgid "IDS_PBUA714_ART_TIGER_TEST"
 msgstr "152-мм/50 QF Mk.V в установке Mk.XXVI"
 
-msgid "IDS_PBUA715_ART_ANSON"
-msgstr "381-мм/42 Mk.I в установке Mk.I/N RP 12"
-
 msgid "IDS_PBUA800_B9_ART_STOCK"
 msgstr "419-мм/45 Mk.I в установке Mk.I"
 
@@ -57758,9 +57270,6 @@ msgstr "ЭУ 110 000 л.с."
 
 msgid "IDS_PBUE718_ENG_TIGER_TEST"
 msgstr "ЭУ 80 000 л.с."
-
-msgid "IDS_PBUE719_ENG_ANSON"
-msgstr "ЭУ 144 000 л.с."
 
 msgid "IDS_PBUE721_B8_ENG_STOCK"
 msgstr "ЭУ 100 000 л.с."
@@ -58220,9 +57729,6 @@ msgstr ""
 msgid "IDS_PBUH726_HULL_TIGER_TEST"
 msgstr "Cougar"
 
-msgid "IDS_PBUH727_HULL_ANSON"
-msgstr "Anson"
-
 msgid "IDS_PBUH800_B9_HULL_STOCK"
 msgstr "Duncan (A)"
 
@@ -58676,9 +58182,6 @@ msgstr "Mk VIII mod. 1"
 msgid "IDS_PBUS719_SUO_TIGER_TEST"
 msgstr "Mk VIII mod. 1"
 
-msgid "IDS_PBUS720_SUO_ANSON"
-msgstr "Mk VIII"
-
 msgid "IDS_PBUS800_B9_SUO_STOCK"
 msgstr "Mk IX mod. 1"
 
@@ -58932,9 +58435,6 @@ msgid "IDS_PBUT713_TORP_NOTTINGHAM"
 msgstr "533-мм Mk VII"
 
 msgid "IDS_PBUT714_TORP_AZUR_CHESHIRE"
-msgstr "533-мм Mk IXM"
-
-msgid "IDS_PBUT715_TORP_ANSON"
 msgstr "533-мм Mk IXM"
 
 msgid "IDS_PBUT800_TORP_SOMME"
@@ -59521,24 +59021,6 @@ msgstr "Дом.ру"
 
 msgid "IDS_PCEC146_CAMO_RUS"
 msgstr "Байкальский"
-
-msgid "IDS_PCEC147_CAMO_PRORYV_RED"
-msgstr "Прорыв — Красный"
-
-msgid "IDS_PCEC148_CAMO_PRORYV_GREEN"
-msgstr "Прорыв — Зелёный"
-
-msgid "IDS_PCEC990_TRIALS_BUDENY"
-msgstr "Мишень"
-
-msgid "IDS_PCEC991_TRIALS_PYOTR_VELIKIY"
-msgstr "Мишень"
-
-msgid "IDS_PCEC993_TRIALS_SENYAVIN"
-msgstr "Мишень"
-
-msgid "IDS_PCEC994_TRIALS_OMAHA"
-msgstr "Мишень"
 
 msgid "IDS_PCEE001_INPROGRESS_FLAG"
 msgstr "In progress"
@@ -63825,7 +63307,7 @@ msgid "IDS_PCEE690_NATSUKAZE_FLAG"
 msgstr "Natsukaze"
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG_DESCRIPTION"
-msgstr "Natsukaze в переводе с японского означает «летний бриз». Бриз — это прибрежный ветер с суточной периодичностью. Днём воздух движется с моря к тёплой суше, а ночью ветер дует с быстро остывающего побережья к воде."
+msgstr "Natsukaze в переводе с японского означает «летний бриз». Бриз — это тип прибрежного ветра с суточной периодичностью. Днём прохладный воздух движется с моря к тёплому побережью, а ночью с нагретого за день моря тёплый воздух движется к быстро остывающей суше."
 
 msgid "IDS_PCEE691_OYODO_FLAG"
 msgstr "Ōyodo"
@@ -64028,21 +63510,6 @@ msgstr "Фрунзе"
 msgid "IDS_PCEE723_FRUNZE_FLAG_DESCRIPTION"
 msgstr "Михаил Васильевич Фрунзе (1885–1925) — революционер, советский государственный деятель и полководец. С 26 января и до своей кончины 31 октября 1925 г. занимал должность председателя Революционного военного совета — высшего коллегиального органа управления Вооружёнными Силами РСФСР, а затем СССР."
 
-msgid "IDS_PCEE724_HENGSHUI_FLAG"
-msgstr "Hengshui"
-
-msgid "IDS_PCEE724_HENGSHUI_FLAG_DESCRIPTION"
-msgstr "Бумажные подвесные фонарики занимают важную роль в праздновании китайского Нового года, которое завершается Праздником фонарей. Обряды празднования Нового года по лунно-солнечному календарю были описаны Цуй Ши — учёным и государственным деятелем империи Хань, происходившим из местности, которая сейчас является частью городского округа Хэншуй."
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
-msgstr "Линкоры Пан-Азии"
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_DESCRIPTION"
-msgstr "Образ тигра объединяет большинство культур Востока, причём зачастую в мифологии это животное связано с исцелением и защитой от злых сил. В Древнем Китае тигр считался «царём леса» и олицетворял власть императора."
-
-msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода линкоров Пан-Азии в ранний доступ в обновлении 25.1."
-
 msgid "IDS_PCEE726_USSR_FLAG"
 msgstr "Государственный флаг СССР"
 
@@ -64061,24 +63528,6 @@ msgstr "R.Smg. Giacomo Nani"
 msgid "IDS_PCEE729_NANI_FLAG_DESCRIPTION"
 msgstr "Джакомо Нани (1725–1797) — адмирал и государственный деятель позднего периода Венецианской республики. На родовом гербе Нани изображено круглое зеркало, разделённое на золотую и красную половины."
 
-msgid "IDS_PCEE730_MADRID_FLAG"
-msgstr "Madrid"
-
-msgid "IDS_PCEE730_MADRID_FLAG_DESCRIPTION"
-msgstr "Военно-морской флаг Испании, который использовался в 1701–85 гг. В этот период испанские короли проводили реорганизацию и модернизацию флота, чтобы вернуть утраченные территории и укрепить влияние в Новом Свете."
-
-msgid "IDS_PCEE731_ANSON_FLAG"
-msgstr "HMS Anson"
-
-msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
-msgstr "Джордж Ансон (1697–1762) — британский флотоводец, совершивший кругосветное путешествие. Будучи адмиралом флота, Ансон являлся командиром Красной эскадры — важнейшего формирования, обычно занимавшего центральное положение в строе."
-
-msgid "IDS_PCEE732_SOVREMENNY_FLAG"
-msgstr "Современный"
-
-msgid "IDS_PCEE732_SOVREMENNY_FLAG_DESCRIPTION"
-msgstr "На эмблеме 7-й оперативной («Атлантической») эскадры Северного флота семь звёзд означают номер эскадры, крылатый якорь является знаком личного состава авианесущих кораблей, а три меча символизируют три составных части эскадры (авианесущие, ракетные и артиллерийские корабли)."
-
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Вакансия: Дед Мороз 2016"
 
@@ -64093,6 +63542,93 @@ msgstr "Участники акции обменивались новогодн�
 
 msgid "IDS_PCEE999_SECRETSANTA_EXTRA_DESCRIPTION"
 msgstr "В честь акции «Тайный Дед Мороз» в 2015 г."
+
+msgid "IDS_PCEF005_SM_SIGNALFLAG"
+msgstr "Sierra Mike"
+
+msgid "IDS_PCEF005_SM_SIGNALFLAG_DESCRIPTION"
+msgstr "Я произвожу скоростные испытания."
+
+msgid "IDS_PCEF006_HY_SIGNALFLAG"
+msgstr "Hotel Yankee"
+
+msgid "IDS_PCEF006_HY_SIGNALFLAG_DESCRIPTION"
+msgstr "Судно, с которым я столкнулся, затонуло."
+
+msgid "IDS_PCEF007_ID_SIGNALFLAG"
+msgstr "India Delta"
+
+msgid "IDS_PCEF007_ID_SIGNALFLAG_DESCRIPTION"
+msgstr "Повреждения можно исправить в море."
+
+msgid "IDS_PCEF008_IY_SIGNALFLAG"
+msgstr "India Yankee"
+
+msgid "IDS_PCEF008_IY_SIGNALFLAG_DESCRIPTION"
+msgstr "Я могу справиться с пожаром самостоятельно."
+
+msgid "IDS_PCEF009_JY2_SIGNALFLAG"
+msgstr "Juliet Yankee Bissotwo"
+
+msgid "IDS_PCEF009_JY2_SIGNALFLAG_DESCRIPTION"
+msgstr "С течью справляюсь."
+
+msgid "IDS_PCEF010_JC_SIGNALFLAG"
+msgstr "Juliet Charlie"
+
+msgid "IDS_PCEF010_JC_SIGNALFLAG_DESCRIPTION"
+msgstr "Опасности взрыва нет."
+
+msgid "IDS_PCEF012_MY6_SIGNALFLAG"
+msgstr "Mike Yankee Soxisix"
+
+msgid "IDS_PCEF012_MY6_SIGNALFLAG_DESCRIPTION"
+msgstr "Близко подходить к моему судну опасно."
+
+msgid "IDS_PCEF013_PP_SIGNALFLAG_DESCRIPTION"
+msgstr "Держитесь в стороне от меня."
+
+msgid "IDS_PCEF014_NF_SIGNALFLAG"
+msgstr "November Foxtrot"
+
+msgid "IDS_PCEF014_NF_SIGNALFLAG_DESCRIPTION"
+msgstr "Вы идёте к опасности."
+
+msgid "IDS_PCEF016_NE7_SIGNALFLAG"
+msgstr "November Echo Setteseven"
+
+msgid "IDS_PCEF016_NE7_SIGNALFLAG_DESCRIPTION"
+msgstr "Вы должны следовать с особой осторожностью: замечен неприятельский летательный аппарат."
+
+msgid "IDS_PCEF017_VL_SIGNALFLAG"
+msgstr "Victor Lima"
+
+msgid "IDS_PCEF017_VL_SIGNALFLAG_DESCRIPTION"
+msgstr "Приближается тропический циклон. Вы должны принять соответствующие меры предосторожности."
+
+msgid "IDS_PCEF018_IX_SIGNALFLAG"
+msgstr "India X-Ray"
+
+msgid "IDS_PCEF018_IX_SIGNALFLAG_DESCRIPTION"
+msgstr "Пожар усиливается."
+
+msgid "IDS_PCEF019_JW1_SIGNALFLAG"
+msgstr "Juliet Whiskey Unaone"
+
+msgid "IDS_PCEF019_JW1_SIGNALFLAG_DESCRIPTION"
+msgstr "Течь опасна."
+
+msgid "IDS_PCEF028_SMOKE_SIGNALFLAG"
+msgstr "X-Ray Papa Unaone"
+
+msgid "IDS_PCEF028_SMOKE_SIGNALFLAG_DESCRIPTION"
+msgstr "Я вхожу в зону ограниченной видимости."
+
+msgid "IDS_PCEF029_SONAR_AIRDEF_SIGNALFLAG"
+msgstr "Sierra Bravo"
+
+msgid "IDS_PCEF029_SONAR_AIRDEF_SIGNALFLAG_DESCRIPTION"
+msgstr "Я следую к месту происшествия."
 
 msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1"
 msgstr "November"
@@ -64721,7 +64257,7 @@ msgid_plural "IDS_PCQT035_1"
 msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
 
 msgid "IDS_PCQT036_1"
-msgstr "Получите ленту «Стратегический вклад»."
+msgstr "Получите ленту «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_PCQT037_1"
 msgid_plural "IDS_PCQT037_1"
@@ -64803,7 +64339,7 @@ msgstr[0] "Получите %(count)s индивидуальное героич
 
 msgid "IDS_PCQT067_1"
 msgid_plural "IDS_PCQT067_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
 
 msgid "IDS_PCQT068_1"
 msgid_plural "IDS_PCQT068_1"
@@ -64924,7 +64460,7 @@ msgid "IDS_PCQT108_1"
 msgstr "Нанесите %(count)s ед. урона эсминцам противника."
 
 msgid "IDS_PCQT109_1"
-msgstr "Получите ленту «Стратегический вклад»."
+msgstr "Получите ленту «Захват точки»."
 
 msgid "IDS_PCQT110_1"
 msgstr "Нанесите кораблям противника %(count)s ед. урона затоплениями."
@@ -64959,7 +64495,7 @@ msgstr "Получите героическое достижение."
 
 msgid "IDS_PCQT122_1"
 msgid_plural "IDS_PCQT122_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад» или «Тактический вклад»."
+msgstr[0] "Получите %(count)s ленту «Захват точки», «Помощь в захвате» или «Защита точки»."
 
 msgid "IDS_PCQT123_1"
 msgid_plural "IDS_PCQT123_1"
@@ -65026,11 +64562,11 @@ msgstr[0] "Получите %(count)s героическое достижени
 
 msgid "IDS_PCQT140_1"
 msgid_plural "IDS_PCQT140_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_PCQT141_1"
 msgid_plural "IDS_PCQT141_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
 
 msgid "IDS_PCQT142_1"
 msgid_plural "IDS_PCQT142_1"
@@ -65095,7 +64631,7 @@ msgstr[0] "Нанесите %(count)s ед. урона кораблям США.
 
 msgid "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
 msgid_plural "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
 msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
@@ -65126,7 +64662,7 @@ msgstr[0] "Нанесите %(count)s ед. урона кораблям ССС�
 
 msgid "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
 msgid_plural "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
 
 msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
 msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
@@ -65300,7 +64836,7 @@ msgstr[0] "Попадите торпедами по кораблям проти
 
 msgid "IDS_PCQT394_1"
 msgid_plural "IDS_PCQT394_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
 
 msgid "IDS_PCQT395_1"
 msgid_plural "IDS_PCQT395_1"
@@ -65308,7 +64844,7 @@ msgstr[0] "Нанесите %(count)s ед. урона эсминцам."
 
 msgid "IDS_PCQT396_1"
 msgid_plural "IDS_PCQT396_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_PCQT397_1"
 msgid_plural "IDS_PCQT397_1"
@@ -65334,7 +64870,7 @@ msgstr[0] "Сбейте %(count)s самолёт противника."
 
 msgid "IDS_PCQT403_1"
 msgid_plural "IDS_PCQT403_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад» и останьтесь в живых."
+msgstr[0] "Получите %(count)s ленту «Защита точки» и останьтесь в живых."
 
 msgid "IDS_PCQT404_1"
 msgid_plural "IDS_PCQT404_1"
@@ -65374,7 +64910,7 @@ msgstr[0] "Сбейте %(count)s самолёт противника."
 
 msgid "IDS_PCQT417_1"
 msgid_plural "IDS_PCQT417_1"
-msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+msgstr[0] "Получите %(count)s ленту «Защита точки»."
 
 msgid "IDS_PCQT419_1"
 msgid_plural "IDS_PCQT419_1"
@@ -65454,7 +64990,7 @@ msgstr "Заработайте %(count)s кредитов (со всеми м�
 
 msgid "IDS_PCQT512_1"
 msgid_plural "IDS_PCQT512_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_PCQT513_1"
 msgstr "Войдите в топ-3 своей команды по количеству заработанного опыта, одержите победу и получите ленту «Поджёг» или «Затопил»."
@@ -65649,7 +65185,7 @@ msgstr[0] "Получите %(count)s ленту «Попал главным к
 
 msgid "IDS_PCQT660_1"
 msgid_plural "IDS_PCQT660_1"
-msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+msgstr[0] "Получите %(count)s ленту «Захват точки» или «Помощь в захвате»."
 
 msgid "IDS_PCQT661_1"
 msgid_plural "IDS_PCQT661_1"
@@ -65961,7 +65497,7 @@ msgid "IDS_PCVE027_MATCHMAKER_DESCRIPTION"
 msgstr "Сражения броненосных кораблей начала XX в. с артиллерией разных калибров."
 
 msgid "IDS_PCVE028"
-msgstr "Ну, погоди!"
+msgstr "Ловля яиц"
 
 msgid "IDS_PCVE028_DESCRIPTION"
 msgstr "Состязания по ловле яиц."
@@ -66346,69 +65882,6 @@ msgstr "Последний поход «Трансильвании»"
 msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_NAME_RESULT_SCREEN"
 msgstr "Последний поход „Трансильвании“"
 
-msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
-msgstr "ваш корабль будет обездвижен;"
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
-msgstr "за нанесение урона целям со специальными отметками вы получите больше очков."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_DESCRIPTION"
-msgstr "Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы выполните задачу раньше, вы сможете набрать бонусные очки, которые будут учтены в следующем этапе."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_EXTRA_DESCRIPTION"
-msgstr "Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_GOAL"
-msgstr "Нанесите как можно больше урона кораблям противника."
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
-msgstr "Огневая мощь"
-
-msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
-msgstr "Наносите урон кораблям противника."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
-msgstr "ваш корабль будет обездвижен;"
-
-msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
-msgstr "за поражение цитадели кораблей со специальными отметками вы получите больше очков."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_DESCRIPTION"
-msgstr "Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы выполните задачу раньше, вы сможете набрать бонусные очки, которые будут учтены в следующем этапе."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_EXTRA_DESCRIPTION"
-msgstr "Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_GOAL"
-msgstr "Попадите в цитадель кораблей противника как можно больше раз."
-
-msgid "IDS_PCVT002_CITADEL_PRIME_NAME"
-msgstr "Меткость стрельбы"
-
-msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
-msgstr "Попадайте в цитадели кораблей противника."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
-msgstr "ваш корабль будет обездвижен;"
-
-msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
-msgstr "за уничтожение целей со специальными отметками вы получите больше очков."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_DESCRIPTION"
-msgstr "Испытание состоит из 5 этапов, каждый из которых длится 3 минуты. Если вы выполните задачу раньше, вы сможете набрать бонусные очки, которые будут учтены в следующем этапе."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_EXTRA_DESCRIPTION"
-msgstr "Чем больше этапов вы пройдёте, тем больше ресурсов получите по итогам испытания."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_GOAL"
-msgstr "Уничтожьте как можно больше кораблей противника."
-
-msgid "IDS_PCVT003_FRAGS_PRIME_NAME"
-msgstr "Ликвидация целей"
-
-msgid "IDS_PCVT003_FRAGS_PRIME_TASK_DESCR"
-msgstr "Уничтожайте корабли противника."
-
 msgid "IDS_PCZA002_BISMARCK"
 msgstr "Охота на Bismarck"
 
@@ -66630,12 +66103,6 @@ msgstr "Путь победителей"
 
 msgid "IDS_PCZA038_TSAR_MOREY_QUOTES"
 msgstr "«Путь победителей»"
-
-msgid "IDS_PCZA039_UTOPIA"
-msgstr "Utopia Show"
-
-msgid "IDS_PCZA039_UTOPIA_QUOTES"
-msgstr "Utopia Show"
 
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "Bismarck"
@@ -74364,142 +73831,6 @@ msgstr ""
 "\n"
 "— Когда-нибудь, авик... Когда-нибудь..."
 
-msgid "IDS_PCZC939_UTOPIA_1_1"
-msgstr "Человек, который убил Санта-Клауса"
-
-msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
-msgstr ""
-"В 1932 г., в разгар Великой депрессии, владельцы магазинов в городе Меса (штат Аризона) переживали непростые времена. Приближался ежегодный рождественский парад, и предприниматели искали способ привлечь посетителей на него, и, следовательно, к магазинам на его маршруте.\n"
-"\n"
-"Редактор местной газеты Джон Макфи предложил интересную идею: нанять парашютиста, чтобы он в костюме Санта-Клауса спрыгнул из самолёта и приземлился в поле за городом, после чего полиция должна была отвезти его к параду, где он раздал бы подарки.\n"
-"\n"
-"План столкнулся с первым препятствием, когда нанятый парашютист в день парада оказался не в состоянии совершить прыжок. Однако изобретательный Макфи не растерялся: он позаимствовал манекен из одного из магазинов, нарядил его в костюм Санты и посадил в самолёт вместо парашютиста. Поскольку Санта должен был приземлиться за городом, Макфи полагал, что издалека никто не заметит подмены. Когда самолёт набрал достаточную высотку, манекен в костюме Санты вытолкнули наружу, дёрнув кольцо парашюта. В этот ответственный момент парашют не раскрылся, и Санта камнем упал на землю на глазах у собравшихся детей.\n"
-"\n"
-"Макфи снова попытался спасти праздник: он сам надел костюм Санта-Клауса и вышел к детям, чтобы успокоить их. Однако дети были безутешны: они были уверены, что Санта только что разбился насмерть. Макфи даже уехал из города на несколько дней, надеясь, что со временем всё утрясётся. Но ситуация не была забыта, и с тех пор Джон Макфи был известен как «человек, который убил Санта-Клауса»."
-
-msgid "IDS_PCZC940_UTOPIA_1_2"
-msgstr "Автополо"
-
-msgid "IDS_PCZC940_UTOPIA_1_2_DESCRIPTION"
-msgstr ""
-"Автомобильное поло — вид спорта, в котором правила и инвентарь совпадают с конным поло, но вместо лошадей используются автомобили. Автополо появилось в США и было популярно в 1910–20-е гг.\n"
-"\n"
-"Изобретателем автополо считается Ральф Хэнкинсон, агент по продаже автомобилей Ford. Хэнкинсон придумал этот вид спорта в качестве рекламного трюка в 1911 г., чтобы увеличить продажи автомобилей Ford Model T. Первый официальный матч автополо прошёл в люцерновом поле в Уичито (штат Канзас) 20 июля 1912 г., в нём приняли участие восемь игроков на четырёх автомобилях. За игрой наблюдали 5000 зрителей. После этого по всей стране были образованы местные лиги под эгидой Ассоциации автополо, а к 1920-м гг. Нью-Йорк и Чикаго стали основными центрами автополо в США.\n"
-"\n"
-"К концу 1920-х гг. популярность автополо сошла на нет, потому что этот вид спорта оказался крайне опасным для участников и зрителей, а также приводил к дорогостоящему ущербу машинам. Автомобили часто сталкивались, цеплялись друг за друга, игроков выбрасывало из машин на землю, где они попадали под колёса других машин. Как правило, большинство автомобилей были серьёзно повреждены или полностью разрушены к концу матча."
-
-msgid "IDS_PCZC941_UTOPIA_1_3"
-msgstr "Евльский козёл"
-
-msgid "IDS_PCZC941_UTOPIA_1_3_DESCRIPTION"
-msgstr ""
-"В странах Северной Европы одним из символов Рождества является козёл. Празднующие надевают маски козлов и украшают рождественскую ёлку маленькими соломенными фигурками этого животного. В 1966 г. в шведском городе Евле решили построить гигантского рождественского козла из соломы. Фигура была готова 1 декабря: 13 м в высоту, 7 м в длину, вес составил 3 т.\n"
-"\n"
-"В канун Нового года фигура козла сгорела.\n"
-"\n"
-"С тех пор евльский козёл прославился тем, что почти каждый год его поджигают или пытаются уничтожить каким-либо другим образом. С каждым годом городские власти предпринимали всё более строгие меры безопасности, что встречало всё более изобретательные способы вандализма.\n"
-"\n"
-"Однажды козла поджёг 51-летний американский турист — по его словам, он был уверен, что принимает участие в абсолютно законной местной традиции. За козлом было установлено круглосуточное видеонаблюдение, но однажды сайт с видеокамерами был взломан. В один из годов к козлу были приставлены охранники, но из-за сильного холода им пришлось зайти в соседний ресторан, чтобы погреться, — вандалы не упустили эту возможность. На фигуру была установлена мощная противопожарная защита, применяемая в самолётах, но вандалам снова удалось поджечь козла с помощью бензина."
-
-msgid "IDS_PCZC942_UTOPIA_1_4"
-msgstr "Чумной доктор"
-
-msgid "IDS_PCZC942_UTOPIA_1_4_DESCRIPTION"
-msgstr ""
-"Чумной доктор — врач, лечивший бубонную чуму во время эпидемий в Европе XVI–XVII вв. Таких докторов нанимали городские власти для лечения горожан, в особенности бедняков, которым нечем было платить за лечение.\n"
-"\n"
-"У этих врачей сложилась неоднозначная репутация: некоторые горожане воспринимали их появление как знак приближения смерти. Зачастую чумные доктора были не опытными и образованными врачами, а добровольцами или начинающими медиками.\n"
-"\n"
-"Чумные доктора лечили кровопусканием, лягушками и пиявками. Они редко вылечивали больных, их основная задача заключалась в записи количества умерших от чумы для статистики. В некоторых городах чумные доктора производили вскрытие, чтобы установить причину смерти. Иногда чумные доктора записывали последнюю волю умирающих.\n"
-"\n"
-"Неизменными атрибутами образа чумного доктора в культуре стали плащ, маска с длинным клювом, широкополая шляпа и перчатки. Считалось, что болезнь переносится с дурным запахом, а длинный клюв на маске поможет очистить воздух, которым дышит доктор. Однако такой костюм носили далеко не все врачи, лечившие чуму."
-
-msgid "IDS_PCZC943_UTOPIA_2_1"
-msgstr "Гусь в кроссовках"
-
-msgid "IDS_PCZC943_UTOPIA_2_1_DESCRIPTION"
-msgstr ""
-"Энди (1987–1991) — гусь, родившийся без перепончатых частей лап и носивший кроссовки, чтобы иметь возможность стоять и ходить.\n"
-"\n"
-"Гусь Энди родился в 1987 г. и жил на ферме в Небраске. О нём узнал изобретатель и благотворитель Джин Флеминг, который решил помочь гусю. Сначала Флеминг пробовал установить ему протезы, напоминающие скейтборды, но опыт оказался неуспешным. Затем изобретатель попробовал надеть на гуся специально модифицированные детские кроссовки, и в них Энди научился ходить.\n"
-"\n"
-"История Энди привлекла внимание общественности, и крупный производитель обуви предложил гусю пожизненный запас кроссовок — птица изнашивала одну пару в месяц. Считалось, что Энди вдохновлял и вселял надежду в людей с ограниченными возможностями.\n"
-"\n"
-"Энди пропал 19 октября 1991 г. и был найден мёртвым на следующий день в местном парке. Происшествие вызвало общественный резонанс, но злоумышленника найти не удалось. Позже появилась информация, что полиция нашла преступника, но не стала раскрывать его личность, поскольку он был признан неспособным нести ответственность за совершённое."
-
-msgid "IDS_PCZC944_UTOPIA_2_2"
-msgstr "Пальмовый вор"
-
-msgid "IDS_PCZC944_UTOPIA_2_2_DESCRIPTION"
-msgstr ""
-"Пальмовый вор (лат. Birgus latro) — сухопутный рак-отшельник, крупнейшее членистоногое в мире. Его вес может превышать 4 кг, а расстояние между кончиками ног достигает 1 м. Пальмовый вор обитает на островах Индийского и Тихого океанов.\n"
-"\n"
-"Пальмовый вор питается фруктами, орехами, семенами, а также падалью. Этот рак может схватить и утащить оставленную без присмотра пищу. Когда-то считалось, что пальмовый вор может забираться на пальмы и срезать с них кокосы, чтобы затем съесть их мякоть, — именно так он получил своё название. Однако это поверье не нашло научного подтверждения."
-
-msgid "IDS_PCZC945_UTOPIA_2_3"
-msgstr "Гигантская золотая рыбка"
-
-msgid "IDS_PCZC945_UTOPIA_2_3_DESCRIPTION"
-msgstr ""
-"В 2021 г. в озере Онтарио выловили гигантскую золотую рыбку — размером с футбольный мяч. Позже подобные случаи стали происходить и в других озёрах Канады.\n"
-"\n"
-"Самое интересное в том, что эти гигантские золотые рыбки не бывшие питомцы, выпущенные хозяевами в водоёмы, а, скорее всего, их потомки. Естественная среда оказалась крайне благоприятной для золотых рыбок, при этом у них нет природного хищника в местных водах. Учёные говорят, что эти рыбы быстро размножаются: женские особи мечут до 50 000 икринок три раза в год. Золотые рыбки увеличивают свой ареал в водоёмах страны, нанося ущерб местным популяциям рыб и экологии. Они переносят болезни и паразитов, конкурируют с другими рыбами за пищу и пространство.\n"
-"\n"
-"Местным властям пришлось выступить с призывом к канадцам не выпускать своих золотых рыбок в озёра страны."
-
-msgid "IDS_PCZC946_UTOPIA_2_4"
-msgstr "Кот-мэр"
-
-msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
-msgstr ""
-"Стаббс — кот, почётный мэр поселения Талкитна (штат Аляска) в США в 1997–2017 гг.\n"
-"\n"
-"В 1997 г. Лори Стек, управляющая магазином «Нэглиз», обнаружила на парковке коробку с котятами. Стек выбрала Стаббса, потому что у него не было хвоста. Котёнок поселился в магазине, и вскоре о нём узнали многие жители этого маленького города.\n"
-"\n"
-"Легенда гласит, что Стаббс стал мэром после того, как ряд избирателей вписали его имя в бюллетени на выборах. Скептики ставят эту версию под сомнение: Талкитна, будучи маленьким поселением, официально не имеет позиции мэра. Магазин «Нэглиз» служил коту офисом на протяжении всего срока на посту мэра. Каждый день Саббс ходил в соседний ресторан, где пил воду с кошачьей мятой из винного бокала."
-
-msgid "IDS_PCZC947_UTOPIA_3_1"
-msgstr "Камень-питомец"
-
-msgid "IDS_PCZC947_UTOPIA_3_1_DESCRIPTION"
-msgstr ""
-"Камень-питомец — игрушка, созданная в 1975 г. американским копирайтером и предпринимателем Гэри Далом. Камни продавались в специальных упаковках, напоминающих переноски для питомцев — с отверстиями для воздуха и подстилкой из соломы.\n"
-"\n"
-"Идея камня-питомца появилась у Гэри Дала, когда он сидел в баре с друзьями, которые жаловались на сложности ухода за своими домашними животными. Дал предложил продавать камни в качестве идеальных питомцев: их не нужно кормить, выгуливать и мыть, камень не может заболеть и не будет плохо себя вести.\n"
-"\n"
-"Популярность камней-питомцев продлилась полгода, включая рождественский сезон в 1975 г., а уже к февралю следующего года игрушка вышла из производства. Всего Далу удалось продать более миллиона камней-питомцев по четыре доллара за штуку, в результате чего он стал миллионером."
-
-msgid "IDS_PCZC948_UTOPIA_3_2"
-msgstr "Шоколад с рыбой"
-
-msgid "IDS_PCZC948_UTOPIA_3_2_DESCRIPTION"
-msgstr ""
-"Сложно представить себе два продукта, которые так же плохо сочетались бы друг с другом, как шоколад и рыба. Но это только на первый взгляд. Оказывается, даже у такого «невозможного» сочетания есть свои поклонники.\n"
-"\n"
-"Многие производители шоколада добавляют в свою продукцию соль — этим уже сложно кого-то удивить. А некоторые кондитеры идут дальше и выпускают шоколад с солёной рыбой, причём производят такие необычные изделия в нескольких странах. А для тех, кто пока не решился попробовать настоящую шоколадку с рыбой, есть альтернатива: приготовить рыбу с шоколадным соусом."
-
-msgid "IDS_PCZC949_UTOPIA_3_3"
-msgstr "Амбра"
-
-msgid "IDS_PCZC949_UTOPIA_3_3_DESCRIPTION"
-msgstr ""
-"Амбра — твёрдое и воскообразное вещество серого цвета, образующееся в пищеварительной системе кашалотов. Это вещество получило широкое распространение в парфюмерии как фиксатор запаха. В средневековой Европе амбру использовали как лекарство от головной боли, простуды, эпилепсии, а также считалось, что она защищает от чумы.\n"
-"\n"
-"Амбра образуется в желчном пути кашалота. В кусках этого вещества находят клювы гигантских кальмаров, из-за чего считается, что пищеварительная система кашалота образует амбру, чтобы облегчить прохождение твёрдых и острых предметов, попавших в желудок.\n"
-"\n"
-"Это очень редкое вещество: образуется годами, причём только у одного процента кашалотов. При этом она может находиться в океане годами, прежде чем попадёт на берег. Из-за редкости амбры и юридических ограничений на китобойный промысел амбру в парфюмерии вытеснил её синтетический аналог."
-
-msgid "IDS_PCZC950_UTOPIA_3_4"
-msgstr "Васаби"
-
-msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
-msgstr ""
-"Васаби — растение из семейства капустных, характерное для Японии, российского Дальнего Востока и Корейского полуострова.\n"
-"\n"
-"Острый вкус васаби напоминает родственные растения — хрен и горчицу. Корень васаби измельчают до состояния пасты, которая имеет характерный зелёный цвет и резкий запах. Полученную приправу подают с суши и другими блюдами.\n"
-"\n"
-"Уникальный вкус васаби — результат сложного сочетания веществ, получающегося при разрушении клеток растения (считается, что эта особенность появилась в процессе эволюции как защитный механизм). Острота васаби больше стимулирует обоняние, чем вкусовые рецепторы, при этом запах этого растения имеет эффект, аналогичный нашатырю. Исследователи использовали это свойство васаби при создании пожарной сигнализации для людей с нарушениями слуха. Один участник эксперимента проснулся через 10 секунд после того, как в помещении начал распространяться запах васаби."
-
 msgid "IDS_PEARL_HARBOR_JAP"
 msgstr "Koichi Nagata"
 
@@ -74600,13 +73931,13 @@ msgid "IDS_PECULARITY_FILTER_ENTERTAINMENT_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "Заменить внешний вид камуфляжей и командиров категории «Развлекательный контент» в бою и в Порту"
 
 msgid "IDS_PECULARITY_FILTER_EV24SMF"
-msgstr "«Ну, погоди!»"
+msgstr "«Ловля яиц»"
 
 msgid "IDS_PECULARITY_FILTER_EV24SMF_SET_SKIN_TOOLTIP"
-msgstr "Отображать внешний вид камуфляжей и командиров категории «Ну, погоди!» в бою и в Порту"
+msgstr "Отображать внешний вид камуфляжей и командиров категории «Ловля яиц» в бою и в Порту"
 
 msgid "IDS_PECULARITY_FILTER_EV24SMF_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "Заменить внешний вид камуфляжей и командиров категории «Ну, погоди!» в бою и в Порту"
+msgstr "Заменить внешний вид камуфляжей и командиров категории «Ловля яиц» в бою и в Порту"
 
 msgid "IDS_PECULARITY_FILTER_FIRST_APRIL_2023"
 msgstr "Разборка в джакузи"
@@ -76677,11 +76008,11 @@ msgstr "Surcouf"
 
 msgid "IDS_PFSS510_DESCR"
 msgstr ""
-"Уникальный подводный крейсер Surcouf был разработан в середине 1920-х гг. как корабль, способный выполнять роль и подводной лодки, и надводного крейсера.\n"
+"Уникальный подводный крейсер Surcouf был разработан в середине 1920-х гг. в попытках обойти ограничения Вашингтонского морского соглашения за счёт кораблей, способных выполнять роль как подводной лодки, так и надводного крейсера.\n"
 "\n"
-"Вооружение субмарины включало в себя несколько традиционных для французского подводного флота торпедных аппаратов калибром 400 и 500 мм в трёхтрубных установках смешанного типа, несколько малокалиберных зенитных орудий и двухорудийную башенноподобную установку с орудиями калибра 203 мм. Подводная лодка также несла гидросамолёт-разведчик.\n"
+"Вооружение сумбарины включало в себя несколько традиционных для французского подводного флота торпедных аппаратов калибром 400 и 500 мм в трёхтрубных установках смешанного типа, несколько малокалиберных зенитных орудий и двухорудийную башенноподобную установку с орудиями калибра 203 мм. Подводная лодка также несла гидросамолёт-разведчик.\n"
 "\n"
-"Подводный крейсер Surcouf был построен в Шербуре. Летом 1940 г. он ушёл из Бреста в Портсмут, избежав захвата немецкими войсками, однако был интернирован Великобританией в рамках операции «Катапульта». Весной-летом 1941 г. принимал участие в сопровождении атлантических конвоев. Подводный крейсер Surcouf пропал в ночь на 19 февраля 1942 г., предположительно погибнув из-за столкновения с американским сухогрузом."
+"Подводный крейсер Surcouf был построен в Шербуре. Летом 1940 г. он ушёл из Бреста в Портсмут, избежав захвата немецкими войсками, однако был интернирован Великобританией в рамках операции «Катапульта». Весной-летом 1941 г. принимал участие в сопровождении атлантических конвоев. Подводный крейсер Surcouf пропал в ночь на 19 февраля 1942 г., предположительно, погибнув из-за столкновения с американским сухогрузом."
 
 msgid "IDS_PFSS510_FULL"
 msgstr "Surcouf"
@@ -85914,9 +85245,9 @@ msgstr "G. Nani"
 
 msgid "IDS_PISS508_DESCR"
 msgstr ""
-"Тип Marcello являлся развитием больших подводных лодок типа Glauco, заказанных Португалией, но вошедших в состав итальянского флота из-за расторжения контракта. Проект оказался удачным: подводные лодки отличались хорошей манёвренностью, скоростью и количеством вооружения, поэтому всего было заказано 11 кораблей этого типа. Это были однокорпусные подводные лодки с бортовыми булями. По итальянской классификации они принадлежали к «большим крейсерским» (или «океанским») подводным лодкам.\n"
+"Тип Marcello являлся развитием больших подводных лодок типа Glauco, заказанных Португалией, но вошедших в состав итальянского флота из-за расторжения контракта. Проект оказался удачным — подводные лодки отличались хорошей манёвренностью, скоростью и количеством вооружения, — поэтому всего было заказано 11 кораблей этого типа. Это были однокорпусные подводные лодки с бортовыми булями. По итальянской классификации они принадлежали к «большим крейсерским» (или «океанским») подводным лодкам.\n"
 "\n"
-"Giacomo Nani была построена на верфи CRDA в Монфальконе и вошла в состав флота в сентябре 1938 г., будучи приписанной к 2-й эскадре подводных лодок. С началом Второй мировой войны Nani провела три безуспешных похода в Средиземном море, после чего осенью 1940 г. её перевели в Атлантику. Во время своего четвёртого похода подводная лодка потопила шведский угольный транспорт. Giacomo Nani пропала без вести во время своего пятого похода в начале января 1941 г."
+"Giacomo Nani была построена на верфи CRDA в Монфальконе и вошла в состав флота в сентябре 1938 г., будучи приписанной ко 2-й эскадре подводных лодок. С началом Второй мировой войны Nani провела три безуспешных похода в Средиземном море, после чего осенью 1940 г. её перевели в Атлантику. Во время своего четвёртого похода подводная потопила шведский угольный транспорт. Giacomo Nani пропала без вести во время своего пятого похода в начале января 1941 г."
 
 msgid "IDS_PISS508_FULL"
 msgstr "Giacomo Nani"
@@ -96470,9 +95801,6 @@ msgstr "Волжская флотилия"
 msgid "IDS_PRES310_SEVEROMORSK_CEREMONIAL"
 msgstr "Парадный"
 
-msgid "IDS_PRES316_TOP_SECRET"
-msgstr "Utopia Show"
-
 msgid "IDS_PRES317_SINOP_BDAY"
 msgstr "Семь морей"
 
@@ -96498,7 +95826,7 @@ msgid "IDS_PRES333_ADMIRAL_LAZAREV"
 msgstr "Адмиральский"
 
 msgid "IDS_PRES334_NUPOGODI_ISTOMIN"
-msgstr "Ну, погоди!"
+msgstr "Ловля яиц"
 
 msgid "IDS_PRES403_AZUR_AVRORA"
 msgstr "Azur Lane"
@@ -96887,9 +96215,6 @@ msgstr "130-мм/55 обр. 1913 г. на станке Обуховского 
 msgid "IDS_PRGM100_152MM_45_CASEMATE_R"
 msgstr "152-мм/45 обр. 1892 г. на станке Канэ"
 
-msgid "IDS_PRGM101_130MM_B31_TWIN"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-31"
-
 msgid "IDS_PRGM102_12IN52_MOD_1"
 msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
 
@@ -97060,12 +96385,6 @@ msgstr "203-мм/45 обр. 1892 г. в казематной установк�
 
 msgid "IDS_PRGM236_305MM40_TWIN"
 msgstr "305-мм/40 обр. 1895 г. в башенной установке"
-
-msgid "IDS_PRGM244_130MM_58_CM_62"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
-
-msgid "IDS_PRGM246_100MM_TWIN_CM_52"
-msgstr "100-мм/70 в установке СМ-51"
 
 msgid "IDS_PRGM501_130MM_B2LM"
 msgstr "Pewpew"
@@ -97394,6 +96713,9 @@ msgstr "Получение дополнительного уровня дост�
 
 msgid "IDS_PRMP_ITEM_ACCPOINTSCOEFF"
 msgstr "Ускоренное получение уровней доступа"
+
+msgid "IDS_PRMP_ITEM_BARCAPACITY"
+msgstr "Место в Резерве"
 
 msgid "IDS_PRMP_ITEM_CAMOUFLAGE"
 msgstr "Камуфляж"
@@ -98060,18 +97382,6 @@ msgstr "ОФ-32"
 msgid "IDS_PRPA157_180MM_AP_Y_DOLGORUKIY"
 msgstr "ББ-32"
 
-msgid "IDS_PRPA158_130MM_58_HE"
-msgstr "ОФ-42"
-
-msgid "IDS_PRPA159_130MM_58_AP"
-msgstr "ПБ-42"
-
-msgid "IDS_PRPA160_100MM_HE_SOVREMENNY"
-msgstr "ОФ-52"
-
-msgid "IDS_PRPA161_100MM_AP_SOVREMENNY"
-msgstr "ББ-52"
-
 msgid "IDS_PRPA188_305MM_AP_STALINGRAD_2"
 msgstr "305-мм ББ обр. 1928 г."
 
@@ -98531,24 +97841,6 @@ msgstr "Торпеда обр. 1895 г."
 msgid "IDS_PRPT081_BOYKIY"
 msgstr "Торпеда обр. 1895 г."
 
-msgid "IDS_PRPT082_SOOBRAZITELNY"
-msgstr "53-38 мод. 1"
-
-msgid "IDS_PRPT083_OSMOTRITELNY"
-msgstr "53-38 мод. 2"
-
-msgid "IDS_PRPT084_SMELY"
-msgstr "53-39 мод. 2"
-
-msgid "IDS_PRPT085_SPOKOINY"
-msgstr "53-50 мод. 1"
-
-msgid "IDS_PRPT086_GORDELIVY"
-msgstr "53-50 мод. 2"
-
-msgid "IDS_PRPT087_SOVREMENNY"
-msgstr "53-39 мод. 5"
-
 msgid "IDS_PRPT999_53_TST_SUB"
 msgstr "53-51"
 
@@ -99004,28 +98296,6 @@ msgstr "1"
 
 msgid "IDS_PRSB520_YEAR"
 msgstr "1938 г."
-
-msgid "IDS_PRSB526"
-msgstr "Топ Сикрет"
-
-msgid "IDS_PRSB526_DESCR"
-msgstr ""
-"28 октября 1943 г. ВМС США провели в Филадельфии секретный эксперимент под кодовым названием «Проект „Радуга“», в ходе которого эсминец USS Eldridge переместился в пространстве на несколько десятков километров. Секретные службы пытаются заставить нас поверить, что история о Филадельфийском эксперименте — всего лишь мистификация, но мы знаем ПРАВДУ.\n"
-"\n"
-"В 1947 г., вскоре после инцидента в Розуэлле, правительство продолжило эксперименты. Мы обладаем многочисленными свидетельствами очевидцев (которых мы не будем раскрывать в целях их безопасности), что у побережья Филадельфии, в сухом озере Грум-Лейк, а также близ Бермудского треугольника был замечен линейный крейсер советского проекта, который якобы никогда не был построен.\n"
-"\n"
-"Мы можем предполагать, что правительство, используя технологии пришельцев в Зоне 51, смогло обнаружить нечто невообразимое... И скрывает от нас.\n"
-"\n"
-"Хотелось бы верить. Но верится с трудом."
-
-msgid "IDS_PRSB526_FULL"
-msgstr "Топ Сикрет"
-
-msgid "IDS_PRSB526_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSB526_YEAR"
-msgstr "???"
 
 msgid "IDS_PRSB528"
 msgstr "Бородино"
@@ -99902,21 +99172,6 @@ msgstr "0"
 msgid "IDS_PRSC910_YEAR"
 msgstr "1953 г."
 
-msgid "IDS_PRSC916"
-msgstr "Макаров У"
-
-msgid "IDS_PRSC916_DESCR"
-msgstr "Копия корабля «Адмирал Макаров» для Учебных испытаний и Операций."
-
-msgid "IDS_PRSC916_FULL"
-msgstr "Макаров (учебный)"
-
-msgid "IDS_PRSC916_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSC916_YEAR"
-msgstr "1935 г."
-
 msgid "IDS_PRSC970"
 msgstr "Иван Калита"
 
@@ -100232,42 +99487,6 @@ msgstr "0"
 msgid "IDS_PRSD210_YEAR"
 msgstr "1944 г."
 
-msgid "IDS_PRSD218"
-msgstr "Опытный"
-
-msgid "IDS_PRSD218_DESCR"
-msgstr ""
-"Ознакомившись с опытом немецких кораблестроителей, начальник ЦКБС-1 В. Бжезинский предложил построить корабль, на котором использовались бы котлы с повышенными параметрами пара, что значительно снижает вес котлотурбинной установки. Прямоточные котлы спроектировал профессор Л. Рамзин — давление пара в них должно было втрое превышать показатели котлов эсминцев проекта 7. За счёт снижения веса КТУ было решено усилить вооружение корабля, для чего были спроектированы спаренные артустановки Б-31. Эскизный проект получил индекс 45.\n"
-"\n"
-"Корабль строился на заводе им. Жданова в Ленинграде под именем «Серго Орджоникидзе», а в 1940 г. ещё не достроенный корабль переименовали в «Опытный». Артиллерийские установки Б-31 не вышли из стадии эскизного проектирования, и эсминец вооружили тремя установками Б-13. С началом войны корабль в срочном порядке ввели в строй и в сентябре 1941 г. зачислили в состав флота. В октябре корабль получил повреждения от вражеского огня и встал на ремонт. В 1942–44 гг. «Опытный» поддерживал огнём войска Ленинградского фронта."
-
-msgid "IDS_PRSD218_FULL"
-msgstr "Опытный"
-
-msgid "IDS_PRSD218_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD218_YEAR"
-msgstr "1941 г."
-
-msgid "IDS_PRSD306"
-msgstr "Сообразительный"
-
-msgid "IDS_PRSD306_DESCR"
-msgstr ""
-"В процессе постройки эскадренных миноносцев проекта 7 перед руководством ВМС встал вопрос об уязвимости кораблей с линейным расположением котлотурбинной установки, которая могла выйти из строя из-за попадания единственного снаряда или торпеды. В 1938 г. специалистами ЦКБ-17 и Северной верфи им. Жданова был разработан улучшенный проект с индексом 7У: линейное расположение КТУ заменялось на эшелонное. В течение 1938–39 гг. корабли, строившиеся в Ленинграде и Николаеве, были перезаложены по новому проекту.\n"
-"\n"
-"Эсминец был заложен по проекту 7 в октябре 1936 г. на Судостроительном заводе № 200 имени 61 коммунара в Николаеве. В марте 1939 г. корабль был перезаложен по проекту 7У, получив имя «Сообразительный». В начале Великой Отечественной войны корабль участвовал в набеге на Констанцу, в обороне Одессы и в Керченско-Феодосийской десантной операции. В 1942 г. эсминец сражался при обороне Севастополя, а в 1943 г. участвовал в набеговых операциях. «Сообразительный» был удостоен звания гвардейского корабля, а после войны служил в составе Черноморского флота."
-
-msgid "IDS_PRSD306_FULL"
-msgstr "Сообразительный"
-
-msgid "IDS_PRSD306_NUMBER"
-msgstr "18"
-
-msgid "IDS_PRSD306_YEAR"
-msgstr "1941 г."
-
 msgid "IDS_PRSD308"
 msgstr "Киев"
 
@@ -100297,78 +99516,6 @@ msgstr "0"
 
 msgid "IDS_PRSD310_YEAR"
 msgstr "1936 г."
-
-msgid "IDS_PRSD317"
-msgstr "Осмотрительный"
-
-msgid "IDS_PRSD317_DESCR"
-msgstr ""
-"В начале августа 1937 г. на совещании Комитета обороны было решено отказаться от дальнейшего строительства эсминцев проекта 7, а вместо них спроектировать новый эсминец с учётом опыта войны в Испании. Тактико-техническое задание на проект эсминца, получивший индекс 30, было утверждено в ноябре 1937 г. Разработка велась КБ завода № 190 в Ленинграде. Корабль должен был быть частично унифицирован с лидером проекта 48, в том числе в плане артиллерии (лидер нёс три спаренные установки, эсминец — две).\n"
-"\n"
-"«Осмотрительный» был заложен в Северодвинске 5 мая 1940 г., спущен на воду в августе 1944 г. Корабль вступил в строй 29 сентября 1947 г., войдя в состав Северного флота, в котором прослужил 11 лет."
-
-msgid "IDS_PRSD317_FULL"
-msgstr "Осмотрительный"
-
-msgid "IDS_PRSD317_NUMBER"
-msgstr "10"
-
-msgid "IDS_PRSD317_YEAR"
-msgstr "1947 г."
-
-msgid "IDS_PRSD318"
-msgstr "Смелый"
-
-msgid "IDS_PRSD318_DESCR"
-msgstr ""
-"После окончания Второй мировой войны была принята новая программа военного кораблестроения. После ряда корректировок планов к постройке были заказаны эсминцы проекта 30-бис, являвшегося улучшенной вариацией проекта 30. От исходного проекта 30-бис отличался увеличенными размерами, улучшенной мореходностью и усиленной зенитной артиллерией. Насчитывая 70 эсминцев, проект 30-бис является самой крупной серией советских надводных боевых кораблей.\n"
-"\n"
-"«Смелый» был заложен в мае 1948 г. в Ленинграде, спущен на воду в сентябре того же года и в марте 1951 г. вступил в строй. В 1953–55 гг. годах корабль служил в составе 8-го флота, а после его расформирования — в Балтийском флоте. В феврале 1960 г. «Смелый» был переведён на Северный флот."
-
-msgid "IDS_PRSD318_FULL"
-msgstr "Смелый"
-
-msgid "IDS_PRSD318_NUMBER"
-msgstr "70"
-
-msgid "IDS_PRSD318_YEAR"
-msgstr "1951 г."
-
-msgid "IDS_PRSD319"
-msgstr "Спокойный"
-
-msgid "IDS_PRSD319_DESCR"
-msgstr ""
-"В 1952 г. было решено отказаться от серийной постройки кораблей по проекту 41, а в качестве альтернативы был предложен проект модернизированного эсминца меньшего водоизмещения. В 1951–53 гг. был разработан эскизный проект, получивший индекс 56, отличавшийся от прототипа прежде всего формой корпуса и уменьшенным водоизмещением.\n"
-"\n"
-"«Спокойный» был заложен в марте 1953 г. на заводе им. Жданова в Ленинграде, спущен на воду в ноябре того же года и вступил в строй в июне 1956 г. После прохождения испытаний корабль был переведён в состав Северного флота. После ремонта 1964–66 гг. эсминец служил на Балтике, в 1970 г. принимал участие в крупных военных учениях «Океан-70». C 1978 г. служил в составе 7-й оперативной (Атлантической) эскадры ВМФ СССР."
-
-msgid "IDS_PRSD319_FULL"
-msgstr "Спокойный"
-
-msgid "IDS_PRSD319_NUMBER"
-msgstr "27"
-
-msgid "IDS_PRSD319_YEAR"
-msgstr "1956 г."
-
-msgid "IDS_PRSD320"
-msgstr "Горделивый"
-
-msgid "IDS_PRSD320_DESCR"
-msgstr ""
-"Вступившие в строй в середине 1950-х гг. эскадренные миноносцы проекта 56, хоть и отличались хорошей мореходностью, были не вполне удовлетворительны по ходкости, а надстройки, выполненные из дюралюминия, страдали от вибрации и деформаций. Кроме того, проект 56 отличался плохими условиями обитаемости, а из-за стеснённости помещений он обладал низким модернизационным потенциалом.\n"
-"\n"
-"Самым рациональным путём устранения этих недостатков было проектирование нового эсминца в размерениях корабля проекта 41, но на новом техническом уровне и с применением новейших радиотехнических средств и вооружения. Это позволило бы сократить экипаж и повысить энергетическую эффективность корабля. Но к середине 1960-х гг. все передовые державы уже строили корабли с управляемым ракетным вооружением, и СССР не стал проектировать исключительно артиллерийский корабль, отдав предпочтение ракетному проекту 57-бис."
-
-msgid "IDS_PRSD320_FULL"
-msgstr "Горделивый"
-
-msgid "IDS_PRSD320_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD320_YEAR"
-msgstr "1957 г."
 
 msgid "IDS_PRSD409"
 msgstr "Ташкент"
@@ -100407,7 +99554,7 @@ msgid "IDS_PRSD502_DESCR"
 msgstr ""
 "Проект 350-тонных миноносцев типа «Буйный» был заказан британской фирме Yarrow в 1897 г. Разработанный проект был основан на построенной для Японии серии миноносцев типа Ikazuchi. Корабли строились в Санкт-Петербурге в 1901–02 гг.\n"
 "\n"
-"«Бойкий» являлся головным кораблём серии из десяти миноносцев, был заложен в июне 1901 г. и спущен на воду в августе того же года. В Русско-японскую войну принимал участие в боях с миноносцами, сражался в битве в Жёлтом море. В декабре 1904 г., перед сдачей Порт-Артура, прорвался в Чифу, где был интернирован. Входил в состав Сибирской флотилии, в перерыве между войнами прошёл ремонт с модернизацией.\n"
+"«Бойкий» являлся головным кораблём серии из десяти миноносцев, заложен в июне 1901 г. и спущен на воду в августе того же года. В Русско-японскую войну принимал участие в боях с миноносцами, сражался в битве в Жёлтом море. В декабре 1904 г., перед сдачей Порт-Артура, прорвался в Чифу, где был интернирован. Входил в состав Сибирской флотилии, в перерыве между войнами прошёл ремонт с модернизацией.\n"
 "\n"
 "В 1914–22 гг. находился в порту Владивостока на хранении. Во время оккупации Владивостока войсками Антанты корабль был захвачен французскими силами и переименован в Quentin Roosevelt. После ухода интервентов миноносец больше не вводился в строй."
 
@@ -100449,24 +99596,6 @@ msgstr "3"
 
 msgid "IDS_PRSD507_YEAR"
 msgstr "1936 г."
-
-msgid "IDS_PRSD509"
-msgstr "Современный"
-
-msgid "IDS_PRSD509_DESCR"
-msgstr ""
-"Из восьми заложенных лидеров проекта 48 только два были спущены на воду. В 1944–50 гг. в ЦКБ-17 и в конструкторском бюро завода № 444 велись работы по эскизному проектированию корабля с индексом 48-К, но в 1950 г. Министерство судостроения СССР приняло решение отменить достройку лидеров и переоборудовать корпуса в корабли-мишени. К этому времени корабли уже классифицировались как эскадренные миноносцы, а не лидеры.\n"
-"\n"
-"Корпус «Еревана» был потоплен в 1957 г. на испытаниях ракеты КСЩ, но корпус «Киева» в начале 1960-х гг. перевели с Каспия, где он находился в качестве опытового судна, обратно в Николаев. По некоторым данным, рассматривались разные концепции достройки корабля: от эсминца с управляемым ракетным оружием до опытного носителя испытываемых систем вооружения. В случае достройки корпуса бывшего «Киева» как артиллерийского эсминца он мог бы получить современное вооружение из универсальных 100-мм артустановок, новейших РБУ и т. д."
-
-msgid "IDS_PRSD509_FULL"
-msgstr "Современный"
-
-msgid "IDS_PRSD509_NUMBER"
-msgstr "1"
-
-msgid "IDS_PRSD509_YEAR"
-msgstr "1962 г."
 
 msgid "IDS_PRSD517"
 msgstr "Ташкент '39"
@@ -100744,9 +99873,6 @@ msgstr "180-мм/57 обр. 1932 г. в установке МК-3-180"
 msgid "IDS_PRUA451_130_55_KK"
 msgstr "130-мм/55 обр. 1913 г. на станке Обуховского з-да"
 
-msgid "IDS_PRUA500_ART_TOP_SECRET"
-msgstr "356-мм/52 обр. 1913 г. в башне Металлического з-да"
-
 msgid "IDS_PRUA501_C6_ART_STOCK"
 msgstr "152-мм/57 Б-38 в установке МК-5"
 
@@ -100764,12 +99890,6 @@ msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
 
 msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
 msgstr "180-мм/57 обр. 1932 г. в установке МК-3-180"
-
-msgid "IDS_PRUA507_D6_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-13-IIc"
-
-msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
-msgstr "150-мм/60 SK C/25 в установке Drh Tr C/28"
 
 msgid "IDS_PRUA511_180_MK3_MOLOTOV"
 msgstr "180-мм/57 обр. 1932 г. в установке МК-3-180"
@@ -100800,9 +99920,6 @@ msgstr "130-мм/50 обр. 1936 г. в установке Б-13"
 
 msgid "IDS_PRUA604_B7_ART_STOCK"
 msgstr "406-мм/45 в установке МК-2-16"
-
-msgid "IDS_PRUA605_D7_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
 
 msgid "IDS_PRUA611_D7_ART_STOCK"
 msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
@@ -100854,12 +99971,6 @@ msgstr "406-мм/52 в установке МК-3-16"
 
 msgid "IDS_PRUA714_ART_FRUNZE"
 msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
-
-msgid "IDS_PRUA715_D8_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
-
-msgid "IDS_PRUA716_D8_ART_STOCK"
-msgstr "130-мм/50 обр. 1936 г. в установке Б-31"
 
 msgid "IDS_PRUA721_D8_ART_STOCK"
 msgstr "130-мм/50 обр. 1936 г. в установке Б-2ЛМ"
@@ -100927,9 +100038,6 @@ msgstr "406-мм/50 Б-37 в установке МК-1-406"
 msgid "IDS_PRUA819_ART_SVERDLOVSK"
 msgstr "240-мм/60 в установке МК-3-240"
 
-msgid "IDS_PRUA820_D9_ART_STOCK"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-2-1"
-
 msgid "IDS_PRUA821_C9_ART_STOCK"
 msgstr "180-мм/57 обр. 1932 г. в установке МК-3-180М"
 
@@ -100938,9 +100046,6 @@ msgstr "305-мм/54 Б-50 в установке МК-15"
 
 msgid "IDS_PRUA823_ART_NEUSTR"
 msgstr "130-мм/58 обр. 1957 г. в установке СМ-2-1"
-
-msgid "IDS_PRUA824_ART_SOVREMENNY"
-msgstr "100-мм/70 в установке СМ-51"
 
 msgid "IDS_PRUA830_BB8_ART_BORODINO"
 msgstr "406-мм/50 Б-37 в установке МК-1"
@@ -101010,9 +100115,6 @@ msgstr "406-мм/52 в установке МК-5-16"
 
 msgid "IDS_PRUA921_ART_CRUISER_TEST"
 msgstr "180-мм/65 СМ-45 в установке СМ-48"
-
-msgid "IDS_PRUA922_D10_ART_STOCK"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
 
 msgid "IDS_PRUA930_D11_ART_STOCK"
 msgstr "130-мм/60 в установке БЛ-109А"
@@ -101173,9 +100275,6 @@ msgstr "ЭУ 110 000 л.с."
 msgid "IDS_PRUE451_ENGINE_50000_KK"
 msgstr "ЭУ 50 000 л.с."
 
-msgid "IDS_PRUE500_ENG_TOP_SECRET"
-msgstr "ЭУ 75 000 л.с."
-
 msgid "IDS_PRUE501_D6_ENG_STOCK"
 msgstr "ЭУ 52 200 л.с."
 
@@ -101194,14 +100293,8 @@ msgstr "ЭУ 97 500 л.с."
 msgid "IDS_PRUE506_ENG_KERCH"
 msgstr "ЭУ 128 000 л.с."
 
-msgid "IDS_PRUE507_D6_ENG_STOCK"
-msgstr "ЭУ 54 000 л.с."
-
 msgid "IDS_PRUE508_ENG_BLACK_MOLOTOV"
 msgstr "ЭУ 110 000 л.с."
-
-msgid "IDS_PRUE509_ENG_MAKAROV_CHALLENGE"
-msgstr "ЭУ 60 000 л.с."
 
 msgid "IDS_PRUE511_C6_ENG_STOCK"
 msgstr "ЭУ 130 000 л.с."
@@ -101235,9 +100328,6 @@ msgstr "ЭУ 110 000 л.с."
 
 msgid "IDS_PRUE605_B7_ENG_STOCK"
 msgstr "ЭУ 86 000 л.с."
-
-msgid "IDS_PRUE606_D7_ENG_STOCK"
-msgstr "ЭУ 60 810 л.с."
 
 msgid "IDS_PRUE611_C7_ENG_STOCK"
 msgstr "ЭУ 126 500 л.с."
@@ -101311,12 +100401,6 @@ msgstr "ЭУ 124 600 л.с."
 msgid "IDS_PRUE722_ENG_FRUNZE"
 msgstr "ЭУ 130 000 л.с."
 
-msgid "IDS_PRUE723_D8_ENG_STOCK"
-msgstr "ЭУ 62 100 л.с."
-
-msgid "IDS_PRUE724_D8_ENG_STOCK"
-msgstr "ЭУ 70 000 л.с."
-
 msgid "IDS_PRUE801_D9_ENG_STOCK"
 msgstr "ЭУ 84 500 л.с."
 
@@ -101373,12 +100457,6 @@ msgstr "ЭУ 150 000 л.с."
 
 msgid "IDS_PRUE819_ENG_YURI_DOLGORUKIY"
 msgstr "ЭУ 210 000 л.с."
-
-msgid "IDS_PRUE820_D9_ENG_STOCK"
-msgstr "ЭУ 72 000 л.с."
-
-msgid "IDS_PRUE821_ENG_SOVREMENNY"
-msgstr "ЭУ 90 000 л.с."
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "ЭУ 210 000 л.с."
@@ -101454,9 +100532,6 @@ msgstr "ЭУ 200 000 л.с."
 
 msgid "IDS_PRUE923_ENG_CRUISER_TEST"
 msgstr "ЭУ 192 000 л.с."
-
-msgid "IDS_PRUE924_D10_ENG_STOCK"
-msgstr "ЭУ 76 000 л.с."
 
 msgid "IDS_PRUE930_D11_ENG_STOCK"
 msgstr "ЭУ 130 000 л.с."
@@ -101698,15 +100773,6 @@ msgstr "С-1 (B)"
 msgid "IDS_PRUH515_HULL_BLACK_MOLOTOV"
 msgstr "Молотов Ч."
 
-msgid "IDS_PRUH516_HULL_TOP_SECRET"
-msgstr "Топ Сикрет"
-
-msgid "IDS_PRUH517_D6_HULL_STOCK"
-msgstr "Сообразительный"
-
-msgid "IDS_PRUH518_HULL_MAKAROV_CHALLENGE"
-msgstr "Адмирал Макаров"
-
 msgid "IDS_PRUH521_MOLOTOV"
 msgstr "Молотов"
 
@@ -101742,9 +100808,6 @@ msgstr "Ташкент '39"
 
 msgid "IDS_PRUH608_B7_HULL_A"
 msgstr "Адмирал Сенявин"
-
-msgid "IDS_PRUH610_D7_HULL_STOCK"
-msgstr "Осмотрительный"
 
 msgid "IDS_PRUH611_SCHORS_A"
 msgstr "Щорс (A)"
@@ -101845,12 +100908,6 @@ msgstr "С-189 Ч."
 msgid "IDS_PRUH730_HULL_FRUNZE"
 msgstr "Фрунзе"
 
-msgid "IDS_PRUH731_D8_HULL_STOCK"
-msgstr "Смелый"
-
-msgid "IDS_PRUH732_D8_HULL_STOCK"
-msgstr "Опытный"
-
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "Киев (A)"
 
@@ -101932,12 +100989,6 @@ msgstr "Свердловск"
 msgid "IDS_PRUH827_HULL_YURI_DOLGORUKIY"
 msgstr "Юрий Долгорукий"
 
-msgid "IDS_PRUH828_D9_HULL_STOCK"
-msgstr "Спокойный"
-
-msgid "IDS_PRUH829_HULL_SOVREMENNY"
-msgstr "Современный"
-
 msgid "IDS_PRUH830_BB8_HULL_BORODINO"
 msgstr "Бородино"
 
@@ -102012,9 +101063,6 @@ msgstr "Адмирал Лазарев"
 
 msgid "IDS_PRUH923_HULL_CRUISER_TEST"
 msgstr "Иван Калита"
-
-msgid "IDS_PRUH924_D10_HULL_STOCK"
-msgstr "Горделивый"
 
 msgid "IDS_PRUH930_D11_HULL_STOCK"
 msgstr "Зоркий"
@@ -102289,15 +101337,6 @@ msgstr "СУО VI мод. 1"
 msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
 msgstr "СУО VI"
 
-msgid "IDS_PRUS508_SUO_TOP_SECRET"
-msgstr "СУО VI"
-
-msgid "IDS_PRUS509_D6_SUO_STOCK"
-msgstr "СУО VI"
-
-msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
-msgstr "СУО VI мод. 1"
-
 msgid "IDS_PRUS511_SUO"
 msgstr "СУО VI мод. 1"
 
@@ -102339,9 +101378,6 @@ msgstr "СУО VII мод. 1"
 
 msgid "IDS_PRUS606_B7_SUO_STOCK"
 msgstr "СУО VII мод. 1"
-
-msgid "IDS_PRUS608_D7_SUO_STOCK"
-msgstr "СУО VII"
 
 msgid "IDS_PRUS611_SUO"
 msgstr "СУО VII мод. 1"
@@ -102385,9 +101421,6 @@ msgstr "СУО VIII мод. 1"
 msgid "IDS_PRUS709_SUO_FRUNZE"
 msgstr "СУО VIII"
 
-msgid "IDS_PRUS710_D8_SUO_STOCK"
-msgstr "СУО VIII"
-
 msgid "IDS_PRUS711_SUO_KUTUZOV"
 msgstr "СУО VIII мод. 1"
 
@@ -102426,9 +101459,6 @@ msgstr "СУО VIII мод. 2"
 
 msgid "IDS_PRUS723_SUO_P_BAGRATION"
 msgstr "СУО VIII мод. 1"
-
-msgid "IDS_PRUS724_D8_SUO_STOCK"
-msgstr "СУО VIII"
 
 msgid "IDS_PRUS801_SUO"
 msgstr "СУО IX мод. 1"
@@ -102508,12 +101538,6 @@ msgstr "СУО IX"
 msgid "IDS_PRUS826_SUO_YURI_DOLGORUKIY"
 msgstr "СУО IX"
 
-msgid "IDS_PRUS827_D9_SUO_STOCK"
-msgstr "СУО IX"
-
-msgid "IDS_PRUS828_SUO_SOVREMENNY"
-msgstr "СУО IX"
-
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
 msgstr "СУО VIII мод. 1"
 
@@ -102576,9 +101600,6 @@ msgstr "СУО X мод. 1"
 
 msgid "IDS_PRUS919_SUO_CRUISER_TEST"
 msgstr "СУО X мод. 1"
-
-msgid "IDS_PRUS920_D10_SUO_STOCK"
-msgstr "СУО X"
 
 msgid "IDS_PRUS930_D11_SUO_STOCK"
 msgstr "СУО XI мод. 1"
@@ -102694,12 +101715,6 @@ msgstr "533-мм Si 270"
 msgid "IDS_PRUT503_TORP_BLACK_MOLOTOV"
 msgstr "53-38"
 
-msgid "IDS_PRUT504_D6_TORP_STOCK"
-msgstr "53-39"
-
-msgid "IDS_PRUT505_TORP_MAKAROV_CHALLENGE"
-msgstr "G7a T1"
-
 msgid "IDS_PRUT511_D6_TORP_STOCK"
 msgstr "53-38"
 
@@ -102742,9 +101757,6 @@ msgstr "53-38У"
 msgid "IDS_PRUT605_TORP_TASHKENT39"
 msgstr "53-38У"
 
-msgid "IDS_PRUT606_D7_TORP_STOCK"
-msgstr "53-39 мод. 4"
-
 msgid "IDS_PRUT611_C7_TORP_STOCK"
 msgstr "53-39 мод. 1"
 
@@ -102786,12 +101798,6 @@ msgstr "53-51"
 
 msgid "IDS_PRUT712_TORP_OCHAKOV"
 msgstr "53-39 мод. 3"
-
-msgid "IDS_PRUT713_D8_TORP_STOCK"
-msgstr "53-51"
-
-msgid "IDS_PRUT714_D8_TORP_STOCK"
-msgstr "53-38"
 
 msgid "IDS_PRUT721_D8_TORP_STOCK"
 msgstr "53-38У"
@@ -102840,12 +101846,6 @@ msgstr "53-38"
 
 msgid "IDS_PRUT813_TORP_SCHERBAKOV"
 msgstr "53-38"
-
-msgid "IDS_PRUT814_TORP_SOVREMENNY"
-msgstr "53-51"
-
-msgid "IDS_PRUT815_D9_TORP_STOCK"
-msgstr "53-51"
 
 msgid "IDS_PRUT900_TORP_VLADIMIR_MONOMAKH"
 msgstr "53-51"
@@ -102896,9 +101896,6 @@ msgid "IDS_PRUT916_S11_TORP_STOCK"
 msgstr "533-мм"
 
 msgid "IDS_PRUT917_TORP_CRUISER_TEST"
-msgstr "53-51"
-
-msgid "IDS_PRUT918_D10_TORP_STOCK"
 msgstr "53-51"
 
 msgid "IDS_PRUT930_D11_TORP_STOCK"
@@ -103018,18 +102015,6 @@ msgstr "76-мм/40 Ansaldo Model 1916 в установке RM1916"
 msgid "IDS_PSGA040_20MM_70_SCOTTI_ISOTTA_FRASCHINI_M1939"
 msgstr "20-мм/70 Scotti-Isotta Fraschini Mod.1941 на станке Mod.1939"
 
-msgid "IDS_PSGA062_40MM_BOFORS_MARK_IV_HAZEMEYER"
-msgstr "40-мм/56 OQF Mk.1/2 в установке Mk.IV"
-
-msgid "IDS_PSGA063_20MM_OERLIKON_MK4"
-msgstr "20-мм Oerlikon Mk.I в установке Mk.IIA"
-
-msgid "IDS_PSGA065_2_PDR_MKVII_QUAD"
-msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VII"
-
-msgid "IDS_PSGA066_20MM_OERLIKON_MK_V"
-msgstr "20-мм Oerlikon Mk.II в установке Mk.V"
-
 msgid "IDS_PSGM001_203MM50_BL_MODEL_1924_MARK_D"
 msgstr "203-мм/50 BL Model 1924 Mk.D в башенной установке"
 
@@ -103075,9 +102060,6 @@ msgstr "203-мм/53 Model 1927 в башенной установке"
 msgid "IDS_PSGM059_381MM_50_QUAD_OTTO"
 msgstr "381-мм/50 Model 1934 в башенной установке"
 
-msgid "IDS_PSGM061_12IN50_MK_XV"
-msgstr "305-мм/50 VSM Mark H в башенной установке"
-
 msgid "IDS_PSGS002_120MM45_MARK_F"
 msgstr "120-мм/45 Mk.F в щитовой установке"
 
@@ -103098,9 +102080,6 @@ msgstr "152-мм/55 Model 1936 в установке Model 1936"
 
 msgid "IDS_PSGS060_105_MM_SKC_37"
 msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
-
-msgid "IDS_PSGS064_114MM_45_MKIII"
-msgstr "113-мм/45 QF Mk.I/III в установке RP10 Mark II BD"
 
 msgid "IDS_PSGT001_INVISIBLE_TA"
 msgstr "533-мм 3-трубный"
@@ -103216,15 +102195,6 @@ msgstr "381-мм proiettili HE"
 msgid "IDS_PSPA030_381MM_AP_CONQUISTADOR"
 msgstr "381-мм proiettili AP"
 
-msgid "IDS_PSPA031_305MM_HE_MADRID"
-msgstr "305-мм HE Mk IIb"
-
-msgid "IDS_PSPA032_305MM_AP_MADRID"
-msgstr "305-мм AP Mk VIb"
-
-msgid "IDS_PSPA033_114MM_MII_HE"
-msgstr "113-мм HE 5crh"
-
 msgid "IDS_PSPD901_DEPTH_T5"
 msgstr "350-pound Depth Bomb"
 
@@ -103263,9 +102233,6 @@ msgstr "533-мм Mk IV ES"
 
 msgid "IDS_PSPT008_533_NUMANCIA"
 msgstr "533-мм MKIV* ES"
-
-msgid "IDS_PSPT009_MADRID"
-msgstr "533-мм Mk VIII ES"
 
 msgid "IDS_PSSB510"
 msgstr "Conquistador"
@@ -103462,21 +102429,6 @@ msgstr "1"
 msgid "IDS_PSSC508_YEAR"
 msgstr "1926 г."
 
-msgid "IDS_PSSC510"
-msgstr "Madrid"
-
-msgid "IDS_PSSC510_DESCR"
-msgstr "После гражданской войны испанские кораблестроители, в частности верфь в Ферроле, занимались разработкой новых кораблей. В 1938 г. было проработано пять проектов эсминцев и несколько проектов крейсеров водоизмещением от 7 920 до 19 000 т. Крупнейшим из них был проект 138, причём у него было несколько вариантов, которые различались главным калибром орудий. Одним из основных был вариант постройки крейсера с двухорудийными башнями от линкора España, погибшего у берегов Сантандера во время гражданской войны. Линкор был поднят — корпус восстановлению не подлежал, но его 305-мм орудия планировалось использовать либо в целях береговой обороны, либо для постройки новых крейсеров."
-
-msgid "IDS_PSSC510_FULL"
-msgstr "Madrid"
-
-msgid "IDS_PSSC510_NUMBER"
-msgstr "1"
-
-msgid "IDS_PSSC510_YEAR"
-msgstr "1938 г."
-
 msgid "IDS_PSSC809"
 msgstr "Andalucía CLR"
 
@@ -103552,9 +102504,6 @@ msgstr "254-мм/60 в башенной установке"
 msgid "IDS_PSUA903_ART_CONQUISTADOR"
 msgstr "381-мм/50 Model 1934 в башенной установке"
 
-msgid "IDS_PSUA904_ART_MADRID"
-msgstr "305-мм/50 VSM Mark H в башенной установке"
-
 msgid "IDS_PSUE001_C1_ENG_STOCK"
 msgstr "ЭУ 10 500 л.с."
 
@@ -103599,9 +102548,6 @@ msgstr "ЭУ 200 000 л.с."
 
 msgid "IDS_PSUE903_ENG_CONQUISTADOR"
 msgstr "ЭУ 160 000 л.с."
-
-msgid "IDS_PSUE904_ENG_MADRID"
-msgstr "ЭУ 135 560 л.с."
 
 msgid "IDS_PSUH001_C1_HULL_STOCK"
 msgstr "Júpiter"
@@ -103668,9 +102614,6 @@ msgstr "Castilla"
 
 msgid "IDS_PSUH903_HULL_CONQUISTADOR"
 msgstr "Conquistador"
-
-msgid "IDS_PSUH904_HULL_MADRID"
-msgstr "Madrid"
 
 msgid "IDS_PSUS001_C1_SUO_STOCK"
 msgstr "SCI Mk I Mod. 1"
@@ -103741,9 +102684,6 @@ msgstr "SCI Mk X Mod. 1"
 msgid "IDS_PSUS903_SUO_CONQUISTADOR"
 msgstr "SCI Mk X"
 
-msgid "IDS_PSUS904_SUO_MADRID"
-msgstr "SCI Mk X"
-
 msgid "IDS_PSUT301_C4_TORP_STOCK"
 msgstr "533-мм Mk VII ES"
 
@@ -103773,9 +102713,6 @@ msgstr "533-мм Si 270 it"
 
 msgid "IDS_PSUT902_CA10_TORP_STOCK"
 msgstr "533-мм Mk IX ES"
-
-msgid "IDS_PSUT903_TORP_MADRID"
-msgstr "533-мм Vierling"
 
 msgid "IDS_PT"
 msgstr "Общий тест"
@@ -103901,7 +102838,7 @@ msgid "IDS_PURCHASE_AND_INSTALL_MODULE_HEADER"
 msgstr "ПОКУПКА И УСТАНОВКА МОДУЛЯ"
 
 msgid "IDS_PURCHASE_BUTTON"
-msgstr "ПРОВЕСТИ ОБСЛУЖИВАНИЕ"
+msgstr "ОПЛАТИТЬ"
 
 msgid "IDS_PURCHASE_CHANCE_LOOTBOX_EPIC"
 msgstr "Суперконтейнер"
@@ -110962,15 +109899,6 @@ msgstr "Tang Sanzang"
 msgid "IDS_PZES300_WUJING_NY"
 msgstr "Sha Wujing"
 
-msgid "IDS_PZES301_HANOI_EA"
-msgstr "Пламенный воин"
-
-msgid "IDS_PZES302_DONGFENG_EA"
-msgstr "Пламенный воин"
-
-msgid "IDS_PZES303_TIANGONG_EA"
-msgstr "Пламенный воин"
-
 msgid "IDS_PZES400_WAAAGH"
 msgstr "Warhammer 40,000 — Орки"
 
@@ -110985,9 +109913,6 @@ msgstr "Шёлковый рассвет"
 
 msgid "IDS_PZES410_JINAN_PANASIA"
 msgstr "Шёлковый рассвет"
-
-msgid "IDS_PZES411_HENGSHUI_LNY"
-msgstr "Пробуждение Востока"
 
 msgid "IDS_PZES417_CHUMPHON_PANASIA"
 msgstr "Шёлковый рассвет"
@@ -112274,7 +111199,7 @@ msgid "IDS_PZSC519"
 msgstr "Hengshui"
 
 msgid "IDS_PZSC519_DESCR"
-msgstr "Новый год по лунно-солнечному календарю в Китае отмечают с древних времён, первое письменное свидетельство об этой традиции относится к периоду империи Хань. Празднование было описано в книге «Помесячные указания для четырёх сословий народа». Автор этого трактата Цуй Ши — учёный и государственный деятель, происходивший из местности, которая является частью современного китайского города Хэншуй."
+msgstr "Корабль для тестирования."
 
 msgid "IDS_PZSC519_FULL"
 msgstr "Hengshui"
@@ -112283,7 +111208,7 @@ msgid "IDS_PZSC519_NUMBER"
 msgstr "1"
 
 msgid "IDS_PZSC519_YEAR"
-msgstr "1939 г."
+msgstr "1939 г."
 
 msgid "IDS_PZSC528"
 msgstr "Dou Jian"
@@ -113413,6 +112338,9 @@ msgstr "Вернуться в Порт или выйти в новый бой?
 msgid "IDS_QUESTION_CONFIRM_CHANGE_ACCOUNT"
 msgstr "Отключиться от сервера и сменить аккаунт?"
 
+msgid "IDS_QUESTION_CONFIRM_DISASSIGN_CREW"
+msgstr "Отправить командира в Резерв?"
+
 msgid "IDS_QUESTION_CONFIRM_DISCONNECT"
 msgstr "Отключиться от сервера?"
 
@@ -113436,6 +112364,10 @@ msgstr "Обменять"
 
 msgid "IDS_QUESTION_EXIT_GAME"
 msgstr "Выйти из игры?"
+
+msgid "IDS_QUESTION_EXPAND_BARRACKS_FOR"
+msgid_plural "IDS_QUESTION_EXPAND_BARRACKS_FOR"
+msgstr[0] "Добавить %s место в Резерв за"
 
 msgid "IDS_QUESTION_GET_GIFT_SHIP"
 msgstr "Получить корабль бесплатно?"
@@ -114238,7 +113170,7 @@ msgid "IDS_READY_TO_BATTLE_DENY_REASON_EXCEPT_EVENT_SHIPS"
 msgstr "Корабли для Хэллоуина могут участвовать только в Операции."
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_CREW"
-msgstr "Рекрутируйте нового командира или назначьте командира из резерва или с других кораблей."
+msgstr "Рекрутируйте нового командира или назначьте командира из Резерва или с других кораблей."
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_SHIP"
 msgstr "Выберите корабль"
@@ -114349,6 +113281,9 @@ msgid "IDS_REASON_GIFTBOX_BY_BATTLES"
 msgid_plural "IDS_REASON_GIFTBOX_BY_BATTLES"
 msgstr[0] "%(battles)s бой"
 
+msgid "IDS_REASSIGN_CREW_BUTTON"
+msgstr "ЗАМЕНИТЬ КОМАНДИРА"
+
 msgid "IDS_RECALL_INVITATION"
 msgstr "Отозвать приглашение"
 
@@ -114438,6 +113373,9 @@ msgstr "Зарегистрирован:"
 
 msgid "IDS_REGISTRATION_DATE"
 msgstr "зарегистрирован"
+
+msgid "IDS_REGULAR_FREE_PLACES_IN_BARRACKS"
+msgstr "Свободных мест в Резерве: %(_freePlaces)s"
 
 msgid "IDS_REINFORCEMENT"
 msgstr "Стоимость пополнения:"
@@ -114886,9 +113824,6 @@ msgstr "Сбросить"
 msgid "IDS_RESET_ALL_FILTERS"
 msgstr "Сбросить все"
 
-msgid "IDS_RESET_CREW_FILTERS_BUTTON_LABEL"
-msgstr "Сбросить фильтры"
-
 msgid "IDS_RESET_SKILLPOINTS_DISABLED_NOT_ENOUGH_ELXP"
 msgstr "Недостаточно элитного опыта командиров"
 
@@ -114937,9 +113872,6 @@ msgstr "Несовершеннолетним запрещено играть в�
 msgid "IDS_RESTRICTION_TYPE_PARENTAL_CONTROL"
 msgstr "Вы приближаетесь к лимиту игрового времени."
 
-msgid "IDS_REST_REWARDS_HINT"
-msgstr "И ещё %(_count)s"
-
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "Во время боя вы совершили следующие нарушения:"
 
@@ -114966,6 +113898,9 @@ msgstr "Провести мгновенную переподготовку бе�
 
 msgid "IDS_RETURN"
 msgstr "Вернуться"
+
+msgid "IDS_RETURN_CREW_TO_BARRACKS"
+msgstr "Вернуть командира в Резерв"
 
 msgid "IDS_RETURN_FROM_MODAL_WINDOW_BUTTON"
 msgstr "Назад"
@@ -115066,6 +114001,10 @@ msgstr "Награда за выполнение финального задан
 msgid "IDS_REWARDS_MOLYBDENUM_TITLE"
 msgstr "%(_amount)s клановых жетонов"
 
+msgid "IDS_REWARDS_PL_BARCAPACITY_TITLE"
+msgid_plural "IDS_REWARDS_PL_BARCAPACITY_TITLE"
+msgstr[0] "%(_amount)s место в резерве"
+
 msgid "IDS_REWARDS_PL_CREDITS_TITLE"
 msgid_plural "IDS_REWARDS_PL_CREDITS_TITLE"
 msgstr[0] "%(_amount)s кредит"
@@ -115164,6 +114103,9 @@ msgstr "Получен новый уровень доступа"
 msgid "IDS_REWARD_AVAILABLE"
 msgstr "Доступна новая награда"
 
+msgid "IDS_REWARD_BARCAPACITY_TITLE"
+msgstr "Место в Резерве"
+
 msgid "IDS_REWARD_BEST_RESULT_TITLE"
 msgstr "Лучшая планка"
 
@@ -115192,7 +114134,7 @@ msgid "IDS_REWARD_COAL_TITLE"
 msgstr "Уголь"
 
 msgid "IDS_REWARD_CREDITSCOEFF_TITLE"
-msgstr "Дополнительные кредиты за бой"
+msgstr "Новогодний бонус к кредитам"
 
 msgid "IDS_REWARD_CREDITS_TITLE"
 msgstr "Кредиты"
@@ -115231,10 +114173,10 @@ msgid "IDS_REWARD_EVENTUM_1_TITLE"
 msgstr "Новогодние сертификаты"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "Красные конверты"
+msgstr "Жетоны прогресса"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "Жетоны Пан-Азии"
+msgstr "Немецкие жетоны"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "Японские жетоны"
@@ -120006,42 +118948,6 @@ msgstr "Премиум контейнер «Новогодний»"
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
 msgstr "Новогодний"
 
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE"
-msgstr "Премиум контейнер Błyskawica '63"
-
-msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE_SHORT"
-msgstr "Błyskawica '63"
-
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE"
-msgstr "Контейнер Utopia Show"
-
-msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE_SHORT"
-msgstr "Utopia Show"
-
 msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
 msgstr "Свободный слот"
 
@@ -120073,7 +118979,7 @@ msgid "IDS_REWARD_SANTIUM_TITLE"
 msgstr " "
 
 msgid "IDS_REWARD_SHIPCREWFREEXPCOEFF_TITLE"
-msgstr "Дополнительный опыт за бой"
+msgstr "Новогодний бонус к опыту"
 
 msgid "IDS_REWARD_SLOTS_TITLE"
 msgstr "Свободный слот"
@@ -120610,25 +119516,25 @@ msgid "IDS_RIBBON_SSE_ACOUSTIC_HIT"
 msgstr "Попал сонаром"
 
 msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST"
-msgstr "Ускорил дирижабль"
+msgstr "Ускорение дирижабля"
 
 msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST_ASSIST"
-msgstr "Помог ускорить"
+msgstr "Помощь в ускорении"
 
 msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW"
-msgstr "Замедлил дирижабль"
+msgstr "Замедление дирижабля"
 
 msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW_ASSIST"
-msgstr "Помог замедлить"
+msgstr "Помощь в замедлении"
 
 msgid "IDS_RIBBON_SSE_BASE_CAPTURE"
-msgstr "Захватил точку"
+msgstr "Захват точки"
 
 msgid "IDS_RIBBON_SSE_BASE_CAPTURE_ASSIST"
-msgstr "Помог захватить"
+msgstr "Помощь в захвате"
 
 msgid "IDS_RIBBON_SSE_BASE_DEFENSE"
-msgstr "Защитил точку"
+msgstr "Защита точки"
 
 msgid "IDS_RIBBON_SSE_BOMB"
 msgstr "Попал бомбой"
@@ -120655,7 +119561,7 @@ msgid "IDS_RIBBON_SSE_DETECTED"
 msgstr "Обнаружил"
 
 msgid "IDS_RIBBON_SSE_DROP"
-msgstr "Подобрал улучшение"
+msgstr "Улучшение подобрано"
 
 msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
 msgstr "Прикрыл"
@@ -120706,25 +119612,25 @@ msgid "IDS_RIBBON_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
 msgstr "Однократное попадание"
 
 msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST"
-msgstr "Ускорил дирижабль"
+msgstr "Ускорение дирижабля"
 
 msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
-msgstr "Помог ускорить"
+msgstr "Помощь в ускорении"
 
 msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW"
-msgstr "Замедлил дирижабль"
+msgstr "Замедление дирижабля"
 
 msgid "IDS_RIBBON_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
-msgstr "Помог замедлить"
+msgstr "Помощь в замедлении"
 
 msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE"
-msgstr "Захватил точку"
+msgstr "Захват точки"
 
 msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Помог захватить"
+msgstr "Помощь в захвате"
 
 msgid "IDS_RIBBON_SUBRIBBON_BASE_DEFENSE"
-msgstr "Защитил точку"
+msgstr "Защита точки"
 
 msgid "IDS_RIBBON_SUBRIBBON_BOMB_BULGE"
 msgstr "Попадание в ПТЗ"
@@ -120757,7 +119663,7 @@ msgid "IDS_RIBBON_SUBRIBBON_DESTROYED_SEGMENT"
 msgstr "Броня разрушена"
 
 msgid "IDS_RIBBON_SUBRIBBON_DROP"
-msgstr "Подобрал улучшение"
+msgstr "Улучшение подобрано"
 
 msgid "IDS_RIBBON_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "Непробитие"
@@ -120802,7 +119708,7 @@ msgid "IDS_RICK_HOTEP_H18"
 msgstr "Rick H. O'Tep"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "© Леста Игры, 2022–2025. Игра «Мир кораблей» основана на интеллектуальной собственности третьих лиц. Все права на объекты прав третьих лиц принадлежат их законным правообладателям."
+msgstr "© Леста Игры, 2022–2024. Игра «Мир кораблей» основана на интеллектуальной собственности третьих лиц. Все права на объекты прав третьих лиц принадлежат их законным правообладателям."
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "»"
@@ -121249,7 +120155,7 @@ msgid "IDS_SCENARIO_FORTS04"
 msgstr "Бастион"
 
 msgid "IDS_SCENARIO_MULT_FILM"
-msgstr "Ну, погоди!"
+msgstr "Ловля яиц"
 
 msgid "IDS_SCENARIO_NATIONAL_BATTLES"
 msgstr "Ось против Коалиции. Превосходство"
@@ -121325,15 +120231,6 @@ msgstr "Луч во тьме (Очень высокая сложность)"
 
 msgid "IDS_SCENARIO_PCVO031_EV_HL_23_E02_HALLOWEEN_2023"
 msgstr "Последний поход «Трансильвании»"
-
-msgid "IDS_SCENARIO_PCVT001_DAMAGE_PRIME"
-msgstr "Огневая мощь"
-
-msgid "IDS_SCENARIO_PCVT002_CITADEL_PRIME"
-msgstr "Меткость стрельбы"
-
-msgid "IDS_SCENARIO_PCVT003_FRAGS_PRIME"
-msgstr "Ликвидация целей"
 
 msgid "IDS_SCENARIO_PORTAL"
 msgstr "Portal"
@@ -121442,9 +120339,6 @@ msgstr "Наберите очки раньше команды противник
 
 msgid "IDS_SCENARIO_TASKS_TAB"
 msgstr "Задачи"
-
-msgid "IDS_SCENARIO_TRIALS_TEST"
-msgstr "Наладочный сценарий"
 
 msgid "IDS_SCENARIO_TWO_AIRSHIPS"
 msgstr "Сопровождение дирижаблей"
@@ -121785,9 +120679,6 @@ msgstr "Герои второго плана"
 msgid "IDS_SECOND_USABB_0910_NAME"
 msgstr "Медали за службу в мировых войнах"
 
-msgid "IDS_SECOND_UTOPIA_NAME"
-msgstr "Доска расследований № 2"
-
 msgid "IDS_SECOND_VIVALAFRANCESUBCOLLECTION_NAME"
 msgstr "Эмблемы и гербы"
 
@@ -121871,9 +120762,6 @@ msgstr "Выберите один из кораблей, допущенных д
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRAINING"
 msgstr "Выберите один из кораблей, допущенных к участию в Тренировочном бою"
-
-msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRIAL"
-msgstr "Выберите один из кораблей, допущенных для участия в Учебных испытаниях."
 
 msgid "IDS_SELECT_PORT"
 msgstr "Выбрать порт"
@@ -122321,9 +121209,6 @@ msgstr "Получено жетонов"
 msgid "IDS_SHIP_ACES_METRICS_TASKS_TOTAL"
 msgstr "Пройдено испытаний"
 
-msgid "IDS_SHIP_ACES_NATION_TITLE"
-msgstr "Личные испытания: нации"
-
 msgid "IDS_SHIP_ACES_RESULTS_HEADER_CELL_BATTLE_PROGRESS"
 msgstr "Чистый опыт"
 
@@ -122365,9 +121250,6 @@ msgstr "Получите как можно больше потенциально
 
 msgid "IDS_SHIP_ACES_RULES_RIBBONS"
 msgstr "Получите как можно больше лент."
-
-msgid "IDS_SHIP_ACES_SHIP_TYPE_TITLE"
-msgstr "Личные испытания: классы"
 
 msgid "IDS_SHIP_ACES_SPRINT_TOOLTIP_STATUS_SPRINT_MISSED"
 msgstr "Вы не участвовали в этом этапе."
@@ -122580,9 +121462,9 @@ msgstr "Ранний доступ"
 
 msgid "IDS_SHIP_FEATURES_EARLY_ACCESS_SHIP_DESCRIPTION"
 msgstr ""
-"Вы можете получить корабль до того, как он станет доступен остальным игрокам для исследования и покупки.\n"
+"Вы можете получить корабль до того, как он станет доступен остальным игрокам для исследования и покупки.\n"
 "\n"
-"Если вы переназначали командира на этот корабль, то после завершения раннего доступа он будет отправлен в резерв."
+"Если вы переназначали командира на этот корабль, то после завершения раннего доступа он будет отправлен в Резерв."
 
 msgid "IDS_SHIP_FEATURES_EVENT_SHIP"
 msgstr "Участие в событиях"
@@ -122622,12 +121504,6 @@ msgstr "Смена командира без ограничений"
 
 msgid "IDS_SHIP_FEATURES_NO_CREW_RETRAINING_DESCRIPTION"
 msgstr "На этот корабль можно назначить другого командира без переподготовки."
-
-msgid "IDS_SHIP_FEATURES_PVE_SHIP"
-msgstr "Ограничения по типу боя"
-
-msgid "IDS_SHIP_FEATURES_PVE_SHIP_DESCRIPTION"
-msgstr "Вы можете выбрать этот корабль только для участия в Операциях и Учебных испытаниях."
 
 msgid "IDS_SHIP_FEATURES_RENT_SHIP"
 msgstr "Взят в аренду"
@@ -123421,8 +122297,278 @@ msgstr "Подобрано максимальное количество улу�
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_AAA_MAX_DISTANCE"
 msgstr "В выбранном типе боя этот параметр обладает фиксированным значением, которое нельзя изменить с помощью модулей, модернизаций, сигналов и навыков командира."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM001_VISIBILITY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM002_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM003_SHOTDELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM004_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM005_HEBURNCHANCE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM006_CONSUMABLETIME"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM008_SHOTDELAY_EV2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM009_REGENERATION_EV2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM014_SHOTDELAY_H2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM015_ENGINEBOOST_H2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM016_REGENERATION_H2019"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM020_PLANEREGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM021_PLANEENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM022_PLANECONSUMABLETIME"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM023_PLANERELOADTIME"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM024_DAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM025_REGENERATION_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM026_ENGINEBOOST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM043_GSSHOTIMPROVE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM044_AR_HULLHEALTH_SUBMARINE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM045_AR_WEAPONDAMAGE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM046_AR_PLANESHEALTH"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM047_AR_HULLHEALTH_DESTROYER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM048_AR_HULLHEALTH_CRUISER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM049_AR_HULLHEALTH_BATTLESHIP"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM050_INVULNERABILITY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM051_HEALZONE_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM052_DRAINZONE_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM053_HEALINVIZ_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM054_HEALINVIZ_INVIZ"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM055_INVULNERABILITY_ZONEOWNER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM056_HEALZONE_REGENERATION_ZONEOWNER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM057_AR_REGENERATION_SUBMARINE"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM058_AR_REGENERATION_DESTROYER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM059_AR_REGENERATION_CRUISER"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM060_AR_REGENERATION_BATTLESHIP"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM102_BUFFSSHIFT_ENGINEBOOST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM103_BUFFSSHIFT_REGENERATION"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM104_BUFFSSHIFT_GSSHOTDELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM105_BUFFSSHIFT_DAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM106_ALL_WEAPONS_SHOT_DELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM900_ENERGY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PPCOM101_BUFFSSHIFT_SHOTDELAY"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM001_REGENERATION_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM002_DAMAGERESIST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM003_HULLHEALTH_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM004_HEALDAMAGECOEF_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM005_CONSUMABLETIME_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM006_GMSHOTDELAY_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM007_GMIDEALRADIUS_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM008_GMMAXDISTANCE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM009_GMALPHA_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM010_GMROTATIONSPEED_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM012_TORPEDORANGE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM013_TORPEDODAMAGECOEF_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM014_TORPEDOSPEEDMULTIPLIER_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM015_TORPEDOROTATIONSPEED_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM016_GSSHOTDELAY_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM017_GSMAXDIST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM018_GSIDEALRADIUS_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM019_TORPEDOSHOTDELAY_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM020_ENGINEBOOST_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM021_SGRUDDERTIME_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM022_GSALPHA_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM023_BUFFSSHIFTMAXLEVEL_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM024_DAMAGEABSORB_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM025_EXTRADAMAGE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM026_CONSUMABLETIMESLOT0_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM027_CONSUMABLETIMESLOT1_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM028_CONSUMABLETIMESLOT2_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM029_BUFFSSHIFTSPEED_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM040_HEALDAMAGECOEFPIRATE_H2020"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM042_ENGINEBOOST_FA2023"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM044_HIDDENDAMAGERESIST"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM046_BATTLESHIPSTARTBUFF_H2023"
 msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM047_CRUISERSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM048_DESTROYERSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM049_AIRCARRIERSTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM050_SUBMARINESTARTBUFF_H2023"
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависят от класса корабля."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM051_BATTLESHIPBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM052_CRUISERBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM053_DESTROYERBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM054_AIRCARRIERBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM055_SUBMARINEBUFF_H2023"
+msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr " "
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM147_CRUISERBUFF_DE"
 msgstr " "
@@ -123447,9 +122593,6 @@ msgstr ""
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_VISIBILITY_BY_PLANE_AND_SHIP"
 msgstr "В выбранном типе боя эти параметры обладают фиксированным значением, которое нельзя изменить с помощью модулей, модернизаций, сигналов и навыков командира."
 
-msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_WEAPON_DAMAGE_H2023"
-msgstr "Уменьшает получаемый урон и увеличивает урон, который вы наносите противникам. Показатель увеличивается за каждого уничтоженного союзника."
-
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_AAA_MAX_DISTANCE"
 msgstr "Дальность ПВО"
 
@@ -123468,32 +122611,14 @@ msgstr "Ускорение перезарядки"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DAMAGE_RESIST"
 msgstr "Повышение живучести"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
-msgstr "Уменьшение точности"
-
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ATBA"
 msgstr "Ослабление ПМК"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_CONSUMABLES"
-msgstr "Ослабление характеристик снаряжения"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_DAMAGE_RESIST"
-msgstr "Уменьшение живучести"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ENGINE"
-msgstr "Ослабление манёвренности"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_GM_DAMAGE"
 msgstr "Ослабление главного калибра"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_HEALTH_REGENERATION"
-msgstr "Замедленное восстановление боеспособности"
-
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_TORPEDO_DAMAGE"
 msgstr "Ослабление торпедного вооружения"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPONS_RELOAD_FACTOR"
-msgstr "Замедление перезарядки"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPON_DAMAGE"
 msgstr "Уменьшение урона"
@@ -123512,9 +122637,6 @@ msgstr "Усиление торпедного вооружения"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_WEAPON_DAMAGE"
 msgstr "Увеличение урона"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
-msgstr "Магия Интании"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM001_VISIBILITY"
 msgstr "Заметность"
@@ -123741,6 +122863,57 @@ msgstr "Увеличение мощности двигателя"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM044_HIDDENDAMAGERESIST"
 msgstr "Снижение урона"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM046_BATTLESHIPSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM047_CRUISERSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM048_DESTROYERSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM049_AIRCARRIERSTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM050_SUBMARINESTARTBUFF_H2023"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM051_BATTLESHIPBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM052_CRUISERBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM053_DESTROYERBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM054_AIRCARRIERBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM055_SUBMARINEBUFF_H2023"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM126_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM135_RUSY_ASYMM_CRUISER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF"
+msgstr "Удаль молодецкая"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM147_CRUISERBUFF_DE"
 msgstr "Усиление вооружения"
 
@@ -123756,17 +122929,11 @@ msgstr "Помощь отстающим"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM169_SMF_ENGINE_DEBUFF"
 msgstr "Полная корзина"
 
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
-msgstr "Удаль молодецкая"
-
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
 msgstr "Заметность с самолётов"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE_AND_SHIP"
 msgstr "Заметность с самолётов и кораблей"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
-msgstr "Воля павших"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_LEVEL"
 msgstr "%(level)s / %(maxLevel)s"
@@ -124020,8 +123187,59 @@ msgstr "Увеличена мощность двигателя вашего ко
 msgid "IDS_SHIP_MODIFIER_PXOM044_HIDDENDAMAGERESIST_APPLIED"
 msgstr "Снижен получаемый урон"
 
+msgid "IDS_SHIP_MODIFIER_PXOM046_BATTLESHIPSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM047_CRUISERSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM048_DESTROYERSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM049_AIRCARRIERSTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM050_SUBMARINESTARTBUFF_H2023_APPLIED"
+msgstr "Магия Интании"
+
+msgid "IDS_SHIP_MODIFIER_PXOM051_BATTLESHIPBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM052_CRUISERBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM053_DESTROYERBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM054_AIRCARRIERBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
+msgid "IDS_SHIP_MODIFIER_PXOM055_SUBMARINEBUFF_H2023_APPLIED"
+msgstr "Воля павших"
+
 msgid "IDS_SHIP_MODIFIER_PXOM103_AIRBARRIER_ENGINE_BOOST"
 msgstr "Повышение манёвренности"
+
+msgid "IDS_SHIP_MODIFIER_PXOM122_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM126_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM131_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM132_RUSY_ASYMM_BATTLESHIP_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM135_RUSY_ASYMM_CRUISER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM140_RUSY_ASYMM_DESTROYER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
+
+msgid "IDS_SHIP_MODIFIER_PXOM143_RUSY_ASYMM_AIRCARRIER_BUFF_APPLIED"
+msgstr "Удаль молодецкая"
 
 msgid "IDS_SHIP_MODIFIER_PXOM147_CRUISERBUFF_DE_APPLIED"
 msgstr "Усиление вооружения"
@@ -125571,7 +124789,7 @@ msgid "IDS_SHIP_PECULIARITY_NO_CREW_RETRAINING"
 msgstr "Назначение командиров с других кораблей той же нации без штрафов и переподготовки."
 
 msgid "IDS_SHIP_PECULIARITY_NO_CREW_RETRAINING_EARLY_ACCESS"
-msgstr "Вы можете назначать командиров с других кораблей той же нации без штрафов и переподготовки. Командир отправляется в резерв после смены статуса корабля."
+msgstr "Вы можете назначать командиров с других кораблей той же нации без штрафов и переподготовки. Командир отправляется в Резерв после смены статуса корабля."
 
 msgid "IDS_SHIP_PECULIARITY_RANDOM_COOPERATIVE_AND_RANKED_BATTLE_ONLY"
 msgstr "На этом корабле можно выйти только в Кооперативный, Случайный или Ранговый бой."
@@ -125998,6 +125216,9 @@ msgstr ""
 "Установленные сигналы не расходуются в Клановых и Тренировочных боях.\n"
 "\n"
 "Если установленный сигнал закончится, он будет автоматически заменён на бонус более низкой степени редкости."
+
+msgid "IDS_SIGNAL_GROUP_BATTLE"
+msgstr "Боевые"
 
 msgid "IDS_SIGNAL_SLOT_OPEN_INFOTIP"
 msgstr "Открыть список сигналов"
@@ -127114,9 +126335,6 @@ msgstr "Трансформеры: Саундвейв"
 msgid "IDS_SOUND_MOD_ENTERTAINMENT_STARSCREAM"
 msgstr "Трансформеры: Старскрим"
 
-msgid "IDS_SOUND_MOD_EVAVALENTINE"
-msgstr "Eva Valentine"
-
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_ALISA_SUMMER"
 msgstr "Алиса"
 
@@ -127350,15 +126568,6 @@ msgstr "Фёдор Ушаков"
 
 msgid "IDS_SOUND_MOD_USSROVECHKIN_SINGLE"
 msgstr "Александр Овечкин RU"
-
-msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
-msgstr "Дункан Ч."
-
-msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
-msgstr "Руперт Г."
-
-msgid "IDS_SOUND_MOD_UTOPIASHOW_HRENSBERG"
-msgstr "Дик Х."
 
 msgid "IDS_SOUND_MOD_UVAROV"
 msgstr "Александр Уваров"
@@ -127816,12 +127025,6 @@ msgstr "Проксима Центавра"
 
 msgid "IDS_SPACES/E12_APRIL_2024_DESCR"
 msgstr "Проксима Центавра"
-
-msgid "IDS_SPACES/E13_TRIALS_MAPPRIME"
-msgstr "Испытательная база"
-
-msgid "IDS_SPACES/E13_TRIALS_MAPPRIME_DESCR"
-msgstr "Испытательная база"
 
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "Первый рубеж"
@@ -128295,7 +127498,7 @@ msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_POTENTIAL_DAMAGE_SHORT"
 msgstr "Потенциальный урон"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BASE_DEFENSE_BASE_CAPTURE_BASE_CAPTURE_ASSIST_FULL"
-msgstr "Получите как можно больше лент «Захватил точку», «Помог захватить» и «Защитил точку»"
+msgstr "Получите как можно больше лент «Захват точки», «Помощь в захвате» и «Защита точки»"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BURN_FULL"
 msgstr "Получите как можно больше лент «Поджёг»"
@@ -128391,13 +127594,13 @@ msgid "IDS_SSE_ICON_HINT_TASK_REPEATABLE"
 msgstr "Эту задачу можно выполнить несколько раз"
 
 msgid "IDS_SSE_MOTIVATOR_BP_DAILY_TASKS_COMPLETED"
-msgstr "Задачи дня выполнены"
+msgstr "Вызов дня завершён"
 
 msgid "IDS_SSE_MOTIVATOR_BP_WEEKLY_TASKS_COMPLETED"
-msgstr "Задачи недели выполнены"
+msgstr "Вызов недели завершён"
 
 msgid "IDS_SSE_MOTIVATOR_TASKS_COMPLETED"
-msgstr "Приоритетные задачи выполнены"
+msgstr "Текущие вызовы завершены"
 
 msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE"
 msgstr "Приоритетная задача"
@@ -128543,9 +127746,6 @@ msgstr "НАЧАТЬ БОЙ"
 msgid "IDS_START_BATTLE_DENY_COOP_ONLY"
 msgstr "Выбранный корабль может участвовать только в Кооперативных боях."
 
-msgid "IDS_START_BATTLE_DENY_PVE_ONLY"
-msgstr "Выбранный корабль может участвовать только в Учебных испытаниях и Операциях."
-
 msgid "IDS_START_BATTLE_DENY_RANDOM_COOP_CLAN_ONLY"
 msgstr "Выбранный корабль не может участвовать в Ранговых и Клановых боях, а также в Операциях."
 
@@ -128676,9 +127876,6 @@ msgstr "Чтобы получить новый национальный тала
 msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL"
 msgstr "У вас нет командиров с таким навыком"
 
-msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL_FOR_SLOT"
-msgstr "Вы сможете улучшить этот навык, когда у вас будет командир с таким улучшенным навыком"
-
 msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_SUCH_TALENT"
 msgstr "У вас нет командиров с таким талантом"
 
@@ -128744,7 +127941,7 @@ msgstr "Каждый наставник и соратник в составе 
 
 msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
 msgstr ""
-"Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захватил точку» или «Помог захватить».\n"
+"Наставник и соратники в составе отряда должны совместно получить не менее 4 лент «Захват точки» или «Помощь в захвате».\n"
 "\n"
 "Выполняется в одном бою."
 
@@ -128970,9 +128167,6 @@ msgstr "Суперподлодка"
 msgid "IDS_SUBMARINE_LOCATOR"
 msgstr "ОБНАРУЖЕН"
 
-msgid "IDS_SUBMARINE_PL_GENITIVE"
-msgstr "подводных лодок"
-
 msgid "IDS_SUBMARINE_SEARCH_POINT_ADDED"
 msgstr "Запеленгована подводная лодка противника"
 
@@ -129003,14 +128197,20 @@ msgstr "Вы были эффективнее, чем %(_percentRate)s % иг�
 msgid "IDS_SUBST_ARC_EVENT_COMMON_LEADERBOARD_TOP"
 msgstr "Вы вошли в топ-%(_percentRate)s % игроков"
 
+msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
+msgstr "Задачи завершены"
+
 msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_ENDS_IN_FULL"
-msgstr "До окончания задач: %(_timeEnd)s"
+msgstr "До окончания задач: %(_timeTillPrimeTimeEnd)s"
 
 msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_ENDS_IN_SHORT"
 msgstr "До завершения: %(_timeTillPrimeTimeEnd)s"
 
 msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_FULL"
-msgstr "Задачи доступны через: %(_timeStart)s"
+msgstr "Задачи доступны через: %(_timeTillPrimeTimeStart)s"
+
+msgid "IDS_SUBST_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
+msgstr "До начала: %(_timeTillPrimeTimeStart)s"
 
 msgid "IDS_SUBST_ARC_EVENT_FINAL_EFFICIENCY"
 msgstr "Вы были эффективнее, чем %(_higherThan)s% игроков"
@@ -129031,6 +128231,13 @@ msgstr "До окончания: %(_timeLeft)s"
 msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_TIME_TILL_START"
 msgstr "До начала: %(_timeLeft)s"
 
+msgid "IDS_SUBST_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
+msgstr "Все награды получены"
+
+msgid "IDS_SUBST_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_SUBST_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "До награды: %(_pointsTillNext)s очко"
+
 msgid "IDS_SUBST_ARC_EVENT_STAGE_ENDS_AT"
 msgstr "Этап будет длиться до %(_expiryDateTime)s"
 
@@ -129050,7 +128257,7 @@ msgid "IDS_SUBST_BATTLEPASS_STATUS_TIME"
 msgstr "До окончания сезона: %(timeLeft)s"
 
 msgid "IDS_SUBST_BONUSTAG_CONDITIONS_DESCRIPTION"
-msgstr "Одержите победу в любом типе боя или наберите %(_baseExpCount)s ед. чистого опыта в одном бою."
+msgstr "Одержите победу в любом типе боя или наберите %(_baseExpCount)s чистого опыта в одном бою."
 
 msgid "IDS_SUBST_BRAWL_SEASON_ENDS_IN"
 msgstr "До завершения сезона: %(_timeTillEnd)s"
@@ -129587,7 +128794,7 @@ msgid "IDS_SYS_MSG_BOUGHT"
 msgstr "Покупка"
 
 msgid "IDS_SYS_MSG_BOUGHT_BARRACKS_SPACE"
-msgstr "Места в резерве куплены"
+msgstr "Места в Резерве куплены"
 
 msgid "IDS_SYS_MSG_BOUGHT_BP_POINTS"
 msgstr "Куплены очки Боевого пропуска"
@@ -129641,10 +128848,10 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "Летние жетоны куплены"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "Красные конверты куплены"
+msgstr "Жетоны прогресса куплены"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Жетоны Пан-Азии куплены"
+msgstr "Немецкие жетоны куплены"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "Японские жетоны куплены"
@@ -129833,7 +129040,7 @@ msgid "IDS_SYS_MSG_CREW_BOUND_TO_SHIP"
 msgstr "Командир подготовлен на корабль"
 
 msgid "IDS_SYS_MSG_CREW_DISEMBARK"
-msgstr "Командир отправлен в резерв"
+msgstr "Командир отправлен в Резерв"
 
 msgid "IDS_SYS_MSG_CREW_FINISH_ADAPTATION"
 msgstr "Переподготовка завершена"
@@ -129842,7 +129049,7 @@ msgid "IDS_SYS_MSG_CREW_FIRE"
 msgstr "Командир демобилизован"
 
 msgid "IDS_SYS_MSG_CREW_FROM_BASKET"
-msgstr "Командир возвращён в резерв"
+msgstr "Командир возвращён в Резерв"
 
 msgid "IDS_SYS_MSG_CREW_LEARN_SKILL"
 msgstr "Навык командира изучен"
@@ -129893,7 +129100,7 @@ msgid "IDS_SYS_MSG_DROP_BRANCH"
 msgstr "Ветка кораблей сброшена"
 
 msgid "IDS_SYS_MSG_DROP_BRANCH_DESCRIPTION"
-msgstr "Корабли и модули проданы, модернизации бесплатно демонтированы, командиры отправлены в резерв. Камуфляжи, флаги, сигналы и расходуемые экономические бонусы сняты. Экономические комплекты и постоянные камуфляжи останутся доступны на кораблях, когда вы их снова исследуете."
+msgstr "Корабли и модули проданы, модернизации бесплатно демонтированы, командиры отправлены в Резерв. Камуфляжи, флаги, сигналы и расходуемые экономические бонусы сняты. Экономические комплекты и постоянные камуфляжи останутся доступны на кораблях, когда вы их снова исследуете."
 
 msgid "IDS_SYS_MSG_EARN_ACHIEVEMENT"
 msgstr "Получено достижение"
@@ -129924,9 +129131,6 @@ msgstr "Получен знак различия"
 
 msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_FOR_BATTLE_INFO"
 msgstr "Посмотреть подробную информацию"
-
-msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_FOR_CREW_INFO_TRANSITION"
-msgstr "Открыть личное дело"
 
 msgid "IDS_SYS_MSG_INSTALL_CREW_SKILL"
 msgstr "Изучены новые навыки"
@@ -130077,7 +129281,7 @@ msgid "IDS_SYS_MSG_RECEIVED_ALBUM"
 msgstr "Получена коллекция"
 
 msgid "IDS_SYS_MSG_RECEIVED_BARRACKS_SPACE"
-msgstr "Получены места в резерве"
+msgstr "Получены места в Резерве"
 
 msgid "IDS_SYS_MSG_RECEIVED_BP_POINTS"
 msgstr "Получены очки Боевого пропуска"
@@ -130134,10 +129338,10 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "Получены летние жетоны "
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "Получены красные конверты"
+msgstr "Получены жетоны прогресса"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "Получены жетоны Пан-Азии"
+msgstr "Получены немецкие жетоны"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "Получены японские жетоны"
@@ -130469,7 +129673,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_ALBUM"
 msgstr "Списана коллекция"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_BARRACKS_SPACE"
-msgstr "Списаны места в резерве"
+msgstr "Списаны места в Резерве"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_BRASS"
 msgstr "Списаны чемпионские жетоны"
@@ -130520,10 +129724,10 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "Списаны летние жетоны"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "Списаны красные конверты"
+msgstr "Списаны жетоны прогресса"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "Списаны жетоны Пан-Азии"
+msgstr "Списаны немецкие жетоны"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "Списаны японские жетоны"
@@ -130656,13 +129860,6 @@ msgstr "Статистика"
 
 msgid "IDS_TAB_CHANGE_CHANNEL"
 msgstr "Смена канала чата"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
-msgstr[0] "В резерве осталось %(count)d место"
-
-msgid "IDS_TAB_HINT_CREW_RESERVE_NO_SPACE_LEFT"
-msgstr "В резерве не осталось мест. Демобилизуйте лишних командиров."
 
 msgid "IDS_TAB_SCREEN_POWERUPS_HEADER"
 msgstr "Доступные в бою улучшения"
@@ -130890,7 +130087,7 @@ msgid "IDS_TALENT_PFW405_RIBBONS_7"
 msgstr "Свирепый"
 
 msgid "IDS_TALENT_PFW405_RIBBONS_7_DESCRIPTION"
-msgstr "Срабатывает при каждом захвате точки или помощи в захвате, а также при каждом замедлении дирижабля или помощи в замедлении."
+msgstr "Срабатывает при каждом захвате точки или помощи в захвате."
 
 msgid "IDS_TALENT_PGW103_RIBBONS_1"
 msgstr "Выносливый"
@@ -131672,7 +130869,7 @@ msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_2"
 msgstr "Пять тарелок на столе, десять в уме — место найдётся для всех. Блюд наготовили столько, что доедать будем всю ближайшую неделю!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_3"
-msgstr "Фраза «не трогай, это на Новый год» уже в прошлом, а впереди — шумное застолье. Ещё немного — и сядем провожать старый год!"
+msgstr "Фраза «не трогай, это на Новый год» уже в прошлом, а впереди — шумное застолье. Ещё немного, и сядем провожать старый год!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_0"
 msgstr "Ещё вчера это был пустой угол, а сегодня как по волшебству здесь появилась красивая душистая ёлочка. Время украшать!"
@@ -131690,7 +130887,7 @@ msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_0"
 msgstr "Одним из главных символов Нового года можно смело назвать телевизор. Подождите... А телевизора-то и нет!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
-msgstr "Другое дело! Ещё немного — и с экрана нам споют. Телевизор есть, а вот тумба какая-то непраздничная... Думаю, мандарины исправят положение."
+msgstr "Другое дело! Ещё немного, и с экрана нам споют. Телевизор есть, а вот тумба какая-то непраздничная... Думаю, мандарины исправят положение."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_2"
 msgstr "Готово, тумба приобрела праздничный вид. А пока родители заняты на кухне, можно запустить приставку!"
@@ -131896,9 +131093,6 @@ msgstr "Без сучка и задоринки"
 msgid "IDS_THIRD_USABB_0910_NAME"
 msgstr "Главный калибр линкоров"
 
-msgid "IDS_THIRD_UTOPIA_NAME"
-msgstr "Доска расследований № 3"
-
 msgid "IDS_THIRD_VIVALAFRANCESUBCOLLECTION_NAME"
 msgstr "Вооружение"
 
@@ -131917,9 +131111,6 @@ msgstr "Выбранный корабль не может участвовать
 msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRAINING"
 msgstr "Выбранный корабль не может участвовать в Тренировочном бою"
 
-msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRIAL"
-msgstr "Выбранный корабль не может участвовать в Учебных испытаниях."
-
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_CLAN"
 msgstr "Выберите корабль, подходящий по уровню."
 
@@ -131931,9 +131122,6 @@ msgstr "Выберите корабль, подходящий по уровню.
 
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRAINING"
 msgstr "Выберите корабль, подходящий по уровню."
-
-msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRIAL"
-msgstr "Выбранный корабль не подходит по уровню для участия в Учебных испытаниях."
 
 msgid "IDS_THIS_SHIP_NATION_IS_NOT_ALLOWED_FOR_CLAN"
 msgstr "Выберите корабль подходящей нации"
@@ -133261,6 +132449,12 @@ msgstr "Максимальная дальность действия лазер�
 msgid "IDS_TOOLTIP_BACK_TO_NATION"
 msgstr "Вернуться к дереву развития"
 
+msgid "IDS_TOOLTIP_BARRACKS_CAPACITY"
+msgstr "Всего мест"
+
+msgid "IDS_TOOLTIP_BARRACKS_LIST_DESC"
+msgstr "Места в Резерве не закреплены за нациями."
+
 msgid "IDS_TOOLTIP_BATTERY"
 msgstr "Параметр, отражающий способность подводной лодки вести бой под водой продолжительное время."
 
@@ -133341,7 +132535,7 @@ msgid "IDS_TOOLTIP_CANNOT_SET_TEAM_SIZE_LESS_THAN_CURRENT"
 msgstr "Текущее количество игроков в команде превышает допустимое."
 
 msgid "IDS_TOOLTIP_CAROUSEL_FILTERS"
-msgstr "Открыть панель фильтров кораблей"
+msgstr "Открыть панель настройки отображения кораблей"
 
 msgid "IDS_TOOLTIP_CAROUSEL_FILTERS_SPECIAL"
 msgstr "Открыть панель настройки дополнительного контента"
@@ -133379,8 +132573,11 @@ msgstr "Перевести опыт, заработанный на элитны�
 msgid "IDS_TOOLTIP_CREDIT_BALANCE"
 msgstr "Обменять дублоны на кредиты"
 
-msgid "IDS_TOOLTIP_CREW_FILTERS"
-msgstr "Открыть панель фильтров командиров"
+msgid "IDS_TOOLTIP_CREWS_IN_BARRACKS"
+msgstr "Мест занято"
+
+msgid "IDS_TOOLTIP_CREW_ASSIGNED_HEADER"
+msgstr "Назначен"
 
 msgid "IDS_TOOLTIP_CREW_SPECIALIZATION_HEADER"
 msgstr "Подготовлен"
@@ -133417,6 +132614,9 @@ msgstr "Количество глубинных бомб в заряде."
 
 msgid "IDS_TOOLTIP_DEPTH_CHARGE_RELOAD_TIME"
 msgstr "Время перезарядки одного заряда глубинных бомб."
+
+msgid "IDS_TOOLTIP_DESC_CREW_ASSIGNED_TO_SELECT_SHIP"
+msgstr "Зарабатываемый опыт командира идёт на получение очков навыков."
 
 msgid "IDS_TOOLTIP_DESC_CREW_IN_ADAPTATION_DESC_ONE"
 msgstr "Зарабатываемый опыт командира идёт на переподготовку."
@@ -133456,6 +132656,9 @@ msgstr "Наберите необходимое количество звёзд,
 
 msgid "IDS_TOOLTIP_FREE_EXP_BALANCE"
 msgstr "Перевести опыт"
+
+msgid "IDS_TOOLTIP_FREE_PLACES_IN_BARRACKS"
+msgstr "Свободных мест"
 
 msgid "IDS_TOOLTIP_GO_TO_EVENT_WINDOW"
 msgstr "Перейти к экрану события"
@@ -134101,6 +133304,9 @@ msgstr "К НАВЫКАМ"
 msgid "IDS_TO_BUY_Q"
 msgstr "Необходимо докупить:"
 
+msgid "IDS_TO_CANCEL_EXPAND_BARRACKS"
+msgstr "Для отмены демобилизации освободите место в Резерве или увеличьте его."
+
 msgid "IDS_TO_DOCK"
 msgstr "В ПОРТ"
 
@@ -134324,162 +133530,6 @@ msgstr "Корабли распределены по веткам развит�
 
 msgid "IDS_TREE_RESEARCH_INFO_TOOLTIP_DESCRIPTION_2"
 msgstr "Чтобы получить новый корабль, исследуйте его с помощью опыта, заработанного на предыдущем корабле в ветке, и купите его за кредиты."
-
-msgid "IDS_TRIAL"
-msgstr "Учебные испытания"
-
-msgid "IDS_TRIALBATTLE"
-msgstr "Учебные испытания"
-
-msgid "IDS_TRIALS_BRIEFING_COMMON"
-msgstr "Брифинг"
-
-msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
-msgstr "Условные обозначения"
-
-msgid "IDS_TRIALS_OBJECTIVE_COMMON"
-msgstr "Задача"
-
-msgid "IDS_TRIAL_BONUS_POINTS_ACCUMULATING"
-msgstr "БОНУСНЫЕ ОЧКИ!"
-
-msgid "IDS_TRIAL_CITADELS"
-msgstr "МЕТКОСТЬ СТРЕЛЬБЫ"
-
-msgid "IDS_TRIAL_CITADELS_DESCRIPTION"
-msgstr "Попадайте в цитадели"
-
-msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
-msgstr[0] "Попадите в цитадель кораблей противника %(_targetScores)s раз"
-
-msgid "IDS_TRIAL_CIT_PRIME_AIM_CENTER_BOARD"
-msgstr "Чтобы попадать в цитадель корабля, цельтесь в центральную часть борта в области ватерлинии"
-
-msgid "IDS_TRIAL_CIT_PRIME_CHANGE_AMMO"
-msgstr "Выберите бронебойные снаряды, чтобы поражать цитадели"
-
-msgid "IDS_TRIAL_CIT_PRIME_RICOCHET"
-msgstr "Чтобы избежать сквозных пробитий и рикошетов, цельтесь в центральную часть борта в области ватерлинии"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_1"
-msgstr "Поразите как можно больше цитаделей, чтобы пройти этап. Цитадель отмечена на корпусах кораблей чёрным цветом."
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_2"
-msgstr "Противник маневрирует — дождитесь, когда он развернётся к вам бортом, чтобы поразить цитадель"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_3"
-msgstr "Стреляйте в корабли с отметками [st_x5], чтобы получить больше очков"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_4"
-msgstr "Успейте поразить цитадель корабля с отметкой [st_x5] до того, как его уничтожат союзники"
-
-msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_5"
-msgstr "Защищайте точку! Если точку [sm_moveto] захватит противник, модификатор очков уменьшится до [st_x2]. Если союзник — увеличится до [st_x5]!"
-
-msgid "IDS_TRIAL_DAMAGE"
-msgstr "ОГНЕВАЯ МОЩЬ"
-
-msgid "IDS_TRIAL_DAMAGE_DESCRIPTION"
-msgstr "Наносите урон"
-
-msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
-msgstr[0] "Нанесите %(_targetScores)s ед. урона кораблям противника"
-
-msgid "IDS_TRIAL_DESCRIPTION"
-msgstr "Испытания, в которых вы можете оттачивать свои боевые навыки."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_BS_SPAWN"
-msgstr "Поджигайте [e1] линкоры осколочно-фугасными снарядами. Каждое возгорание будет наносить урон продолжительное время."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN"
-msgstr "Борт [e2] крейсера — идеальная цель для бронебойных снарядов. Для максимального урона стреляйте в область ватерлинии."
-
-msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_DD_SPAWN"
-msgstr "Для борьбы с [e3] эсминцами используйте осколочно-фугасные снаряды! "
-
-msgid "IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR"
-msgstr "Наносите урон кораблям с отметкой [st_attack] бронебойными снарядами, чтобы получить вдвое больше очков!"
-
-msgid "IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR"
-msgstr "Наносите урон кораблям с отметкой [st_attack] осколочно-фугасными снарядами, чтобы получить вдвое больше очков!"
-
-msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE"
-msgstr "Теперь заметность кораблей противника такая же, как в настоящем бою!"
-
-msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT"
-msgstr "У каждого корабля есть параметр заметности — расстояние, в пределах которого его всегда видно. Если он перестанет стрелять, находясь от вас дальше, он пропадёт из виду."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT"
-msgstr "Стреляйте по легкобронированным крейсерам. Обратите внимание: цели маневрируют!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT"
-msgstr "При стрельбе бронебойными снарядами выбирайте цели, расположенные к вам бортом. Пользуйтесь мини-картой!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT2"
-msgstr "Если корабль противника расположен к вам под углом, стреляйте осколочно-фугасными или полубронебойными снарядами!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT"
-msgstr "Стреляйте по кораблям с отметками! Используйте указанный тип снарядов, чтобы получить больше очков."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT"
-msgstr "Если корабль перестанет стрелять, он может пропасть из виду"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT"
-msgstr "Эффективно используйте полученные знания!"
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE5_RULES_1"
-msgstr "Уничтожайте корабли, чтобы получать больше очков за урон другим целям. Каждый уничтоженный корабль увеличивает модификатор."
-
-msgid "IDS_TRIAL_DMG_PRIME_PHASE6_ANNONCEMENT"
-msgstr "Перезарядка всего вооружения вашего корабля ускорена!"
-
-msgid "IDS_TRIAL_FRAGS"
-msgstr "ЛИКВИДАЦИЯ ЦЕЛЕЙ"
-
-msgid "IDS_TRIAL_FRAGS_DESCRIPTION"
-msgstr "Уничтожайте корабли"
-
-msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
-msgstr[0] "Уничтожьте %(_targetScores)s корабль противника"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT"
-msgstr "В этом этапе вам нужно действовать совместно с союзниками"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT"
-msgstr "Уничтожайте корабли до того, как они успеют выстрелить!"
-
-msgid "IDS_TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT"
-msgstr "Стреляйте в корабли и уничтожайте их, даже если они пропали из виду!"
-
-msgid "IDS_TRIAL_FRAG_PRIME_SPEECH_009"
-msgstr "Наведите прицел на корабль противника и нажмите [KEY_F3], чтобы союзники сфокусировали огонь на этом корабле"
-
-msgid "IDS_TRIAL_HUB_TRIAL_END"
-msgstr "Испытание завершено"
-
-msgid "IDS_TRIAL_HUB_TRIAL_FAILURE"
-msgstr "Испытание не выполнено"
-
-msgid "IDS_TRIAL_HUB_TRIAL_SUCCESS"
-msgstr "Испытание выполнено!"
-
-msgid "IDS_TRIAL_PRIME_SPEECH_012"
-msgstr "Используйте весь полученный опыт, чтобы уничтожить как можно больше кораблей!"
-
-msgid "IDS_TRIAL_ROUNDS_COUNTER"
-msgstr "ЭТАП %(_trialRound)s / %(_trialRoundsCount)s"
-
-msgid "IDS_TRIAL_ROUND_IS_OVER"
-msgstr "ЭТАП ЗАВЕРШЁН"
-
-msgid "IDS_TRIAL_ROUND_NUMBER_ENDED"
-msgstr "%(_round)s-Й ЭТАП ЗАВЕРШЁН"
-
-msgid "IDS_TRIAL_TASK_PASSED"
-msgstr "ЗАДАЧА ВЫПОЛНЕНА"
 
 msgid "IDS_TRIPLE_BUFFERING"
 msgstr "Тройная буферизация"
@@ -134749,13 +133799,13 @@ msgid "IDS_TURN_OFF"
 msgstr "Выключить"
 
 msgid "IDS_TURN_OFF_HIDE_FILTERED_SHIPS"
-msgstr "Корабли, не подходящие по условиям фильтрации, будут отображаться в карусели после подходящих"
+msgstr "Показать неподходящие корабли"
 
 msgid "IDS_TURN_ON"
 msgstr "Включить"
 
 msgid "IDS_TURN_ON_HIDE_FILTERED_SHIPS"
-msgstr "Корабли, не подходящие по условиям фильтрации, будут скрыты"
+msgstr "Скрыть неподходящие корабли"
 
 msgid "IDS_TURRETAFT"
 msgstr "Тыловая плита"
@@ -134852,14 +133902,14 @@ msgstr "Ульяна"
 msgid "IDS_UNABLED_ACTION_WITH_PLAYER"
 msgstr "Действия с игроком недоступны"
 
-msgid "IDS_UNABLE_HIRE_CREW_NO_PLACE_IN_BARRACKS_TOOLTIP"
-msgstr "Нет места в резерве. Нанять нового командира невозможно."
-
 msgid "IDS_UNABLE_TO_CREATE_TRAINING"
 msgstr "Невозможно создать тренировочную комнату."
 
 msgid "IDS_UNABLE_TO_CREATE_TRAINING_WHEN_IN_DIVISION"
 msgstr "Недоступно для отрядов"
+
+msgid "IDS_UNABLE_TO_DISASSIGN_CREW"
+msgstr "Нет свободных мест в Резерве. Освободите место в Резерве или увеличьте его."
 
 msgid "IDS_UNAVAILABLE_RARE_ECOBOOST_FOR_PURCHASE"
 msgstr "Редкие бонусы недоступны для покупки"
@@ -135019,9 +134069,6 @@ msgstr ""
 msgid "IDS_UNLOCKS_20"
 msgstr "Изучайте сильные и слабые стороны схемы бронирования."
 
-msgid "IDS_UNLOCKS_2015"
-msgstr "Изменяйте внешний вид кораблей с помощью камуфляжей и флагов."
-
 msgid "IDS_UNLOCKS_21"
 msgstr "Получайте ежедневно до трёх контейнеров с наградами."
 
@@ -135031,17 +134078,17 @@ msgstr "Проходите миссии в кампаниях на пути к
 msgid "IDS_UNLOCKS_23"
 msgstr "Продавайте модули, модернизации и другие виды имущества, которыми вы не пользуетесь."
 
+msgid "IDS_UNLOCKS_24"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
 msgid "IDS_UNLOCKS_2827"
 msgstr "Вступайте в клан и сражайтесь в одной команде!"
-
-msgid "IDS_UNLOCKS_3"
-msgstr "Сражайтесь против реальных игроков."
 
 msgid "IDS_UNLOCKS_3029"
 msgstr "Приобретайте новое имущество в Адмиралтействе."
 
-msgid "IDS_UNLOCKS_3124"
-msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+msgid "IDS_UNLOCKS_3103"
+msgstr "Сражайтесь против реальных игроков."
 
 msgid "IDS_UNLOCKS_4"
 msgstr "RESEARCH_USE"
@@ -135121,15 +134168,6 @@ msgstr "После каждого боя вам начисляются опыт 
 msgid "IDS_UNLOCKS_DESCRIPTION_1_0"
 msgstr "Сражайтесь вместе с другими игроками против ботов."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_0"
-msgstr "Камуфляжи и флаги позволяют изменять внешний вид ваших кораблей."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_1"
-msgstr "Установленный на корабль расходуемый камуфляж списывается за проведённый бой. Постоянные камуфляжи не расходуются и не требуют пополнения."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_2015_2"
-msgstr "Камуфляжи можно получить, участвуя в различных событиях, а также купить за кредиты или дублоны."
-
 msgid "IDS_UNLOCKS_DESCRIPTION_21_0"
 msgstr "Зарабатывайте опыт в боях и получайте до трёх контейнеров ежедневно. Когда вы заработаете достаточно опыта, контейнер будет начислен автоматически."
 
@@ -135150,6 +134188,15 @@ msgstr "Вы можете выполнять до трёх заданий од
 
 msgid "IDS_UNLOCKS_DESCRIPTION_23_0"
 msgstr "Продавайте модули, модернизации и другие виды имущества, которыми вы не пользуетесь."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_0"
+msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_1"
+msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_24_2"
+msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_0"
 msgstr "Вступите в клан для участия в Клановых сражениях."
@@ -135175,16 +134222,7 @@ msgstr "Вы можете приобрести корабли, слоты в П
 msgid "IDS_UNLOCKS_DESCRIPTION_3029_2"
 msgstr "В Адмиралтействе также можно приобрести дублоны, премиум аккаунт и многое другое."
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
-msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
-msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
-msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
-
-msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgid "IDS_UNLOCKS_DESCRIPTION_3103_0"
 msgstr "Сражайтесь против реальных игроков. Составы команд подбираются случайным образом."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_0"
@@ -135239,11 +134277,6 @@ msgstr ""
 "<body>Вам стало доступно\n"
 "<h3>Исследование и улучшение кораблей</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_2015"
-msgstr ""
-"<body>Вам стало доступно\n"
-"<h3>Изменение внешнего вида корабля</h3></body>"
-
 msgid "IDS_UNLOCKS_LEVEL_UP_21"
 msgstr ""
 "<body>Вам стали доступны\n"
@@ -135259,25 +134292,25 @@ msgstr ""
 "<body>Вам стало доступно\n"
 "<h3>Управление имуществом</h3></body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr ""
 "<body>Вам стали доступны\n"
 "<h3>Клановые бои</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_3"
-msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Случайные бои</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3029"
 msgstr ""
 "<body>Вам стало доступно\n"
 "<h3>Адмиралтейство</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgid "IDS_UNLOCKS_LEVEL_UP_3103"
 msgstr ""
 "<body>Вам стали доступны\n"
-"<h3>Операции</h3></body>"
+"<h3>Случайные бои</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
@@ -135313,9 +134346,6 @@ msgstr "Доступно на экране выбора типа боя."
 msgid "IDS_UNLOCKS_LOCATION_17"
 msgstr "Новые корабли доступны на вкладке «Развитие». Улучшения доступны на вкладке «Оснащение»."
 
-msgid "IDS_UNLOCKS_LOCATION_2015"
-msgstr "Доступно во вкладке «Внешний вид»."
-
 msgid "IDS_UNLOCKS_LOCATION_21"
 msgstr "Чтобы перейти к экрану «Контейнеры», нажмите на баннер в левой части экрана в Порту."
 
@@ -135325,17 +134355,17 @@ msgstr "Чтобы перейти к экрану «Кампании», наж�
 msgid "IDS_UNLOCKS_LOCATION_23"
 msgstr "Управление имуществом доступно в меню игрока."
 
+msgid "IDS_UNLOCKS_LOCATION_24"
+msgstr "Доступно на экране выбора типа боя."
+
 msgid "IDS_UNLOCKS_LOCATION_2827"
 msgstr "Клановые и Тренировочные бои доступны на экране выбора типа боя."
-
-msgid "IDS_UNLOCKS_LOCATION_3"
-msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
 
 msgid "IDS_UNLOCKS_LOCATION_3029"
 msgstr "Чтобы перейти в Адмиралтейство, нажмите на баннер в левой части экрана в Порту."
 
-msgid "IDS_UNLOCKS_LOCATION_3124"
-msgstr "Доступно на экране выбора типа боя."
+msgid "IDS_UNLOCKS_LOCATION_3103"
+msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
 
 msgid "IDS_UNLOCKS_LOCATION_5"
 msgstr "Свободный опыт отображается в правом верхнем углу экрана в Порту."
@@ -135376,9 +134406,6 @@ msgstr "Здесь должен быть PVE"
 msgid "IDS_UNLOCKS_TITLE_20"
 msgstr "Бронирование корабля"
 
-msgid "IDS_UNLOCKS_TITLE_2015"
-msgstr "Внешний вид"
-
 msgid "IDS_UNLOCKS_TITLE_21"
 msgstr "Контейнеры"
 
@@ -135388,17 +134415,17 @@ msgstr "Кампании"
 msgid "IDS_UNLOCKS_TITLE_23"
 msgstr "Управление имуществом"
 
+msgid "IDS_UNLOCKS_TITLE_24"
+msgstr "Операции"
+
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "Клановые бои"
-
-msgid "IDS_UNLOCKS_TITLE_3"
-msgstr "Случайные бои"
 
 msgid "IDS_UNLOCKS_TITLE_3029"
 msgstr "Адмиралтейство"
 
-msgid "IDS_UNLOCKS_TITLE_3124"
-msgstr "Операции"
+msgid "IDS_UNLOCKS_TITLE_3103"
+msgstr "Случайные бои"
 
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "Свободный опыт"
@@ -135866,7 +134893,7 @@ msgid "IDS_W03_SHP03"
 msgstr "Cecil Bean"
 
 msgid "IDS_WAITING_FOR_DEMOBILIZATION_COLON"
-msgstr "ОЖИДАЕТ ДЕМОБИЛИЗАЦИИ:"
+msgstr "Ожидает демобилизации:"
 
 msgid "IDS_WAITING_FOR_DEMOBILIZATION_TIMER"
 msgstr "Ожидает демобилизации: %(_timeLeft)s"

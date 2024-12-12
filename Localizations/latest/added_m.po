@@ -10,37 +10,1703 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_EVENT_SMF_EQUIPMENT_REVERSAL"
-msgstr "可使用“调头”"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_UTOPIA_COMPLETED"
+msgstr "完成“Utopia Show”收藏。"
 
-msgid "IDS_EVENT_SMF_FORSAGE_HIGH"
-msgstr "“冲刺”的作用时间较长"
+msgid "IDS_ACHIEVEMENT_FILLALBUM_UTOPIA_COMPLETED"
+msgstr "Utopia Show"
 
-msgid "IDS_EVENT_SMF_FORSAGE_LOW"
-msgstr "“冲刺”的作用时间较短"
+msgid "IDS_AIRCARRIER_PL_GENITIVE"
+msgstr "航空母舰"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_FAST_RELOAD"
-msgstr "波浪炮装填较快"
+msgid "IDS_ALL_CREW_BUTTON"
+msgstr "所有指挥官"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_NARROW_AND_FAST"
-msgstr "高速窄波浪"
+msgid "IDS_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
+msgstr "任务已完成"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_SLOW_RELOAD"
-msgstr "波浪炮装填较慢"
+msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
+msgstr "开始时间：%(_timeStart)s"
 
-msgid "IDS_EVENT_SMF_WAWE_SHOOTER_WIDE_AND_SLOW"
-msgstr "低速宽波浪"
+msgid "IDS_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
+msgstr "已领取所有奖励"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
-msgstr "兔"
+msgid "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_ARC_EVENT_PORT_STATUS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "距离获得下一个奖励还需要：%(_pointsNext)s积分"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_HARE"
-msgstr "兔'21"
+msgid "IDS_BATTLEPASS_IMPROVED_ACTIVE_STATUS"
+msgstr "战斗通行证加成已生效"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_WOLF"
-msgstr "狼'21"
+msgid "IDS_BATTLESHIP_PL_GENITIVE"
+msgstr "战列舰"
 
-msgid "IDS_SOUND_MOD_SMF_SMF_WOLF"
-msgstr "狼"
+msgid "IDS_BATTLE_STATS_TRIAL_ROUNDS_PASSED"
+msgstr "已完成阶段：%(successRoundsCount)s/%(totalRoundsCount)s"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_1"
+msgstr "第2阶段开始时间："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_2"
+msgstr "第3阶段开始时间："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_3"
+msgstr "第4阶段开始时间："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_4"
+msgstr "第5阶段开始时间："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_5"
+msgstr "第6阶段开始时间："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PAUSE_PHASE_6"
+msgstr "第7阶段开始时间："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_1"
+msgstr "第1阶段——造成伤害："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_2"
+msgstr "第2阶段——造成伤害："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_3"
+msgstr "第3阶段——造成伤害："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_4"
+msgstr "第4阶段——造成伤害："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_5"
+msgstr "第5阶段——造成伤害："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_PROGRESS_PHASE_6"
+msgstr "第6阶段——造成伤害："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_1"
+msgstr "第1阶段："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_2"
+msgstr "第2阶段："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_3"
+msgstr "第3阶段："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_4"
+msgstr "第4阶段："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_5"
+msgstr "第5阶段："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_DAMAGE_PRIME_TIMER_PHASE_6"
+msgstr "第6阶段："
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_1"
+msgstr "第1阶段：造成20000点伤害"
+
+msgid "IDS_BATTLE_TASK_TEXT_TRIALS_ROUND_TASK_2"
+msgstr "第2阶段：造成40000点伤害"
+
+msgid "IDS_BATTLE_TRIALS_DESCRIPTION"
+msgstr "尽可能多地获得积分。"
+
+msgid "IDS_BATTLE_TRIALS_TITLE"
+msgstr "试炼"
+
+msgid "IDS_BONUS_SCORES"
+msgstr "奖励积分"
+
+msgid "IDS_BUFF_ACTIVE_IN_BATTLE"
+msgstr "在战斗中生效"
+
+msgid "IDS_BULLET"
+msgstr "•"
+
+msgid "IDS_CANCEL_ACTION"
+msgstr "取消"
+
+msgid "IDS_CHOOSE_TRIAL"
+msgstr "选择试炼"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_MINEFIELD"
+msgstr "注意我方雷区！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_MINEFIELD"
+msgstr "注意敌方雷区！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_MINEFIELD"
+msgstr "我方雷区！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_MINEFIELD"
+msgstr "敌方雷区！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_MINEFIELD"
+msgstr "我方雷区！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_MINEFIELD"
+msgstr "敌方雷区！"
+
+msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
+msgstr "无国籍"
+
+msgid "IDS_CONDITIONS"
+msgstr "参与条件"
+
+msgid "IDS_CONSPIROLOGIST"
+msgstr "邓肯•尤托庇尔"
+
+msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
+msgstr "下一个技能："
+
+msgid "IDS_CREW_IN_RESERVE_LIST_TITLE"
+msgstr "在预备队中"
+
+msgid "IDS_CREW_SORT_DEFAULT"
+msgstr "默认排序"
+
+msgid "IDS_CREW_SORT_LEVEL"
+msgstr "按等级排序"
+
+msgid "IDS_CREW_SORT_TYPE"
+msgstr "按稀有度排序"
+
+msgid "IDS_CREW_TYPE"
+msgstr "稀有度"
+
+msgid "IDS_CREW_TYPE_ADVANCED"
+msgstr "稀有"
+
+msgid "IDS_CREW_TYPE_COMMON"
+msgstr "普通"
+
+msgid "IDS_CREW_TYPE_ELITE"
+msgstr "精英"
+
+msgid "IDS_CREW_TYPE_SPECIAL"
+msgstr "特别"
+
+msgid "IDS_CREW_TYPE_UNIQUE"
+msgstr "传奇"
+
+msgid "IDS_CRUISER_PL_GENITIVE"
+msgstr "巡洋舰"
+
+msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
+msgstr "Utopia Show是一个发布科普主题视频的网络节目。其主要目标是消除神秘现象的常见误解，并揭露阴谋论。本收藏集包含了Utopia Show中的一些名人名场面。"
+
+msgid "IDS_DESTROYER_PL_GENITIVE"
+msgstr "驱逐舰"
+
+msgid "IDS_DOGTAG_PCNB453_DESCRIPTION"
+msgstr "这是海狸，听见了吗？真的是一只海狸！嘘，安静点，别吓跑它。"
+
+msgid "IDS_DOGTAG_PCNB453_NAME"
+msgstr "海狸"
+
+msgid "IDS_EARLY_EXIT_BATTLE_BATTLE_TRIALS"
+msgstr "试炼尚未完成！若现在退出试炼，您将无法获得本阶段的奖励。"
+
+msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
+msgstr "安装"
+
+msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
+msgstr "消耗型"
+
+msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
+msgstr "其他"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
+msgstr "普通加成"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
+msgstr "特殊加成"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
+msgstr "稀有加成"
+
+msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
+msgstr "精英加成"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREDITS"
+msgstr "银币"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP"
+msgstr "指挥官经验"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP"
+msgstr "战舰经验"
+
+msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
+msgstr "全局经验"
+
+msgid "IDS_EVAVALENTINE"
+msgstr "伊娃•瓦伦缇娜"
+
+msgid "IDS_EV_SA24_DAMAGE_RULES_1"
+msgstr "在本次试炼中，您需要尽可能多地造成伤害"
+
+msgid "IDS_EV_SA24_FRAGS_RULES"
+msgstr "在本次试炼中，您需要尽可能多地摧毁敌舰"
+
+msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_DEMOBILIZATION"
+msgstr "取消解雇指挥官后才能使用加速训练。"
+
+msgid "IDS_FIRST_UTOPIA_NAME"
+msgstr "1号调查板"
+
+msgid "IDS_FREE_SKILLPOINTS_LEFT_FOR_SHIPCLASS_TOOLTIP_TEXT"
+msgstr "剩余%(shipClass)s技能点：%(skillPoints)s"
+
+msgid "IDS_GNIDOVSKY"
+msgstr "鲁伯特•格尼多夫斯基"
+
+msgid "IDS_GUIDING_TIP_318_DESC"
+msgstr "驾驶不同国家的战舰参与战斗，难度会逐步增加！"
+
+msgid "IDS_GUIDING_TIP_318_HEADER"
+msgstr "个人试炼：国家"
+
+msgid "IDS_GUIDING_TIP_319_DESC"
+msgstr "驾驶不同类型的战舰参与战斗，难度会逐步增加！"
+
+msgid "IDS_GUIDING_TIP_319_HEADER"
+msgstr "个人试炼：战舰类型"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION"
+msgstr "显示%(_nationName)s指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
+msgstr "%(_nationName)s指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
+msgstr "显示无国籍指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION_NOT_AVAILABLE"
+msgstr "无国籍指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ADVANCED"
+msgstr "显示稀有指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_COMMON"
+msgstr "显示普通指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
+msgstr "显示精英指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ADVANCED"
+msgstr "稀有指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
+msgstr "普通指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
+msgstr "精英指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_SPECIAL"
+msgstr "特别指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNIQUE"
+msgstr "传奇指挥官不可用"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_SPECIAL"
+msgstr "显示特别指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNIQUE"
+msgstr "显示传奇指挥官"
+
+msgid "IDS_HINT_CREW_FILTERING_SORT"
+msgstr "选择指挥官排序"
+
+msgid "IDS_HINT_CREW_FILTERING_SORT_SET_REVERSE"
+msgstr "倒序显示指挥官"
+
+msgid "IDS_HRENSBERG"
+msgstr "迪克•哈伦斯贝格"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_DESC"
+msgstr "安装在战舰上的消耗型加成会在每场战斗中消耗。"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_HEADER"
+msgstr "消耗型加成"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_DESC"
+msgstr "首胜奖励以及其他类型加成。"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_OTHER_HEADER"
+msgstr "其他加成"
+
+msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_PERMANENT_DESC"
+msgstr "永久加成包不会在战斗中消耗。"
+
+msgid "IDS_MODAL_WINDOW_PCVT001_DAMAGE_PRIME_BATTLE_RULES_HEADER"
+msgstr "火力"
+
+msgid "IDS_MODAL_WINDOW_PCVT002_CITADEL_PRIME_BATTLE_RULES_HEADER"
+msgstr "精度"
+
+msgid "IDS_MODAL_WINDOW_PCVT003_FRAGS_PRIME_BATTLE_RULES_HEADER"
+msgstr "歼灭"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "阶段"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "完成当前阶段的任务以进入下一阶段。完成的阶段越多，试炼结束时获得的资源越多。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "规则"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "在试炼过程中，战舰武器、消耗品以及机动性可能会受到限制。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "标记"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "使用指定类型的武器攻击带有标记的目标可获得更多积分。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_HEADER"
+msgstr "试炼"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "在试炼中，您可以通过完成任务来磨练作战技术。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "每次试炼由5个阶段组成。要进入下一个阶段，必须完成当前阶段的任务。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_HEADER"
+msgstr "奖励积分"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "若提前完成任务，可获得奖励积分。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "奖励积分将在下一个阶段中生效。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
+msgstr "奖励"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "您完成的阶段越多，试炼结束时获得的资源就越多。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "每完成一个阶段都会获得奖励。若提前退出，您将无法获得该阶段的奖励。"
+
+msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MULTIPLIER_TAG_AP"
+msgstr "穿甲弹（AP）"
+
+msgid "IDS_MULTIPLIER_TAG_CS"
+msgstr "半穿甲弹（SAP）"
+
+msgid "IDS_MULTIPLIER_TAG_FIRE"
+msgstr "火灾"
+
+msgid "IDS_MULTIPLIER_TAG_HE"
+msgstr "高爆弹（HE）"
+
+msgid "IDS_MULTIPLIER_TAG_TORPEDOES"
+msgstr "鱼雷"
+
+msgid "IDS_NAME01"
+msgstr "目标"
+
+msgid "IDS_NAME02"
+msgstr "目标"
+
+msgid "IDS_NAME03"
+msgstr "目标"
+
+msgid "IDS_NAME04"
+msgstr "目标"
+
+msgid "IDS_NAME05"
+msgstr "目标"
+
+msgid "IDS_NAME06"
+msgstr "目标"
+
+msgid "IDS_NAME07"
+msgstr "目标"
+
+msgid "IDS_NAME08"
+msgstr "目标"
+
+msgid "IDS_NAME09"
+msgstr "目标"
+
+msgid "IDS_NAME10"
+msgstr "目标"
+
+msgid "IDS_NAME15"
+msgstr "目标"
+
+msgid "IDS_NAME16"
+msgstr "目标"
+
+msgid "IDS_NAME17"
+msgstr "目标"
+
+msgid "IDS_NAME18"
+msgstr "目标"
+
+msgid "IDS_NAME19"
+msgstr "目标"
+
+msgid "IDS_NAME1D"
+msgstr "目标"
+
+msgid "IDS_NAME1F"
+msgstr "目标"
+
+msgid "IDS_NAME20"
+msgstr "目标"
+
+msgid "IDS_NAME25"
+msgstr "目标"
+
+msgid "IDS_NAME26"
+msgstr "目标"
+
+msgid "IDS_NAME27"
+msgstr "目标"
+
+msgid "IDS_NAME28"
+msgstr "目标"
+
+msgid "IDS_NAME29"
+msgstr "目标"
+
+msgid "IDS_NAME2D"
+msgstr "目标"
+
+msgid "IDS_NAME2F"
+msgstr "目标"
+
+msgid "IDS_NAME30"
+msgstr "目标"
+
+msgid "IDS_NAME35"
+msgstr "目标"
+
+msgid "IDS_NAME36"
+msgstr "目标"
+
+msgid "IDS_NAME37"
+msgstr "目标"
+
+msgid "IDS_NAME38"
+msgstr "目标"
+
+msgid "IDS_NAME39"
+msgstr "目标"
+
+msgid "IDS_NAME3D"
+msgstr "目标"
+
+msgid "IDS_NAME3F"
+msgstr "目标"
+
+msgid "IDS_NAME40"
+msgstr "目标"
+
+msgid "IDS_NAME41"
+msgstr "目标"
+
+msgid "IDS_NAME42"
+msgstr "目标"
+
+msgid "IDS_NAME43"
+msgstr "目标"
+
+msgid "IDS_NAME44"
+msgstr "目标"
+
+msgid "IDS_NAME45"
+msgstr "目标"
+
+msgid "IDS_NAME46"
+msgstr "目标"
+
+msgid "IDS_NAME47"
+msgstr "目标"
+
+msgid "IDS_NAME48"
+msgstr "目标"
+
+msgid "IDS_NAME49"
+msgstr "目标"
+
+msgid "IDS_NAME4D"
+msgstr "目标"
+
+msgid "IDS_NAME4F"
+msgstr "目标"
+
+msgid "IDS_NAME50"
+msgstr "目标"
+
+msgid "IDS_NAME51"
+msgstr "目标"
+
+msgid "IDS_NAME52"
+msgstr "目标"
+
+msgid "IDS_NAME53"
+msgstr "目标"
+
+msgid "IDS_NAME54"
+msgstr "目标"
+
+msgid "IDS_NAME55"
+msgstr "目标"
+
+msgid "IDS_NAME56"
+msgstr "目标"
+
+msgid "IDS_NAME57"
+msgstr "目标"
+
+msgid "IDS_NAME58"
+msgstr "目标"
+
+msgid "IDS_NAME59"
+msgstr "目标"
+
+msgid "IDS_NAME5D"
+msgstr "目标"
+
+msgid "IDS_NAME5F"
+msgstr "目标"
+
+msgid "IDS_NAME_ALLY_1"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_2"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_3"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_4"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_5"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_6"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_7"
+msgstr "队友"
+
+msgid "IDS_NAME_ALLY_8"
+msgstr "队友"
+
+msgid "IDS_NO_CREW_FOUND_WITH_APPLIED_FILTERING"
+msgstr ""
+"没有符合筛选条件的\n"
+"指挥官"
+
+msgid "IDS_NO_MORE_PLACE_IN_RESERVE_TO_CANCEL_DEMOBILIZATION"
+msgstr "要取消解雇，需要在预备队中留出空位。"
+
+msgid "IDS_NO_SPECIALIZATION_CREW"
+msgstr "未进行训练"
+
+msgid "IDS_NO_SPECIALIZATION_REQUIRED_FOR_SHIP_STATUS_LINE"
+msgstr "可以指派指挥官，无需重新训练。"
+
+msgid "IDS_PARAMS_BONUS_FOR_VICTORY"
+msgstr "胜利加成"
+
+msgid "IDS_PBPA148_381MM_HE_ANSON"
+msgstr "381 mm HE Mk VIIIb SC"
+
+msgid "IDS_PBPA149_381MM_AP_ANSON"
+msgstr "381 mm AP Mk XXIIb SC"
+
+msgid "IDS_PBPT046_ANSON"
+msgstr "533 mm Mk IX*"
+
+msgid "IDS_PBSB518"
+msgstr "安森"
+
+msgid "IDS_PBSB518_DESCR"
+msgstr "假设海军上将级战列巡洋舰在1930年代末进行了类似于声望号战列巡洋舰和伊丽莎白女王级战列舰的现代化改造。在这种情况下，该舰将配备10座双联装113mm高平两用炮塔，以及大量的小口径防空炮，以显著增强其对空火力。"
+
+msgid "IDS_PBSB518_FULL"
+msgstr "安森"
+
+msgid "IDS_PBSB518_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSB518_YEAR"
+msgstr "1940"
+
+msgid "IDS_PBUA715_ART_ANSON"
+msgstr "381 mm/42 Mk.I（Mk.I/N RP 12炮座）"
+
+msgid "IDS_PBUE719_ENG_ANSON"
+msgstr "推进系统：144000马力"
+
+msgid "IDS_PBUH727_HULL_ANSON"
+msgstr "安森"
+
+msgid "IDS_PBUS720_SUO_ANSON"
+msgstr "Mk VIII"
+
+msgid "IDS_PBUT715_TORP_ANSON"
+msgstr "533 mm Mk IXM"
+
+msgid "IDS_PCEC147_CAMO_PRORYV_RED"
+msgstr "突围：红"
+
+msgid "IDS_PCEC148_CAMO_PRORYV_GREEN"
+msgstr "突围：绿"
+
+msgid "IDS_PCEC990_TRIALS_BUDENY"
+msgstr "目标"
+
+msgid "IDS_PCEC991_TRIALS_PYOTR_VELIKIY"
+msgstr "目标"
+
+msgid "IDS_PCEC993_TRIALS_SENYAVIN"
+msgstr "目标"
+
+msgid "IDS_PCEC994_TRIALS_OMAHA"
+msgstr "目标"
+
+msgid "IDS_PCEE724_HENGSHUI_FLAG"
+msgstr "衡水"
+
+msgid "IDS_PCEE724_HENGSHUI_FLAG_DESCRIPTION"
+msgstr "悬挂纸灯笼在中国春节庆祝活动中占据重要地位，元宵节代表着春节的结束。汉朝学者和政治家崔寔曾描述过这些庆典仪式，他的故乡位于今天的衡水市。"
+
+msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
+msgstr "泛亚战列舰"
+
+msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_DESCRIPTION"
+msgstr "老虎的形象贯穿大部分东方文化，在神话中常与治愈和抵御邪恶力量相关。在古代中国，老虎被视为“森林之王”，象征着皇权。"
+
+msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "为纪念泛亚战列舰在25.1版本中开放抢先体验。"
+
+msgid "IDS_PCEE730_MADRID_FLAG"
+msgstr "马德里"
+
+msgid "IDS_PCEE730_MADRID_FLAG_DESCRIPTION"
+msgstr "1701至1785年间西班牙海军使用的旗帜。在此期间，西班牙国王对海军进行了改革和现代化，以收复失地并加强在新大陆的影响力。"
+
+msgid "IDS_PCEE731_ANSON_FLAG"
+msgstr "HMS安森"
+
+msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
+msgstr "乔治•安森（1697–1762）是英国海军将领，曾进行环球航行。他作为海军上将指挥红色中队，这是英国海军编队中最重要的部分，通常位于阵型中央。"
+
+msgid "IDS_PCEE732_SOVREMENNY_FLAG"
+msgstr "现代"
+
+msgid "IDS_PCEE732_SOVREMENNY_FLAG_DESCRIPTION"
+msgstr "北方舰队第七作战（大西洋）分舰队的徽章上有七颗星，象征该分舰队编号。带翅膀的锚代表航母舰队，而三把剑象征分舰队的三大组成部分：航母、导弹和常规战舰。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
+msgstr "您战舰的机动性将受到限制；"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
+msgstr "攻击带有特殊标记的目标可获得更多积分。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_DESCRIPTION"
+msgstr "试炼包含5个阶段，每个阶段持续3分钟。若提前完成任务，可获得奖励积分，后者将在下个阶段生效。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_EXTRA_DESCRIPTION"
+msgstr "您完成的阶段越多，试炼结束时获得的资源就越多。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_GOAL"
+msgstr "尽可能多地对敌舰造成伤害。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
+msgstr "火力"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
+msgstr "对敌舰造成伤害。"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
+msgstr "您战舰的机动性将受到限制；"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
+msgstr "命中带有特殊标记的敌舰的核心区可获得更多积分。"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_DESCRIPTION"
+msgstr "试炼包含5个阶段，每个阶段持续3分钟。若提前完成任务，可获得奖励积分，后者将在下个阶段生效。"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_EXTRA_DESCRIPTION"
+msgstr "您完成的阶段越多，试炼结束时获得的资源就越多。"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_GOAL"
+msgstr "尽可能多地命中敌舰的核心区。"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_NAME"
+msgstr "精度"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
+msgstr "命中敌舰的核心区。"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
+msgstr "您战舰的机动性将受到限制；"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
+msgstr "摧毁带有特殊标记的敌舰可获得更多积分。"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_DESCRIPTION"
+msgstr "试炼包含5个阶段，每个阶段持续3分钟。若提前完成任务，可获得奖励积分，后者将在下个阶段生效。"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_EXTRA_DESCRIPTION"
+msgstr "您完成的阶段越多，试炼结束时获得的资源就越多。"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_GOAL"
+msgstr "尽可能多地摧毁敌舰。"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_NAME"
+msgstr "歼灭"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_TASK_DESCR"
+msgstr "摧毁敌舰。"
+
+msgid "IDS_PCZA039_UTOPIA"
+msgstr "Utopia Show"
+
+msgid "IDS_PCZA039_UTOPIA_QUOTES"
+msgstr "Utopia Show"
+
+msgid "IDS_PCZC939_UTOPIA_1_1"
+msgstr "圣诞老人的葬送者"
+
+msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
+msgstr ""
+"1932年，经济大萧条期间，亚利桑那州梅萨市的商店老板们正经历艰难时期。临近一年一度的圣诞游行，商家们急需吸引人群前来购物。\n"
+"\n"
+"当地报纸编辑约翰•麦克菲提出了一个创意：雇佣一名跳伞员，穿着圣诞老人的服装从飞机上跳伞降落到城外的田野上，然后由警察护送到游行现场分发礼物。\n"
+"\n"
+"在游行当天，跳伞员临时退出。情急之下，麦克菲用商店里的一个人偶替代。他给人偶穿上圣诞老人服装，并从飞机上推下去。不幸的是，降落伞未能打开，人偶在孩子们的注视下摔落地面。\n"
+"\n"
+"麦克菲试图挽救局面，自己穿上圣诞老人服装与孩子们互动。但孩子们相信圣诞老人已经死了。后来，麦克菲就被称为“圣诞老人的葬送者”。"
+
+msgid "IDS_PCZC940_UTOPIA_1_2"
+msgstr "汽车马球"
+
+msgid "IDS_PCZC940_UTOPIA_1_2_DESCRIPTION"
+msgstr ""
+"汽车马球是一项将马球规则与装备移植到汽车上的运动，1910至1920年代在美国盛行。\n"
+"\n"
+"该运动由福特汽车销售员拉尔夫•汉金森于1911年发明，旨在推广福特T型车。1912年7月20日，第一场正式比赛在堪萨斯州威奇托的田野上举行，吸引了5000名观众。\n"
+"\n"
+"由于这项运动极其危险，车辆频繁相撞，选手也常被甩出车外，1920年代末汽车马球逐渐退出历史舞台。"
+
+msgid "IDS_PCZC941_UTOPIA_1_3"
+msgstr "耶夫勒山羊"
+
+msgid "IDS_PCZC941_UTOPIA_1_3_DESCRIPTION"
+msgstr ""
+"在北欧国家，山羊是圣诞节的象征之一。庆祝者会戴上山羊面具，并用这种动物的稻草小人装饰圣诞树。1966 年，瑞典耶夫勒镇决定用稻草制作一只巨大的圣诞山羊。12月1日，这个高13米、长7米、重3吨的巨型圣诞山羊模型就做好了。\n"
+"\n"
+"但在新年前夜，山羊模型被烧毁了。\n"
+"\n"
+"从那时起，这只山羊就出名了，因为几乎每年都有人放火烧它，或者试图以其他方式毁掉它。每年，市政官员都会采取更加严格的安保措施，但遭到破坏的方式却越来越别出心裁。\n"
+"\n"
+"有一次，一名51岁的美国游客纵火焚烧了山羊，但他坚信自己是在参加一项完全合法的当地传统活动。山羊受到24小时视频监控，但有一天，视频摄像头被黑客入侵。有一年，人们为山羊安排了保安，但由于天气非常寒冷，他们不得不到附近的一家餐馆取暖——破坏者没有错过这个机会。尽管这只山羊安装了飞机上使用的重型防火装置，但破坏者还是用汽油点燃了山羊。"
+
+msgid "IDS_PCZC942_UTOPIA_1_4"
+msgstr "瘟疫医生"
+
+msgid "IDS_PCZC942_UTOPIA_1_4_DESCRIPTION"
+msgstr ""
+"瘟疫医生——16-17世纪欧洲流行病期间治疗瘟疫的医生。这些医生受雇于城市当局，为城镇居民，尤其是无力支付治疗费用的穷人提供治疗。\n"
+"\n"
+"这些医生的名声褒贬不一：一些城镇居民认为他们的出现预示着死亡的临近。瘟疫医生往往不是经验丰富、受过教育的医生，而是志愿者或新手。\n"
+"\n"
+"瘟疫医生用放血、青蛙和水蛭进行治疗。他们很少治病，主要工作是记录瘟疫死亡人数，以便统计。在一些城镇，瘟疫医生会验尸以确定死因。有时，瘟疫医生会记录临终者的最后遗嘱。\n"
+"\n"
+"瘟疫医生的形象在文化中不变的是斗篷、长嘴面具、宽边帽和手套。人们认为疾病带有恶臭，面具上的长喙有助于净化医生呼吸的空气。不过，并不是所有治疗瘟疫的医生都穿这样的服装。"
+
+msgid "IDS_PCZC943_UTOPIA_2_1"
+msgstr "穿运动鞋的鹅"
+
+msgid "IDS_PCZC943_UTOPIA_2_1_DESCRIPTION"
+msgstr ""
+"安迪（1987-1991）是一只天生腿部没有蹼的鹅，为了能够站立和行走，它穿上了运动鞋。\n"
+"\n"
+"安迪出生在内布拉斯加州的一个农场里。发明家兼慈善家吉恩•弗莱明发现了它，并决定帮助这只鹅。起初，弗莱明试图为它安装类似滑板的假肢，但并不成功。后来，发明家尝试给这只鹅穿上经过特殊改装的儿童运动鞋，安迪终于学会了走路。\n"
+"\n"
+"安迪的故事引起了公众的关注，一家大型制鞋商承诺向这只鹅提供终身供应的运动鞋——这只鹅一个月就穿坏一双。安迪被认为是残疾人的希望之源。\n"
+"\n"
+"安迪于1991年10月19日失踪，第二天被发现死在当地的一个公园里。这一事件引起了公众的强烈抗议，但一时却找不到凶手。后来据报道，警方找到了肇事者，但不愿透露他的身份，因为他被认为不适合对犯罪行为负责。"
+
+msgid "IDS_PCZC944_UTOPIA_2_2"
+msgstr "椰子蟹"
+
+msgid "IDS_PCZC944_UTOPIA_2_2_DESCRIPTION"
+msgstr ""
+"椰子蟹（学名：Birgus latro）是一种陆生隐居螯虾，是世界上最大的节肢动物。它的体重可超过4千克，腿尖之间的距离可达1米。椰子蟹栖息在印度洋和太平洋的岛屿上。\n"
+"\n"
+"椰子蟹以水果、坚果、种子和腐肉为食。这种螯虾能抓起并拖走无人看管的食物。人们曾一度认为，椰子蟹可以爬上棕榈树，剖开椰子吃椰子肉，这就是它名字的由来。不过，这种说法尚未得到科学证实。"
+
+msgid "IDS_PCZC945_UTOPIA_2_3"
+msgstr "巨型金鱼"
+
+msgid "IDS_PCZC945_UTOPIA_2_3_DESCRIPTION"
+msgstr ""
+"2021年，人们在安大略湖捕获了一条足球大小的巨型金鱼。后来，加拿大其他湖泊也开始出现类似情况。\n"
+"\n"
+"最有趣的是，这些巨型金鱼并不是以前被主人放生到池塘里的宠物，而很可能是它们的后代。事实证明，自然环境对金鱼极为有利，因为当地水域没有它们的天敌。科学家们说，这些鱼的繁殖速度很快，雌鱼一年可产三次卵，每次多达50000颗。金鱼在该国水体中的活动范围不断扩大，破坏了当地的鱼类种群和生态环境。它们携带疾病和寄生虫，并与其他鱼类争夺食物和空间。\n"
+"\n"
+"地方当局不得不向加拿大人发出呼吁，不要将他们的金鱼放生到该国的湖泊中。"
+
+msgid "IDS_PCZC946_UTOPIA_2_4"
+msgstr "猫市长"
+
+msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
+msgstr ""
+"斯塔布斯是一只猫，1997-2017年间曾担任美国阿拉斯加塔尔基特纳定居点的荣誉市长。\n"
+"\n"
+"1997年，Nagle's的店长劳里•斯特克在停车场发现了一箱小猫。斯特克选择收养了斯塔布斯，因为它没有尾巴。小猫在店里住了下来，很快这个小镇上的许多人都知道了它。\n"
+"\n"
+"传说中斯塔布斯在市长选举中获得了很多选票。怀疑论者则质疑这一说法——塔尔基特纳是一个小社区，没有正式设立市长职位。在纳格尔担任市长期间，他的商店一直是猫的办公室。每天，斯塔布斯都会去附近的一家餐馆用酒杯喝猫薄荷水。"
+
+msgid "IDS_PCZC947_UTOPIA_3_1"
+msgstr "宠物石"
+
+msgid "IDS_PCZC947_UTOPIA_3_1_DESCRIPTION"
+msgstr ""
+"宠物石是美国文案和企业家加里•达尔在1975年创造的一种玩具。这种石头以类似宠物箱的特殊包装出售——有气孔和稻草床。\n"
+"\n"
+"加里•达尔与朋友们坐在酒吧里，朋友们抱怨照顾宠物很困难，加里•达尔便萌生了制作宠物石的想法。达尔建议将宠物石作为理想宠物出售：它们不需要喂食、遛弯或洗澡，宠物石不会生病，也不会调皮捣蛋。\n"
+"\n"
+"宠物石的热销持续了6个月，包括1975年的圣诞节，到第二年的2月，这种玩具就停产了。最终，达尔以每块4美元的价格售出了超过一百万块宠物石，使他成为了百万富翁。"
+
+msgid "IDS_PCZC948_UTOPIA_3_2"
+msgstr "巧克力配鱼"
+
+msgid "IDS_PCZC948_UTOPIA_3_2_DESCRIPTION"
+msgstr ""
+"很难想象有哪两种食物能像巧克力和鱼一样搭配得如此糟糕。但这只是乍一看而已。事实证明，即使是这种逆天组合也有它的拥趸。\n"
+"\n"
+"许多巧克力制造商都会在产品中加盐——这一点很难让人感到惊讶。而一些糖果商则更进一步，在巧克力中加入咸鱼，并在多个国家生产这种不寻常的产品。对于那些还没有决定尝试真正的鱼巧克力棒的人来说，还有另一种选择：用巧克力酱烹制鱼。"
+
+msgid "IDS_PCZC949_UTOPIA_3_3"
+msgstr "龙涎香"
+
+msgid "IDS_PCZC949_UTOPIA_3_3_DESCRIPTION"
+msgstr ""
+"龙涎香是抹香鲸消化系统中形成的一种灰色蜡状固体物质。这种物质在香水中被广泛用作气味固定剂。在中世纪的欧洲，龙涎香被用来治疗头痛、感冒和癫痫，并被认为可以预防瘟疫。\n"
+"\n"
+"龙涎香在抹香鲸的胆管中形成。人们在大乌贼的喙中发现了这种物质的碎片，因此人们认为抹香鲸的消化系统形成龙涎香是为了方便胃中的硬物和尖锐物通过。\n"
+"\n"
+"龙涎香是一种非常稀有的物质：它需要数年才能形成，只有百分之一的抹香鲸拥有这种物质。也就是说，它可以在海洋中停留数年，然后才到达海岸。由于龙涎香的稀有性和法律对捕鲸活动的限制，其已被合成龙涎香取代。"
+
+msgid "IDS_PCZC950_UTOPIA_3_4"
+msgstr "山葵"
+
+msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
+msgstr ""
+"山葵是一种原产于日本、俄罗斯远东地区和朝鲜半岛的卷心菜科植物。\n"
+"\n"
+"山葵的尖锐味道让人联想到相关植物辣根和芥末。山葵根被磨成糊状后，具有特有的绿色和刺激性气味。制成的调味料可与寿司和其他菜肴一起食用。\n"
+"\n"
+"山葵的独特风味是植物细胞被破坏时产生的复杂物质组合的结果（据说这一特征是在进化过程中作为一种防御机制出现的）。山葵的辣味对嗅觉的刺激大于对味蕾的刺激，植物的气味具有类似于氨的效果。研究人员利用山葵的这一特性为有听力障碍的人制作了火灾警报器——一名参加实验的人在芥末的气味开始在房间里弥漫10秒钟后就醒了过来。"
+
+msgid "IDS_PRES316_TOP_SECRET"
+msgstr "Utopia Show"
+
+msgid "IDS_PRGM101_130MM_B31_TWIN"
+msgstr "130 mm/50 Model 1936（B-31炮座）"
+
+msgid "IDS_PRGM244_130MM_58_CM_62"
+msgstr "130 mm/58 Model 1957（SM-61炮座）"
+
+msgid "IDS_PRGM246_100MM_TWIN_CM_52"
+msgstr "100 mm/70（SM-51炮座）"
+
+msgid "IDS_PRPA158_130MM_58_HE"
+msgstr "HE-42"
+
+msgid "IDS_PRPA159_130MM_58_AP"
+msgstr "AP-42"
+
+msgid "IDS_PRPA160_100MM_HE_SOVREMENNY"
+msgstr "HE-52"
+
+msgid "IDS_PRPA161_100MM_AP_SOVREMENNY"
+msgstr "AP-52"
+
+msgid "IDS_PRPT082_SOOBRAZITELNY"
+msgstr "53-38 mod. 1"
+
+msgid "IDS_PRPT083_OSMOTRITELNY"
+msgstr "53-38 mod. 2"
+
+msgid "IDS_PRPT084_SMELY"
+msgstr "53-39 mod. 2"
+
+msgid "IDS_PRPT085_SPOKOINY"
+msgstr "53-50 mod. 1"
+
+msgid "IDS_PRPT086_GORDELIVY"
+msgstr "53-50 mod. 2"
+
+msgid "IDS_PRPT087_SOVREMENNY"
+msgstr "53-39 mod. 5"
+
+msgid "IDS_PRSB526"
+msgstr "绝密"
+
+msgid "IDS_PRSB526_DESCR"
+msgstr ""
+"1943年10月28日，美国海军在费城进行了一次代号为“彩虹计划”的秘密实验，在这次实验中，美国海军驱逐舰埃尔德里奇号在太空中移动了几十公里。特勤局试图让我们相信费城实验的故事只是一个骗局，但我们知道真相。\n"
+"\n"
+"1947年，罗斯威尔事件发生后不久，政府继续进行实验。我们有大量目击者的证词（为了安全起见，我们不会透露这些证词）称，有人在费城海岸附近、干涸的格鲁姆湖和百慕大三角附近看到了一艘苏联设计的巡洋舰，据说这艘巡洋舰从未被建造过。\n"
+"\n"
+"我们可以推测，政府利用51区的外星技术，发现了一些难以想象的东西…并将其隐藏了起来。\n"
+"\n"
+"看起来挺合理的，但又不那么合理。"
+
+msgid "IDS_PRSB526_FULL"
+msgstr "绝密"
+
+msgid "IDS_PRSB526_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB526_YEAR"
+msgstr "未知"
+
+msgid "IDS_PRSC916"
+msgstr "马卡洛夫U"
+
+msgid "IDS_PRSC916_DESCR"
+msgstr ""
+"马卡罗夫海军上将号的复制船，用于参加试炼和行动。\n"
+"\n"
+"——莱A•MKROV学"
+
+msgid "IDS_PRSC916_FULL"
+msgstr "马卡洛夫（学）"
+
+msgid "IDS_PRSC916_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC916_YEAR"
+msgstr "1935"
+
+msgid "IDS_PRSD218"
+msgstr "熟练"
+
+msgid "IDS_PRSD218_DESCR"
+msgstr ""
+"在借鉴德国的造船经验后，苏联海军第1中央设计局设计局局长V.布热津斯基提出建造一艘使用高压蒸汽锅炉的战舰。这种锅炉能够显著降低涡轮装置的重量。L.拉姆津教授设计了直流锅炉，其蒸汽压力预计是7型驱逐舰锅炉的三倍。由于减轻了锅炉涡轮装置的重量，该舰得以加强其武器装备。为此，专门设计了双联装B-31型炮塔。该方案的初步设计被命名为45型。\n"
+"\n"
+"该舰在列宁格勒日丹诺夫造船厂建造，最初命名为谢尔戈•奥尔忠尼启泽。而在1940年尚未完工时，该舰就被改名为熟练。由于B-31型炮塔未能通过初步设计阶段，该舰最终装备了三座B-13型单装炮。在战争爆发后，该舰被紧急投入服役，并于1941年9月编入舰队。同年10月，战舰因敌军打击受损进入维修。1942年至1944年间，熟练利用其火炮支援了列宁格勒方面军的地面部队。"
+
+msgid "IDS_PRSD218_FULL"
+msgstr "熟练"
+
+msgid "IDS_PRSD218_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD218_YEAR"
+msgstr "1941"
+
+msgid "IDS_PRSD306"
+msgstr "灵敏"
+
+msgid "IDS_PRSD306_DESCR"
+msgstr ""
+"在建造7型驱逐舰的时候，海军领导层曾遇到了一个问题：战舰所采用的线性布置锅炉涡轮装置，容易因被一发炮弹或一枚鱼雷命中而瘫痪，以致全舰完全失去动力。为了解决这一问题，1938年，苏联海军第17中央设计局和日丹诺夫北方造船厂的专家们改进了设计方案，编号为7U。在这一新方案中，锅炉涡轮装置的线性布局被改为阶梯式布局。1938年至1939年间，正在列宁格勒和尼古拉耶夫建造的新战舰根据新的设计案重新铺设了龙骨\n"
+"\n"
+"灵敏号驱逐舰最初按7型方案于1936年10月在尼古拉耶夫200号船厂开工建造。1939年3月，该舰根据7U方案重新铺设龙骨，并被命名为灵敏。在伟大的卫国战争初期，该舰参与了对康斯坦察的突袭战、敖德萨保卫战以及刻赤-费奥多西亚登陆行动。1942年，灵敏参与了塞瓦斯托波尔保卫战，而在1943年，她还参与了突袭行动。由于出色的战斗表现，该舰被授予“近卫战舰”的荣誉称号。战后，灵敏则继续在黑海舰队服役。"
+
+msgid "IDS_PRSD306_FULL"
+msgstr "灵敏"
+
+msgid "IDS_PRSD306_NUMBER"
+msgstr "18"
+
+msgid "IDS_PRSD306_YEAR"
+msgstr "1941"
+
+msgid "IDS_PRSD317"
+msgstr "缜密"
+
+msgid "IDS_PRSD317_DESCR"
+msgstr ""
+"1937年8月初，国防委员会召开会议，决定停止进一步建造7型驱逐舰，转而设计一种基于西班牙战争经验设计的新型驱逐舰。该新型驱逐舰的编号为30型，其技战术要求于1937年11月正式获批。设计工作由列宁格勒第190造船厂的设计局负责。新型驱逐舰与48型驱逐领舰的设计在一定程度上实现了统一化，特别是在火炮配置方面（48型配备了三座双联装炮塔，而该型驱逐舰则配备了两座）。\n"
+"\n"
+"缜密号驱逐舰于1940年5月5日在北德文斯克开工建造，1944年8月下水，并于1947年9月29日正式服役，加入北方舰队。在北方舰队中，她服役了11年。"
+
+msgid "IDS_PRSD317_FULL"
+msgstr "缜密"
+
+msgid "IDS_PRSD317_NUMBER"
+msgstr "10"
+
+msgid "IDS_PRSD317_YEAR"
+msgstr "1947"
+
+msgid "IDS_PRSD318"
+msgstr "英勇"
+
+msgid "IDS_PRSD318_DESCR"
+msgstr ""
+"二战结束后，苏联通过了一项新的造船计划。计划经过多次调整，最终决定建造30改型驱逐舰，该型驱逐舰是30型驱逐舰的改进版本。与最初的30型相比，30改型具有更大的尺寸、更优秀的适航性以及更强的防空火力。30改型驱逐舰共建造了70艘，是苏联海军数量最多的水面战舰级别。\n"
+"\n"
+"英勇号驱逐舰于1948年5月在列宁格勒开工建造，同年9月下水，并于1951年3月正式服役。1953年至1955年间，该舰隶属于第8舰队，随后被调入波罗的海舰队。1960年2月，英勇被转入北方舰队。"
+
+msgid "IDS_PRSD318_FULL"
+msgstr "英勇"
+
+msgid "IDS_PRSD318_NUMBER"
+msgstr "70"
+
+msgid "IDS_PRSD318_YEAR"
+msgstr "1951"
+
+msgid "IDS_PRSD319"
+msgstr "平静"
+
+msgid "IDS_PRSD319_DESCR"
+msgstr ""
+"1952年，苏联决定停止41型战舰的批量建造，转而建造一种排水量较小的改进型驱逐舰作为其替代方案。1951年至1953年间，编号为56型的初步设计方案出炉。与其原型相比，56型驱逐舰在舰体设计上有所改进，并减小了排水量。\n"
+"\n"
+"平静号驱逐舰于1953年3月在列宁格勒日丹诺夫造船厂铺设龙骨，同年11月下水，并于1956年6月正式服役。经过试航后，该舰被编入北方舰队服役。在1964年至1966年间完成维修后，平静被调入波罗的海舰队，并于1970年参加了大规模军事演习“海洋70”。从1978年起，该舰转隶苏联海军“大西洋”第七战役分舰队服役。"
+
+msgid "IDS_PRSD319_FULL"
+msgstr "平静"
+
+msgid "IDS_PRSD319_NUMBER"
+msgstr "27"
+
+msgid "IDS_PRSD319_YEAR"
+msgstr "1956"
+
+msgid "IDS_PRSD320"
+msgstr "自豪"
+
+msgid "IDS_PRSD320_DESCR"
+msgstr ""
+"在20世纪50年代中期服役的56型驱逐舰虽然具有良好的适航性，但其航速表现不尽人意。此外，硬铝制上层建筑还存在振动和变形的问题。此外，56型战舰还存在居住条件差、内部空间狭小的问题，这也限制了其现代化改装的潜力。\n"
+"\n"
+"解决这些问题的最合理方法是设计一级新的驱逐舰，其尺寸应与41型舰艇相当，但采用更先进的技术水平，并配备最新的无线电技术设备和武器系统。这不仅可以缩减舰员数量，还能提高战舰的能源效率。然而，到20世纪60年代中期，主要的海军强国都已开始建造装备了制导导弹的军舰。因此，苏联选择放弃设计纯火炮驱逐舰，转而优先发展装备导弹的57改型驱逐舰项目。"
+
+msgid "IDS_PRSD320_FULL"
+msgstr "自豪"
+
+msgid "IDS_PRSD320_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD320_YEAR"
+msgstr "1957"
+
+msgid "IDS_PRSD509"
+msgstr "现代"
+
+msgid "IDS_PRSD509_DESCR"
+msgstr ""
+"最初计划建造8艘48型驱逐领舰，但最终只有2艘得以下水。在1944至1950年间，苏联海军第17中央设计局和444号造船厂设计局曾进行编号为48-K战舰的初步设计工作。然而，1950年，苏联造船部决定取消48型驱逐领舰的建造计划，并将其改装为靶舰。当时，这些战舰已被重新分类为驱逐舰，而不再是驱逐领舰。\n"
+"\n"
+"其中，埃里温的舰体于1957年在KSShch反舰导弹的试验中被击沉，而基辅的舰体则在1960年代初从里海被拉回尼古拉耶夫，而此前她在里海作为试验舰使用。据一些资料显示，曾有多种面向基辅的改造方案，包括将其改建为装备制导导弹的驱逐舰，或用作测试武器系统的试验平台。如果将基辅重新建为火炮驱逐舰，那么她可能会配备现代化武器，如100mm高平两用舰炮、新型RBU反潜火箭等。"
+
+msgid "IDS_PRSD509_FULL"
+msgstr "现代"
+
+msgid "IDS_PRSD509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD509_YEAR"
+msgstr "1962"
+
+msgid "IDS_PRUA500_ART_TOP_SECRET"
+msgstr "356 mm/52 Model. 1913（Metal Works Plant炮塔）"
+
+msgid "IDS_PRUA507_D6_ART_STOCK"
+msgstr "130 mm/50 Model 1936（B-13-IIc炮座）"
+
+msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
+msgstr "150 mm/60 SK C/25（Drh Tr C/28炮座）"
+
+msgid "IDS_PRUA605_D7_ART_STOCK"
+msgstr "130 mm/50 Model 1936（B-2LM炮座）"
+
+msgid "IDS_PRUA715_D8_ART_STOCK"
+msgstr "130 mm/50 Model 1936（B-2LM炮座）"
+
+msgid "IDS_PRUA716_D8_ART_STOCK"
+msgstr "130 mm/50 Model 1936（B-31炮座）"
+
+msgid "IDS_PRUA820_D9_ART_STOCK"
+msgstr "130 mm/58 Model. 1957（SM-2-1炮座）"
+
+msgid "IDS_PRUA824_ART_SOVREMENNY"
+msgstr "100 mm/70（SM-51炮座）"
+
+msgid "IDS_PRUA922_D10_ART_STOCK"
+msgstr "130 mm/58 Model. 1957（SM-61炮座）"
+
+msgid "IDS_PRUE500_ENG_TOP_SECRET"
+msgstr "推进系统：75000马力"
+
+msgid "IDS_PRUE507_D6_ENG_STOCK"
+msgstr "推进系统：54000马力"
+
+msgid "IDS_PRUE509_ENG_MAKAROV_CHALLENGE"
+msgstr "推进系统：60000马力"
+
+msgid "IDS_PRUE606_D7_ENG_STOCK"
+msgstr "推进系统：60810马力"
+
+msgid "IDS_PRUE723_D8_ENG_STOCK"
+msgstr "推进系统：62100马力"
+
+msgid "IDS_PRUE724_D8_ENG_STOCK"
+msgstr "推进系统：70000马力"
+
+msgid "IDS_PRUE820_D9_ENG_STOCK"
+msgstr "推进系统：72000马力"
+
+msgid "IDS_PRUE821_ENG_SOVREMENNY"
+msgstr "推进系统：90000马力"
+
+msgid "IDS_PRUE924_D10_ENG_STOCK"
+msgstr "推进系统：76000马力"
+
+msgid "IDS_PRUH516_HULL_TOP_SECRET"
+msgstr "绝密"
+
+msgid "IDS_PRUH517_D6_HULL_STOCK"
+msgstr "灵敏"
+
+msgid "IDS_PRUH518_HULL_MAKAROV_CHALLENGE"
+msgstr "马卡洛夫海军上将"
+
+msgid "IDS_PRUH610_D7_HULL_STOCK"
+msgstr "缜密"
+
+msgid "IDS_PRUH731_D8_HULL_STOCK"
+msgstr "英勇"
+
+msgid "IDS_PRUH732_D8_HULL_STOCK"
+msgstr "熟练"
+
+msgid "IDS_PRUH828_D9_HULL_STOCK"
+msgstr "平静"
+
+msgid "IDS_PRUH829_HULL_SOVREMENNY"
+msgstr "现代"
+
+msgid "IDS_PRUH924_D10_HULL_STOCK"
+msgstr "自豪"
+
+msgid "IDS_PRUS508_SUO_TOP_SECRET"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS509_D6_SUO_STOCK"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
+msgstr "GFCS VI mod. 1"
+
+msgid "IDS_PRUS608_D7_SUO_STOCK"
+msgstr "GFCS VII"
+
+msgid "IDS_PRUS710_D8_SUO_STOCK"
+msgstr "GFCS VIII"
+
+msgid "IDS_PRUS724_D8_SUO_STOCK"
+msgstr "GFCS VIII"
+
+msgid "IDS_PRUS827_D9_SUO_STOCK"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS828_SUO_SOVREMENNY"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS920_D10_SUO_STOCK"
+msgstr "GFCS X"
+
+msgid "IDS_PRUT504_D6_TORP_STOCK"
+msgstr "53-39"
+
+msgid "IDS_PRUT505_TORP_MAKAROV_CHALLENGE"
+msgstr "G7a T1"
+
+msgid "IDS_PRUT606_D7_TORP_STOCK"
+msgstr "53-39 mod. 4"
+
+msgid "IDS_PRUT713_D8_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_PRUT714_D8_TORP_STOCK"
+msgstr "53-38"
+
+msgid "IDS_PRUT814_TORP_SOVREMENNY"
+msgstr "53-51"
+
+msgid "IDS_PRUT815_D9_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_PRUT918_D10_TORP_STOCK"
+msgstr "53-51"
+
+msgid "IDS_PSGA062_40MM_BOFORS_MARK_IV_HAZEMEYER"
+msgstr "40 mm/56 OQF Mk.1/2（Mk.IV炮座）"
+
+msgid "IDS_PSGA063_20MM_OERLIKON_MK4"
+msgstr "20 mm Oerlikon Mk.I（Mk.IIA炮座）"
+
+msgid "IDS_PSGA065_2_PDR_MKVII_QUAD"
+msgstr "40 mm/39 Vickers QF Mk.VIII（Mk.VII炮座）"
+
+msgid "IDS_PSGA066_20MM_OERLIKON_MK_V"
+msgstr "20 mm Oerlikon Mk.II（Mk.V炮座）"
+
+msgid "IDS_PSGM061_12IN50_MK_XV"
+msgstr "305 mm/50 VSM Mark H（炮塔）"
+
+msgid "IDS_PSGS064_114MM_45_MKIII"
+msgstr "113 mm/45 QF Mk.I/III（RP10 Mark II BD炮座）"
+
+msgid "IDS_PSPA031_305MM_HE_MADRID"
+msgstr "305 mm HE Mk IIb"
+
+msgid "IDS_PSPA032_305MM_AP_MADRID"
+msgstr "305 mm AP Mk VIb"
+
+msgid "IDS_PSPA033_114MM_MII_HE"
+msgstr "113 mm HE 5crh"
+
+msgid "IDS_PSPT009_MADRID"
+msgstr "533 mm Mk VIII ES"
+
+msgid "IDS_PSSC510"
+msgstr "马德里"
+
+msgid "IDS_PSSC510_DESCR"
+msgstr ""
+"西班牙内战结束后，西班牙造船业逐步恢复，特别是费罗尔造船厂，他们当时已经开始设计新型战舰了。1938年，该造船厂设计了五种驱逐舰方案以及多种巡洋舰方案，这些巡洋舰的排水量从7920吨到19000吨不等。其中规模最大的是138型项目，该项目包含多个版本，主要区别在于主炮口径。\n"
+"\n"
+"其中一个主要方案是建造一艘装备西班牙号战列舰双联装炮塔的巡洋舰。西班牙号战列舰在内战期间于桑坦德海岸附近沉没，后来被打捞上来。虽然舰体无法修复，但其305mm主炮仍计划被重新使用——用于沿海防御，或安装在新造的巡洋舰上。"
+
+msgid "IDS_PSSC510_FULL"
+msgstr "马德里"
+
+msgid "IDS_PSSC510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PSSC510_YEAR"
+msgstr "1938"
+
+msgid "IDS_PSUA904_ART_MADRID"
+msgstr "305 mm/50 VSM Mark H（炮塔）"
+
+msgid "IDS_PSUE904_ENG_MADRID"
+msgstr "推进系统：135560马力"
+
+msgid "IDS_PSUH904_HULL_MADRID"
+msgstr "马德里"
+
+msgid "IDS_PSUS904_SUO_MADRID"
+msgstr "SCI Mk X"
+
+msgid "IDS_PSUT903_TORP_MADRID"
+msgstr "533 mm Vierling"
+
+msgid "IDS_PZES301_HANOI_EA"
+msgstr "革命薪火"
+
+msgid "IDS_PZES302_DONGFENG_EA"
+msgstr "革命薪火"
+
+msgid "IDS_PZES303_TIANGONG_EA"
+msgstr "革命薪火"
+
+msgid "IDS_PZES411_HENGSHUI_LNY"
+msgstr "东方觉醒"
+
+msgid "IDS_RESET_CREW_FILTERS_BUTTON_LABEL"
+msgstr "重置筛选条件"
+
+msgid "IDS_REST_REWARDS_HINT"
+msgstr "还有%(_count)s个"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE"
+msgstr "“闪电'63”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_TITLE_SHORT"
+msgstr "闪电'63"
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE"
+msgstr "“Utopia Show”补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE_SHORT"
+msgstr "Utopia Show"
+
+msgid "IDS_SCENARIO_PCVT001_DAMAGE_PRIME"
+msgstr "火力"
+
+msgid "IDS_SCENARIO_PCVT002_CITADEL_PRIME"
+msgstr "精度"
+
+msgid "IDS_SCENARIO_PCVT003_FRAGS_PRIME"
+msgstr "歼灭"
+
+msgid "IDS_SCENARIO_TRIALS_TEST"
+msgstr "试炼"
+
+msgid "IDS_SECOND_UTOPIA_NAME"
+msgstr "2号调查板"
+
+msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRIAL"
+msgstr "请选择适合试炼的战舰"
+
+msgid "IDS_SHIP_ACES_NATION_TITLE"
+msgstr "个人试炼：国家"
+
+msgid "IDS_SHIP_ACES_SHIP_TYPE_TITLE"
+msgstr "个人试炼：战舰类型"
+
+msgid "IDS_SHIP_FEATURES_PVE_SHIP"
+msgstr "战斗类型限制"
+
+msgid "IDS_SHIP_FEATURES_PVE_SHIP_DESCRIPTION"
+msgstr "此战舰只能用于参加行动和试炼模式。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
+msgstr "战舰的战斗性能已变动，具体变化取决于战舰类型。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_WEAPON_DAMAGE_H2023"
+msgstr "降低受到的伤害，提高对敌方造成的伤害。每有一艘友方战舰被摧毁，该效果都会增强。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
+msgstr "精度降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_CONSUMABLES"
+msgstr "消耗品效率降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_DAMAGE_RESIST"
+msgstr "生存性降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ENGINE"
+msgstr "机动性降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_HEALTH_REGENERATION"
+msgstr "生命值恢复速率降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPONS_RELOAD_FACTOR"
+msgstr "武器装填效率降低"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
+msgstr "英塔尼亚魔法"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
+msgstr "英雄气概"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
+msgstr "逝者意志"
+
+msgid "IDS_SOUND_MOD_EVAVALENTINE"
+msgstr "伊娃•瓦伦缇娜"
+
+msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
+msgstr "邓肯•尤托庇尔"
+
+msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
+msgstr "鲁伯特•格尼多夫斯基"
+
+msgid "IDS_SOUND_MOD_UTOPIASHOW_HRENSBERG"
+msgstr "迪克•哈伦斯贝格"
+
+msgid "IDS_SPACES/E13_TRIALS_MAPPRIME"
+msgstr "试炼基地"
+
+msgid "IDS_SPACES/E13_TRIALS_MAPPRIME_DESCR"
+msgstr "试炼基地"
+
+msgid "IDS_START_BATTLE_DENY_PVE_ONLY"
+msgstr "所选战舰只能参加行动和试炼模式。"
+
+msgid "IDS_STATUS_LINE_NO_MENTOR_WITH_EPIC_SKILL_FOR_SLOT"
+msgstr "当您拥有具备对应强化版技能的指挥官时，可以强化该技能。"
+
+msgid "IDS_SUBMARINE_PL_GENITIVE"
+msgstr "潜艇"
+
+msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_FOR_CREW_INFO_TRANSITION"
+msgstr "打开个人档案"
+
+msgid "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
+msgid_plural "IDS_TAB_HINT_CREW_RESERVE_FEW_SPACE_LEFT"
+msgstr[0] "预备队中仅剩%(count)d个空位"
+
+msgid "IDS_TAB_HINT_CREW_RESERVE_NO_SPACE_LEFT"
+msgstr "预备队中没有空位。请解雇多余的指挥官。"
+
+msgid "IDS_THIRD_UTOPIA_NAME"
+msgstr "3号调查板"
+
+msgid "IDS_THIS_SHIP_IS_NOT_ALLOWED_FOR_TRIAL"
+msgstr "所选战舰无法参加试炼"
+
+msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TRIAL"
+msgstr "请选择合适等级的战舰"
+
+msgid "IDS_TOOLTIP_CREW_FILTERS"
+msgstr "打开指挥官筛选面板"
+
+msgid "IDS_TRIAL"
+msgstr "试炼"
+
+msgid "IDS_TRIALBATTLE"
+msgstr "试炼"
+
+msgid "IDS_TRIALS_BRIEFING_COMMON"
+msgstr "简介"
+
+msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
+msgstr "说明"
+
+msgid "IDS_TRIALS_OBJECTIVE_COMMON"
+msgstr "目标"
+
+msgid "IDS_TRIAL_BONUS_POINTS_ACCUMULATING"
+msgstr "奖励积分！"
+
+msgid "IDS_TRIAL_CITADELS"
+msgstr "精度"
+
+msgid "IDS_TRIAL_CITADELS_DESCRIPTION"
+msgstr "命中核心区"
+
+msgid "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_CITADELS_FULL_DESCRIPTION"
+msgstr[0] "命中敌舰核心区%(_targetScores)s次"
+
+msgid "IDS_TRIAL_CIT_PRIME_AIM_CENTER_BOARD"
+msgstr "要命中战舰核心区，请瞄准舰体中央的水线区域开火"
+
+msgid "IDS_TRIAL_CIT_PRIME_CHANGE_AMMO"
+msgstr "使用穿甲弹向核心区射击"
+
+msgid "IDS_TRIAL_CIT_PRIME_RICOCHET"
+msgstr "为避免过度击穿或跳弹，请瞄准舰体中央的水线区域开火"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_1"
+msgstr "尽可能多地命中核心区以完成阶段。核心区在舰体上以黑色区域标示。"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_2"
+msgstr "敌舰正在机动——等待露出正侧面时再开火"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_3"
+msgstr "攻击带有标记的战舰[st_x5]，以获得更多积分"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_4"
+msgstr "在队友摧毁目标之前，命中带有标记的战舰[st_x5]的核心舱"
+
+msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_5"
+msgstr "守住区域！若区域被敌军占领，积分倍率将降至[st_x2]；若被友军占领，则将提升至[st_x5]！"
+
+msgid "IDS_TRIAL_DAMAGE"
+msgstr "火力"
+
+msgid "IDS_TRIAL_DAMAGE_DESCRIPTION"
+msgstr "对敌舰造成伤害"
+
+msgid "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_DAMAGE_FULL_DESCRIPTION"
+msgstr[0] "对敌舰造成%(_targetScores)s点伤害"
+
+msgid "IDS_TRIAL_DESCRIPTION"
+msgstr "通过试炼提升您的作战技术。"
+
+msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_BS_SPAWN"
+msgstr "用高爆弹使战列舰[e1]起火。每处火灾都会持续造成伤害。"
+
+msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_CR_SPAWN"
+msgstr "攻击巡洋舰[e2]的侧面——这是穿甲弹的理想目标。瞄准水线区域以造成最大伤害。"
+
+msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_DD_SPAWN"
+msgstr "使用高爆弹攻击驱逐舰[e3]！"
+
+msgid "IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR"
+msgstr "用穿甲弹攻击带有标记的战舰[st_attack]，可获得加倍积分！"
+
+msgid "IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR"
+msgstr "用高爆弹攻击带有标记的战舰[st_attack]，可获得加倍积分！"
+
+msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE"
+msgstr "敌舰的被侦察范围现在已与实际战斗相同。"
+
+msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT"
+msgstr "每艘战舰都有被侦察范围。如果它从未开火或已停止开火一段时间，且距离您超过这个范围，它将会从您的视野中消失。"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT"
+msgstr "攻击轻装甲巡洋舰。目标正在机动，您需要掌握好提前量。"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT"
+msgstr "用穿甲弹攻击露出正侧面的目标。合理利用小地图上的落点标记。"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT2"
+msgstr "如果敌舰倾斜朝向你，可尝试使用高爆弹或半穿甲弹攻击。"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE3_ANNONCEMENT"
+msgstr "攻击带有标记的战舰！使用指定弹种以获得更多积分。"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE4_ANNONCEMENT"
+msgstr "若敌舰停止开火，其可能会从您的视野中消失"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE5_ANNONCEMENT"
+msgstr "活学活用！"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE5_RULES_1"
+msgstr "摧毁敌舰以提高积分倍率。每摧毁一艘战舰，积分倍率都会增加。"
+
+msgid "IDS_TRIAL_DMG_PRIME_PHASE6_ANNONCEMENT"
+msgstr "所有武器的装填时间已缩短！"
+
+msgid "IDS_TRIAL_FRAGS"
+msgstr "歼灭"
+
+msgid "IDS_TRIAL_FRAGS_DESCRIPTION"
+msgstr "摧毁敌舰"
+
+msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
+msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
+msgstr[0] "摧毁%(_targetScores)s艘敌舰"
+
+msgid "IDS_TRIAL_FRAG_PRIME_PHASE1_ANNONCEMENT"
+msgstr "这一阶段需与队友协同作战"
+
+msgid "IDS_TRIAL_FRAG_PRIME_PHASE2_ANNONCEMENT"
+msgstr "在敌舰开火前将其摧毁！"
+
+msgid "IDS_TRIAL_FRAG_PRIME_PHASE3A_ANNONCEMENT"
+msgstr "即使敌舰消失在视野外，也尽可能将其摧毁！"
+
+msgid "IDS_TRIAL_FRAG_PRIME_SPEECH_009"
+msgstr "瞄准敌舰并按[KEY_F3]发送快捷指令，让队友集火此目标"
+
+msgid "IDS_TRIAL_HUB_TRIAL_END"
+msgstr "试炼结束"
+
+msgid "IDS_TRIAL_HUB_TRIAL_FAILURE"
+msgstr "试炼失败"
+
+msgid "IDS_TRIAL_HUB_TRIAL_SUCCESS"
+msgstr "试炼成功"
+
+msgid "IDS_TRIAL_PRIME_SPEECH_012"
+msgstr "活学活用，尽可能多地摧毁敌舰！"
+
+msgid "IDS_TRIAL_ROUNDS_COUNTER"
+msgstr "阶段%(_trialRound)s/%(_trialRoundsCount)s"
+
+msgid "IDS_TRIAL_ROUND_IS_OVER"
+msgstr "阶段已结束"
+
+msgid "IDS_TRIAL_ROUND_NUMBER_ENDED"
+msgstr "第%(_round)s阶段已结束"
+
+msgid "IDS_TRIAL_TASK_PASSED"
+msgstr "任务完成"
+
+msgid "IDS_UNABLE_HIRE_CREW_NO_PLACE_IN_BARRACKS_TOOLTIP"
+msgstr "预备队没有空位，无法征募新指挥官。"
+
+msgid "IDS_UNLOCKS_2015"
+msgstr "使用涂装和旗帜改变战舰外观。"
+
+msgid "IDS_UNLOCKS_3"
+msgstr "与真人玩家对战。"
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "与其他玩家一起对抗电脑玩家，并完成剧情任务。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2015_0"
+msgstr "涂装和旗帜可以改变战舰外观。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2015_1"
+msgstr "消耗型涂装每场战斗消耗一次。永久涂装不会消耗，无需补充。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2015_2"
+msgstr "涂装可通过参与活动获得，也可使用银币、金币或其他代币购买。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr "在“行动”中，您的团队必须在与电脑玩家战斗的同时完成各种任务。每个行动都有独特的故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
+msgstr "与真人玩家对战。匹配系统将随机创建团队。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_2015"
+msgstr ""
+"<body>您现在可以调整\n"
+"<h3>战舰外观</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>随机战</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_2015"
+msgstr "可见于“外观”分页。"
+
+msgid "IDS_UNLOCKS_LOCATION_3"
+msgstr "战斗模式选项位于“加入战斗”按钮的旁边。"
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "可见于战斗模式选择界面。"
+
+msgid "IDS_UNLOCKS_TITLE_2015"
+msgstr "战舰外观"
+
+msgid "IDS_UNLOCKS_TITLE_3"
+msgstr "随机战"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "行动"
