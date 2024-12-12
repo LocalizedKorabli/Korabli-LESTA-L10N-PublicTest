@@ -113844,7 +113844,7 @@ msgid "IDS_REWARD_CREDITS_TITLE"
 msgstr "银币"
 
 msgid "IDS_REWARD_CREWPOINTSCOEFF_TITLE"
-msgstr "额外指挥官经验"
+msgstr "每场战斗的指挥官经验加成"
 
 msgid "IDS_REWARD_CREWXP_TITLE"
 msgstr "指挥官经验"
@@ -113904,7 +113904,7 @@ msgid "IDS_REWARD_EVENTUM_CN_TITLE"
 msgstr "补给券"
 
 msgid "IDS_REWARD_EXPCOEFF_TITLE"
-msgstr "每场战斗额外获得的战舰经验"
+msgstr "每场战斗的战舰经验加成"
 
 msgid "IDS_REWARD_EXP_TITLE"
 msgstr "战舰经验"
@@ -113952,7 +113952,7 @@ msgid "IDS_REWARD_FOR_SUB_ALBUM"
 msgstr "完成该版块的奖励："
 
 msgid "IDS_REWARD_FREEXPCOEFF_TITLE"
-msgstr "每场战斗额外增加的全局经验"
+msgstr "每场战斗的全局经验加成"
 
 msgid "IDS_REWARD_FREEXP_TITLE"
 msgstr "全局经验"
