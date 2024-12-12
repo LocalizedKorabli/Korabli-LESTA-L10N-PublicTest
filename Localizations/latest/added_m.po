@@ -135,16 +135,16 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_MINEFIELD"
 msgstr "注意敌方雷区！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_MINEFIELD"
-msgstr "我方雷区！"
+msgstr "注意我方雷区！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_MINEFIELD"
-msgstr "敌方雷区！"
+msgstr "注意敌方雷区！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_MINEFIELD"
-msgstr "我方雷区！"
+msgstr "注意我方雷区！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_MINEFIELD"
-msgstr "敌方雷区！"
+msgstr "注意敌方雷区！"
 
 msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
 msgstr "无国籍"
