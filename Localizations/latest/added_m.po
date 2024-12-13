@@ -1533,10 +1533,10 @@ msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_2"
 msgstr "敌舰正在机动——等待露出正侧面时再开火"
 
 msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_3"
-msgstr "攻击带有标记的战舰[st_x5]，以获得更多积分"
+msgstr "攻击带有[st_x5]标记的战舰，以获得更多积分"
 
 msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_4"
-msgstr "在队友摧毁目标之前，命中带有标记的战舰[st_x5]的核心舱"
+msgstr "在队友摧毁目标之前，命中带有[st_x5]标记的战舰的核心区"
 
 msgid "IDS_TRIAL_CIT_PRIME_START_PHASE_5"
 msgstr "守住区域！若区域被敌军占领，积分倍率将降至[st_x2]；若被友军占领，则将提升至[st_x5]！"
@@ -1564,10 +1564,10 @@ msgid "IDS_TRIAL_DMG_PRIME_FIRSRT_DD_SPAWN"
 msgstr "使用高爆弹攻击驱逐舰[e3]！"
 
 msgid "IDS_TRIAL_DMG_PRIME_HINT_AP_MODIFICATOR"
-msgstr "用穿甲弹攻击带有标记的战舰[st_attack]，可获得加倍积分！"
+msgstr "用穿甲弹攻击带有[st_attack]标记的战舰，可获得加倍积分！"
 
 msgid "IDS_TRIAL_DMG_PRIME_HINT_HE_MODIFICATOR"
-msgstr "用高爆弹攻击带有标记的战舰[st_attack]，可获得加倍积分！"
+msgstr "用高爆弹攻击带有[st_attack]标记的战舰，可获得加倍积分！"
 
 msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE"
 msgstr "敌舰的被侦察范围现在已与实际战斗相同。"
