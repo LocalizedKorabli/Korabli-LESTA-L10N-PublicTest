@@ -153,7 +153,7 @@ msgid "IDS_CONDITIONS"
 msgstr "参与条件"
 
 msgid "IDS_CONSPIROLOGIST"
-msgstr "邓肯•尤托庇尔"
+msgstr "邓肯•真言"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
 msgstr "下一个技能："
@@ -1444,7 +1444,7 @@ msgid "IDS_SOUND_MOD_EVAVALENTINE"
 msgstr "伊娃•瓦伦缇娜"
 
 msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
-msgstr "邓肯•尤托庇尔"
+msgstr "邓肯•真言"
 
 msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
 msgstr "鲁伯特•格尼多夫斯基"
