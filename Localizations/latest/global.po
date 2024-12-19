@@ -97802,13 +97802,13 @@ msgid "IDS_PRSB528_YEAR"
 msgstr "1952"
 
 msgid "IDS_PRSB529"
-msgstr "苏维埃罗西亚"
+msgstr "苏维埃俄罗斯"
 
 msgid "IDS_PRSB529_DESCR"
-msgstr "“苏维埃罗西亚”号是一艘23号工程战列舰（“苏联”型），于1940年7月在莫洛托夫斯克起建，并为建造该舰建造了苏联最大的有顶船库。该船的建造被推迟，1941年7月根据GKO法令停工。1945年10月，有人提议完成战列舰的建造，但一个特别委员会得出结论，战前建造的战列舰在作战质量方面不如外国战舰。"
+msgstr "“苏维埃俄罗斯”号是一艘23号工程战列舰（“苏联”型），于1940年7月在莫洛托夫斯克起建，并为建造该舰建造了苏联最大的有顶船库。该船的建造被推迟，1941年7月根据GKO法令停工。1945年10月，有人提议完成战列舰的建造，但一个特别委员会得出结论，战前建造的战列舰在作战质量方面不如外国战舰。"
 
 msgid "IDS_PRSB529_FULL"
-msgstr "苏维埃罗西亚"
+msgstr "苏维埃俄罗斯"
 
 msgid "IDS_PRSB529_NUMBER"
 msgstr "4"
@@ -100663,7 +100663,7 @@ msgid "IDS_PRUH819_HULL_NAVARIN"
 msgstr "纳瓦林"
 
 msgid "IDS_PRUH820_RTC_SOV_RUSSIA"
-msgstr "苏维埃罗西亚"
+msgstr "苏维埃俄罗斯"
 
 msgid "IDS_PRUH821_B9_HULL_A"
 msgstr "科尔尼洛夫海军上将"
