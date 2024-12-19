@@ -963,7 +963,7 @@ msgid "IDS_PRPT087_SOVREMENNY"
 msgstr "53-39 mod. 5"
 
 msgid "IDS_PRSB526"
-msgstr "秘辛"
+msgstr "绝密"
 
 msgid "IDS_PRSB526_DESCR"
 msgstr ""
@@ -976,7 +976,7 @@ msgstr ""
 "看起来挺合理的，但又不那么合理。"
 
 msgid "IDS_PRSB526_FULL"
-msgstr "秘辛"
+msgstr "绝密"
 
 msgid "IDS_PRSB526_NUMBER"
 msgstr "1"
@@ -1183,7 +1183,7 @@ msgid "IDS_PRUE924_D10_ENG_STOCK"
 msgstr "推进系统：76000马力"
 
 msgid "IDS_PRUH516_HULL_TOP_SECRET"
-msgstr "秘辛"
+msgstr "绝密"
 
 msgid "IDS_PRUH517_D6_HULL_STOCK"
 msgstr "灵敏"
