@@ -4736,7 +4736,7 @@ msgid "IDS_ALL_ACHIEVEMENTS_EARNED"
 msgstr "您已经达成目前可获得的全部成就"
 
 msgid "IDS_ALL_CREW_BUTTON"
-msgstr "更换指挥官"
+msgstr "所有指挥官"
 
 msgid "IDS_ALL_ENEMIES_FROZEN"
 msgstr "敌舰已瘫痪。"

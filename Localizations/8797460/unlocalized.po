@@ -4738,7 +4738,7 @@ msgid "IDS_ALL_ACHIEVEMENTS_EARNED"
 msgstr "Вы получили все доступные на данный момент достижения"
 
 msgid "IDS_ALL_CREW_BUTTON"
-msgstr "ЗАМЕНИТЬ КОМАНДИРА"
+msgstr "ВСЕ КОМАНДИРЫ"
 
 msgid "IDS_ALL_ENEMIES_FROZEN"
 msgstr "Корабли противника выведены из строя."
