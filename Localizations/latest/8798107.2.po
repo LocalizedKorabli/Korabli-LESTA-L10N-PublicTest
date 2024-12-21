@@ -37847,7 +37847,7 @@ msgid "IDS_MAX_TRAINING_ROOM_DESCRIPTION_LENGTH"
 msgstr "缩短描述"
 
 msgid "IDS_MAX_WAITING_IN_BATTLE_TYPE"
-msgstr " "
+msgstr " "
 
 msgid "IDS_MAX_WAVE_PING_REACHED"
 msgstr "已用脉冲标记最大数量的目标"
@@ -122792,7 +122792,7 @@ msgid "IDS_SHIP_PARAM_AA_EFFECTIVITY"
 msgstr "每秒平均伤害"
 
 msgid "IDS_SHIP_PARAM_AA_EXPL_COUNT"
-msgstr "一次齐射炮弹爆炸数"
+msgstr "单轮齐射炮弹爆炸数"
 
 msgid "IDS_SHIP_PARAM_AA_EXPL_DAMAGE"
 msgstr "远程防空炮弹爆炸范围内的每秒伤害"
