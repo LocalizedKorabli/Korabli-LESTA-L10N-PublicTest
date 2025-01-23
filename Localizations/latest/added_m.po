@@ -1,0 +1,928 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_DESCRIPTION"
+msgstr "在未被发现时对敌舰造成30000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_DESCRIPTION"
+msgstr "在未被发现时对敌舰造成42500点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_DESCRIPTION"
+msgstr "从10公里及更远的距离对敌舰造成60000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_DESCRIPTION"
+msgstr "从10公里及更远的距离对敌舰造成70000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_DESCRIPTION"
+msgstr "从10公里及更远的距离对敌舰造成90000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_DESCRIPTION"
+msgstr "从10公里及更远的距离对敌舰造成105000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_DESCRIPTION"
+msgstr "从10公里及更近的距离对敌舰造成50000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_DESCRIPTION"
+msgstr "从10公里及更近的距离对敌舰造成60000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_DESCRIPTION"
+msgstr "从10公里及更近的距离对敌舰造成75000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_DESCRIPTION"
+msgstr "从10公里及更近的距离对敌舰造成80000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_DESCRIPTION"
+msgstr "在未被发现时对敌舰造成50000点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_DESCRIPTION"
+msgstr "在未被发现时对敌舰造成62500点伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_DESCRIPTION"
+msgstr "对敌舰造成至少相当于其基础生命值50%的伤害并将其摧毁"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_TITLE"
+msgstr "摧毁敌舰"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_DESCRIPTION"
+msgstr "在未被发现时摧毁敌舰"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_TITLE"
+msgstr "造成伤害"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_1"
+msgstr "在任意战舰上达到精通等级25。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_2"
+msgstr "在5艘战舰上达到精通等级25。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_3"
+msgstr "在任意战舰上达到精通等级50。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_4"
+msgstr "在5艘战舰上达到精通等级50。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_5"
+msgstr "在任意战舰上达到精通等级75。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_6"
+msgstr "在5艘战舰上达到精通等级75。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS_2"
+msgstr "积极参与“三国争霸：洞口之战”活动。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_VANGUARD"
+msgstr "承受%(potentialDamage)s点潜在伤害。"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_1"
+msgstr "初窥门径"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_2"
+msgstr "略有小成"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_3"
+msgstr "驾轻就熟"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_4"
+msgstr "融会贯通"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_5"
+msgstr "出类拔萃"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_6"
+msgstr "登峰造极"
+
+msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS_2"
+msgstr "三国争霸：洞口之战"
+
+msgid "IDS_ACHIEVEMENT_TYPE_HEROIC_DESC"
+msgstr "英勇成就可在战斗中获得，其象征着极高的战斗效率。"
+
+msgid "IDS_ACHIEVEMENT_TYPE_HEROIC_PLURAL"
+msgstr "英勇成就"
+
+msgid "IDS_ACHIEVEMENT_TYPE_HONORABLE_DESC"
+msgstr "荣誉成就可在战斗中获得，其象征着较高的战斗效率。"
+
+msgid "IDS_ACHIEVEMENT_TYPE_HONORABLE_PLURAL"
+msgstr "荣誉成就"
+
+msgid "IDS_ACHIEVEMENT_VANGUARD"
+msgstr "先锋"
+
+msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPMASTERY"
+msgstr "按“精通挑战”筛选"
+
+msgid "IDS_DOGTAG_PCNB454_DESCRIPTION"
+msgstr ""
+"凤凰，或称“凤皇”，是统治所有鸟类的神话生物。其羽毛包含黑、白、红、黄、绿五种主要颜色，而其身上的五种花纹象征着五种儒家美德：德、义、礼、仁、信。\n"
+"\n"
+"“箫韶九成，凤皇来仪。”——《尚书•虞书•益稷》"
+
+msgid "IDS_DOGTAG_PCNB454_NAME"
+msgstr "凤凰涅槃"
+
+msgid "IDS_DOGTAG_PCNB455_DESCRIPTION"
+msgstr ""
+"麒麟是中国古代神话中的瑞兽。传说麒麟预示着杰出人物的诞生或死亡。据说它预示了伟大思想家孔子的诞生，也曾出现在黄帝和尧帝的宫廷。\n"
+"\n"
+"“麒，仁宠也，麋身龙尾一角；麐（麟），牝（雌）麒也。”——《说文解字•十》"
+
+msgid "IDS_DOGTAG_PCNB455_NAME"
+msgstr "麒麟瑞兽"
+
+msgid "IDS_DOGTAG_PCNB456_DESCRIPTION"
+msgstr "炽热的凤凰与祥瑞的麒麟，在神秘的舞蹈中交汇，守护着一方天地。"
+
+msgid "IDS_DOGTAG_PCNB456_NAME"
+msgstr "东方守护神"
+
+msgid "IDS_DOGTAG_PCNB457_DESCRIPTION"
+msgstr "谢肉节是东斯拉夫的节日，象征冬天的结束与春天的到来。庆祝活动持续一周，包括制作油煎薄饼、俄罗斯饺子和奶酪饼，最后以焚烧稻草人收尾。根据考古证据，这是最古老的斯拉夫节日之一。"
+
+msgid "IDS_DOGTAG_PCNB457_NAME"
+msgstr "谢肉节"
+
+msgid "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
+msgid_plural "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
+msgstr[0] "获得%(_amount)s项战斗成就"
+
+msgid "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_SINGLE"
+msgstr "获得一项战斗成就"
+
+msgid "IDS_GUIDING_TIP_320_DESC"
+msgstr "展示您对战舰的精通水平！通过获得基础经验和完成精通挑战来提升精通等级。"
+
+msgid "IDS_GUIDING_TIP_320_HEADER"
+msgstr "精通等级"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_AVAILABLE"
+msgstr "您没有可以参加精通挑战的战舰"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "您没有正在进行精通挑战的战舰"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_AVAILABLE"
+msgstr "显示可以参加精通挑战的战舰"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "显示正在进行精通挑战的战舰"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_HEADER"
+msgstr "精通"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_HEADER"
+msgstr "精通等级"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "精通等级反映了您对特定战舰的熟练程度及战斗经验。精通等级显示在战舰名称旁边。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "仅适用于VIII-X级和超级战舰。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_HEADER"
+msgstr "进度"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "要提升到下一个精通等级，您需要获得足够的基础经验。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "战舰等级和当前精通等级越高，提升精通等级所需的基础经验越多。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_HEADER"
+msgstr "挑战"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "每过10个精通等级，当您想继续升级时，需要完成专为战舰设计的精通挑战任务。您可以随时重置精通挑战并获得新的挑战任务。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "您最多可以同时对15艘战舰进行精通挑战。考虑到完成难度，在联合作战和行动中取得的成果被计入精通挑战任务时减半。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_HEADER"
+msgstr "综合精通"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "您所有战舰的精通等级将被累计以得出您的综合精通等级。"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "这个过程是自动进行的，不需要您完成额外的精通挑战。"
+
+msgid "IDS_NAVAL_FLAG_CAO_WEI"
+msgstr "曹魏水师"
+
+msgid "IDS_NAVAL_FLAG_CAO_WEI_DESCRIPTION"
+msgstr "魏国是公元3世纪争霸古中国的三国之一。魏国的建立者是曹操，他是一位政治家，在汉王朝衰落时曾实际统治过汉王朝。皇帝赐给曹操十城之地，这就是后来的魏国。"
+
+msgid "IDS_NAVAL_FLAG_DONG_WU"
+msgstr "东吴水师"
+
+msgid "IDS_NAVAL_FLAG_DONG_WU_DESCRIPTION"
+msgstr "吴国是公元3世纪争霸古中国的三国之一。吴国的统治者孙权据说是著名的《孙子兵法》作者孙武的后代。孙权在继承了兄长的土地后自立为帝，成为三国时期著名的三位领袖中最年轻的一位。"
+
+msgid "IDS_NAVAL_FLAG_SHU_HAN"
+msgstr "蜀汉水师"
+
+msgid "IDS_NAVAL_FLAG_SHU_HAN_DESCRIPTION"
+msgstr "蜀国是公元3世纪争霸古中国的三国之一。其名称“蜀”来源于周朝时期的同名国家，位于大致相同的区域。蜀国的建立者刘备自称与汉朝王室有血缘关系，是汉朝的合法继承人。"
+
+msgid "IDS_NEWBIE_QUESTS_BATTLE_ICON_HINT"
+msgstr "战斗教学任务"
+
+msgid "IDS_NEWBIE_QUESTS_COMMON_ICON_HINT"
+msgstr "教学任务"
+
+msgid "IDS_NEWBIE_QUESTS_PCON001_DESCRIPTION"
+msgstr "研发并购买II级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON001_NAME"
+msgstr "驾驶II级可研发巡洋舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON002_DESCRIPTION"
+msgstr "是时候与其他玩家一决高下了！在随机战中获胜的难度更大，但可以获得更多银币和经验。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON002_NAME"
+msgstr "赢得1场随机战"
+
+msgid "IDS_NEWBIE_QUESTS_PCON003_DESCRIPTION"
+msgstr "涂装可改变您战舰的外观。它们可通过使用银币或金币购买，也可通过参与各种活动获取。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON003_NAME"
+msgstr "在战舰上安装涂装"
+
+msgid "IDS_NEWBIE_QUESTS_PCON004_DESCRIPTION"
+msgstr "信号旗可提高战舰的生存性、机动性及其武器与消耗品的效率。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON004_NAME"
+msgstr "在战舰上安装3面信号旗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON005_DESCRIPTION"
+msgstr "您可使用全局经验研发任意可用战舰或配件，以及加速指挥官训练。全局经验获取量为每场战斗所获得战舰经验（应用加成前）的10%。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON005_NAME"
+msgstr "用全局经验研发战舰或配件"
+
+msgid "IDS_NEWBIE_QUESTS_PCON006_DESCRIPTION"
+msgstr "经济加成可让您在每场战斗中获得更多银币和经验。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON006_NAME"
+msgstr "在战舰上安装3个经济加成"
+
+msgid "IDS_NEWBIE_QUESTS_PCON007_DESCRIPTION"
+msgstr "开启补给箱有机会获得涂装、信号旗、经济加成等各种资源；甚至可以获得新战舰！"
+
+msgid "IDS_NEWBIE_QUESTS_PCON007_NAME"
+msgstr "开启3个补给箱"
+
+msgid "IDS_NEWBIE_QUESTS_PCON008_DESCRIPTION"
+msgstr "指挥官技能可在战斗中提供新能力以创造优势。学习新技能需要技能点数，其获取方式为在战斗中获得指挥官经验。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON008_NAME"
+msgstr "学习指挥官技能"
+
+msgid "IDS_NEWBIE_QUESTS_PCON009_DESCRIPTION"
+msgstr "作战任务是一些需要在战斗中完成的特定目标，完成作战任务可以获得奖励。您可以使用不同类型、等级和国家的战舰在不同的战斗模式中完成作战任务。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON009_NAME"
+msgstr "完成3个作战任务"
+
+msgid "IDS_NEWBIE_QUESTS_PCON010_DESCRIPTION"
+msgstr "升级品能够强化您战舰的优势并补足其短板。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON010_NAME"
+msgstr "在战舰上安装升级品"
+
+msgid "IDS_NEWBIE_QUESTS_PCON011_DESCRIPTION"
+msgstr "战役由一系列任务和目标组成，并围绕特定主题展开。完成战役可以获得大量奖励。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON011_NAME"
+msgstr "在任意战役中完成3个目标"
+
+msgid "IDS_NEWBIE_QUESTS_PCON012_DESCRIPTION"
+msgstr "在兵工厂中，您可以购买特殊和加值战舰，以及补给箱、信号旗、特殊升级品、经济加成等各种资源。有时您甚至可以获取含有实用物品的免费礼包。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON012_NAME"
+msgstr "从兵工厂中获取任意物品"
+
+msgid "IDS_NEWBIE_QUESTS_PCON013_DESCRIPTION"
+msgstr "行动是一种战斗模式，您需要与其他玩家合作对抗电脑玩家，完成剧情任务。每个行动都有独特的剧情内容。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON013_NAME"
+msgstr "赢得1场行动"
+
+msgid "IDS_NEWBIE_QUESTS_PCON014_DESCRIPTION"
+msgstr "在您游玩的过程中，您可能积累了一些不使用的物品。出售不使用的物品来获取银币。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON014_NAME"
+msgstr "出售价值50000银币的物品"
+
+msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
+msgstr "在排位战中，您可以冲击排名，晋升更高级的联赛，以获取珍贵奖励。规则可能因赛季而异。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
+msgstr "赢得1场排位战"
+
+msgid "IDS_NEWBIE_QUESTS_PCON016_DESCRIPTION"
+msgstr "军团成员可以参与军团战，以及建造和升级海军基地中的建筑来获取额外资源和折扣。您可以加入军团或创建自己的军团。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON016_NAME"
+msgstr "加入军团"
+
+msgid "IDS_NEWBIE_QUESTS_PCON017_DESCRIPTION"
+msgstr "研发并购买III级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON017_NAME"
+msgstr "驾驶III级可研发巡洋舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON018_DESCRIPTION"
+msgstr "研发并购买IV级战舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON018_NAME"
+msgstr "驾驶IV级可研发战舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON019_DESCRIPTION"
+msgstr "研发并购买V级战舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON019_NAME"
+msgstr "驾驶V级可研发战舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON020_DESCRIPTION"
+msgstr "研发并购买VI级战舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON020_NAME"
+msgstr "驾驶VI级可研发战舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON021_DESCRIPTION"
+msgstr "研发并购买VII级战舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON021_NAME"
+msgstr "驾驶VII级可研发战舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON022_DESCRIPTION"
+msgstr "研发并购买II级驱逐舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON022_NAME"
+msgstr "驾驶II级可研发驱逐舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON023_DESCRIPTION"
+msgstr "研发并购买III级战列舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON023_NAME"
+msgstr "驾驶III级可研发战列舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON024_DESCRIPTION"
+msgstr "研发并购买III级驱逐舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON024_NAME"
+msgstr "驾驶III级可研发驱逐舰进行战斗"
+
+msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG"
+msgstr "巴黎公社"
+
+msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG_DESCRIPTION"
+msgstr ""
+"苏联工农红海军战舰“巴黎公社”号的旗帜。这艘战舰是为了纪念1871年春天在巴黎存在了72天的革命公社而命名的。\n"
+"\n"
+"全世界无产阶级和劳动人民的伟大导师弗里德里希•恩格斯在为《法兰西内战》作的序言中写道：“先生们，你们想知道无产阶级专政是什么样子吗？请看看巴黎公社吧。这就是无产阶级专政。”"
+
+msgid "IDS_PFPA099_305MM_HE_BERNADOTTE"
+msgstr "305 mm Spr.Gr. L/4.9"
+
+msgid "IDS_PFPA100_305MM_AP_BERNADOTTE"
+msgstr "305 mm P.Spr.Gr. L/3.8"
+
+msgid "IDS_PFPT025_BERNADOTTE"
+msgstr "Torped M1943 mod 2"
+
+msgid "IDS_PFSB509"
+msgstr "贝尔纳多特"
+
+msgid "IDS_PFSB509_DESCR"
+msgstr ""
+"“凡尔赛条约”对德国海军战舰吨位进行了严格的限制，但是德国仍可按照他国的订单建造任何战舰。例如，在20世纪30年代初之前，德国就曾考虑为希腊建造萨拉米斯号战列舰。\n"
+"第一次世界大战结束后，德国拥有大量未完工的战舰——从战列舰到扫雷舰。其中一些封存的未成舰在完工后被销往国外。"
+
+msgid "IDS_PFSB509_FULL"
+msgstr "贝尔纳多特"
+
+msgid "IDS_PFSB509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSB509_YEAR"
+msgstr "1952"
+
+msgid "IDS_PFUA806_ART_BERNADOTTE"
+msgstr "305 mm/56 SK C/39（炮塔）"
+
+msgid "IDS_PFUE806_ENG_BERNADOTTE"
+msgstr "推进系统：152000马力"
+
+msgid "IDS_PFUH809_HULL_BERNADOTTE"
+msgstr "贝尔纳多特"
+
+msgid "IDS_PFUS809_SUO_BERNADOTTE"
+msgstr "PCA n°9"
+
+msgid "IDS_PFUT803_TORP_BERNADOTTE"
+msgstr "Mk14"
+
+msgid "IDS_PL_RANK_REWARDS_DIFF_COUNT"
+msgid_plural "IDS_PL_RANK_REWARDS_DIFF_COUNT"
+msgstr[0] "还有%(_rewardsCount)s项"
+
+msgid "IDS_PRAB911_ULYANOVSK_TACT"
+msgstr "Tupolev Tu-91"
+
+msgid "IDS_PRAF911_ULYANOVSK_STOCK"
+msgstr "Lavochkin La-9"
+
+msgid "IDS_PRAF912_ULYANOVSK_TACT"
+msgstr "MiG-15bis"
+
+msgid "IDS_PRAL911_ULYANOVSK_STOCK"
+msgstr "Sukhoi Su-6 (AM-42)"
+
+msgid "IDS_PRES338_23FEBRUARY_SVERDLOVSK"
+msgstr "保卫祖国"
+
+msgid "IDS_PRGA238_12_DSHK"
+msgstr "12.7 mm DShk"
+
+msgid "IDS_PRGM237_12IN52_MOD_6"
+msgstr "305 mm/52 Model 1907（MK-3-12炮座）"
+
+msgid "IDS_PRGS247_130MM_58_CM_62"
+msgstr "130 mm/58 Model 1957（SM-61炮座）"
+
+msgid "IDS_PRPA195_130MM_HE_CM_62"
+msgstr "HE-42"
+
+msgid "IDS_PRPA237_305MM_HE_P_KOMMUNA"
+msgstr "305 mm HE Model 1911"
+
+msgid "IDS_PRPA238_305MM_AP_P_KOMMUNA"
+msgstr "305 mm AP Model 1911"
+
+msgid "IDS_PRPR011_ULYANOVSK_STOCK"
+msgstr "S-21"
+
+msgid "IDS_PRPR012_ULYANOVSK_TACT"
+msgstr "S-24"
+
+msgid "IDS_PRPS010_ULYANOVSK_STOCK"
+msgstr "FAB-500"
+
+msgid "IDS_PRPT088_ULYANOVSK_TACT"
+msgstr "45-36 MAI"
+
+msgid "IDS_PRSA111"
+msgstr "乌里扬诺夫斯克"
+
+msgid "IDS_PRSA111_DESCR"
+msgstr ""
+"一种苏联海军攻击型航空母舰的假想设计，配备了斜角飞行甲板和蒸汽弹射器。该舰设计目的是为了在北冰洋海域航行、打击敌方的军事基地以及航母编队。\n"
+"该航母的舰载机可以搭载拥有特殊弹头的武器。"
+
+msgid "IDS_PRSA111_FULL"
+msgstr "乌里扬诺夫斯克"
+
+msgid "IDS_PRSA111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSA111_YEAR"
+msgstr "1957"
+
+msgid "IDS_PRSB515"
+msgstr "巴黎公社"
+
+msgid "IDS_PRSB515_DESCR"
+msgstr ""
+"该舰由波罗的海造船厂建造，并在1911年6月被冠以塞瓦斯托波尔号的舰名后下水，成为了沙俄海军的第一艘无畏舰。她参加了第一次世界大战以及俄国内战。\n"
+"1921年3月，该舰被更名为巴黎公社号。1921-1924年，该舰经过修复后便在波罗的海海军舰队服役。1929年，她接受了现代化改造，延伸了艏部以提高适航性和航速。同年年底，巴黎公社号被调往黑海。1930-1936年，她在塞瓦斯托波尔又接受了大幅度的现代化改造，更换了锅炉并加强了对空火力。\n"
+"在伟大的卫国战争期间，该舰参加了敖德萨和塞瓦斯托波尔的保卫战，并且还支援了克里米亚前线和费奥多西亚登陆的行动。"
+
+msgid "IDS_PRSB515_FULL"
+msgstr "巴黎公社"
+
+msgid "IDS_PRSB515_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSB515_YEAR"
+msgstr "1914"
+
+msgid "IDS_PRUA406_ART_P_KOMMUNA"
+msgstr "305 mm/52 Model 1907（MK-3-12炮座）"
+
+msgid "IDS_PRUB900_CV11_TB_STOCK"
+msgstr "Tupolev Tu-91"
+
+msgid "IDS_PRUE406_ENG_P_KOMMUNA"
+msgstr "推进系统：62300马力"
+
+msgid "IDS_PRUE925_CV11_ENG_STOCK"
+msgstr "推进系统：267000马力"
+
+msgid "IDS_PRUF900_CV11_FC_STOCK"
+msgstr "Type 11"
+
+msgid "IDS_PRUH406_P_KOMMUNA"
+msgstr "巴黎公社"
+
+msgid "IDS_PRUH925_CV11_HULL_STOCK"
+msgstr "乌里扬诺夫斯克"
+
+msgid "IDS_PRUI900_CV11_F_STOCK"
+msgstr "Lavochkin La-9/MiG-15bis"
+
+msgid "IDS_PRUL900_CV11_SB_STOCK"
+msgstr "Sukhoi Su-6 (AM-42)"
+
+msgid "IDS_PRUS406_SUO_P_KOMMUNA"
+msgstr "GFCS V mod. 1"
+
+msgid "IDS_PZES420_3KINGS_XIAN_DENG"
+msgstr "凤凰涅槃"
+
+msgid "IDS_PZES428_3KINGS_DOU_JIAN"
+msgstr "麒麟瑞兽"
+
+msgid "IDS_PZGA174_37MM_SKC_30_TWIN"
+msgstr "37 mm/83 SK C/30（Dopp LC/30炮座）"
+
+msgid "IDS_PZGA175_20MM_FLAK_38"
+msgstr "20 mm/65 C/38（单装炮座）"
+
+msgid "IDS_PZGA178_STAAG_MARKV"
+msgstr "40 mm/56 OQF Mk.X（STAAG Mk.2炮座）"
+
+msgid "IDS_PZGM179_234MM50_MK_XII_TWIN"
+msgstr "234 mm/50 Mk.XII（炮塔）"
+
+msgid "IDS_PZGS176_105MM_SKC_33"
+msgstr "105 mm/65 SK C/33（Dop. L. C/31炮座）"
+
+msgid "IDS_PZGS181_15CM_SK_C28_MPL_C_36"
+msgstr "150 mm/55 SK C/28（Dop. MPL C/36炮座）"
+
+msgid "IDS_PZGT180_21IN_QUAD_TORPEDO_TUBE"
+msgstr "533 mm QR Mk II"
+
+msgid "IDS_PZPB519_XIAN_DENG_TACT"
+msgstr "PC 1000"
+
+msgid "IDS_QUALIFICATION_STAR_EARNED"
+msgstr "晋级赛：已获得星星"
+
+msgid "IDS_QUALIFICATION_STAR_LOST"
+msgstr "晋级赛：已失去星星"
+
+msgid "IDS_QUALIFICATION_STAR_SAVED"
+msgstr "晋级赛：已保留星星"
+
+msgid "IDS_RANKED_BATTLES_SEASON_AND_SPRINT"
+msgstr "第%(_seasonId)s赛季，第%(_sprintId)s冲刺回合"
+
+msgid "IDS_RANKED_PRIME_FINISH"
+msgstr "时段已结束"
+
+msgid "IDS_RANKED_PRIME_TIME"
+msgstr "距离当前时段结束还剩：%(_timeLeft)s"
+
+msgid "IDS_RANKED_QUALIFICATION_STATUS_MISSED"
+msgstr "已跳过"
+
+msgid "IDS_RANKED_REWARDS_COUNT"
+msgstr "+%(_value)s"
+
+msgid "IDS_RANKED_SEASON_FINISHED"
+msgstr "赛季已结束"
+
+msgid "IDS_RANKED_SEASON_TIME"
+msgstr "距离当前赛季结束还剩：%(_timeLeft)s"
+
+msgid "IDS_RANKED_SPRINT_FINISHED"
+msgstr "冲刺回合已结束"
+
+msgid "IDS_RANKED_SPRINT_TIME"
+msgstr "距离冲刺回合结束还剩：%(_timeLeft)s"
+
+msgid "IDS_RANKED_VICTORY_REWARDS_TITLE"
+msgstr "胜利奖励"
+
+msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DEFAULT"
+msgstr "未获得"
+
+msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DONE"
+msgstr "已获得"
+
+msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_LOCKED"
+msgstr "联赛已跳过"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON"
+msgstr "跳过联赛"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_2"
+msgstr "您可以跳过白银联赛，直接到达黄金联赛的排名10。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_3"
+msgstr "您可以跳过青铜联赛，直接到达白银联赛的排名10。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_2_LEAGUE_REWARDS"
+msgstr "若跳过联赛，将不能获得该联赛的胜利奖励。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_LOCKED"
+msgstr "您只能跳过您当前所在的联赛。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_UNAVAILABLE"
+msgstr "现在不能跳过联赛。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_HEADER_2"
+msgstr "跳过白银联赛"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_HEADER_3"
+msgstr "跳过青铜联赛"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_QUESTION"
+msgstr "跳过联赛？确认花费"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_TEXT_2"
+msgstr "您将直接到达黄金联赛的排名10。由于跳过了白银联赛，您将不能获得相应的胜利奖励。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_TEXT_3"
+msgstr "您将直接到达白银联赛的排名10。由于跳过了青铜联赛，您将不能获得相应的胜利奖励。"
+
+msgid "IDS_RANKS_SHIP_RESTRICTIONS"
+msgstr "参与条件："
+
+msgid "IDS_RANKS_SHIP_RESTRICTIONS_QUALIFICATION"
+msgstr "晋级赛参与条件："
+
+msgid "IDS_RANK_CHANGED_REWARDS_QUALIFICATION"
+msgstr "通过晋级赛的奖励："
+
+msgid "IDS_RANK_CHANGED_REWARDS_TOP_RANK"
+msgstr "达到排名1的奖励："
+
+msgid "IDS_RANK_CHANGED_REWARDS_VICTORIES_FINAL"
+msgstr "胜利奖励："
+
+msgid "IDS_RANK_IN_LEAGUE_STATUS_DONE"
+msgstr "已完成"
+
+msgid "IDS_RANK_IN_LEAGUE_STATUS_SKIPPED"
+msgstr "已跳过"
+
+msgid "IDS_RANK_REACHED_FIRST_IN_LEAGUE"
+msgstr "恭喜您！您已跻身当前联赛排名1。"
+
+msgid "IDS_RANK_REWARDS_LEAGUE_COMPLETED"
+msgstr "通过联赛的奖励："
+
+msgid "IDS_RANK_REWARDS_PARTICIPATED_IN_SEASON"
+msgstr "参与赛季的奖励："
+
+msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_QUALIFICATION"
+msgstr "奖励："
+
+msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_TOP_RANK"
+msgstr "奖励："
+
+msgid "IDS_RANK_REWARD_BUTTON_CHECK_ALL_REWARDS"
+msgstr "查看所有奖励"
+
+msgid "IDS_REST_REWARDS_HINT_LOWER"
+msgstr "还有%(_count)s项"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VIII级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE"
+msgstr "“王朝遗产”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE_SHORT"
+msgstr "王朝遗产"
+
+msgid "IDS_REWARD_SHIPXP_TITLE"
+msgstr "战舰经验"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_TANKING"
+msgstr "在15秒内承受来自3艘或更多敌舰的潜在伤害。"
+
+msgid "IDS_RIBBON_SSE_TANKING"
+msgstr "吸引火力"
+
+msgid "IDS_RIBBON_SUBRIBBON_TANKING"
+msgstr "吸引火力"
+
+msgid "IDS_SHIPS_MASTERY_SELECT_SHIP"
+msgstr "选择合适的战舰"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
+msgstr "重置"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_QUESTION"
+msgstr "重置精通挑战？确认花费"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_TITLE"
+msgstr "重置精通挑战"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_WARNING"
+msgstr "精通挑战进度将被重置"
+
+msgid "IDS_SHIP_MASTERY"
+msgstr "精通"
+
+msgid "IDS_SHIP_MASTERY_BUTTON_ABOUT"
+msgstr "规则"
+
+msgid "IDS_SHIP_MASTERY_DEFAULT"
+msgstr "精通等级"
+
+msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_HEADER"
+msgstr "该战舰的精通等级"
+
+msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_POINTS"
+msgstr "总共已获得%(_points)s点基础经验。"
+
+msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
+msgstr "正在进行精通挑战"
+
+msgid "IDS_SHIP_MASTERY_LEVEL_TITLE"
+msgstr ""
+"综合\n"
+"精通等级"
+
+msgid "IDS_SHIP_MASTERY_MAX_RANK"
+msgstr "10K+"
+
+msgid "IDS_SHIP_MASTERY_MOUSE_HINT"
+msgstr "前往“精通”界面"
+
+msgid "IDS_SHIP_MASTERY_SHIPS_COUNT_TITLE"
+msgstr "正在进行精通挑战的战舰数"
+
+msgid "IDS_SHIP_MASTERY_STATUS_1"
+msgstr "距离下一等级还需要：%(_pointsNext)s点基础经验"
+
+msgid "IDS_SHIP_MASTERY_STATUS_2"
+msgstr "要提升到下一等级，请先完成精通挑战"
+
+msgid "IDS_SHIP_MASTERY_STATUS_3"
+msgstr "要提升到下一等级，请先完成精通挑战"
+
+msgid "IDS_SHIP_MASTERY_STATUS_4"
+msgstr "恭喜！该战舰已达到最高精通等级。"
+
+msgid "IDS_SHIP_MASTERY_TASKS_AVAILABLE"
+msgstr "可进行精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_AVAILABLE"
+msgstr "可进行精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
+msgstr "进行精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
+msgstr "正在进行精通挑战的战舰"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_0"
+msgstr "驾驶该战舰进行战斗并获取基础经验以提升精通等级。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_1"
+msgstr "<body>提升到<h3>%(_threshold)s级</h3>需要完成精通挑战。</body>"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_2"
+msgstr "驾驶该战舰进行战斗获取基础经验以解锁精通挑战。完成精通挑战可提升精通等级。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_3"
+msgstr "完成精通挑战以提升精通等级。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
+msgstr "基础经验不足，未解锁精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
+msgstr "完成精通挑战。每一项挑战需在一场战斗中完成。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_1"
+msgstr "完成任意1项精通挑战。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_2"
+msgstr "完成2项精通挑战。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_3"
+msgstr "完成所有精通挑战。"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TITLE"
+msgstr "精通挑战"
+
+msgid "IDS_SORT_BY_MASTERY_RANK"
+msgstr "按“精通挑战”"
+
+msgid "IDS_SOUND_MOD_SOVIET_8_MARCH_2"
+msgstr "安娜•谢季宁娜"
+
+msgid "IDS_SOUND_MOD_ZHANGLIAO"
+msgstr "张辽"
+
+msgid "IDS_SOVIET_8_MARCH_2"
+msgstr "安娜•谢季宁娜"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
+msgstr "限制"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
+msgstr "作战任务只能在特定战舰上进行。"
+
+msgid "IDS_STAR_SAVED_DESCRIPTION"
+msgstr "未能取得胜利，但您的经验获取量位列己方团队第一。"
+
+msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_TO_NAVIGATE_TO_SHIP_MASTERY"
+msgstr "前往“精通”页面"
+
+msgid "IDS_SYS_MSG_MASTERY_RANK_INCREASED"
+msgstr "精通等级已提升"
+
+msgid "IDS_SYS_MSG_MASTERY_TASKS_AVAILABLE"
+msgstr "可进行精通挑战"
+
+msgid "IDS_SYS_MSG_MASTERY_TASKS_DENIED"
+msgstr "精通挑战已重置"
+
+msgid "IDS_SYS_MSG_MASTERY_TASK_DONE"
+msgstr "精通挑战已完成"
+
+msgid "IDS_SYS_MSG_RECEIVED_SXP"
+msgstr "已获得战舰经验"
+
+msgid "IDS_SYS_MSG_SKIP_BRONZE_LEAGUE"
+msgstr "已跳过青铜联赛"
+
+msgid "IDS_SYS_MSG_SKIP_SILVER_LEAGUE"
+msgstr "已跳过白银联赛"
+
+msgid "IDS_TOOLTIP_BATTLE_BONUSES"
+msgstr "奖励："
+
+msgid "IDS_ZHANGLIAO"
+msgstr "张辽"
