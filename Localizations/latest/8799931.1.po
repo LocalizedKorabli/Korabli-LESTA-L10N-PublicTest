@@ -65007,7 +65007,7 @@ msgid "IDS_PCQT117_1"
 msgstr "用拥有至少6技能点的指挥官进入一场战斗。"
 
 msgid "IDS_PCQT121_1"
-msgstr "获得一个英勇成就。"
+msgstr "获得一项英勇成就。"
 
 msgid "IDS_PCQT125_1"
 msgstr "对敌方驱逐舰造成%(count)s点伤害。"
@@ -65127,7 +65127,7 @@ msgid "IDS_PCQT523_1"
 msgstr "成为己方团队经验获取量排名前5的玩家，赢得胜利并获得一个“毁灭打击”成就。"
 
 msgid "IDS_PCQT524_1"
-msgstr "成为己方团队经验获取量排名前3的玩家，赢得胜利并获得一个英勇成就。"
+msgstr "成为己方团队经验获取量排名前3的玩家，赢得胜利并获得一项英勇成就。"
 
 msgid "IDS_PCQT528_1"
 msgstr "获得%(count)s点经验（应用加成后）。"
@@ -133209,7 +133209,7 @@ msgid "IDS_TOTAL_PLAYERS_HINT"
 msgstr "队列中的玩家"
 
 msgid "IDS_TOTAL_TASK_FOR_BATTLE_ACHIEVEMENT"
-msgstr "获得一个英勇成就"
+msgstr "获得一项英勇成就"
 
 msgid "IDS_TOTAL_TASK_FOR_BATTLE_ACHIEVEMENT_DESCRIPTION"
 msgstr "在该场战斗中获得英勇成就奖励的积分"
