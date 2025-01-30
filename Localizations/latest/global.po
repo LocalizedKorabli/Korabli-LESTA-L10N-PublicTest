@@ -7166,7 +7166,7 @@ msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS_TOOLTIP"
 msgstr "您今日战斗的平均数据"
 
 msgid "IDS_BATTLE_FINISHED"
-msgstr "战斗结束！"
+msgstr "战斗结束"
 
 msgid "IDS_BATTLE_HINT_SQUADRON_CONTROL_RETURN"
 msgstr "召回中队"
@@ -128942,7 +128942,7 @@ msgid "IDS_SYS_MSG_BATTLE_EFFICIENCY"
 msgstr "战斗表现"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS"
-msgstr "战斗结束！"
+msgstr "战斗结束"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_0"
 msgstr "失败"
@@ -128966,19 +128966,19 @@ msgid "IDS_SYS_MSG_BATTLE_RESULTS_4"
 msgstr "突击战失败"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_5"
-msgstr "战斗结束！"
+msgstr "战斗结束"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_6"
-msgstr "战斗结束！"
+msgstr "战斗结束"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_7"
-msgstr "战斗结束！"
+msgstr "战斗结束"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_8"
 msgstr "胜利"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_9"
-msgstr "战斗结束！"
+msgstr "战斗结束"
 
 msgid "IDS_SYS_MSG_BATTLE_REWARDS"
 msgstr "战斗奖励"
