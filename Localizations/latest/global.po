@@ -10672,22 +10672,22 @@ msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE"
 msgstr "干得漂亮！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_ALLY_SHIP_AIRCARRIER"
-msgstr "干的漂亮，%(player)s！"
+msgstr "干得漂亮，%(player)s！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_ALLY_SHIP_AUXILIARY"
-msgstr "干的漂亮，%(player)s！"
+msgstr "干得漂亮，%(player)s！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_ALLY_SHIP_BATTLESHIP"
-msgstr "干的漂亮，%(player)s！"
+msgstr "干得漂亮，%(player)s！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_ALLY_SHIP_CRUISER"
-msgstr "干的漂亮，%(player)s！"
+msgstr "干得漂亮，%(player)s！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_ALLY_SHIP_DESTROYER"
-msgstr "干的漂亮，%(player)s！"
+msgstr "干得漂亮，%(player)s！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_ALLY_SHIP_SUBMARINE"
-msgstr "干的漂亮，%(player)s！"
+msgstr "干得漂亮，%(player)s！"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE_PREF_TOOLTIP_DESCRIPTION"
 msgstr "发送此消息以表扬您的队友。"
