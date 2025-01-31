@@ -4025,17 +4025,38 @@ msgstr "部分防空炮已瘫痪"
 msgid "IDS_ACTION_LOG_AIR_DEFENSE_DESTRUCTED"
 msgstr "部分防空炮已瘫痪"
 
+msgid "IDS_ACTION_LOG_ALL_AIR_DEFENSE_CRIT"
+msgstr "所有防空炮都已瘫痪"
+
+msgid "IDS_ACTION_LOG_ALL_AIR_CRIT"
+msgstr "所有防空炮都已瘫痪"
+
+msgid "IDS_ACTION_LOG_ALL_ATBA_CRIT"
+msgstr "所有副炮都已瘫痪"
+
+msgid "IDS_ACTION_LOG_ALL_ATBA_GUN_CRIT"
+msgstr "所有副炮都已瘫痪"
+
+msgid "IDS_ACTION_LOG_ALL_MAIN_CALIBER_CRIT"
+msgstr "所有主炮都已瘫痪"
+
+msgid "IDS_ACTION_LOG_ALL_TORPEDO_CRIT"
+msgstr "所有鱼雷发射管都已瘫痪"
+
+msgid "IDS_ACTION_LOG_ALL_TORPEDO_TUBE_CRIT"
+msgstr "所有鱼雷发射管都已瘫痪"
+
 msgid "IDS_ACTION_LOG_ARTILLERY_ALERT"
 msgstr "即将受到伤害！"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_CRIT"
-msgstr "主炮塔已瘫痪"
+msgstr "部分主炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_DESTRUCTED"
-msgstr "主炮塔已瘫痪"
+msgstr "部分主炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_GUN_CRIT"
-msgstr "主炮塔已瘫痪"
+msgstr "部分主炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_ATBA_CRIT"
 msgstr "部分副炮已瘫痪"
@@ -4064,6 +4085,9 @@ msgstr "引擎已瘫痪"
 msgid "IDS_ACTION_LOG_ENGINE_DESTRUCTED"
 msgstr "引擎已瘫痪"
 
+msgid "IDS_ACTION_LOG_FAR_AURA_CRIT"
+msgstr "大口径防空炮已瘫痪"
+
 msgid "IDS_ACTION_LOG_HANGAR_CRIT"
 msgstr "机库已瘫痪"
 
@@ -4085,17 +4109,35 @@ msgstr "战舰被攻击！"
 msgid "IDS_ACTION_LOG_MEDIUM_DAMAGE_LEVEL"
 msgstr "严重伤害！"
 
+msgid "IDS_ACTION_LOG_MID_AURA_CRIT"
+msgstr "中口径防空炮已瘫痪"
+
+msgid "IDS_ACTION_LOG_NEAR_AURA_CRIT"
+msgstr "小口径防空炮已瘫痪"
+
 msgid "IDS_ACTION_LOG_OBSERVATION_CRIT"
 msgstr "目标侦察系统已瘫痪"
 
 msgid "IDS_ACTION_LOG_OBSERVATION_DESTRUCTED"
 msgstr "目标侦察系统已瘫痪"
 
+msgid "IDS_ACTION_LOG_PORT_ATBA_CRIT"
+msgstr "左舷部分副炮已瘫痪"
+
+msgid "IDS_ACTION_LOG_PORT_ATBA_GUN_CRIT"
+msgstr "左舷部分副炮已瘫痪"
+
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_CRIT"
 msgstr "弹药库已瘫痪"
 
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_DAMAGED"
 msgstr "弹药库已瘫痪"
+
+msgid "IDS_ACTION_LOG_STAR_ATBA_CRIT"
+msgstr "右舷部分副炮已瘫痪"
+
+msgid "IDS_ACTION_LOG_STAR_ATBA_GUN_CRIT"
+msgstr "右舷部分副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_STEERING_GEAR_CRIT"
 msgstr "操舵装置已瘫痪"
