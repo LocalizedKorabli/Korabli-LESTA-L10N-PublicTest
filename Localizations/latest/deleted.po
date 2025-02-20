@@ -6,131 +6,131 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: ru\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
-msgstr "Ежедневный бонус за победу"
+msgstr "每日胜利加成"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_APRIL_SPACE"
-msgstr "Отображение камуфляжей «Космические» отключено"
+msgstr "“太空战舰”涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ARPEGGIO"
-msgstr "Отображение камуфляжей Arpeggio отключено"
+msgstr "《苍蓝钢铁的琶音》涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_AZURLANE"
-msgstr "Отображение камуфляжей Azur Lane отключено"
+msgstr "《碧蓝航线》涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_CH_DRAGONS"
-msgstr "Отображение камуфляжей «Лунный Новый год» отключено"
+msgstr "农历新年涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_COLORED"
-msgstr "Отображение камуфляжей «Окраска» отключено"
+msgstr "迷彩涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_DECORATIVE"
-msgstr "Отображение камуфляжей «Декоративные» отключено"
+msgstr "装饰涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
-msgstr "Отображение камуфляжей «Развлекательный контент» отключено"
+msgstr "娱乐涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
-msgstr "Отображение камуфляжей «Ну, погоди!» отключено"
+msgstr "《兔子，等着瞧！》涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
-msgstr "Отображение камуфляжей «Хэллоуин» отключено"
+msgstr "万圣节涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HIGHSCHOOLFLEET"
-msgstr "Отображение камуфляжей High School Fleet отключено"
+msgstr "高校舰队涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HOLOLIVE"
-msgstr "Отображение камуфляжей hololive production отключено"
+msgstr "“hololive production”涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_KOBAYASHI"
-msgstr "Отображение камуфляжей Makoto Kobayashi Signature отключено"
+msgstr "小林诚签名涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_LOGH"
-msgstr "Отображение камуфляжей Legend of the Galactic Heroes отключено"
+msgstr "《银河英雄传说》涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_MEGADETH"
-msgstr "Отображение камуфляжей Megadeth отключено"
+msgstr "麦加帝斯涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_NATU"
-msgstr "Отображение камуфляжей Year Hare Affair отключено"
+msgstr "《那年那兔那些事儿》涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POPEYE"
-msgstr "Отображение камуфляжей Popeye the Sailor Man отключено"
+msgstr "《大力水手波比》涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POST_APOCALYPSE"
-msgstr "Отображение камуфляжей «Дикая волна» отключено"
+msgstr "诡浪涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RANGERS"
-msgstr "Отображение камуфляжей «Посланники звёзд» отключено"
+msgstr "星河密使涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RECONSTRUCTION"
-msgstr "Отображение камуфляжей «Реконструкция» отключено"
+msgstr "改造涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
-msgstr "Отображение камуфляжей события «Во имя прогресса!» отключено"
+msgstr "“以进步之名！”活动涂装显示已关闭"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_WARHAMMER"
-msgstr "Отображение камуфляжей Warhammer 40,000 отключено"
+msgstr "《战锤40K》涂装显示已关闭"
 
 msgid "IDS_CATCH_EGG_HINT"
-msgstr "Ловите яйца, чтобы получать очки. Золотые яйца приносят больше очков."
+msgstr "接住蛋以获得积分，接住金蛋能获得更多积分。"
 
 msgid "IDS_CATCH_SHARK_HINT"
-msgstr "Акула! Вы потеряли очки, но скорость корабля повысилась."
+msgstr "鲨鱼！您的积分变少了，但战舰航速提高了。"
 
 msgid "IDS_HYDROPHONE"
-msgstr "ОБНАРУЖЕН"
+msgstr "被发现"
 
 msgid "IDS_INCREASE_BARRACKS_CAPACITY"
-msgstr "Расширить"
+msgstr "扩充"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
-msgstr "Радиус взрыва боеприпасов по подводным лодкам"
+msgstr "攻击潜艇时弹药的爆炸半径"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
-msgstr "Радиус взрыва ОФ-бомб по подводным лодкам"
+msgstr "攻击潜艇时高爆弹的爆炸半径"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
-msgstr "Радиус взрыва ОФ-ракет по подводным лодкам"
+msgstr "攻击潜艇时高爆火箭弹的爆炸半径"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
-msgstr "Радиус взрыва ОФ- и ПББ-снарядов ГК по подводным лодкам"
+msgstr "攻击潜艇时主炮高爆弹和半穿甲弹的爆炸半径"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
-msgstr "Радиус взрыва снарядов ПМК по подводным лодкам"
+msgstr "攻击潜艇时副炮炮弹的爆炸半径"
 
 msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
-msgstr "Модификатор получаемого урона от торпед"
+msgstr "受到的鱼雷伤害"
 
 msgid "IDS_RATES"
-msgstr "Специальный коэффициент"
+msgstr "服务器比率"
 
 msgid "IDS_RATES_HINT"
-msgstr "Специальный коэффициент"
+msgstr "服务器比率"
 
 msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
-msgstr "Проходит испытания"
+msgstr "正在进行精通挑战"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
-msgstr "Пройдите испытания. Каждое испытание выполняется в одном бою."
+msgstr "完成精通挑战。每一项挑战需在一场战斗中完成。"
 
 msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
-msgstr "Боевую задачу можно выполнить только на определённых кораблях."
+msgstr "作战任务只能在特定战舰上进行。"
 
 msgid "IDS_WITHOUT_COMMANDER"
-msgstr "Без командира"
+msgstr "不含指挥官"
 
 msgid "IDS_WITHOUT_SLOT"
-msgstr "Без слота"
+msgstr "不含船位"
 
 msgid "IDS_WITH_COMMANDER"
-msgstr "С командиром"
+msgstr "含指挥官"
 
 msgid "IDS_WITH_SLOT"
-msgstr "Со слотом"
+msgstr "含船位"
