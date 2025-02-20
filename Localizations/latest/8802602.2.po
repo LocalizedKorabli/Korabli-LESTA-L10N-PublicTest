@@ -123934,7 +123934,9 @@ msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
 msgstr "进行精通挑战"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
-msgstr "每一项挑战必须在单场战斗中完成"
+msgstr ""
+"每一项挑战\n"
+"必须在单场战斗中完成"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
 msgstr "正在进行精通挑战的战舰"
