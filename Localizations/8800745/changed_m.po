@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_NEWBIE_QUESTS_PCON018_DESCRIPTION"
+msgstr "研发并购买IV级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON018_NAME"
+msgstr "驾驶IV级可研发巡洋舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON019_DESCRIPTION"
+msgstr "研发并购买V级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON019_NAME"
+msgstr "驾驶V级可研发巡洋舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON020_DESCRIPTION"
+msgstr "研发并购买VI级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON020_NAME"
+msgstr "驾驶VI级可研发巡洋舰进行战斗"
+
+msgid "IDS_NEWBIE_QUESTS_PCON021_DESCRIPTION"
+msgstr "研发并购买VII级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON021_NAME"
+msgstr "驾驶VII级可研发巡洋舰进行战斗"
+
+msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
+msgstr ""
+"1932年，经济大萧条期间，亚利桑那州梅萨市的商店老板们正经历艰难时期。临近一年一度的圣诞游行，商家们急需吸引人群前来购物。\n"
+"\n"
+"当地报纸编辑约翰•麦克菲提出了一个创意：雇佣一名跳伞员，穿着圣诞老人的服装从飞机上跳伞降落到城外的田野上，然后由警察护送到游行现场分发礼物。\n"
+"\n"
+"在游行当天，跳伞员临时退出。情急之下，麦克菲用商店里的一个人偶替代。他给人偶穿上圣诞老人服装，并从飞机上推下去。不幸的是，降落伞未能打开，人偶在孩子们的注视下摔落地面。\n"
+"\n"
+"麦克菲试图挽救局面，自己穿上圣诞老人服装与孩子们互动。但孩子们相信圣诞老人已经死了。后来，麦克菲就被称为“圣诞老人的葬送者”。"
+
+msgid "IDS_PFSB509_DESCR"
+msgstr ""
+"《凡尔赛条约》对德国海军战舰吨位进行了严格的限制，但是德国仍可按照他国的订单建造任何战舰。例如，在20世纪30年代初之前，德国就曾考虑为希腊建造萨拉米斯号战列舰。\n"
+"第一次世界大战结束后，德国拥有大量未完工的战舰——从战列舰到扫雷舰。其中一些封存的未成舰在完工后被销往国外。"
+
+msgid "IDS_PWSB509_DESCR"
+msgstr "根据《凡尔赛条约》，德国海军的战舰排水量不能超过10000吨；然而，这些限制并不适用于为其他国家建造的战舰。一战后，德国还有数百艘未完成的战舰。而部分已完工的战舰销往国外。瑞典为了加强海军实力，可能曾尝试购买并建成一艘德国战列舰。"
+
+msgid "IDS_SHIP_MASTERY_SHIPS_COUNT_TITLE"
+msgstr "已在进行精通挑战的战舰数"

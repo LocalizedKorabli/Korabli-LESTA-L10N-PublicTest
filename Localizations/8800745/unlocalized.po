@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: World Of WarshipsReport-Msgid-Bugs-To: MIME-Version: 1.0Content-Type: text/plain; charset=utf-8\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: <translator name> <<translator email>>\n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
 "Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -1538,7 +1538,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_AMAUTEUR"
 msgstr "Победить %(winCount)s раз в Случайных боях."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ARSONIST"
-msgstr "Уничтожить корабль противника. При этом урон, нанесённый пожаром, должен составлять не менее %(damageRatio_percent)s от штатной боеспособности уничтоженного корабля."
+msgstr "Уничтожить корабль противника с помощью пожара. Урон, нанесённый пожаром, должен составлять не менее %(damageRatio_percent)s от штатной боеспособности уничтоженного корабля."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_BOTS_KILL"
 msgstr "Уничтожить 6 кораблей противника в одном бою."
@@ -2194,9 +2194,6 @@ msgstr "Собрать коллекцию «Битва на Сомме»."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SOVIETBB_COMPLETED"
 msgstr "Собрать коллекцию «На службе Отечеству»."
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SPACE_MUSEUM_COMPLETED"
-msgstr "Собрать коллекцию «Космическая эра»."
-
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TFTM_108_COMPLETED"
 msgstr "Собрать коллекцию «35 лет The Transformers: The Movie»."
 
@@ -2354,7 +2351,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_LEADERBOARD_CHAMPION_CLAN"
 msgstr "За достижения «В строю героев», завоёванные игроками клана в ходе события Royal Navy."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
-msgstr "Уничтожить корабль противника. При этом урон, нанесённый затоплением, должен составлять не менее %(damageRatio_percent)s от штатной боеспособности уничтоженного корабля."
+msgstr "Уничтожить корабль противника с помощью затопления. Урон, нанесённый затоплением, должен составлять не менее %(damageRatio_percent)s от штатной боеспособности уничтоженного корабля противника."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LONGTIME_PA"
 msgstr "Продержаться в бою более 10 минут."
@@ -3103,9 +3100,6 @@ msgstr "Битва на Сомме"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SOVIETBB_COMPLETED"
 msgstr "На службе Отечеству"
-
-msgid "IDS_ACHIEVEMENT_FILLALBUM_SPACE_MUSEUM_COMPLETED"
-msgstr "Космическая эра"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_TFTM_108_COMPLETED"
 msgstr "35 лет The Transformers: The Movie"
@@ -4295,23 +4289,11 @@ msgstr "Добавить"
 msgid "IDS_ADDITIONAL"
 msgstr "Дополнительные"
 
-msgid "IDS_ADDITIONAL_BATTLE_CR"
-msgstr "Дополнительные кредиты за бой"
-
-msgid "IDS_ADDITIONAL_BATTLE_CR_HINT"
-msgstr "Дополнительные кредиты за бой"
-
-msgid "IDS_ADDITIONAL_BATTLE_XP"
-msgstr "Дополнительный опыт за бой"
-
-msgid "IDS_ADDITIONAL_BATTLE_XP_HINT"
-msgstr "Дополнительный опыт за бой"
-
 msgid "IDS_ADDITIONAL_CONSUMABLES_CHANGED"
 msgstr "Количество снаряжения корабля увеличено"
 
 msgid "IDS_ADDITIONAL_CONTENT"
-msgstr "Камуфляжи и командиры в неисторической стилистике"
+msgstr "Дополнительный контент"
 
 msgid "IDS_ADDITIONAL_DAMAGE_COUNTERS"
 msgstr "Дополнительные счётчики урона"
@@ -4735,9 +4717,6 @@ msgstr "Усиление сектора ПВО"
 msgid "IDS_AIR_DEFENSE_TOOLTIP_TITLE_DEACTIVATE"
 msgstr "Снятие усиления сектора ПВО"
 
-msgid "IDS_AIR_SUPORT_ALERT"
-msgstr "АВИАУДАР"
-
 msgid "IDS_AIR_SUPPORT_HE_AVAILABLE"
 msgstr "Доступен авиаудар ОФ-бомбами"
 
@@ -5140,12 +5119,6 @@ msgstr "Количество полученного опыта и кредито
 msgid "IDS_AOGAS_RESET_PENALTY"
 msgid_plural "IDS_AOGAS_RESET_PENALTY"
 msgstr[0] "Вы отсутствовали в игре более %(hours)s часа. Кредиты и опыт за бой снова начисляются в полном размере."
-
-msgid "IDS_APPLIED_FILTER_HINT_CREWNATION"
-msgstr "Отфильтровать по нации"
-
-msgid "IDS_APPLIED_FILTER_HINT_CREWTYPE"
-msgstr "Отфильтровать по степени редкости"
 
 msgid "IDS_APPLY"
 msgstr "Применить"
@@ -5762,9 +5735,6 @@ msgstr "Урон по вашим разведданным"
 
 msgid "IDS_ASTRA_DOG"
 msgstr "Астра"
-
-msgid "IDS_ASTRONAUT_ARTEMIEV"
-msgstr "Олег Артемьев"
 
 msgid "IDS_ASYMMETRIC_BATTLE"
 msgstr "Асимметричный бой"
@@ -6584,9 +6554,6 @@ msgstr "Бездействие/AFK"
 msgid "IDS_BAJIE"
 msgstr "Zhu Bajie"
 
-msgid "IDS_BALAO_SUBTEST"
-msgstr "Sam Fisher"
-
 msgid "IDS_BALBES"
 msgstr "Балбес"
 
@@ -6904,9 +6871,6 @@ msgstr "Уровни Боевого пропуска"
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_TITLE"
 msgstr "Покупка уровней Боевого пропуска"
 
-msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BATTLE_XP_COEF"
-msgstr "Дополнительный опыт за бой"
-
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BP_LEVELS"
 msgstr "Будет достигнуто уровней за первую победу после покупки"
 
@@ -6928,11 +6892,11 @@ msgstr "Переподготовка командиров"
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RETRAIN_GOLD"
 msgstr "Переподготовка командиров за дублоны"
 
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
+msgstr "Ежедневный бонус за победу"
+
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
 msgstr "Можно получить красных конвертов"
-
-msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
-msgstr "Ежедневный бонус за победу"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_MODERNIZATION_DISMOUNT"
 msgstr "Демонтаж модернизаций"
@@ -9047,6 +9011,69 @@ msgstr "Постоянные"
 msgid "IDS_CAMOUFLAGE_ROD"
 msgstr "Камуфляжа"
 
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_APRIL_SPACE"
+msgstr "Отображение камуфляжей «Космические» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ARPEGGIO"
+msgstr "Отображение камуфляжей Arpeggio отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_AZURLANE"
+msgstr "Отображение камуфляжей Azur Lane отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_CH_DRAGONS"
+msgstr "Отображение камуфляжей «Лунный Новый год» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_COLORED"
+msgstr "Отображение камуфляжей «Окраска» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_DECORATIVE"
+msgstr "Отображение камуфляжей «Декоративные» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
+msgstr "Отображение камуфляжей «Развлекательный контент» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
+msgstr "Отображение камуфляжей «Ну, погоди!» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
+msgstr "Отображение камуфляжей «Хэллоуин» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HIGHSCHOOLFLEET"
+msgstr "Отображение камуфляжей High School Fleet отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HOLOLIVE"
+msgstr "Отображение камуфляжей hololive production отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_KOBAYASHI"
+msgstr "Отображение камуфляжей Makoto Kobayashi Signature отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_LOGH"
+msgstr "Отображение камуфляжей Legend of the Galactic Heroes отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_MEGADETH"
+msgstr "Отображение камуфляжей Megadeth отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_NATU"
+msgstr "Отображение камуфляжей Year Hare Affair отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POPEYE"
+msgstr "Отображение камуфляжей Popeye the Sailor Man отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POST_APOCALYPSE"
+msgstr "Отображение камуфляжей «Дикая волна» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RANGERS"
+msgstr "Отображение камуфляжей «Посланники звёзд» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RECONSTRUCTION"
+msgstr "Отображение камуфляжей «Реконструкция» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
+msgstr "Отображение камуфляжей события «Во имя прогресса!» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_WARHAMMER"
+msgstr "Отображение камуфляжей Warhammer 40,000 отключено"
+
 msgid "IDS_CAMO_HAS_COLOR_SCHEME_INFO"
 msgstr "Камуфляж имеет несколько цветовых схем"
 
@@ -9179,9 +9206,6 @@ msgstr "Фильтр кораблей, подходящих для участи�
 msgid "IDS_CAROUSEL_EVENTBATTLE_FILTER"
 msgstr "Фильтр кораблей, подходящих для участия в Сумеречной охоте"
 
-msgid "IDS_CAROUSEL_FILTER_CONSTRUCTOR"
-msgstr "Фильтр кораблей, подходящих для участия в типе боя «%(operationBattleNameIDS)s»"
-
 msgid "IDS_CAROUSEL_LEGENDARY_BATTLE_FILTER"
 msgstr "Фильтр кораблей, подходящих для участия в событии «Генеральное сражение»"
 
@@ -9247,9 +9271,6 @@ msgstr "Фильтр кораблей, подходящих для участи
 
 msgid "IDS_CAROUSEL_PCVE028_FILTER"
 msgstr "Фильтр кораблей, подходящих для участия в «Ну, погоди!»"
-
-msgid "IDS_CAROUSEL_PCVE029_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в Подводном рубеже"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "Фильтр кораблей, подходящих для участия в Операциях"
@@ -9349,6 +9370,12 @@ msgstr "Скос бронепалубы"
 
 msgid "IDS_CATALOGUE"
 msgstr "Судовой журнал"
+
+msgid "IDS_CATCH_EGG_HINT"
+msgstr "Ловите яйца, чтобы получать очки. Золотые яйца приносят больше очков."
+
+msgid "IDS_CATCH_SHARK_HINT"
+msgstr "Акула! Вы потеряли очки, но скорость корабля повысилась."
 
 msgid "IDS_CAT_SCIENTIST"
 msgstr "Кот учёный"
@@ -9890,9 +9917,6 @@ msgstr "Выбрать Эпоху броненосцев"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE028"
 msgstr "Выбрать «Ну, погоди!»"
-
-msgid "IDS_CHOOSE_EVENTBATTLE_PCVE029"
-msgstr "Выбрать Подводный рубеж"
 
 msgid "IDS_CHOOSE_MODERNIZATION"
 msgstr "Выберите модернизацию"
@@ -11822,9 +11846,6 @@ msgstr "Сейчас ежедневные контейнеры не содер�
 msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "Получено предметов"
 
-msgid "IDS_COLLECTION_RANDOM_ITEM"
-msgstr "Случайный предмет"
-
 msgid "IDS_COLLECTION_RECEIVE_IN_ARMORY_BUNDLES"
 msgstr "Предметы этой коллекции можно получить из контейнеров, которые доступны в Адмиралтействе."
 
@@ -12424,9 +12445,6 @@ msgstr "[KEY_LEFTMOUSE]Удерживайте, чтобы использоват
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "Противник движется — берите упреждение при стрельбе"
 
-msgid "IDS_CONTEXT_TUTORIAL_REGEN_CREW"
-msgstr "Восстановить боеспособность"
-
 msgid "IDS_CONTEXT_TUTORIAL_REPAIR_BURN"
 msgstr "Ликвидировать пожар"
 
@@ -12450,18 +12468,6 @@ msgstr "Нажмите для всплытия"
 
 msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_DROP_PICKUP"
 msgstr "Подобрать улучшение можно только в надводном положении"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_INVULNERABLE"
-msgstr "На предельной глубине подводная лодка получает меньше урона, не может быть обнаружена и сама не может обнаруживать корабли"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
-msgstr "На перископной глубине не расходуется автономность, постоянно работает шумопеленгация, а также снижены скорость и видимость"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PING"
-msgstr "Нажмите [CMD_DEACTIVATE_PING], чтобы сбросить последний отмеченный сонаром сектор. Торпеда, выпущенная по этому сектору, потеряет наведение."
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
-msgstr "На рабочей глубине у подводной лодки высокая скорость, но видимость кораблей сильно снижена. Постоянно работает шумопеленгация."
 
 msgid "IDS_CONTEXT_TUTORIAL_USE_DC_AGAINST_MINES"
 msgstr "Уничтожайте мины глубинными бомбами"
@@ -15788,10 +15794,6 @@ msgstr "Подготовка на особые и премиум корабл�
 
 msgid "IDS_CREW_HIRE_PREM_SHIP_TEXT_1"
 msgstr "Вы сможете бесплатно подготовить этого командира на другой корабль."
-
-msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
-msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
-msgstr[0] "+%(_amount)s очко навыков"
 
 msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
 msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
@@ -19595,13 +19597,13 @@ msgid "IDS_CURRENCY_EVENTUM_9"
 msgstr "Корабельные жетоны"
 
 msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
-msgstr "Из случайных наборов в Адмиралтействе до конца обновления 25.3."
+msgstr "Из случайных наборов в Адмиралтействе во время проведения события."
 
 msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
-msgstr "На случайные наборы с контейнерами «Премиум корабль II–IV», «Премиум корабль V», «Премиум корабль VI», «Премиум корабль VIII» и «Премиум корабль IX», очками исследования, контейнерами «Элитные бонусы» и другим имуществом до конца обновления 25.3."
+msgstr "На случайные наборы с контейнерами «Премиум корабль II–IV», «Премиум корабль V», «Премиум корабль VI», «Премиум корабль VIII» и «Премиум корабль IX», очками исследования, контейнерами «Элитные бонусы» и другим имуществом во время проведения события."
 
 msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
-msgstr "Временный ресурс события «Морские трофеи». С выходом обновления 25.4 жетоны будут списаны без компенсации."
+msgstr "Временный ресурс"
 
 msgid "IDS_CURRENCY_EVENTUM_CN"
 msgstr "Supply Vouchers"
@@ -20368,12 +20370,6 @@ msgstr ""
 
 msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
 msgstr "Utopia Show — интернет-шоу, которое выпускает ролики на научно-популярную тематику. Основной целью создателя является развеивание распространённых мифов о загадочных явлениях и разоблачение конспирологических теорий. Эта коллекция посвящена темам некоторых популярных выпусков Utopia Show."
-
-msgid "IDS_DESCRIPTION_PCZA040_SPACE_MUSEUM"
-msgstr ""
-"Небо испокон веков манило человечество — как учёных, стремившихся постичь устройство Вселенной, так и поэтов, для которых небо было символом величия и чистоты. Однако лишь к середине XX в. научно-технический прогресс позволил посмотреть в небо пытливым взглядом исследователя, готового оказаться вне Земли.\n"
-"\n"
-"Целый ряд достижений советской науки и техники в конце 1950-х — начале 1960-х гг. ознаменовал начало космической эры. Так, в 1957 г. на орбиту Земли был запущен первый искусственный спутник Земли, а в 1961 г. состоялся первый в истории пилотируемый полёт в космос. За этими и многими другими грандиозными событиями стояли тысячи людей, позволивших человечеству воплотить грёзы о небе: учёные, инженеры, рабочие, государственные деятели. Результаты их труда увековечены в Музее космонавтики."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "В этом испытании нельзя пользоваться орудиями вспомогательного калибра."
@@ -21551,12 +21547,6 @@ msgstr ""
 "\n"
 "Эффективны против манёвренных и легкобронированных целей."
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr ""
-"Включает в себя сонар и торпедное вооружение, которые переключаются автоматически. Каждое попадание сонаром по кораблю отмечает его для наведения одной торпеды.\n"
-"\n"
-"Не работает на предельной глубине."
-
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUPERSHIP"
 msgstr "Наиболее эффективны против крупных бронированных целей. Манёвренные корабли способны с высокой вероятностью уклониться от удара."
 
@@ -21712,9 +21702,6 @@ msgstr "Нейтрализующие торпеды"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT"
 msgstr "Акустические торпеды"
-
-msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr "Комплекс самонаведения"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUPERSHIP"
 msgstr "Торпеды"
@@ -23053,12 +23040,6 @@ msgstr "Глубоководные торпеды (ГТ)"
 
 msgid "IDS_DOCTOR_LINEBELLY_H2020"
 msgstr "Doctor Linebelly"
-
-msgid "IDS_DOF"
-msgstr "Глубина резкости в Порту"
-
-msgid "IDS_DOF_DESCRIPTION"
-msgstr "Объекты за пределами фокуса отображаются с размытием для создания кинематографичного эффекта. Работает, только если качество постобработки установлено на значении «Очень высоко»."
 
 msgid "IDS_DOGTAGS_BGBORDERCOLOR_GROUP_BASIC"
 msgstr "Базовые"
@@ -27709,12 +27690,6 @@ msgstr "Личное дело"
 msgid "IDS_ELITE_CREW_BANNER_TITLE"
 msgstr "Элитное обучение"
 
-msgid "IDS_ELITE_CREW_CAN_GET_TALENT_TOOLTIP_STATUS"
-msgstr "Можно получить национальный талант"
-
-msgid "IDS_ELITE_CREW_CAN_UPGRADE_SKILL_TOOLTIP_STATUS"
-msgstr "Можно улучшить навык"
-
 msgid "IDS_ELITE_CREW_NOT_READY_ONBOARDING_BANNER_SUBTITLE"
 msgstr "Будет доступно после достижения максимального уровня командира"
 
@@ -30208,9 +30183,6 @@ msgstr "Постоянные камуфляжи с Автоботами"
 msgid "IDS_FIFTH_SOVIETBBARC_NAME"
 msgstr "Путь флотоводца"
 
-msgid "IDS_FIFTH_SPACE_MUSEUM_NAME"
-msgstr "Первые рекорды"
-
 msgid "IDS_FIFTH_YAMSUBCOLLECTION_NAME"
 msgstr "Разное"
 
@@ -30408,9 +30380,6 @@ msgstr "«Мудростью» славна робототехника"
 
 msgid "IDS_FIRST_SOVIETBBARC_NAME"
 msgstr "Адмирал Николай Герасимович Кузнецов"
-
-msgid "IDS_FIRST_SPACE_MUSEUM_NAME"
-msgstr "Спутники и станции. Часть 1"
 
 msgid "IDS_FIRST_TSAR_MOREY_NAME"
 msgstr "Команда мечты"
@@ -30651,9 +30620,6 @@ msgstr "Слава мировой науке!"
 
 msgid "IDS_FOURTH_SOVIETBBARC_NAME"
 msgstr "Русские кораблестроители I"
-
-msgid "IDS_FOURTH_SPACE_MUSEUM_NAME"
-msgstr "Скафандры"
 
 msgid "IDS_FOURTH_TSAR_MOREY_NAME"
 msgstr "Путь к победе"
@@ -31360,9 +31326,6 @@ msgstr "Перейти к экрану «Кланы»"
 
 msgid "IDS_GO_TO_COLLECTION_SCREEN"
 msgstr "Перейти к коллекции"
-
-msgid "IDS_GO_TO_COLLECTION_SSE_BUTTON"
-msgstr "К коллекции"
 
 msgid "IDS_GO_TO_EVENT_BATTLE_DETAILS_MOUSE_INSTRUCTION"
 msgstr "Перейти к экрану события"
@@ -34017,9 +33980,6 @@ msgstr "Продавайте имущество, которое вы не ис�
 msgid "IDS_HINT_YOUR_ACCOUNT"
 msgstr "Ваш игровой аккаунт"
 
-msgid "IDS_HIRE_CREW"
-msgstr "Рекрутировать командира"
-
 msgid "IDS_HIRE_CREW_SWITCH_OFF_TOOLTIP"
 msgstr "Не нанимать нового командира для этого корабля"
 
@@ -34117,6 +34077,9 @@ msgstr "Hua Hu"
 msgid "IDS_HUA_QING"
 msgstr "Hua Qing"
 
+msgid "IDS_HYDROPHONE"
+msgstr "ОБНАРУЖЕН"
+
 msgid "IDS_I00_AV_HINT"
 msgstr "Развернитесь бортом к противнику, чтобы использовать все башни"
 
@@ -34185,6 +34148,9 @@ msgstr "Невозможно воспроизвести повтор. Верси
 
 msgid "IDS_INCOMPLETE_DIVISION"
 msgstr "Выход в бой в неполном составе"
+
+msgid "IDS_INCREASE_BARRACKS_CAPACITY"
+msgstr "Расширить"
 
 msgid "IDS_INFORMER_TIME_LEFT"
 msgstr "Осталось: %(_timeLeft)s"
@@ -34269,9 +34235,6 @@ msgstr "Пожар на полётной палубе!"
 
 msgid "IDS_INFO_CARRIR_BURNING_PLANE_CANT_TAKE_OFF"
 msgstr "Пожар на полётной палубе!"
-
-msgid "IDS_INFO_DEEP_WATER_DISABLED"
-msgstr "Невозможно использовать на рабочей глубине"
 
 msgid "IDS_INFO_DEEP_WATER_INVUL_DISABLED"
 msgstr "Невозможно использовать на предельной глубине"
@@ -34759,9 +34722,6 @@ msgstr "в Эпохе броненосцев"
 
 msgid "IDS_IN_PCVE028"
 msgstr "в «Ну, погоди!»"
-
-msgid "IDS_IN_PCVE029"
-msgstr "в Подводном рубеже"
 
 msgid "IDS_IN_PVEBATTLE"
 msgstr "в Операции"
@@ -35276,12 +35236,6 @@ msgstr "Ксанка Щусь"
 msgid "IDS_KUZNETSOV"
 msgstr "Николай Кузнецов"
 
-msgid "IDS_K_TYPE_SUBTEST"
-msgstr "Семён Рыбаков"
-
-msgid "IDS_LANA_ANIME"
-msgstr "Лана"
-
 msgid "IDS_LAND_LAUNCH"
 msgstr "Взлёт/посадка"
 
@@ -35436,9 +35390,6 @@ msgstr "Nine-Year Rule, 1948"
 
 msgid "IDS_LEGENDARY_PROGRAM_USA"
 msgstr "Long-Range Shipbuilding Plan, 1950"
-
-msgid "IDS_LEILA_ANIME"
-msgstr "Айла"
 
 msgid "IDS_LENA_SUMMER"
 msgstr "Лена"
@@ -39381,39 +39332,6 @@ msgstr "За 1, 2 и 3-е места выдаются памятные до�
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "Чем выше ваш результат, тем больше ресурсов вы получите по итогам боя."
 
-msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
-msgstr "Подводный рубеж"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_HEADER"
-msgstr "Подводный рубеж"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Вы можете выйти в бой на подводной лодке, чтобы испытать изменённые характеристики этого класса."
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Выйдя в бой на корабле другого класса, вы сможете испытать изменённые средства борьбы с подводными лодками."
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
-msgstr "Подводные лодки"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Сонар и акустические торпеды объединены: после попадания сонаром по кораблю вооружение переключается автоматически. Попадание сонаром даёт возможность выпустить одну торпеду."
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Снаряжение «Шумопеленгатор» недоступно. Все подводные лодки проводят шумопеленгацию постоянно на перископной и рабочей глубинах."
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_HEADER"
-msgstr "Надводные корабли"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Глубинные бомбы удерживаются на небольшой глубине определённое время и взрываются рядом с кораблями, подводными лодками и торпедами."
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Помимо нанесения урона подводным лодкам на глубине, бомбы уничтожают торпеды и наносят небольшой урон надводным кораблям и подводным лодкам в надводном положении."
-
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
 msgstr "Последний поход «Трансильвании»"
 
@@ -39701,42 +39619,6 @@ msgstr "Наиболее эффективны против надводных ц
 
 msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_TEXT_2"
 msgstr "Наиболее эффективны против надводных целей. [UNUSED]"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_HEADER"
-msgstr "ПОДВОДНЫЕ ЛОДКИ"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_TEXT_1"
-msgstr "Когда подводная лодка пускает импульс сонара, на поверхности воды видны волны. Они показывают направление движения подводной лодки."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_HEADER"
-msgstr "ШУМОПЕЛЕНГАЦИЯ"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_TEXT_1"
-msgstr "Подводная лодка видит позиции надводных кораблей с определённого расстояния."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_HEADER"
-msgstr "ГЛУБИННЫЕ БОМБЫ"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
-msgstr "Удерживаются на небольшой глубине определённое время. Наносят урон подводным лодкам и уничтожают торпеды."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
-msgstr "СОНАР И ТОРПЕДЫ"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
-msgstr "Количество торпед одной подводной лодки, которые могут одновременно наводиться на корабль, ограниченно и зависит от класса."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_HEADER"
-msgstr "ПРЕДЕЛЬНАЯ ГЛУБИНА"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
-msgstr "На предельной глубине подводную лодку нельзя обнаружить, она получает меньше урона, но её возможности ограниченны."
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_HEADER"
-msgstr "ГЛУБИННЫЕ БОМБЫ"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
-msgstr "Удерживаются на небольшой глубине определённое время. Наносят урон подводным лодкам и уничтожают торпеды."
 
 msgid "IDS_MODAL_WINDOW_TITLE_CAMOUFLAGE_PURCHASE"
 msgstr "Покупка камуфляжа"
@@ -44778,12 +44660,6 @@ msgstr "Consolidated PB4Y-2 Privateer"
 msgid "IDS_PAAD920_ESSEX_TOP"
 msgstr "BTD Destroyer"
 
-msgid "IDS_PAAD983_ASW_T10_CV_SUBTEST"
-msgstr "Consolidated PB4Y-2 Privateer Test"
-
-msgid "IDS_PAAD988_ASW_T10_SUBTEST"
-msgstr "Consolidated PB4Y-2 Privateer"
-
 msgid "IDS_PAAD998_CONCORD_BRIDGE"
 msgstr "SB2C Helldiver"
 
@@ -46677,12 +46553,6 @@ msgstr "350-pound Depth Bomb Mk 54"
 msgid "IDS_PAPD110_DEPTH_CV_10"
 msgstr "650-pound Depth Bomb Mk 38"
 
-msgid "IDS_PAPD907_DEPTH_T10"
-msgstr "650-pound Depth Bomb"
-
-msgid "IDS_PAPD910_DEPTH_CV_10"
-msgstr "650-pound Depth Bomb Mk 38"
-
 msgid "IDS_PAPR009_KEARSARGE"
 msgstr "Tiny Tim"
 
@@ -46991,12 +46861,6 @@ msgstr "Mk29 MIE"
 
 msgid "IDS_PAPT920_ESSEX_TOP"
 msgstr "Torpedo Mk.7 mod. 1"
-
-msgid "IDS_PAPT990_MK29_SUBTEST"
-msgstr "Mk29 MIE"
-
-msgid "IDS_PAPT991_MK29_SUB_MAGNETIC_SUBTEST"
-msgstr "Mk29"
 
 msgid "IDS_PAPT998_CONCORD_BRIDGE"
 msgstr "Torpedo Mk.13-2"
@@ -47400,12 +47264,6 @@ msgstr "Время до начала атаки"
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
 msgstr "Время работы снаряжения корабля"
 
-msgid "IDS_PARAMS_MODIFIER_CANBEDAMAGED"
-msgstr "Подводная лодка получает уменьшенный урон"
-
-msgid "IDS_PARAMS_MODIFIER_CANBEDETECTED"
-msgstr "Подводная лодка не может быть обнаружена"
-
 msgid "IDS_PARAMS_MODIFIER_CANBEDETECTEDBYSONAR"
 msgstr "Подводная лодка может быть обнаружена с помощью подводного поиска."
 
@@ -47528,22 +47386,19 @@ msgstr "Урон глубинных бомб"
 msgid "IDS_PARAMS_MODIFIER_DCNUMPACKSBONUS"
 msgstr "Количество зарядов глубинных бомб"
 
-msgid "IDS_PARAMS_MODIFIER_DCRELOADTIMECOEFF"
-msgstr "Время перезарядки глубинных бомб"
-
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
 msgstr "Радиус взрыва боеприпасов по подводным лодкам"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_BOMB"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
 msgstr "Радиус взрыва ОФ-бомб по подводным лодкам"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_ROCKET"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
 msgstr "Радиус взрыва ОФ-ракет по подводным лодкам"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_MAIN"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
 msgstr "Радиус взрыва ОФ- и ПББ-снарядов ГК по подводным лодкам"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_SEC"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
 msgstr "Радиус взрыва снарядов ПМК по подводным лодкам"
 
 msgid "IDS_PARAMS_MODIFIER_DECREASINGSPEEDBYBLUELINE"
@@ -47963,9 +47818,6 @@ msgstr "Пеленгация кораблей"
 msgid "IDS_PARAMS_MODIFIER_IGNOREPTZBONUS"
 msgstr "Игнорирование ПТЗ"
 
-msgid "IDS_PARAMS_MODIFIER_INFINITEWORKHYDROPHONE"
-msgstr "Постоянная шумопеленгация"
-
 msgid "IDS_PARAMS_MODIFIER_INVULNERABLE"
 msgstr "Корабль неуязвим для всех видов урона"
 
@@ -48037,9 +47889,6 @@ msgstr "Скорость хода торпед"
 
 msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE"
 msgstr "Невозможно использовать на предельной глубине"
-
-msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE_SUB_IMPROVE"
-msgstr "Невозможно использовать на рабочей и предельной глубинах"
 
 msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_PERISCOPESTATE"
 msgstr "Невозможно использовать на перископной и предельной глубинах"
@@ -48209,6 +48058,9 @@ msgstr "Радиус области цели"
 msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
 msgstr "Модификатор получаемого урона от ГК"
 
+msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
+msgstr "Модификатор получаемого урона от торпед"
+
 msgid "IDS_PARAMS_MODIFIER_REGENBYREPAIRAREA"
 msgstr "Восстановление боеспособности"
 
@@ -48360,7 +48212,7 @@ msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYPERISCOPEDEPTHSTATEINSMOKE"
 msgstr "С перископной глубины"
 
 msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYWORKINGDEPTHSTATEINSMOKE"
-msgstr "С рабочей глубины"
+msgstr "С рабочей глубины [UNUSED]"
 
 msgid "IDS_PARAMS_MODIFIER_SHOOTSHIFT"
 msgstr "Рассеивание снарядов атакующего вас противника"
@@ -50161,7 +50013,7 @@ msgid "IDS_PASC210_FULL"
 msgstr "Worcester"
 
 msgid "IDS_PASC210_NUMBER"
-msgstr "2"
+msgstr "3"
 
 msgid "IDS_PASC210_YEAR"
 msgstr "1948 г."
@@ -51077,13 +50929,13 @@ msgid "IDS_PASS610_YEAR"
 msgstr "1943 г."
 
 msgid "IDS_PASS910"
-msgstr "Ide"
+msgstr "Balao Test"
 
 msgid "IDS_PASS910_DESCR"
-msgstr "Подводные лодки, разрабатывавшиеся в межвоенное время, были призваны действовать совместно с линкорами, обеспечивать разведку и добивать повреждённые корабли противника. Они должны были обладать высокой скоростью и тяжёлым вооружением. После событий на Тихоокеанском театре военных действий эти тактические концепции устарели, и новый тип уже разрабатывался для дальних походов: такие подводные лодки предполагали повышенный комфорт для экипажа, а также большой запас топлива и торпед."
+msgstr "Копия корабля для тестирования."
 
 msgid "IDS_PASS910_FULL"
-msgstr "Ide"
+msgstr "Balao Test"
 
 msgid "IDS_PASS910_NUMBER"
 msgstr "77"
@@ -53218,7 +53070,7 @@ msgid "IDS_PAUH922_A_HUMP"
 msgstr "Joshua Humphreys"
 
 msgid "IDS_PAUH923_HULL_BALAO_TEST"
-msgstr "Ide"
+msgstr "Balao Test"
 
 msgid "IDS_PAUH924_D10_HULL_STOCK"
 msgstr "Lynch"
@@ -64558,12 +64410,6 @@ msgstr "Парижская коммуна"
 msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG_DESCRIPTION"
 msgstr "Шефское знамя линкора Рабоче-крестьянского Красного флота «Парижская коммуна». Этот корабль носил имя в честь революционной коммуны, просуществовавшей 72 дня весной 1871 г. в Париже. Фридрих Энгельс писал, что Парижская коммуна показала миру пример настоящей диктатуры пролетариата."
 
-msgid "IDS_PCEE738_DUPERRE_FLAG"
-msgstr "Duperré"
-
-msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
-msgstr "Ги-Виктор Дюперре (1775–1846) — французский военно-морской деятель, служивший в периоды Наполеоновских войн, реставрации Бурбонов и Июльской монархии. Командуя фрегатом Bellone, он одержал победу в сражении при Гранд-Порте в ходе Маврикийской кампании. В 1830 г. Дюперре был назначен адмиралом Франции, а затем трижды становился морским министром."
-
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Вакансия: Дед Мороз 2016"
 
@@ -66454,15 +66300,6 @@ msgstr "Состязания по ловле яиц."
 msgid "IDS_PCVE028_MATCHMAKER_DESCRIPTION"
 msgstr "Состязания по ловле яиц."
 
-msgid "IDS_PCVE029"
-msgstr "Подводный рубеж"
-
-msgid "IDS_PCVE029_DESCRIPTION"
-msgstr "Сражения, в которых вы испытаете изменения подводных лодок и средств борьбы с ними."
-
-msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
-msgstr "Сражения, в которых вы испытаете изменения подводных лодок и средств борьбы с ними."
-
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "Союзная дивизия была атакована. Часть кораблей уничтожена, а транспортные суда захвачены и конвоируются на базу противника. Вам поручается перехватить конвой противника и отбить союзные суда."
 
@@ -67130,12 +66967,6 @@ msgstr "Utopia Show"
 
 msgid "IDS_PCZA039_UTOPIA_QUOTES"
 msgstr "Utopia Show"
-
-msgid "IDS_PCZA040_SPACE_MUSEUM"
-msgstr "Космическая эра"
-
-msgid "IDS_PCZA040_SPACE_MUSEUM_QUOTES"
-msgstr "«Космическая эра»"
 
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "Bismarck"
@@ -74956,7 +74787,7 @@ msgstr ""
 "\n"
 "В 1997 г. Лори Стек, управляющая магазином «Нэглиз», обнаружила на парковке коробку с котятами. Стек выбрала Стаббса, потому что у него не было хвоста. Котёнок поселился в магазине, и вскоре о нём узнали многие жители этого маленького города.\n"
 "\n"
-"Легенда гласит, что Стаббс стал мэром после того, как ряд избирателей вписали его имя в бюллетени на выборах. Скептики ставят эту версию под сомнение: Талкитна, будучи маленьким поселением, официально не имеет позиции мэра. Магазин «Нэглиз» служил коту офисом на протяжении всего срока на посту мэра. Каждый день Стаббс ходил в соседний ресторан, где пил воду с кошачьей мятой из винного бокала."
+"Легенда гласит, что Стаббс стал мэром после того, как ряд избирателей вписали его имя в бюллетени на выборах. Скептики ставят эту версию под сомнение: Талкитна, будучи маленьким поселением, официально не имеет позиции мэра. Магазин «Нэглиз» служил коту офисом на протяжении всего срока на посту мэра. Каждый день Саббс ходил в соседний ресторан, где пил воду с кошачьей мятой из винного бокала."
 
 msgid "IDS_PCZC947_UTOPIA_3_1"
 msgstr "Камень-питомец"
@@ -74999,579 +74830,6 @@ msgstr ""
 "Острый вкус васаби напоминает родственные растения — хрен и горчицу. Корень васаби измельчают до состояния пасты, которая имеет характерный зелёный цвет и резкий запах. Полученную приправу подают с суши и другими блюдами.\n"
 "\n"
 "Уникальный вкус васаби — результат сложного сочетания веществ, получающегося при разрушении клеток растения (считается, что эта особенность появилась в процессе эволюции как защитный механизм). Острота васаби больше стимулирует обоняние, чем вкусовые рецепторы, при этом запах этого растения имеет эффект, аналогичный нашатырю. Исследователи использовали это свойство васаби при создании пожарной сигнализации для людей с нарушениями слуха. Один участник эксперимента проснулся через 10 секунд после того, как в помещении начал распространяться запах васаби."
-
-msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
-msgstr "Первый в мире искусственный спутник Земли"
-
-msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
-msgstr ""
-"Открыл космическую эру в истории человечества.\n"
-"\n"
-"Запущен 4 октября 1957 г. в 22 часа 28 минут по московскому времени с космодрома Байконур и выведен на орбиту с параметрами:\n"
-"• высота в перигее — 228 км;\n"
-"• высота в апогее — 947 км.\n"
-"\n"
-"Выведен на орбиту двухступенчатой ракетой-носителем «Спутник», созданной на базе межконтинентальной баллистической ракеты Р-7. Впервые в мире была достигнута первая космическая скорость полёта и искусственный объект выведен на околоземную орбиту. С околоземной орбиты спутник передавал радиосигналы, зафиксированные радиолюбителями мира.\n"
-"\n"
-"Технические характеристики:\n"
-"• масса спутника — 83,6 кг;\n"
-"• корпус — сфера диаметром 58 см, на котором установлены четыре антенны длиной 2,4 м 2,9 м.\n"
-"\n"
-"Внутри герметичного корпуса были размещены:\n"
-"• блок электрохимических источников тока;\n"
-"• радиопередающее устройство;\n"
-"• вентилятор;\n"
-"• термореле и воздуховод системы терморегулирования;\n"
-"• коммутирующее устройство бортовой электроавтоматики;\n"
-"• датчики температуры и давления;\n"
-"• бортовая кабельная сеть.\n"
-"\n"
-"Первый ИСЗ просуществовал 92 дня, совершив 1440 оборотов вокруг Земли. 4 января 1958 г. он вошёл в плотные слои атмосферы и сгорел.\n"
-"\n"
-"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва.\n"
-"\n"
-"С. П. Королёв и М. К. Тихонравов — идеологи запуска Первого искусственного спутника Земли."
-
-msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
-msgstr "Второй искусственный спутник Земли"
-
-msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
-msgstr ""
-"Первый в мире биологический спутник и первое живое существо, совершившее орбитальный космический полёт — собака Лайка.\n"
-"\n"
-"Запущен 3 ноября 1957 г. с космодрома Байконур ракетой-носителем «Спутник».\n"
-"\n"
-"С помощью научной аппаратуры, установленной на спутнике, удалось впервые провести прямые научные измерения в космосе и получить первые сведения о существовании внешнего радиационного пояса Земли.\n"
-"\n"
-"Кроме научной аппаратуры, в отдельной герметичной кабине размещалась собака Лайка (её возвращение на Землю не предусматривалось).\n"
-"\n"
-"В этом полёте впервые изучалось воздействие невесомости и космической радиации на живой организм. Счётчик регистрации космической радиации стал первым научным прибором, запущенным в космос и показавшим там средний уровень радиации. Полученные в ходе полёта данные позволили сделать вывод о безопасном пребывании человека в космосе.\n"
-"\n"
-"Масса спутника — 508,3 кг.\n"
-"\n"
-"Просуществовал 160 суток, совершил около 2370 оборотов вокруг Земли и прекратил своё существование 14 апреля 1958 г.\n"
-"\n"
-"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
-
-msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
-msgstr "Третий искусственный спутник Земли"
-
-msgid "IDS_PCZC953_SPACE_MUSEUM_1_3_DESCRIPTION"
-msgstr ""
-"Первая в мире научная лаборатория в космосе.\n"
-"\n"
-"Запущен 15 мая 1958 г. ракетой-носителем «Спутник» с космодрома Байконур для изучения околоземного космического пространства, атмосферы Земли и излучения Солнца.\n"
-"\n"
-"На спутнике было установлено 12 научных приборов. Аппаратура измеряла давление и температуру, электрические заряды, напряжённость электростатического и магнитного полей, интенсивность корпускулярного излучения Солнца, ионного состава атмосферы и её концентрации, регистрации ударов микрометеоритов. Обнаружен внешний радиационный пояс Земли. Впервые были использованы активная система терморегулирования и солнечные батареи.\n"
-"\n"
-"Масса спутника — 1327 кг. Масса научной аппаратуры — 968 кг. Совершил 10 037 оборотов вокруг Земли.\n"
-"\n"
-"Просуществовал на орбите до 6 апреля 1960 г.\n"
-"\n"
-"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
-
-msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
-msgstr "Автоматическая станция «Луна-1»"
-
-msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
-msgstr ""
-"Впервые в мире достигла второй космической скорости.\n"
-"\n"
-"Запущена 2 января 1959 г. с космодрома Байконур ракетой-носителем «Восток-Л».\n"
-"\n"
-"Научная аппаратура станции:\n"
-"• магнитометр для измерения магнитных полей Земли и Луны;\n"
-"• четыре стержневые антенны радиопередатчика;\n"
-"• ионные и протонные ловушки для регистрации корпускулярного излучения Солнца;\n"
-"• детекторы для регистрации ударов метеоритных частиц;\n"
-"• антенны радиопередатчика, передающие научную информацию на Землю.\n"
-"\n"
-"Внутри станции для доставки на Луну находились сферический вымпел из стальных пятиугольных элементов и капсула, заполненная жидкостью, в которой размещались алюминиевые полоски. На вымпелах и полосках были изображены герб, надпись «СССР» и дата запуска.\n"
-"\n"
-"4 января 1959 г. станция пролетела на расстоянии 5000–6000 км от Луны, но из-за ошибки в циклограмме полёта не достигла лунной поверхности.\n"
-"\n"
-"Пройдя вблизи Луны и выйдя из сферы действия земного тяготения, «Луна-1» стала первым искусственным спутником Солнца с периодом обращения вокруг звезды 450 суток.\n"
-"\n"
-"Разработана в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
-
-msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
-msgstr "Автоматическая станция «Луна-3»"
-
-msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
-msgstr ""
-"Впервые в истории облетела Луну и передала на Землю фототелевизионные изображения невидимой с Земли обратной стороны Луны 7 октября 1959 г.\n"
-"\n"
-"Стала первой в мире космической станцией, на практике осуществившей гравитационный манёвр.\n"
-"\n"
-"4 октября 1959 г. с космодрома Байконур с помощью ракеты-носителя «Восток-Л» стартовала автоматическая станция «Луна-3». На станции размещались системы: радиотехнической, телеметрической, фототелеметрической ориентации (относительно Солнца и Луны), энергопитания (с солнечными батареями), терморегулирования и комплекс научной аппаратуры, включая фотолабораторию.\n"
-"\n"
-"Система ориентации аппарата «Чайка» была разработана под руководством академика Б. В. Раушенбаха, впервые решившему задачу управления аппаратами в космическом пространстве.\n"
-"\n"
-"7 октября космический аппарат с расстояния около 65 тыс. км сфотографировал обратную сторону Луны (до Земли было около 470 тыс. км). В течение последующих 10 суток «Луна-3» передала серию снимков на Землю. Удалось сфотографировать почти половину поверхности Луны, охватившей 30% видимой стороны и 70% никогда ранее невидимой с Земли стороны. Эти изображения были признаны «фотографиями века»! На их основе в 1960 и 1967 гг. выпущено два тома «Атласа обратной стороны Луны» и лунный глобус. Станция совершила 11 оборотов вокруг Земли и 20 апреля 1960 г. прекратила существование, войдя в плотные слои атмосферы.\n"
-"\n"
-"Разработана в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
-
-msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
-msgstr "Автоматическая межпланетная станция «Венера-1»"
-
-msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
-msgstr ""
-"Первый в мире космический аппарат, запущенный в сторону Венеры.\n"
-"\n"
-"Станция запущена 12 февраля 1961 г. с космодрома Байконур ракетой-носителем «Молния».\n"
-"\n"
-"На станции были установлены научные приборы:\n"
-"• магнитометр;\n"
-"• две ионные ловушки для измерения параметров солнечного ветра;\n"
-"• детектор микрометеоритов;\n"
-"• счётчик Гейгера и сцинтилляционный детектор для измерения космической радиации.\n"
-"\n"
-"В нижней части космического аппарата была установлена двигательная установка КДУ-414, предназначенная для коррекций траектории полёта. Масса станции — 643,5 кг. Через 7 суток полёта, на расстоянии 2 млн км от Земли, контакт со станцией был потерян. По расчётам учёных, она прошла 19–20 мая 1961 г. на расстоянии около 100 тыс. км от поверхности Венеры и вышла на орбиту искусственного спутника Солнца.\n"
-"\n"
-"Разработана в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
-
-msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
-msgstr "Автоматическая межпланетная станция «Марс-1»"
-
-msgid "IDS_PCZC957_SPACE_MUSEUM_2_2_DESCRIPTION"
-msgstr ""
-"Первый в мире космический аппарат, направленный в сторону Марса. Впервые в истории космонавтики проложена межпланетная трасса Земля — Марс.\n"
-"\n"
-"Запущена 1 ноября 1962 г. с космодрома Байконур ракетой-носителем «Молния».\n"
-"\n"
-"Станция состояла из двух герметичных отсеков: орбитального и планетного. В орбитальном отсеке располагалась аппаратура, обеспечивающая работу станции во время её полёта к Марсу, а в планетном — фототелевизионная система и научные приборы, которые должны были работать вблизи планеты. На орбитальном отсеке устанавливались: корректирующая двигательная установка, панели солнечных батарей, система терморегулирования и радиоантенны. Расчёт движения станции по данным траекторных измерений показал, что она пролетит на расстоянии 193 тыс. км от Марса — это свидетельствовало о высокой точности выведения станции на заданную траекторию. Со станцией был проведён 61 сеанс радиосвязи, при этом был получен большой объём телеметрической информации. На её борт передано более 3000 команд.\n"
-"\n"
-"В результате полёта «Марс-1» получены сведения о физических свойствах космического пространства между орбитами Земли и Марса, регистрировались потоки солнечного ветра и метеорных частиц (аппарат пересёк два метеорных потока), определялась напряжённость магнитного поля в космическом межпланетном пространстве.\n"
-"\n"
-"На расстоянии 106 млн км от Земли 21 марта 1963 г. состоялся последний сеанс связи с аппаратом. Затем связь была потеряна, но по тем временам это был рекорд дальности космической связи."
-
-msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
-msgstr "Автоматическая станция «Луна-9»"
-
-msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
-msgstr ""
-"Впервые в мире спускаемый аппарат станции осуществил мягкую посадку на Луну и передал на Землю первые фото и телевизионные панорамные изображения лунной поверхности.\n"
-"\n"
-"Запущена 31 января 1966 г. с космодрома Байконур ракетой-носителем «Молния».\n"
-"\n"
-"Конструктивно «Луна-9» состояла из приборно-агрегатного отсека с тормозной двигательной установкой и спускаемого аппарата.\n"
-"\n"
-"3 февраля 1966 г. станция совершила торможение, и по команде с Земли от неё отделился контейнер со спускаемым аппаратом, который совершил мягкую посадку на Луну.\n"
-"\n"
-"Технические характеристики станции:\n"
-"• масса спускаемого аппарата — 100 кг.\n"
-"• длина станции — 2,7 м;\n"
-"• масса станции — 1583 кг.\n"
-"\n"
-"Разработана на Машиностроительном заводе им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина."
-
-msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
-msgstr "Орбитальная станция «Мир»"
-
-msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
-msgstr ""
-"Станция третьего поколения, выдающееся научно-техническое достижение конца ХХ в. Впервые в мировой практике был реализован модульный принцип строительства космических сооружений на орбите.\n"
-"\n"
-"Первый элемент орбитальной станции «Мир» — базовый блок — был выведен на орбиту 20 февраля 1986 г. Затем к базовому блоку последовательно были пристыкованы модули «Квант» (1987 г.), «Квант-2» (1989 г.), «Кристалл» (1990 г.), «Спектр» (1995 г.) и стыковочный отсек (1995 г.).\n"
-"\n"
-"Полную проектную конфигурацию станция обрела в 1996 г. вместе с последним модулем «Природа». Модульное построение позволило расширить программу научных исследований, а также значительно увеличить жилой объём станции.\n"
-"\n"
-"За 15 лет эксплуатации станции «Мир»:\n"
-"• совершено 78 выходов в открытый космос общей продолжительностью 359 ч;\n"
-"• на станции работало 104 человека из 12 стран;\n"
-"• задействованы: 31 пилотируемый корабль «Союз», 64 грузовых корабля «Прогресс» и 9 многоразовых американских кораблей «Спейс-шаттл»;\n"
-"• было проведено более 23 тыс. научных экспериментов и исследований;\n"
-"• установлено три мировых рекорда по продолжительности непрерывного пребывания и пять — по суммарному времени пребывания человека в условиях космического полёта;\n"
-"• по беспрецедентной длительности полёта орбитальная станция «Мир» стала главным космическим рекордсменом ХХ в.\n"
-"\n"
-"Первый экипаж корабля «Союз Т-15» (Л. Д. Кизим и В. А. Соловьёв) прибыл на станцию в 1986 г., последний — экипаж «Союз ТМ-30» (С. В. Залётин и А. Ю. Калери) — в 2000 г.\n"
-"\n"
-"23 февраля 2001 г. орбитальная станция «Мир» была сведена с орбиты и прекратила своё существование. Несгоревшие в атмосфере обломки станции упали в южной части Тихого океана.\n"
-"\n"
-"Головной разработчик: Научно-производственное объединение «Энергия».\n"
-"\n"
-"Технические характеристики:\n"
-"• общая масса в полной конфигурации — более 137 т;\n"
-"• масса научной аппаратуры — 11,5 т."
-
-msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
-msgstr "Долговременная орбитальная станция «Салют-6»"
-
-msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
-msgstr ""
-"«Салют-6» — орбитальная станция второго поколения запущена 29 сентября 1977 г. с космодрома Байконур с помощью ракеты-носителя «Протон». Отличительными особенностями станции являются второй стыковочный узел и двигательная установка с возможностью дозаправки топливом во время полёта. Это позволило значительно увеличить продолжительность её работы.\n"
-"\n"
-"В январе 1978 г. к станции «Салют-6» стартовал грузовой корабль «Прогресс-1». Это был первый в мире полёт автоматического грузового корабля к орбитальной станции, который доставил необходимые грузы и дозаправил топливом её двигательную установку. К станции пристыковывались 17 пилотируемых и 2 беспилотных корабля серий «Союз» и «Союз Т», 12 грузовых кораблей «Прогресс» и автоматический грузовой транспортный корабль снабжения «Космос-1267», один из элементов станции «Алмаз», использовавшийся также как модуль. За время эксплуатации на станции «Салют-6» на ней работали 5 основных экипажей и 10 экспедиций посещения, в их числе 8 международных экипажей. Впервые в 1978–1980 гг. в состав экспедиций посещения вошли граждане из других стран – первые космонавты Чехословакии, Польши, ГДР, Венгрии, Вьетнама, Кубы, Монголии и Румынии. Продолжительность пребывания длительных экспедиций на станции «Салют-6»: 96, 139, 175 и 184 дня. Из станции «Салют-6» было осуществлено три выхода в открытый космос общей продолжительностью 4 часа 56 минут.\n"
-"\n"
-"Полёт станции продолжался 1765 суток (из них 683 дня она была обитаемой) и завершился 29 июля 1982 г.\n"
-"\n"
-"Разработана Центральным конструкторским бюро экспериментального машиностроения по программе гражданских пилотируемых станций СССР.\n"
-"\n"
-"Технические характеристики:\n"
-"• масса — 19,8 т;\n"
-"• длина — 13,5 м;\n"
-"• максимальный диаметр — 4,15 м;\n"
-"• размах панелей солнечных батарей — 17 м;\n"
-"• внутренний полезный объём — 90,0 м³."
-
-msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
-msgstr "Трёхступенчатая ракета-носитель «Восток»"
-
-msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
-msgstr ""
-"Разработана и создана в Особом конструкторском бюро № 1 под руководством Главного конструктора С. П. Королёва на базе межконтинентальной баллистической ракеты Р-7.\n"
-"\n"
-"Технические характеристики:\n"
-"• длина ракеты — 38,36 м;\n"
-"• диаметр (размер по воздушным рулям) — 10,3 м;\n"
-"• стартовый вес — 287 т;\n"
-"• масса полезного груза, выводимого на орбиту — до 5 т.\n"
-"\n"
-"Вывела первый в мире космический корабль «Восток» с первым космонавтом Земли Ю. А. Гагариным на борту.\n"
-"\n"
-"С помощью ракеты-носителя «Восток» в космос выводились космические корабли-спутники, корабли серии «Восток», автоматические станции «Луна-1», «Луна-2», «Луна-3», некоторые искусственные спутники Земли серии «Космос» и «Метеор».\n"
-"\n"
-"Ракета-носитель «Восток» — это модификация двухступенчатой ракеты Р-7, к которой была добавлена третья ступень для увеличения массы космического аппарата, выводимого на околоземную орбиту. Первые две ступени соединяются по пакетной схеме, то есть параллельно, благодаря чему на начальном этапе полёта для создания значительной тяги обеспечивается одновременная работа четырёх боковых блоков первой ступени и центрального блока второй ступени. Вторая и третья ступень соединены вместе по тандемной схеме, то есть последовательно, друг за другом. Космический аппарат защищён головным обтекателем. Первая ступень из четырёх блоков оснащена двигателями РД-107, вторая — РД-108.\n"
-"\n"
-"Запуски производились с космодромов Байконур (с января 1959 г.) и Плесецк (с марта 1966 г.)."
-
-msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
-msgstr "Ракета-носитель «Протон»"
-
-msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
-msgstr ""
-"Модификации ракеты разработаны в Центральном конструкторском бюро машиностроения под руководством Генерального конструктора В. Н. Челомея и изготовлены в Государственном космическом научно-производственном центре им. М. В. Хруничева.\n"
-"\n"
-"Технические характеристики:\n"
-"• длина — 44 м;\n"
-"• диаметр — 7,4 м;\n"
-"• масса — 54 т;\n"
-"• стартовая масса — 702 т;\n"
-"• масса полезного груза — 20 т.\n"
-"\n"
-"Ракета-носитель тяжёлого класса, используется с 1965 г. для выведения на низкую круговую орбиту космических аппаратов различного назначения.\n"
-"\n"
-"Выводила на околоземные орбиты космические аппараты «Протон», «Радуга», «Экран», «Горизонт», орбитальные станции «Салют», «Мир», Международную космическую станцию, искусственные спутники Земли других стран.\n"
-"\n"
-"В качестве базового варианта использовалась межконтинентальная баллистическая ракета УР-500.\n"
-"\n"
-"Первый вариант ракеты-носителя «Протон» был двухступенчатым. Последующие модификации ракеты, «Протон-К» и «Протон-М», запускались либо в трёх- (на опорную орбиту), либо в четырёхступенчатом вариантах (с разгонным блоком)."
-
-msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
-msgstr "Трёхступенчатая ракета-носитель «Союз»"
-
-msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
-msgstr ""
-"«Союз» — трёхступенчатая ракета-носитель из семейства Р-7, разработанная в Особом конструкторском бюро № 1.\n"
-"\n"
-"Технические характеристики:\n"
-"• длина — 39,3 м;\n"
-"• диаметр — 10,3 м;\n"
-"• стартовая масса — 310 т;\n"
-"• масса полезной нагрузки, выводимой на орбиту — до 7,5 т.\n"
-"\n"
-"Предназначена для вывода на орбиту пилотируемых и непилотируемых космических аппаратов различного назначения.\n"
-"\n"
-"Ракета-носитель «Союз» изготавливалась в Куйбышевском филиале № 3 ОКБ-1 под руководством Генерального конструктора Д. А. Козлова. Ракета предназначалась для вывода на круговую орбиту пилотируемых космических кораблей серии «Союз» (с 1966 по 1976 гг. запущено 32 корабля). В дальнейшем ракеты-носители этого типа нашли успешное применение для запуска грузовых кораблей «Прогресс» и спутников серии «Космос», «Прогноз», «Ресурс-Ф», «Фотон», «Бион» и нескольких зарубежных космических аппаратов.\n"
-"\n"
-"Первые две ступени «Союза» аналогичны ступеням других ракет-носителей семейства Р-7, а модернизированная третья ступень массой 25,5 т обеспечивает более высокие энергетические характеристики носителя.\n"
-"\n"
-"Ракета-носитель «Союз» легко узнаваема по четырём коническим боковым блокам первой ступени, что отличает все «Союзы» от других ракет-носителей, а также характерному головному обтекателю с четырьмя прямоугольниками решетчатых стабилизаторов и специфической «башне» системы аварийного спасения (САС) на вершине.\n"
-"\n"
-"Система аварийного спасения нового типа стала самым существенным отличием РН «Союз» от предыдущих носителей типа Р-7, предназначенных для пилотируемых полётов. САС «взводится» за 15 минут до старта ракеты-носителя и обеспечивает спасение экипажа в случае аварии ракеты как на стартовой площадке, так и на любом участке полёта.\n"
-"\n"
-"Эксплуатация ракеты-носителя «Союз» началась в 1966 г. Дальнейшее совершенствование конструкции привело к созданию целого ряда более современных ракет-носителей. За всё время использования эти носители зарекомендовали себя как одни из самых надежных в мире — более 97% запусков были успешными. С космодромов Байконур и Плесецк стартовали РН «Союз» разных модификаций более 800 раз, РН «Союз-2» — более 60 раз."
-
-msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
-msgstr ""
-"Ракета-носитель\n"
-"«Протон-М»"
-
-msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
-msgstr ""
-"Одна из самых надёжных ракет-носителей тяжёлого класса в мире. Используется для выведения космических аппаратов различного назначения.\n"
-"\n"
-"16 июля 1965 г. на низкую околоземную орбиту была выведена тяжёлая научная космическая станция «Протон», название которой впоследствии закрепилось и за ракетой-носителем (РН). На первой ступени установлены 6 двигателей РД-253 (на «Протоне-М» — РД-276) тягой 1 меганьютон, на второй ступени — 4 двигателя РД-0210, на третьей — РД-0213 тягой 583 килоньютона. Все двигатели используют несимметричный диметилгидразин и тетраоксид диазота.\n"
-"\n"
-"Для создания ракеты использовалась межконтинентальная баллистическая ракета УР-500.\n"
-"\n"
-"С 1967 г. начались запуски ракеты в современном трёхступенчатом варианте — «Протон-К», а с 2012 г. — более мощной «Протон-М». Полезная нагрузка была увеличена с 12 до 22 т.\n"
-"\n"
-"С этих пусков началось использование ракеты-носителя «Протон» в программе исследования околоземного космического пространства, Луны, Марса и Венеры.\n"
-"\n"
-"С помощью ракеты-носителя «Протон» в космос выведены космические аппараты «Протон», «Космос», «Экран», «Радуга», «Горизонт», спутники для орбитальной группировки «ГЛОНАСС», аппараты для исследования Луны, Марса, Венеры, кометы Галлея, орбитальные станции «Салют» и «Алмаз», модули орбитального комплекса «Мир» и Международной космической станции.\n"
-"\n"
-"Разрабатывались модификации ракеты — «Протон», «Протон-К», «Протон-М» — в Центральном конструкторском бюро машиностроения под руководством Генерального конструктора В. Н. Челомея (НПО машиностроения) и в Государственном космическом научно-производственном центре им. М. В. Хруничева.\n"
-"\n"
-"Технические характеристики:\n"
-"• стартовая масса — до 705 т;\n"
-"• длина — 45–60 м;\n"
-"• длина трёх ступеней — 44 м;\n"
-"• максимальный диаметр — 7,4 м;\n"
-"• масса полезного груза — 22 т."
-
-msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
-msgstr ""
-"Ракетно-космический комплекс\n"
-"Н-1–Л-3"
-
-msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
-msgstr ""
-"Ракета-носитель сверхтяжёлого класса Н-1 для осуществления полёта к Луне и высадки человека на её поверхность.\n"
-"\n"
-"Первоначально предназначалась для вывода на околоземную орбиту тяжёлой (75 т) орбитальной станции, впоследствии программа была переориентирована на обеспечение полёта человека на поверхность Луны и его возвращение на Землю. Всего за 1969–1972 гг. произведено четыре испытательных запуска, все — аварийные (в связи с неполадками в работе первой ступени). Все запуски ракеты Н-1 производились с площадки № 113 (с двумя стартовыми столами) космодрома Байконур. Программа полёта к Луне с высадкой человека на её поверхность была закрыта в СССР в 1974 г. Конструктивно-компоновочная схема носителей семейства «Н» до сих пор остаётся уникальной для ракет космического назначения.\n"
-"\n"
-"Разрабатывался с 1964 г. в ОКБ-1 в Куйбышеве под руководством Главного конструктора С. П. Королёва.\n"
-"\n"
-"Технические характеристики:\n"
-"• максимальный диаметр 1-й ступени — 17 м;\n"
-"• длина — 105,3 м;\n"
-"• стартовая масса — 2820 т;\n"
-"• масса выводимого полезного груза на орбиту Земли — 90 т;\n"
-"• масса топлива — 1410 т;\n"
-"• количество двигателей первой ступени — 30 шт.;\n"
-"• суммарная тяга двигателей на Земле — 4615 тс;\n"
-"• топливо — керосин, кислород в качестве окислителя."
-
-msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
-msgstr "Ракета-носитель «Энергия»"
-
-msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
-msgstr ""
-"Cамая мощная из советских ракет-носителей и одна из самых мощных ракет в мире. Первая советская ракета-носитель, использовавшая в качестве топлива жидкий водород. Разработана Научно-производственным объединением (НПО) «Энергия». Программу «Энергия-Буран» возглавлял Генеральный конструктор НПО «Энергия» В. П. Глушко.\n"
-"\n"
-"Универсальная перспективная ракета предназначалась для запуска многоразового орбитального корабля «Буран», обеспечения пилотируемых и автоматических экспедиций на Луну и Марс, запуска орбитальных станций нового поколения, запуска сверхтяжёлых геостационарных спутниковых платформ, запуска тяжёлых военных грузов. РН «Энергия» способна вывести на орбиту около 100 т полезного груза. Работы начались в 1976 г. Ракета-носитель выполнена по двухступенчатой пакетной схеме. Первая ступень состоит из четырёх боковых блоков с кислородно-керосиновыми четырёхкамерными двигателями РД-170, возвращаемых на Землю с помощью парашютов. Ресурс модулей первой ступени позволяет провести до 10 запусков. Вторая ступень оснащена четырьмя кислородно-водородными двигателями РД-0120 и является несущей конструкцией, на которой установлено устройство для крепления груза.\n"
-"\n"
-"Выполнено два запуска ракеты-носителя «Энергия»:\n"
-"• 15 мая 1987 г. с экспериментальной нагрузкой — космическим аппаратом «Полюс». Груз не был выведен на орбиту из-за сбоя системы ориентации самого космического аппарата;\n"
-"• 15 ноября 1988 г. с орбитальным кораблём «Буран».\n"
-"\n"
-"Технические характеристики:\n"
-"• стартовая масса МТКС — 2375–2419 т;\n"
-"• масса ракеты-носителя — 2270 т;\n"
-"• длина — 58,76 м;\n"
-"• ширина — 17,65 м."
-
-msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
-msgstr "Высотно-спасательный скафандр СК-1"
-
-msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
-msgstr ""
-"Первое применение — 12 апреля 1961 г. во время полёта вокруг Земли первого в мире космонавта Ю. А. Гагарина.\n"
-"\n"
-"Предназначался для космонавтов кораблей «Восток» и применялся до 1963 г. В скафандрах СК-1 совершили полёты Ю. А. Гагарин, Г. С. Титов, А. Г. Николаев, П. Р. Попович, В. Ф. Быковский. В. В. Терешкова использовала модификацию — скафандр СК-2.\n"
-"\n"
-"Скафандр мягкой конструкции с вентиляционной системой открытого типа. Оболочка скафандра двухслойная — наружная силовая из ткани лавсан, внутренняя — герметичная из листовой резины. Поверх оболочки надевается защитная верхняя одежда. Под оболочку надевается теплозащитный костюм с трубками и панелями системы вентиляции. Шлем жёсткий, несъёмный с двойным остеклением и системой аварийного закрытия иллюминатора.\n"
-"\n"
-"Совместно с бортовой системой вентиляции, бортовой и парашютной системами кислородного питания скафандр СК-1 обеспечивал космонавту:\n"
-"• нормальные гигиенические условия в загерметизированной кабине корабля до 12 суток;\n"
-"• безопасное пребывание в разгерметизированной кабине в течение 4–5 часов;\n"
-"• защиту при катапультировании из кабины на высотах до 8 км;\n"
-"• питание кислородом при парашютировании;\n"
-"• сохранение жизни при нахождении в холодной воде в течение 12 часов.\n"
-"\n"
-"Технические характеристики:\n"
-"• рабочее избыточное давление в скафандре — 270–300 гПа;\n"
-"• расход газа от вентилятора — 150 л/мин;\n"
-"• подача газа от бортовых баллонов (воздух + кислород) — 50 нл/мин;\n"
-"• масса скафандра — 20 кг.\n"
-"\n"
-"Разработан на заводе «Звезда» в 1960–1961 гг. под руководством Генерального конструктора С. М. Алексеева. Оболочка скафандра была разработана группой под руководством А. Ю. Стоклицкого при участии А. И. Бойко, А. Л. Зельвинского. Система обеспечения жизнедеятельности разработана группой И. П. Абрамова при участии А. М. Гершковича, М. Н. Дудника. Испытания скафандра были проведены группой В. И. Сверщека. Подготовка электрорадиооборудования выполнена группой И. И. Скоморовского. Подготовка и проверка скафандра — группой Ф. А. Востокова."
-
-msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
-msgstr "Скафандр «Беркут» для кратковременного выхода в открытый космос"
-
-msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
-msgstr ""
-"Скафандры «Беркут» использовались экипажем корабля «Восход-2» П. И. Беляевым и А. А. Леоновым в марте 1965 г.\n"
-"\n"
-"Предназначались для обеспечения выхода в космос и одновременно были аварийно-спасательными для членов экипажа космического корабля «Восход-2» в случае аварийной разгерметизации кабины корабля.\n"
-"\n"
-"Впервые в мире А. А. Леонов 18 марта 1965 г. в скафандре «Беркут» через шлюзовую камеру совершил выход из корабля в открытое космическое пространство. В условиях открытого космоса космонавт находился 12 минут 9 секунд.\n"
-"\n"
-"Скафандр «Беркут» мягкой конструкции со съёмным жёстким шлемом и вентиляционной системой открытого типа. Оболочка скафандра трёхслойная: наружная силовая из ткани капрон и две герметичные оболочки: основная — из листовой резины, резервная (внутренняя) — из пористой резины. Поверх оболочки надевается защитная одежда с экранно-вакуумной изоляцией. Скафандр эксплуатировался совместно с автономной системой жизнеобеспечения, расположенной в съёмном ранце (кислородный прибор КП-55). Ранец разработан в Специальном конструкторском бюро по проектированию кислородных дыхательных приборов и аппаратуры.\n"
-"\n"
-"Совместно с бортовой системой вентиляции и кислородного питания скафандр обеспечивал космонавту безопасное пребывание в разгерметизированной кабине в течение четырёх часов.\n"
-"\n"
-"Технические характеристики:\n"
-"• время автономной работы скафандра от ранцевой СОЖ — 45 мин.;\n"
-"• рабочее давление в скафандре — 400 гПа в основном режиме и 270 гПа в дополнительном;\n"
-"• расход вентиляционного газа в скафандре «Беркут» от бортовой системы — 150 л/мин;\n"
-"• масса скафандра — 20 кг;\n"
-"• масса ранца — 21,5 кг.\n"
-"\n"
-"Скафандр разработан в 1964–1965 гг. на заводе «Звезда» под руководством Генерального конструктора Г. И. Северина."
-
-msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
-msgstr "Скафандр «Орлан-Д»"
-
-msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
-msgstr ""
-"Скафандр полужёсткого типа для работы в открытом космосе. Использовался во время полётов орбитальных станций «Салют-6» и «Салют-7» с 1977 по 1984 г.\n"
-"\n"
-"Первый выход в открытый космос в скафандре «Орлан-Д» был осуществлён 20 декабря 1977 г. космонавтами Ю. В. Романенко и Г. М. Гречко из орбитальной станции\n"
-"«Салют-6».\n"
-"\n"
-"В отличие от существовавших ранее скафандров типа «Беркут» или «Ястреб», скафандр «Орлан-Д» можно было подогнать под каждого космонавта, что было удобно при работе сменных экипажей на космической станции.\n"
-"\n"
-"Скафандр имеет систему обеспечения жизнедеятельности регенерационного (замкнутого) типа со сменными расходуемыми элементами.\n"
-"\n"
-"В системе терморегулирования используется костюм водяного охлаждения для снятия избыточного тепла с тела космонавта во время работы в открытом космосе.\n"
-"\n"
-"Электропитание, радиосвязь и телеметрия осуществляются по электрофалу длиной 20 м, который также является страховочным фалом. Скафандр дополнительно снабжён страховочным фалом с карабином.\n"
-"\n"
-"Разработано несколько модификаций скафандра: «Орлан-ДМ», «Орлан-ДМА», «Орлан-М», «Орлан-МК», «Орлан-МКС».\n"
-"\n"
-"Разработан и изготовлен на Научно-производственном предприятии «Звезда».\n"
-"\n"
-"Технические характеристики:\n"
-"• масса — от 73,5 до 114 кг (в зависимости от модификации);\n"
-"• обхват груди космонавта — от 96 до 108 см;\n"
-"• рост космонавта — от 164 до 180 см;\n"
-"• время автономной работы в открытом космосе — от 5 до 8 часов (в зависимости от модификации)."
-
-msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
-msgstr "Скафандр «Кречет-94»"
-
-msgid "IDS_PCZC970_SPACE_MUSEUM_4_4_DESCRIPTION"
-msgstr ""
-"Советский полужёсткий космический скафандр со встроенной системой жизнеобеспечения для выхода в открытый космос и работы космонавта-исследователя на поверхности Луны.\n"
-"\n"
-"Программа полёта к Луне с высадкой человека на её поверхность была закрыта в СССР в 1974 г. Но скафандр «Кречет», предназначенный для лунной экспедиции, был уже разработан. Он стал прообразом скафандров «Орлан», которые позже будут использоваться космонавтами для работы в открытом космосе.\n"
-"\n"
-"Корпус скафандра вместе с каской шлема выполнен из листового алюминиевого сплава. Рукава и оболочка ног — мягкой конструкции.\n"
-"\n"
-"Люк для входа расположен на задней части скафандра, крышкой люка служит ранец «Каспий», в котором расположены агрегаты системы жизнеобеспечения.\n"
-"\n"
-"Автономная система жизнеобеспечения — регенерационного (замкнутого) типа. В системе терморегулирования используются костюм водяного охлаждения и теплообменник — сублиматор. Органы управления системой жизнеобеспечения расположены на нагрудной части корпуса. Автономное время работы в скафандре около 10 часов. Масса скафандра — 106 кг (в лунных условиях — примерно 17,5 кг).\n"
-"\n"
-"Оболочка скафандра трёхслойная: наружная (силовая) состоит из капроновой ткани, и две внутренние из резины. Рукава снабжены плечевыми и кистевыми подшипниками, позволяющими космонавту совершать руками различные движения. Поверх оболочки надета теплозащитная одежда с экранно-вакуумной теплоизоляцией. В одежду вмонтировано антенно-фидерное устройство.\n"
-"\n"
-"Разработан и изготовлен на заводе «Звезда» во второй половине 1960-х гг. для лунной пилотируемой программы СССР Н-1–Л-3, предусматривающей выход одного космонавта на поверхность Луны."
-
-msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
-msgstr "Белка, Стрелка и катапультируемый контейнер"
-
-msgid "IDS_PCZC971_SPACE_MUSEUM_5_1_DESCRIPTION"
-msgstr ""
-"Четвероногие герои космоса Белка и Стрелка рядом со спускаемым аппаратом, в котором две отважные собаки вернулись на Землю после успешного космического полёта 19 августа 1960 г. На стенках катапультируемого контейнера — как напоминание о собачьем подвиге — сохранились повреждения и вмятины, следы «мягкой посадки».\n"
-"\n"
-"В 1960–1961 гг. для подготовки полёта человека в космос проводились лётные испытания семи кораблей-спутников, на которых проверялась и отрабатывалась конструкция корабля и бортовые системы. Второй корабль-спутник запущен с космодрома Байконур трёхступенчатой ракетой-носителем «Восток». Особое внимание уделялось системам жизнеобеспечения и возвращения на Землю.\n"
-"\n"
-"Контейнер для животных — прообраз катапультируемого кресла космонавта. Контейнер катапультировался при спуске космического корабля на высоте 7 км; скорость его при приземлении 6–8 м/сек. Разработан на заводе «Звезда» под руководством Главного конструктора С. М. Алексеева.\n"
-"\n"
-"Все многочисленные биологические объекты 20 августа 1960 г. успешно вернулись на Землю. В результате получены уникальные научные данные о влиянии факторов космического полёта на живые организмы."
-
-msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
-msgstr "Спускаемый аппарат одноместного космического корабля серии «Восток»"
-
-msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
-msgstr ""
-"Применялся в 1961–1963 гг. по программе «Восток» во время первых пилотируемых космических полётов с участием космонавтов Ю. А. Гагарина, Г. С. Титова, А. Г. Николаева, П. Р. Поповича, В. Ф. Быковского, В. В. Терешковой.\n"
-"\n"
-"Космический корабль «Восток» состоял из двух отсеков: спускаемого аппарата и приборно-агрегатного отсека. Отсеки механически соединялись между собой с помощью металлических лент и пиротехнических замков.\n"
-"\n"
-"Спускаемый аппарат предназначен для размещения космонавта во время старта, полёта на орбите и спуска до высоты 7 км. Далее осуществлялось катапультирование космонавта с креслом и неприкосновенным аварийным запасом. Космонавт приземлялся на парашюте, который раскрывался на высоте 4 км после отделения космонавта от кресла.\n"
-"\n"
-"Герметичный корпус спускаемого аппарата из алюминиевого сплава имеет сферическую форму. Снаружи покрыт теплозащитным покрытием толщиной от 30 до 180 мм. Спускаемый аппарат имеет три люка диаметром 1 м: один у ног космонавта — технологический, второй над его головой — для посадки космонавта в спускаемый аппарат и катапультирования, третий — люк парашютного контейнера. В спускаемом аппарате имеются три иллюминатора и катапультируемое кресло.\n"
-"\n"
-"Космонавт находился в специальном скафандре, который при необходимости обеспечивал его пребывание в разгерметизированной кабине корабля в течение 4 часов и защиту при катапультировании из гермокабины на высотах до 10 км.\n"
-"\n"
-"В спускаемом аппарате находились запасы воды, пищи и ёмкости для сбора отходов. Космонавт имел возможность поддерживать двустороннюю радиосвязь с Землёй по одной УКВ- и по двум КВ-радиолиниям системы «Заря».\n"
-"\n"
-"Технические характеристики:\n"
-"• масса — 2,4 т;\n"
-"• диаметр — 2,3 м;\n"
-"• объём — 5,2 м³;\n"
-"• свободный объём — 1,6 м³.\n"
-"\n"
-"Разработан в Особом конструкторском бюро ОКБ-1 под руководством Главного конструктора С. П. Королёва."
-
-msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
-msgstr "Космический корабль «Восток»"
-
-msgid "IDS_PCZC973_SPACE_MUSEUM_5_3_DESCRIPTION"
-msgstr ""
-"Корабль «Восток» — чудо инженерной мысли своего времени — впервые в мире обеспечил полёт и жизнедеятельность человека в условиях космического пространства. Первый космонавт планеты Юрий Гагарин находился внутри на специальном кресле-катапульте — кресло и космонавт занимали примерно половину обитаемого объёма всей кабины.\n"
-"\n"
-"Юрий Гагарин пролетел один виток вокруг нашей планеты. Весь полёт он поддерживал связь с Землёй, делился своими впечатлениями и важными аспектами экспедиции."
-
-msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
-msgstr "Шлюзовая камера космического корабля «Восход-2»"
-
-msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
-msgstr ""
-"Предназначена для обеспечения герметичности космического корабля и выхода космонавта в открытый космос.\n"
-"\n"
-"18 марта 1965 г. А. А. Леонов впервые в истории мировой космонавтики осуществил выход из космического корабля через шлюзовую камеру в открытое космическое пространство.\n"
-"\n"
-"Шлюзовая камера цилиндрической формы и полумягкой конструкции имела 2 люка: один для сообщения со спускаемым аппаратом, другой для выхода в открытый космос. Была снабжена системой шлюзования. Шлюз крепился к кораблю снаружи в сложенном состоянии посредством шпангоута. После выведения корабля на орбиту шлюзовая камера надувалась и устанавливалась в рабочее состояние по команде с пульта, смонтированного перед креслом командира корабля П. И. Беляева. С этого пульта осуществлялось управление всеми операциями по шлюзованию.\n"
-"\n"
-"Технические характеристики:\n"
-"• масса шлюза — 250 кг;\n"
-"• диаметр в сложенном виде — 70 см;\n"
-"• высота в сложенном виде — 77 см;\n"
-"• высота в развёрнутом виде — 2,5 м;\n"
-"• внутренний диаметр — до 1 м;\n"
-"• наружный диаметр — до 1,2 м;\n"
-"• диаметр люков — 70 см.\n"
-"\n"
-"Разработана в 1964–1965 гг. на заводе «Звезда» под руководством Генерального конструктора Г. И. Северина."
-
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
-msgstr "«Луноход-1»"
-
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr ""
-"Первый в мире автоматический самоходный аппарат на поверхности другого небесного тела.\n"
-"\n"
-"Технические характеристики:\n"
-"• масса — 756 кг;\n"
-"• длина с открытой солнечной батареей — 4,42 м;\n"
-"• ширина — 2,15 м;\n"
-"• высота — 1,92 м;\n"
-"• диаметр колёс — 0,51 м;\n"
-"• ширина колеи — 1,6 м.\n"
-"\n"
-"Автоматическая станция «Луна-17» с самоходным аппаратом «Луноход-1» была запущена 10 ноября 1970 г. с помощью ракеты-носителя «Протон». 17 ноября 1971 г. «Луноход-1» доставлен на Луну в район Моря Дождей.\n"
-"\n"
-"Успешная работа лунохода продолжалась 318 суток. За 116 сеансов движения «Луноход-1» прошёл расстояние 10 540 м, что позволило детально обследовать лунную поверхность площадью 80 000 км². Максимальная скорость движения составила 2 км/час.\n"
-"\n"
-"За это время на Землю было передано 210 телефотометрических панорам и около 20 тысяч снимков малокадрового телевидения. В ходе съёмки получены стереоскопические изображения наиболее интересных особенностей рельефа, позволяющие провести детальное изучение их строения.\n"
-"\n"
-"С «Луноходом-1» был проведён 171 сеанс связи, в ходе которых было передано 24 829 команд.\n"
-"\n"
-"С помощью отражателя лазерных лучей, изготовленного во Франции, в соответствии с совместной советско-французской программой исследований космического пространства, была проведена лазерная локация Луны. Расстояние между прибором на Земле и «Луноходом» было измерено с точностью до нескольких метров.\n"
-"\n"
-"Последний сеанс связи с «Луноходом-1» состоялся 14 сентября 1971 г.\n"
-"\n"
-"«Луноход-1» был разработан в НПО им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина.\n"
-"\n"
-"Самоходное шасси разработано во Всесоюзном научно-исследовательском институте транспортного машиностроения (ВНИИТрансмаш) под руководством Главного конструктора А. Л. Кемурджиана."
-
-msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
-msgstr "Автоматическая станция «Луна-16»"
-
-msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
-msgstr ""
-"В сентябре 1970 г. совершила рейс Земля — Луна — Земля и впервые в мире в автоматическом режиме доставила 105 граммов лунного грунта на Землю.\n"
-"\n"
-"Технические характеристики:\n"
-"• масса — 5727 кг;\n"
-"• масса при посадке на Луну — 1880 кг;\n"
-"• масса возвращаемого аппарата — 34 кг.\n"
-"\n"
-"Станция запущена 12 сентября 1970 г. ракетой-носителем «Протон-К». Через 8 дней полёта, 20 сентября, автоматическая станция «Луна-16» совершила мягкую посадку на поверхность Луны в районе Моря Изобилия.\n"
-"\n"
-"Автоматический комплекс состоял из двух основных частей: унифицированной посадочной ступени и приборного отсека с возвращаемым аппаратом, выполнившим полёт по трассе Луна — Земля.\n"
-"\n"
-"На посадочной ступени установлено грунтозаборное устройство, которое крепилось на штанге, способной перемещаться в вертикальной и горизонтальной плоскостях. Для выбора места бурения были установлены два телефотометра. Грунтозаборное устройство обеспечило бурение и перемещение выбранного грунта в контейнер возвращаемого аппарата.\n"
-"\n"
-"Исследование капсулы с грунтом показало, что бур заполнен сыпучим лунным грунтом — реголитом, представляющим собой разнозернистый тёмно-серый порошок, который легко формуется и слипается в отдельные рыхлые комки. Лунный грунт напоминает влажный песок или комковатую структуру земных почв, по химическому составу — размельчённую горную породу базальтового типа.\n"
-"\n"
-"Старт возвращаемого аппарата с Луны 21 сентября 1970 г. производился по команде с Земли. 24 сентября возвращаемый аппарат отделился от приборного отсека ракеты и совершил мягкую посадку на Землю в 80 км юго-восточнее г. Джезказган.\n"
-"\n"
-"Космический аппарат был разработан в НПО им. С. А. Лавочкина под руководством Главного конструктора Г. Н. Бабакина."
 
 msgid "IDS_PEARL_HARBOR_JAP"
 msgstr "Koichi Nagata"
@@ -75821,9 +75079,6 @@ msgstr "Отображать внешний вид камуфляжей и ко
 
 msgid "IDS_PECULARITY_FILTER_WARHAMMER_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "Заменить внешний вид камуфляжей и командиров Warhammer 40,000 в бою и в Порту"
-
-msgid "IDS_PECULIARITY_DISABLED_STATUS"
-msgstr "Уникальный внешний вид отключён"
 
 msgid "IDS_PEDRO_MAX"
 msgstr "Pedro Max Fernando Frontin"
@@ -76425,12 +75680,6 @@ msgstr "400-мм / 550-мм tube lance-torpilles"
 msgid "IDS_PFGT149_550MM_1TUBE_400MM_2TUBE"
 msgstr "400-мм / 550-мм tube lance-torpilles"
 
-msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
-msgstr "550-мм tube lance-torpilles"
-
-msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
-msgstr "550-мм tube lance-torpilles"
-
 msgid "IDS_PFPA001_330MM_AP_D"
 msgstr "330-мм AP OPfK Mle 1935"
 
@@ -76731,18 +75980,6 @@ msgstr "305-мм Spr.Gr. L/4.9"
 msgid "IDS_PFPA100_305MM_AP_BERNADOTTE"
 msgstr "305-мм P.Spr.Gr. L/3.8"
 
-msgid "IDS_PFPA101_127MM_54_HE_T11"
-msgstr "127-мм HE Mark 42"
-
-msgid "IDS_PFPA102_127MM_54_AP_T11"
-msgstr "127-мм AP Mark 43"
-
-msgid "IDS_PFPA103_127MM_54_HE_DUPERRE"
-msgstr "127-мм HE Mark 41"
-
-msgid "IDS_PFPA104_127MM_54_AP_DUPERRE"
-msgstr "127-мм AP Mark 42"
-
 msgid "IDS_PFPB001_BEARN_STOCK"
 msgstr "150-kg G.P. Mle 1930"
 
@@ -76836,17 +76073,11 @@ msgstr "550-мм K2"
 msgid "IDS_PFPT022_400MM_SURCOUF_MZ"
 msgstr "400-мм M26V / 550-мм 23DT"
 
-msgid "IDS_PFPT023_T11"
-msgstr "550-мм 24V Mle 2"
-
 msgid "IDS_PFPT024_550_SAPHIR"
 msgstr "400-мм M26V / 550-мм 23DT"
 
 msgid "IDS_PFPT025_BERNADOTTE"
 msgstr "Torped M1943 mod 2"
-
-msgid "IDS_PFPT026_DUPERRE"
-msgstr "550-мм 24V Mle 3"
 
 msgid "IDS_PFSA506"
 msgstr "Béarn"
@@ -77658,24 +76889,6 @@ msgstr "1"
 msgid "IDS_PFSD110_YEAR"
 msgstr "1940 г."
 
-msgid "IDS_PFSD111"
-msgstr "Robespierre"
-
-msgid "IDS_PFSD111_DESCR"
-msgstr ""
-"Во время Второй мировой войны командование французского флота режима Виши поставило задачу разработать эсминцы нового поколения. Проект, известный как T 42, получил дальнейшее развитие в виде группы эскизов с общим индексом E 43. В ходе проработки проекта рассматривались в числе прочего варианты укрупнения корабля до лёгкого крейсера.\n"
-"\n"
-"Корабль должен был нести вооружение из 120-мм или 130-мм орудий, а количество установок на разных эскизах варьировалось от трёх до четырёх. Проект Е 43 реализован не был, а дальнейшие его проработки привели к появлению проекта Т 47."
-
-msgid "IDS_PFSD111_FULL"
-msgstr "Robespierre"
-
-msgid "IDS_PFSD111_NUMBER"
-msgstr "1"
-
-msgid "IDS_PFSD111_YEAR"
-msgstr "1945 г."
-
 msgid "IDS_PFSD210"
 msgstr "Marceau"
 
@@ -77725,12 +76938,7 @@ msgid "IDS_PFSD508"
 msgstr "Le Terrible"
 
 msgid "IDS_PFSD508_DESCR"
-msgstr ""
-"Le Terrible, эсминец типа Le Fantasque, был заложен в Кане в декабре 1931 г., после чего его отбуксировали в Нант для достройки. В 1936 г. корабль вместе со своими систершипами Le Fantasque и L’Audacieux был приписан к 10-му лёгкому дивизиону в составе 2-й лёгкой эскадры в Бресте. В 1939 г. 10-й дивизион вошёл в состав «Рейдерского соединения» (фр. Force de raid). В течение года эсминец занимался сопровождением конвоев и поисками немецких рейдеров в Атлантике.\n"
-"\n"
-"Весной 1940 г. силы Force de Raid были переведены в Алжир, где 3 июля французская база Мерс-эль-Кебир была атакована Королевским военно-морским флотом Великобритании. Le Terrible сопроводил в Тулон линейный крейсер Strasbourg, которому удалось уйти от британских кораблей.\n"
-"\n"
-"В 1942 г. эсминец был переведён в Дакар, где в ноябре перешёл на сторону «Свободной Франции». В составе её флота корабль принимал участие в высадке в Италии (1943 г.) и в Южной Франции (1944 г). После войны Le Terrible был выведен в резерв."
+msgstr "Le Terrible, эсминец типа Le Fantasque, в начале Второй мировой войны занимался сопровождением конвоев и поисками немецких рейдеров в Атлантике, позже был переведён в Алжир для противодействия итальянскому флоту. Во время операции «Катапульта» Le Terrible вместе с линейным крейсером Dunkerque прорвался в Тулон. В 1942 г. эсминец был переведён в Дакар. Корабль принимал участие в высадке в Италии и в Южной Франции."
 
 msgid "IDS_PFSD508_FULL"
 msgstr "Le Terrible"
@@ -77740,24 +76948,6 @@ msgstr "6"
 
 msgid "IDS_PFSD508_YEAR"
 msgstr "1936 г."
-
-msgid "IDS_PFSD509"
-msgstr "Duperré"
-
-msgid "IDS_PFSD509_DESCR"
-msgstr ""
-"Эскадренные миноносцы Т 53 стали развитием кораблей типа Surcouf (проект Т 47). От предшественников эти эсминцы отличались улучшенными средствами воздушного обнаружения, что позволяло им выполнять роль кораблей радиолокационного дозора для соединений французского флота.\n"
-"\n"
-"Duperré был заложен в Лорьяне в ноябре 1954 г. и спущен на воду в июне 1956 г. В 1966–71 гг. эсминец был разоружён и использовался для испытаний глубоководного буксируемого гидролокатора Cormoran 1. В 1972–74 гг. корабль был радикально перевооружён, получив вместо старой артиллерии и торпед четыре пусковых установки противокорабельных ракет Exoset, одиночную 100-мм артиллерийскую установку, два торпедных аппарата калибра 550 мм и вертолёт Lynx. После перевооружения Duperré использовался как корабль управления в составе противолодочных сил."
-
-msgid "IDS_PFSD509_FULL"
-msgstr "Duperré"
-
-msgid "IDS_PFSD509_NUMBER"
-msgstr "5"
-
-msgid "IDS_PFSD509_YEAR"
-msgstr "1957 г."
 
 msgid "IDS_PFSD605"
 msgstr "Cyclone"
@@ -78001,9 +77191,6 @@ msgstr "330-мм/50 Mle 1931 в установке St.Chamond Mle 1932"
 msgid "IDS_PFUA806_ART_BERNADOTTE"
 msgstr "305-мм/56 SK C/39 в башенной установке"
 
-msgid "IDS_PFUA807_ART_DUPERRE"
-msgstr "127-мм/54 Mle 1948 в установке Mle 1948"
-
 msgid "IDS_PFUA810_B9_ART_STOCK"
 msgstr "380-мм/45 Mle 1935 в башенной установке"
 
@@ -78030,9 +77217,6 @@ msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
 
 msgid "IDS_PFUA908_ART_SURCOUF"
 msgstr "203-мм/50 Mle 1924 в установке Mle 1931"
-
-msgid "IDS_PFUA909_D11_ART_STOCK"
-msgstr "127-мм/54 Mle 1948 в установке Mle 1948"
 
 msgid "IDS_PFUA910_B10_ART_STOCK"
 msgstr "431-мм/50 Mle 1940 в башенной установке"
@@ -78217,9 +77401,6 @@ msgstr "ЭУ 100 000 л.с."
 msgid "IDS_PFUE806_ENG_BERNADOTTE"
 msgstr "ЭУ 152 000 л.с."
 
-msgid "IDS_PFUE807_ENG_DUPERRE"
-msgstr "ЭУ 63 000 л.с."
-
 msgid "IDS_PFUE810_B9_ENG_STOCK"
 msgstr "ЭУ 180 000 л.с."
 
@@ -78249,9 +77430,6 @@ msgstr "ЭУ 110 000 л.с."
 
 msgid "IDS_PFUE907_ENG_SURCOUF"
 msgstr "ЭУ 7 600 л.с."
-
-msgid "IDS_PFUE908_D11_ENG_STOCK"
-msgstr "ЭУ 108 454 л.с."
 
 msgid "IDS_PFUE910_B10_ENG_STOCK"
 msgstr "ЭУ 220 000 л.с."
@@ -78490,9 +77668,6 @@ msgstr "Brest (B)"
 msgid "IDS_PFUH809_HULL_BERNADOTTE"
 msgstr "Bernadotte"
 
-msgid "IDS_PFUH810_HULL_DUPERRE"
-msgstr "Duperré"
-
 msgid "IDS_PFUH811_B9_HULL_A"
 msgstr "Alsace (A)"
 
@@ -78522,9 +77697,6 @@ msgstr "Châteaurenault"
 
 msgid "IDS_PFUH907_SURCOUF"
 msgstr "Surcouf"
-
-msgid "IDS_PFUH908_D11_HULL_STOCK"
-msgstr "Robespierre"
 
 msgid "IDS_PFUH911_B10_HULL_A"
 msgstr "République"
@@ -78763,9 +77935,6 @@ msgstr "PCA n° 9 Mle 2"
 msgid "IDS_PFUS809_SUO_BERNADOTTE"
 msgstr "PCA n°9"
 
-msgid "IDS_PFUS810_SUO_DUPERRE"
-msgstr "PCA n°9"
-
 msgid "IDS_PFUS811_B9_SUO_STOCK"
 msgstr "PCA n° 9 Mle 1"
 
@@ -78792,9 +77961,6 @@ msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
 msgstr "PCA n°10"
-
-msgid "IDS_PFUS907_D11_SUO_STOCK"
-msgstr "PCA n°11"
 
 msgid "IDS_PFUS911_B10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
@@ -78889,9 +78055,6 @@ msgstr "550-мм 24V Mle 2"
 msgid "IDS_PFUT803_TORP_BERNADOTTE"
 msgstr "Mk14"
 
-msgid "IDS_PFUT804_TORP_DUPERRE"
-msgstr "550-мм 23DT"
-
 msgid "IDS_PFUT900_TORP_COLORFUL_KLEBER"
 msgstr "550-мм 24V Mle 2"
 
@@ -78908,9 +78071,6 @@ msgid "IDS_PFUT904_TORP_CHATEAURENAULT"
 msgstr "550-мм K2"
 
 msgid "IDS_PFUT905_TORP_SURCOUF"
-msgstr "550-мм 23DT"
-
-msgid "IDS_PFUT906_D11_TORP_STOCK"
 msgstr "550-мм 23DT"
 
 msgid "IDS_PFUT930_C11_TORP_STOCK"
@@ -79044,9 +78204,6 @@ msgstr "Fw 190G8"
 
 msgid "IDS_PGAD953_M_IMMELMANN_TOP"
 msgstr "Ta 152C-1/R14"
-
-msgid "IDS_PGAD980_ASW_T10_SUBTEST"
-msgstr "Fw.200 Condor Test"
 
 msgid "IDS_PGAD990_O_LILIENTHAL"
 msgstr "Ta 152C-1/R14"
@@ -80536,9 +79693,6 @@ msgstr "SC-150"
 msgid "IDS_PGPD110_DEPTH_CV_10"
 msgstr "SC-300"
 
-msgid "IDS_PGPD907_DEPTH_T10"
-msgstr "SC-300"
-
 msgid "IDS_PGPR001_PARSEVAL_STOCK"
 msgstr "Panzerbrechend L/4.8"
 
@@ -80895,12 +80049,6 @@ msgstr "G7e T10"
 
 msgid "IDS_PGPT902_HINDEN_APRIL_19"
 msgstr "SoE Rocket Mk-II-H"
-
-msgid "IDS_PGPT910_SUBTEST"
-msgstr "G7e/T4"
-
-msgid "IDS_PGPT911_SUBTEST"
-msgstr "G7e/T4 MZ"
 
 msgid "IDS_PGPT950_M_IMMELMANN_STOCK"
 msgstr "F5f"
@@ -82621,21 +81769,6 @@ msgstr "4"
 msgid "IDS_PGSS510_YEAR"
 msgstr "1944 г."
 
-msgid "IDS_PGSS910"
-msgstr "U-2601"
-
-msgid "IDS_PGSS910_DESCR"
-msgstr "Подводные лодки, специально спроектированные для длительного нахождения под водой. Они оборудованы улучшенными аккумуляторными батареями и шнорхелем — устройством для подводного хода под дизелями. Эти подводные лодки также оснащены малошумными электродвигателями для незаметного приближения к цели."
-
-msgid "IDS_PGSS910_FULL"
-msgstr "U-2601"
-
-msgid "IDS_PGSS910_NUMBER"
-msgstr "267"
-
-msgid "IDS_PGSS910_YEAR"
-msgstr "1944 г."
-
 msgid "IDS_PGSX799"
 msgstr "U-96"
 
@@ -83433,9 +82566,6 @@ msgstr "ЭУ 76 000 л.с."
 msgid "IDS_PGUE917_C10_ENG_STOCK"
 msgstr "ЭУ 132 000 л.с."
 
-msgid "IDS_PGUE920_ENG_SUBTEST"
-msgstr "ЭУ 5000 л.с."
-
 msgid "IDS_PGUE921_S10_ENG_STOCK"
 msgstr "ЭУ 5000 л.с."
 
@@ -83939,9 +83069,6 @@ msgstr "Otto Weddigen"
 msgid "IDS_PGUH917_C10_HULL_STOCK"
 msgstr "Hansa"
 
-msgid "IDS_PGUH920_HULL_SUBTEST"
-msgstr "U-2601"
-
 msgid "IDS_PGUH921_S10_HULL_STOCK"
 msgstr "U-2501"
 
@@ -84058,9 +83185,6 @@ msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ904_S11_SONAR_STOCK"
 msgstr "Typ 11 Mod. A"
-
-msgid "IDS_PGUQ905_SONAR_SUBTEST"
-msgstr "Typ 10"
 
 msgid "IDS_PGUS001_SUO"
 msgstr "FKS Typ 1 Mod. 1"
@@ -84725,9 +83849,6 @@ msgstr "G7 Steinwal"
 msgid "IDS_PGUT914_C10_TORP_STOCK"
 msgstr "G7 T1 Ausf. C"
 
-msgid "IDS_PGUT917_TORP_SUBTEST"
-msgstr "G7e/T4 и G7e/T4 MZ"
-
 msgid "IDS_PGUT921_S10_TORP_STOCK"
 msgstr "G7e/T4 и G7e/T4 MZ"
 
@@ -84766,9 +83887,6 @@ msgstr "Fokker T.V"
 
 msgid "IDS_PHAD016_KORTENAER_AS"
 msgstr "Fokker T.V"
-
-msgid "IDS_PHAD912_GOUDEN_LEEUW_AS"
-msgstr "Fokker T.V Test"
 
 msgid "IDS_PHAF001_FOKKER_D_XI"
 msgstr "Fokker D.XI"
@@ -85051,9 +84169,6 @@ msgstr "P.u.W. 160 kg"
 msgid "IDS_PHPB026_KORTENAER_AS_HE"
 msgstr "P.u.W. 100 kg"
 
-msgid "IDS_PHPB924_PUW_160KG_AS_HE"
-msgstr "P.u.W. 160 kg"
-
 msgid "IDS_PHPT001_533MM_TROMP"
 msgstr "53,3-cm torpedo"
 
@@ -85256,13 +84371,13 @@ msgid "IDS_PHSC710_YEAR"
 msgstr "1939 г."
 
 msgid "IDS_PHSC990"
-msgstr "Gouden Leeuw Test"
+msgstr "Gouden Leeuw (ЭМ)"
 
 msgid "IDS_PHSC990_DESCR"
-msgstr "Корабль для тестирования."
+msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PHSC990_FULL"
-msgstr "Gouden Leeuw Test"
+msgstr "Gouden Leeuw (ЭМ)"
 
 msgid "IDS_PHSC990_NUMBER"
 msgstr "1"
@@ -85723,9 +84838,6 @@ msgstr "Превосходящий во всём"
 msgid "IDS_PIES601_AMALFI_SOUNDWAVE"
 msgstr "Превосходящий во всём"
 
-msgid "IDS_PIES602_NANI_SUBMARINEDAY"
-msgstr "Гарибальдийские бригады"
-
 msgid "IDS_PIGA004_BREDA_37MM_DOUBLE"
 msgstr "37-мм/54 Model 1938 в установке Model 1938"
 
@@ -86040,9 +85152,6 @@ msgstr "Быстрая перезарядка сонара"
 
 msgid "IDS_PINGER_RELOAD_SLOW"
 msgstr "Медленная перезарядка сонара"
-
-msgid "IDS_PINGER_SHADOW"
-msgstr "ПОЗИЦИЯ РАСКРЫТА"
 
 msgid "IDS_PINGER_WAVE_SPEED_HIGH"
 msgstr "Высокая скорость импульса сонара"
@@ -88259,9 +87368,6 @@ msgstr "Kawanishi H6K"
 msgid "IDS_PJAD920_TAIHO_TOP"
 msgstr "J5N Tenrai"
 
-msgid "IDS_PJAD993_ASW_T10_SUBTEST"
-msgstr "Kawanishi H6K Test"
-
 msgid "IDS_PJAD998_KIKAKU"
 msgstr "B7A Ryūsei"
 
@@ -90060,9 +89166,6 @@ msgid "IDS_PJPD107_DEPTH_CV_8"
 msgstr "Experimental 45 kg"
 
 msgid "IDS_PJPD108_DEPTH_CV_10"
-msgstr "Type 1 No.25 Mk 2 model 1"
-
-msgid "IDS_PJPD905_DEPTH_T10"
 msgstr "Type 1 No.25 Mk 2 model 1"
 
 msgid "IDS_PJPM206_ZUIHO_TOP"
@@ -97084,9 +96187,6 @@ msgstr "Бериев Бе-6"
 msgid "IDS_PRAD913_ASW_T10_CV"
 msgstr "Бериев Бе-6"
 
-msgid "IDS_PRAD990_ASW_T10_SUBTEST"
-msgstr "Бериев Бе-6 Тест"
-
 msgid "IDS_PRAF011_I_15_FLOAT"
 msgstr "Поликарпов И-15"
 
@@ -97344,9 +96444,6 @@ msgstr "Наблюдение за боем"
 
 msgid "IDS_PREFERENCES_MOUSE_SECTION_HEADER_MOUSE"
 msgstr "Мышь"
-
-msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_CONTENT"
-msgstr "Имущество из событий"
 
 msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_SETTINGS"
 msgstr "Дополнительные настройки"
@@ -97792,9 +96889,6 @@ msgstr "Адмиральский"
 msgid "IDS_PRES334_NUPOGODI_ISTOMIN"
 msgstr "Ну, погоди!"
 
-msgid "IDS_PRES335_PYOTR_VELIKIY_ANIME_EVENT"
-msgstr "Страж Равновесия"
-
 msgid "IDS_PRES338_23FEBRUARY_SVERDLOVSK"
 msgstr "На страже Отечества"
 
@@ -97851,9 +96945,6 @@ msgstr "Особый"
 
 msgid "IDS_PRES450_PETROPAVLOVSK_12_MONTHS"
 msgstr "Зимняя стужа"
-
-msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
-msgstr "Парадный"
 
 msgid "IDS_PRES505_NEUSTRASHIMY_MOSFILM"
 msgstr "Красная конница"
@@ -99556,12 +98647,6 @@ msgstr "ПЛАБ-160"
 msgid "IDS_PRPD108_DEPTH_CV_10"
 msgstr "ПЛАБ-300"
 
-msgid "IDS_PRPD905_ASWBOMB_SUBTEST"
-msgstr "Глубинная бомба"
-
-msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
-msgstr "Глубинная бомба"
-
 msgid "IDS_PRPR003_SEROV_TOP"
 msgstr "РС-132М"
 
@@ -99885,12 +98970,6 @@ msgstr "53-39 мод. 5"
 
 msgid "IDS_PRPT088_ULYANOVSK_TACT"
 msgstr "45-36 МАИ"
-
-msgid "IDS_PRPT990_SUBTEST"
-msgstr "53-38У"
-
-msgid "IDS_PRPT991_SUBTEST_MZ"
-msgstr "53-38У MZ"
 
 msgid "IDS_PRPT999_53_TST_SUB"
 msgstr "53-51"
@@ -101996,21 +101075,6 @@ msgstr "236"
 msgid "IDS_PRSS518_YEAR"
 msgstr "1955 г."
 
-msgid "IDS_PRSS910"
-msgstr "К-41"
-
-msgid "IDS_PRSS910_DESCR"
-msgstr "Крупная подводная лодка, предназначенная как для совместных действий с надводными кораблями, так и для дальних одиночных рейдов. Вооружена десятью торпедными аппаратами и обладает сравнительно высокой надводной скоростью."
-
-msgid "IDS_PRSS910_FULL"
-msgstr "К-41"
-
-msgid "IDS_PRSS910_NUMBER"
-msgstr "12"
-
-msgid "IDS_PRSS910_YEAR"
-msgstr "1939 г."
-
 msgid "IDS_PRSS999"
 msgstr "Test Sub 1"
 
@@ -102409,9 +101473,6 @@ msgstr "180-мм/65 СМ-45 в установке СМ-48"
 
 msgid "IDS_PRUA922_D10_ART_STOCK"
 msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
-
-msgid "IDS_PRUA924_ART_SUBTEST"
-msgstr "100-мм/51 Б-24ПЛ обр. 1936 г."
 
 msgid "IDS_PRUA930_D11_ART_STOCK"
 msgstr "130-мм/60 в установке БЛ-109А"
@@ -102865,9 +101926,6 @@ msgstr "ЭУ 76 000 л.с."
 
 msgid "IDS_PRUE925_CV11_ENG_STOCK"
 msgstr "ЭУ 267 000 л.с."
-
-msgid "IDS_PRUE926_ENG_SUBTEST"
-msgstr "ЭУ 8400 л.с."
 
 msgid "IDS_PRUE930_D11_ENG_STOCK"
 msgstr "ЭУ 130 000 л.с."
@@ -103435,9 +102493,6 @@ msgstr "Горделивый"
 
 msgid "IDS_PRUH925_CV11_HULL_STOCK"
 msgstr "Ульяновск"
-
-msgid "IDS_PRUH926_HULL_SUBTEST"
-msgstr "К-41"
 
 msgid "IDS_PRUH930_D11_HULL_STOCK"
 msgstr "Зоркий"
@@ -104332,9 +103387,6 @@ msgstr "53-51"
 
 msgid "IDS_PRUT918_D10_TORP_STOCK"
 msgstr "53-51"
-
-msgid "IDS_PRUT919_TORP_SUBTEST"
-msgstr "533-мм"
 
 msgid "IDS_PRUT930_D11_TORP_STOCK"
 msgstr "53-36 мод. 2"
@@ -105342,10 +104394,7 @@ msgid "IDS_PURCHASE_CHANCE_LOOTBOX_EPIC"
 msgstr "Суперконтейнер"
 
 msgid "IDS_PURCHASE_COST"
-msgstr "Покупка"
-
-msgid "IDS_PURCHASE_COST_COLON"
-msgstr "Покупка:"
+msgstr "Стоимость покупки:"
 
 msgid "IDS_PURCHASE_COST_TTH"
 msgstr "Покупка:"
@@ -105391,9 +104440,6 @@ msgstr "Модернизации доступны только после пок
 
 msgid "IDS_PURCHASE_SHIP_UPPER_CASE"
 msgstr "КУПИТЬ КОРАБЛЬ"
-
-msgid "IDS_PURCHASE_SLOT"
-msgstr "Купить слот"
 
 msgid "IDS_PURCHASE_SLOTS_HEADER"
 msgstr "ПОКУПКА НОВЫХ СЛОТОВ"
@@ -115112,7 +114158,7 @@ msgid "IDS_RADIOTAPOK"
 msgstr "Олег Абрамов"
 
 msgid "IDS_RAGE_MODE_AVAILABLE"
-msgstr "Доступны боевые инструкции"
+msgstr "Доступна боевая инструкция"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_ADJUSTMENTSHOTACTIVATOR"
 msgstr ""
@@ -115781,6 +114827,12 @@ msgstr "Распутин"
 msgid "IDS_RATE"
 msgstr "Курс:"
 
+msgid "IDS_RATES"
+msgstr "Специальный коэффициент"
+
+msgid "IDS_RATES_HINT"
+msgstr "Специальный коэффициент"
+
 msgid "IDS_RATING_GBR_ALL"
 msgstr "Данная игра одобрена для всех возрастов."
 
@@ -116398,10 +115450,7 @@ msgid "IDS_RESEARCH_AND_PURCHASE_SHIP_TO_SEE_MODERNIZATIONS"
 msgstr "Исследуйте и купите корабль, чтобы посмотреть модернизации"
 
 msgid "IDS_RESEARCH_COST"
-msgstr "Исследование"
-
-msgid "IDS_RESEARCH_COST_COLON"
-msgstr "Исследование:"
+msgstr "Стоимость исследования:"
 
 msgid "IDS_RESEARCH_COST_TTX"
 msgstr "Исследование:"
@@ -121637,30 +120686,6 @@ msgstr "Премиум контейнер «Достояние династии�
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE_SHORT"
 msgstr "Достояние династии"
 
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль VIII уровня"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII уровень"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Giacomo Nani"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "G. Nani"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
-msgstr "Премиум контейнер Giacomo Nani"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_SHORT"
-msgstr "Giacomo Nani"
-
 msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
 msgstr "Свободный слот"
 
@@ -122257,9 +121282,6 @@ msgstr "Защитил точку"
 
 msgid "IDS_RIBBON_SSE_BOMB"
 msgstr "Попал бомбой"
-
-msgid "IDS_RIBBON_SSE_BUILDING_KILL"
-msgstr "Уничтожил береговое сооружение"
 
 msgid "IDS_RIBBON_SSE_BURN"
 msgstr "Поджёг"
@@ -123068,9 +122090,6 @@ msgstr "Стандартный бой"
 msgid "IDS_SCENARIO_ST_TEST"
 msgstr "СТ — обстрел кораблей"
 
-msgid "IDS_SCENARIO_SUBS_IMPROVE_EVENT"
-msgstr "Подводный рубеж"
-
 msgid "IDS_SCENARIO_TARGET"
 msgstr "Фокус-покус"
 
@@ -123415,9 +122434,6 @@ msgstr "Орудия главного калибра"
 
 msgid "IDS_SECOND_SPACE"
 msgstr " с"
-
-msgid "IDS_SECOND_SPACE_MUSEUM_NAME"
-msgstr "Спутники и станции. Часть 2"
 
 msgid "IDS_SECOND_TSAR_MOREY_NAME"
 msgstr "Герои второго плана"
@@ -123880,17 +122896,8 @@ msgstr "КОРАБЛЕЙ ОСТАЛОСЬ"
 msgid "IDS_SHIPS_MASTERY_SELECT_SHIP"
 msgstr "ВЫБЕРИТЕ ПОДХОДЯЩИЙ КОРАБЛЬ"
 
-msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_QUESTION"
-msgstr "Заменить испытание за"
-
-msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_TITLE"
-msgstr "Замена испытания"
-
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
-msgstr "Заменить"
-
-msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
-msgstr "Сбросить все"
+msgstr "Сбросить"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_QUESTION"
 msgstr "Сбросить испытания за"
@@ -123924,13 +122931,13 @@ msgid "IDS_SHIPS_SPOTTED_TOOLTIP"
 msgstr "Общее количество обнаруженных кораблей"
 
 msgid "IDS_SHIPYARD_BUILD_DAYS_LEFT"
-msgstr "До завершения события: %(_timeLeft)s"
+msgstr "До окончания боевых задач: %(_timeLeft)s"
 
 msgid "IDS_SHIPYARD_COMMON_EVENT_TITLE"
 msgstr "Верфь"
 
 msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "«Юрий Долгорукий» построен"
+msgstr "Surcouf построен"
 
 msgid "IDS_SHIPYARD_LEVEL_BANNER"
 msgstr "%(_level)s-й этап строительства"
@@ -125088,6 +124095,9 @@ msgstr "Уровень мастерства на этом корабле"
 msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_POINTS"
 msgstr "Всего заработано %(_points)s ед. чистого опыта."
 
+msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
+msgstr "Проходит испытания"
+
 msgid "IDS_SHIP_MASTERY_LEVEL_TITLE"
 msgstr ""
 "Общее\n"
@@ -125117,17 +124127,11 @@ msgstr "Поздравляем! Вы достигли максимального
 msgid "IDS_SHIP_MASTERY_TASKS_AVAILABLE"
 msgstr "Доступны испытания"
 
-msgid "IDS_SHIP_MASTERY_TASKS_IN_PROGRESS"
-msgstr "Взяты испытания"
-
 msgid "IDS_SHIP_MASTERY_TRIALS_AVAILABLE"
 msgstr "Доступны испытания"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
 msgstr "Взять испытания"
-
-msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
-msgstr "В течение одного боя"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
 msgstr "Корабли со взятыми испытаниями"
@@ -125146,6 +124150,9 @@ msgstr "Возьмите испытания и пройдите их, чтоб�
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
 msgstr "Недостаточно чистого опыта для доступа к испытаниям мастерства"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
+msgstr "Пройдите испытания. Каждое испытание выполняется в одном бою."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_1"
 msgstr "Пройдите любое испытание."
@@ -125220,9 +124227,6 @@ msgstr "Повышение живучести"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
 msgstr "Уменьшение точности"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_AIR_SUPPORT_RELOAD_FACTOR"
-msgstr "Ослабление авиаудара (ГБ)"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ATBA"
 msgstr "Ослабление ПМК"
@@ -125959,9 +124963,6 @@ msgstr "Моментальный урон (от текущей боеспосо
 msgid "IDS_SHIP_PARAM_AA_SECTOR_STRENGTH"
 msgstr "Максимальное усиление"
 
-msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
-msgstr "Показывает рельеф, а также позиции кораблей и подводных лодок. Работает на перископной и рабочей глубинах. Не видит подводные лодки, находящиеся на предельной глубине."
-
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_RAGE_MODE"
 msgstr "Временно улучшены параметры корабля благодаря успешной пристрелке орудий."
 
@@ -126026,7 +125027,7 @@ msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_OIL_LEAK_PENDING"
 msgstr "В подводном положении начнётся разлив топлива, подводная лодка будет оставлять видимый след на поверхности воды."
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_WAVED"
-msgstr "Ваш корабль отмечен импульсом сонара. На него будут наводиться торпеды, выпущенные подводной лодкой."
+msgstr "В корабль попал импульс сонара. Торпеды подводной лодки противника будут наводиться на отмеченный сектор на корабле."
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_EMERGENCY_SURFACING"
 msgstr "Экстренное всплытие"
@@ -126440,9 +125441,6 @@ msgstr "Самолётов на палубе"
 msgid "IDS_SHIP_PARAM_HANGAR_SIZE"
 msgstr "Количество самолётов на палубе"
 
-msgid "IDS_SHIP_PARAM_HEADER_ACTIVE_EFFECT_HYDROPHONE"
-msgstr "Шумопеленгация"
-
 msgid "IDS_SHIP_PARAM_HEADER_BATTERY_STATE_CHARGING"
 msgstr "Восстановление автономности"
 
@@ -126451,9 +125449,6 @@ msgstr "Расход автономности"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_BLUE_LINE"
 msgstr "Граница карты"
-
-msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_HYDROPHONE_RANGE"
-msgstr "Шумопеленгация"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_SMOKE"
 msgstr "Дымовая завеса"
@@ -126517,9 +125512,6 @@ msgstr "Дальность действия лазера"
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_BLUE_LINE"
 msgstr "Скорость значительно снижена из-за пересечения границы карты."
-
-msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_HYDROPHONE_FAR_RANGE"
-msgstr "Корабль находится в радиусе действия шумопеленгации подводной лодки. Позиция вашего корабля может быть раскрыта."
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_SMOKE"
 msgstr "Уменьшена заметность с кораблей противника. Полностью исключено обнаружение с самолётов."
@@ -127043,9 +126035,6 @@ msgstr "Глубоководная торпеда"
 msgid "IDS_SHIP_PARAM_TORPEDO_DISABLED_UNDERWATER"
 msgstr "Пуск на предельной глубине невозможен"
 
-msgid "IDS_SHIP_PARAM_TORPEDO_DRUM_SHOT_DELAY"
-msgstr "Время перезарядки одной торпеды"
-
 msgid "IDS_SHIP_PARAM_TORPEDO_GUN"
 msgstr "Торпедныe аппараты"
 
@@ -127129,7 +126118,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_SURFACE"
 msgstr "В надводном положении"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_WORKING"
-msgstr "На рабочей глубине"
+msgstr "На рабочей глубине [UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_FIRE"
 msgstr "Заметность во время пожара"
@@ -127147,7 +126136,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE_BATTLE"
 msgstr "После выстрела ГК в дымах"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE_TOOLTIP_DESCRIPTION"
-msgstr "Расстояние, на котором корабль может быть обнаружен в дымах после выстрела ГК."
+msgstr "Заметность после выстрела ГК в дымах."
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PINGER"
 msgstr "Заметность после пуска импульса"
@@ -127160,9 +126149,6 @@ msgstr "Заметность с кораблей противника посл�
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE"
 msgstr "Заметность с самолётов"
-
-msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE_TOOLTIP_DESCRIPTION"
-msgstr "Расстояние, на котором корабль может быть обнаружен самолётом."
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP"
 msgstr "Заметность с кораблей"
@@ -127180,7 +126166,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
 msgstr "С перископной глубины"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
-msgstr "С рабочей глубины"
+msgstr "С рабочей глубины [UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISION_RANGE"
 msgstr "Видимость"
@@ -127601,15 +126587,6 @@ msgstr "Составы команд"
 
 msgid "IDS_SHOWSTATS_DESCRIPTION"
 msgstr "Отображать колонки с названиями, классами, уровнями и боеспособностью кораблей в составах команд. Отображение имён игроков можно настроить отдельно."
-
-msgid "IDS_SHOW_ADDITION_CONTENT"
-msgstr "Камуфляжи и командиры в неисторической стилистике"
-
-msgid "IDS_SHOW_ADDITION_CONTENT_DESCRIPTION"
-msgstr "Уникальный внешний вид имущества из игровых событий в бою и в Порту. Отключите, чтобы внешний вид всех камуфляжей и командиров соответствовал исторической эпохе игры."
-
-msgid "IDS_SHOW_ADDITION_CONTENT_STATUS"
-msgstr "Если вы находитесь в бою, изменение этого параметра вступит в силу после боя"
 
 msgid "IDS_SHOW_ARMOUR_ARTI"
 msgstr "Отобразить бронирование орудийных установок"
@@ -128488,9 +127465,6 @@ msgstr "Нажмите любую клавишу, чтобы пропустит�
 msgid "IDS_SKY_LIGHT_MAP"
 msgstr "Sky light map"
 
-msgid "IDS_SLAVIC_GIRL"
-msgstr "Катя StormyGirl"
-
 msgid "IDS_SLAVYANA_SUMMER"
 msgstr "Славя"
 
@@ -128672,12 +127646,6 @@ msgstr "Наушники"
 msgid "IDS_SOUND_DEVICE_SPEAKER"
 msgstr "Динамики"
 
-msgid "IDS_SOUND_MOD_ANIME_MAGA_LANA_ANIME"
-msgstr "Лана"
-
-msgid "IDS_SOUND_MOD_ANIME_MAGA_LEILA_ANIME"
-msgstr "Айла"
-
 msgid "IDS_SOUND_MOD_APRAKSIN"
 msgstr "Фёдор Апраксин"
 
@@ -128746,9 +127714,6 @@ msgstr "Ashley Violet"
 
 msgid "IDS_SOUND_MOD_ASTRA_DOG"
 msgstr "Астра"
-
-msgid "IDS_SOUND_MOD_ASTRONAUT_ARTEMIEV"
-msgstr "Олег Артемьев"
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_ATAGO"
 msgstr "Azur Lane: Atago"
@@ -129094,9 +128059,6 @@ msgstr "Scrooge Nicholson"
 
 msgid "IDS_SOUND_MOD_SEAGAL"
 msgstr "Steven Seagal (Английский)"
-
-msgid "IDS_SOUND_MOD_SLAVIC_GIRL"
-msgstr "Катя StormyGirl"
 
 msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
 msgstr "Заяц"
@@ -129506,12 +128468,6 @@ msgstr "Камчатка"
 
 msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
 msgstr "Камчатка"
-
-msgid "IDS_SPACES/57_AOTS"
-msgstr "Последняя гавань"
-
-msgid "IDS_SPACES/57_AOTS_DESCR"
-msgstr "Последняя гавань"
 
 msgid "IDS_SPACES/99_GAMEMODE_TEST"
 msgstr "Тестирование режимов"
@@ -130291,7 +129247,10 @@ msgid "IDS_SSE_TASK_REWARD_COLON"
 msgstr "Награда за выполнение:"
 
 msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
-msgstr "Ограничения на корабли"
+msgstr "Ограничения"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
+msgstr "Боевую задачу можно выполнить только на определённых кораблях."
 
 msgid "IDS_SSE_TEMPLATES_META"
 msgstr "{    \"IDS\": {        \"IDS_ANTI_AIR_DEF\": {\"\": [\"используя корабельную ПВО\"]},        \"IDS_ANY_AIRCRAFT\": {            \"\": [\"самолёт\", \"самолёты\", \"самолёты\"],            \"ACC\": [\"самолёт\", \"самолёта\", \"самолётов\"]        },        \"IDS_BADGE\": {\"\": [\"лента\", \"ленты\", \"ленты\"], \"ACC\": [\"ленту\", \"ленты\", \"лент\"]},        \"IDS_BASE_CAPTURE_POINTS\": {\"\": [\"захвата базы\"]},        \"IDS_BASE_DEFENCE_POINTS\": {\"\": [\"защиты базы\"]},        \"IDS_BATTLES\": {            \"\": [\"бой\", \"боя\", \"боёв\"],            \"ACC\": [\"бою\", \"боях\", \"боях\"],            \"PREP\": [\"бою\", \"боях\", \"боях\"]        },        \"IDS_BATTLESHIP_CLASS\": {            \"\": [\"линкор\", \"линкоры\", \"линкоры\"],            \"ACC\": [\"линкор\", \"линкора\", \"линкоров\"],            \"DAT\": [\"линкору\", \"линкорам\", \"линкорам\"],            \"GEN\": [\"линкора\", \"линкора\", \"линкоров\"]        },        \"IDS_BATTLE_SIGNALS\": {            \"\": [\"боевой сигнал\", \"боевые сигналы\", \"боевые сигналы\"],            \"ACC\": [\"боевой сигнал\", \"боевых сигнала\", \"боевых сигналов\"]        },        \"IDS_BOMBER_CLASS\": {            \"\": [\"бомбардировщик\", \"бомбардировщики\", \"бомбардировщики\"],            \"ACC\": [\"бомбардировщик\", \"бомбардировщика\", \"бомбардировщиков\"]        },        \"IDS_CAMOUFLAGE\": {            \"\": [\"камуфляж\", \"камуфляжи\", \"камуфляжи\"],            \"ACC\": [\"камуфляж\", \"камуфляжа\", \"камуфляжей\"]        },        \"IDS_CARRIER_CLASS\": {            \"\": [\"авианосец\", \"авианосцы\", \"авианосцы\"],            \"ACC\": [\"авианосец\", \"авианосца\", \"авианосцев\"],            \"DAT\": [\"авианосцу\", \"авианосцам\", \"авианосцам\"],            \"GEN\": [\"авианосца\", \"авианосцев\", \"авианосцев\"]        },        \"IDS_CHAIN\": {            \"\": [\"цепочка\", \"цепочки\", \"цепочки\"],            \"ACC\": [\"цепочку\", \"цепочки\", \"цепочек\"]        },        \"IDS_CLAN_BATTLE\": {\"\": [\"Клановый\"], \"PREP\": [\"клановом\"]},        \"IDS_COMMONWEALTH_NATION\": {\"\": [\"Содружество\"], \"GEN\": [\"Содружества\"]},        \"IDS_COOP_BATTLE\": {\"\": [\"Кооперативный\"], \"PREP\": [\"кооперативном\"]},        \"IDS_CREDITS\": {\"\": [\"кредит\", \"кредиты\", \"кредиты\"], \"ACC\": [\"кредит\", \"кредита\", \"кредитов\"]},        \"IDS_CREWXP\": {\"\": [\"опыт командира\"], \"ACC\": [\"ед. опыта командира\"]},        \"IDS_CRUISER_CLASS\": {            \"\": [\"крейсер\", \"крейсеры\", \"крейсеры\"],            \"ACC\": [\"крейсер\", \"крейсера\", \"крейсеров\"],            \"DAT\": [\"крейсеру\", \"крейсерам\", \"крейсерам\"],            \"GEN\": [\"крейсера\", \"крейсеров\", \"крейсеров\"]        },        \"IDS_DESTROYER_CLASS\": {            \"\": [\"эсминец\", \"эсминцы\", \"эсминцы\"],            \"ACC\": [\"эсминец\", \"эсминцa\", \"эсминцев\"],            \"DAT\": [\"эсминцу\", \"эсминцам\", \"эсминцам\"],            \"GEN\": [\"эсминца\", \"эсминцев\", \"эсминцев\"]        },        \"IDS_ECO_SIGNALS\": {            \"\": [\"экономический сигнал\", \"экономические сигналы\", \"экономические сигналы\"],            \"ACC\": [\"экономический сигнал\", \"экономических сигнала\", \"экономических сигналов\"]        },        \"IDS_ELITE\": {            \"\": [\"элитный\", \"элитные\", \"элитные\"],            \"ACC\": [\"элитный\", \"элитных\", \"элитных\"],            \"DAT\": [\"элитному\", \"элитным\", \"элитным\"],            \"GEN\": [\"элитного\", \"элитных\", \"элитных\"]        },        \"IDS_ENUM_1\": {\"\": [\"{1}\"]},        \"IDS_ENUM_2\": {\"\": [\"{1} или {2}\"]},        \"IDS_ENUM_3\": {\"\": [\"{1}, {2} или {3}\"]},        \"IDS_ENUM_4\": {\"\": [\"{1}, {2}, {3} или {4}\"]},        \"IDS_ENUM_5\": {\"\": [\"{1}, {2}, {3}, {4} или {5}\"]},        \"IDS_ENUM_6\": {\"\": [\"{1}, {2}, {3}, {4}, {5} или {6}\"]},        \"IDS_ENUM_7\": {\"\": [\"{1}, {2}, {3}, {4}, {5}, {6} или {7}\"]},        \"IDS_ENUM_8\": {\"\": [\"{1}, {2}, {3}, {4}, {5}, {6}, {7} или {8}\"]},        \"IDS_EUROPE_NATION\": {\"\": [\"Европа\"], \"GEN\": [\"Европы\"]},        \"IDS_EVENT_BATTLE\": {\"\": [\"Ключевой\"], \"PREP\": [\"ключевом\"]},        \"IDS_EXP\": {\"\": [\"опыт корабля\"], \"ACC\": [\"ед. опыта корабля\"]},        \"IDS_FIGHTER_CLASS\": {            \"\": [\"штурмовик\", \"штурмовики\", \"штурмовики\"],            \"ACC\": [\"штурмовик\", \"штурмовика\", \"штурмовиков\"]        },        \"IDS_FRANCE_NATION\": {\"\": [\"Франция\"], \"GEN\": [\"Франции\"]},        \"IDS_FREEXP\": {\"\": [\"свободный опыт\"], \"ACC\": [\"ед. свободного опыта\"]},        \"IDS_GERMANY_NATION\": {\"\": [\"Германия\"], \"GEN\": [\"Германии\"]},        \"IDS_GOLD\": {\"\": [\"дублон\", \"дублоны\", \"дублоны\"], \"ACC\": [\"дублон\", \"дублона\", \"дублонов\"]},        \"IDS_HEROIC_ACHIEVEMENT\": {            \"\": [\"героическое достижение\", \"героические достижения\", \"героические достижения\"],            \"ACC\": [\"героическое достижение\", \"героических достижения\", \"героических достижений\"]        },        \"IDS_HONORABLE_ACHIEVEMENT\": {            \"\": [\"почётное достижение\", \"почётные достижения\", \"почётные достижения\"],            \"ACC\": [\"почётное достижение\", \"почётных достижения\", \"почётных достижений\"]        },        \"IDS_INTRO_BATTLE\": {\"\": [\"Вводный\"], \"PREP\": [\"вводном\"]},        \"IDS_IN_ONE_BATTLE\": {\"\": [\"В течение одного боя\"], \"SIMPLE\": [\"В течение одного боя\"]},        \"IDS_IN_SQUAD\": {\"\": [\"в составе отряда\"]},        \"IDS_ITALY_NATION\": {\"\": [\"Италия\"], \"GEN\": [\"Италии\"]},        \"IDS_JAPAN_NATION\": {\"\": [\"Япония\"], \"GEN\": [\"Японии\"]},        \"IDS_LEAGUE_EXACT\": {\"\": [\"{league}\"]},        \"IDS_LEAGUE_LESS\": {\"\": [\"{league} или выше\"]},        \"IDS_LEAGUE_MORE\": {\"\": [\"{league} или ниже\"]},        \"IDS_LEAGUE_RANGE\": {\"\": [\"{leaguemin} — {leaguemax}\"]},        \"IDS_LEVEL_EXACT\": {\"\": [\"{level} уровня\"]},        \"IDS_LEVEL_LESS\": {\"\": [\"{level} уровня или ниже\"]},        \"IDS_LEVEL_MORE\": {\"\": [\"{level} уровня или выше\"]},        \"IDS_LEVEL_RANGE\": {\"\": [\"{levelmin}–{levelmax} уровней\"]},        \"IDS_MODULE\": {\"\": [\"модуль\", \"модули\", \"модули\"], \"ACC\": [\"модуль\", \"модуля\", \"модулей\"]},        \"IDS_NETHERLANDS_NATION\": {\"\": [\"Нидерланды\"], \"GEN\": [\"Нидерландов\"]},        \"IDS_OF_ALL\": {\"\": [\"среди всех участников боя\"]},        \"IDS_OPERATION\": {            \"\": [\"операция\", \"операции\", \"операций\"],            \"PREP\": [\"операции\", \"операциях\", \"операциях\"]        },        \"IDS_PAN_AMERICA_NATION\": {\"\": [\"Пан-Америка\"], \"GEN\": [\"Пан-Америки\"]},        \"IDS_PAN_ASIA_NATION\": {\"\": [\"Пан-Азия\"], \"GEN\": [\"Пан-Азии\"]},        \"IDS_PERMANENT_CAMOUFLAGE\": {            \"\": [\"постоянный камуфляж\", \"постоянные камуфляжи\", \"постоянные камуфляжи\"],            \"ACC\": [\"постоянный камуфляж\", \"постоянных камуфляжа\", \"постоянных камуфляжей\"]        },        \"IDS_POLAND_NATION\": {\"\": [\"Польша\"], \"GEN\": [\"Польши\"]},        \"IDS_PREMIUM\": {\"\": [\"премиум\"]},        \"IDS_PTS_WORD\": {\"\": [\"очко\", \"очки\", \"очки\"], \"ACC\": [\"очко\", \"очка\", \"очков\"]},        \"IDS_PVE_BATTLE\": {\"\": [\"Сценарный\"], \"PREP\": [\"сценарном\"]},        \"IDS_RANDOM_BATTLE\": {\"\": [\"Случайный\"], \"PREP\": [\"случайном\"]},        \"IDS_RANK_BATTLE\": {\"\": [\"Ранговый\"], \"PREP\": [\"ранговом\"]},        \"IDS_RUSSIA_NATION\": {\"\": [\"СССР\"], \"GEN\": [\"СССР\"]},        \"IDS_SCOUT_CLASS\": {            \"\": [\"разведчик\", \"разведчики\", \"разведчики\"],            \"ACC\": [\"разведчик\", \"разведчика\", \"разведчиков\"]        },        \"IDS_SECONDARY_TASK\": {            \"\": [\"дополнительная задача\", \"дополнительные задачи\", \"дополнительные задачи\"],            \"ACC\": [\"дополнительную задачу\", \"дополнительных задачи\", \"дополнительных задач\"]        },        \"IDS_SHIP\": {            \"\": [\"корабль\", \"корабли\", \"корабли\"],            \"ACC\": [\"корабль\", \"корабля\", \"кораблей\"],            \"DAT\": [\"кораблю\", \"кораблям\", \"кораблям\"],            \"GEN\": [\"корабля\", \"кораблей\", \"кораблей\"],            \"PREP\": [\"корабле\", \"кораблях\", \"кораблях\"]        },        \"IDS_SIGNALS\": {\"\": [\"сигнал\", \"сигналы\", \"сигналы\"], \"ACC\": [\"сигнал\", \"сигнала\", \"сигналов\"]},        \"IDS_SOME_ACHIEVEMENT\": {            \"\": [\"достижение\", \"достижения\", \"достижения\"],            \"ACC\": [\"достижение\", \"достижения\", \"достижений\"]        },        \"IDS_SPAIN_NATION\": {\"\": [\"Испания\"], \"GEN\": [\"Испании\"]},        \"IDS_SPECIAL_SIGNALS\": {            \"\": [\"особый сигнал\", \"особые сигналы\", \"особые сигналы\"],            \"ACC\": [\"особый сигнал\", \"особых сигнала\", \"особых сигналов\"]        },        \"IDS_STAR\": {\"\": [\"звезда\", \"звёзды\", \"звёзды\"], \"ACC\": [\"звезду\", \"звезды\", \"звёзд\"]},        \"IDS_SUBMARINE_CLASS\": {            \"\": [\"подводная лодка\", \"подводные лодки\", \"подводные лодки\"],            \"ACC\": [\"подводную лодку\", \"подводные лодки\", \"подводных лодок\"],            \"DAT\": [\"подводной лодке\", \"подводным лодкам\", \"подводным лодкам\"],            \"GEN\": [\"подводной лодки\", \"подводных лодок\", \"подводных лодок\"]        },        \"IDS_SURVIVE_IN_BATTLES\": {\"\": [\"Выживите в бою и\"], \"SIMPLE\": [\"Выживите в бою\"]},        \"IDS_SURVIVE_IN_ONE_BATTLE\": {\"\": [\"Выживите в одном бою и\"], \"SIMPLE\": [\"Выживите в одном бою\"]},        \"IDS_SURVIVE_WIN_IN_BATTLES\": {            \"\": [\"Выживите, одержите победу в бою и\"],            \"SIMPLE\": [\"Выживите и одержите победу в бою\"]        },        \"IDS_SURVIVE_WIN_IN_ONE_BATTLE\": {            \"\": [\"Выживите, одержите победу в одном бою и\"],            \"SIMPLE\": [\"Выживите и одержите победу в одном бою\"]        },        \"IDS_TASK\": {\"\": [\"задача\", \"задачи\", \"задачи\"], \"ACC\": [\"задачу\", \"задачи\", \"задач\"]},        \"IDS_TBOMBER_CLASS\": {            \"\": [\"торпедоносец\", \"торпедоносцы\", \"торпедоносцы\"],            \"ACC\": [\"торпедоносец\", \"торпедоносца\", \"торпедоносцев\"]        },        \"IDS_TIMES_WORD\": {\"\": [\"раз\", \"раза\", \"раз\"]},        \"IDS_TOP_IN_TEAM\": {\"\": [\"своя команда\"], \"ACC\": [\"своей команды\"], \"PREP\": [\"в своей команде\"]},        \"IDS_TORPEDO\": {\"\": [\"торпеда\", \"торпеды\", \"торпеды\"], \"ACC\": [\"торпеду\", \"торпеды\", \"торпед\"]},        \"IDS_TRAINING_BATTLE\": {\"\": [\"Тренировочный\"], \"PREP\": [\"тренировочном\"]},        \"IDS_UNITED_KINGDOM_NATION\": {\"\": [\"Великобритания\"], \"GEN\": [\"Великобритании\"]},        \"IDS_USA_NATION\": {\"\": [\"США\"], \"GEN\": [\"США\"]},        \"IDS_USING_BOMBER\": {\"\": [\"авиабомбами\"]},        \"IDS_USING_FIGHTER\": {\"\": [\"используя штурмовики\"]},        \"IDS_USING_FIRE\": {\"\": [\"пожарами\"]},        \"IDS_USING_FLOOD\": {\"\": [\"затоплениями\"]},        \"IDS_USING_MAIN_GUN\": {\"\": [\"главным калибром\"]},        \"IDS_USING_RAM\": {\"\": [\"тараном\"]},        \"IDS_USING_ROCKET\": {\"\": [\"ракетами\"]},        \"IDS_USING_SEA_MINE\": {\"\": [\"миной\", \"минами\", \"минами\"]},        \"IDS_USING_SECONDARY_GUN\": {\"\": [\"вспомогательным калибром\"]},        \"IDS_USING_SKIPBOMBER\": {\"\": [\"топмачтовыми бомбами\"]},        \"IDS_USING_TBOMBER\": {\"\": [\"авиаторпедами\"]},        \"IDS_USING_TORPEDOES\": {\"\": [\"корабельными торпедами\"]},        \"IDS_WIN_IN_BATTLES\": {\"\": [\"Одержите победу в бою и\"], \"SIMPLE\": [\"Одержите победу в бою\"]},        \"IDS_WIN_IN_ONE_BATTLE\": {            \"\": [\"Одержите победу в одном бою и\"],            \"SIMPLE\": [\"Одержите победу в одном бою\"]        },        \"IDS_WITH_AGRO_AIR\": {\"\": [\"авиабомбами или ракетами\"]},        \"IDS_WITH_AGRO_ART\": {\"\": [\"артиллерией\"]},        \"IDS_WITH_AGRO_DBOMB\": {\"\": [\"глубинными бомбами\"]},        \"IDS_WITH_AGRO_MINES\": {\"\": [\"минами\"]},        \"IDS_WITH_AGRO_TORPS\": {\"\": [\"корабельными или авиаторпедами\"]}    },    \"TEMPLATES\": {        \"TEMPLATE_BATTLE_ACHIEVEMENTS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"achievement.type\"},                        {\"isVar\": true, \"name\": \"achievement.ids\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"получите {}\",                    \"template_args\": [{\"isVar\": true, \"name\": \"achievement.type\"}]                }            ],            \"setVars\": [\"achievement.ids\"],            \"vars\": [\"precondition\", \"achievement.type\", \"achievement.ids\", \"count\"]        },        \"TEMPLATE_BATTLE_ACHIEVEMENTS_SHORT\": {            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите: \",                    \"template_args\": [{\"isVar\": true, \"name\": \"precondition\"}]                }            ],            \"vars\": [\"precondition\"]        },        \"TEMPLATE_BATTLE_ACHIEVEMENTS_TYPE\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"{} {}\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"achievement.type\"}                    ]                }            ],            \"vars\": [\"achievement.type\", \"count\"]        },        \"TEMPLATE_BATTLE_CONDITIONS\": {            \"optVars\": [\"battle_cond.in_squad\", \"league\"],            \"rules\": [                {                    \"cond\": {\"battle_cond.battle_type\": [null], \"battle_cond.in_squad\": [null]},                    \"template\": \"Выполните\",                    \"template_args\": []                },                {                    \"cond\": {\"battle_cond.battle_type\": [null]},                    \"template\": \"Выполняется {}\",                    \"template_args\": [{\"isVar\": true, \"name\": \"battle_cond.in_squad\"}]                },                {                    \"cond\": {\"battle_cond.battle_type\": [\"IDS_INTRO_BATTLE\"]},                    \"template\": \"Выполняется {} во {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                },                {                    \"cond\": {\"battle_cond.battle_type\": [\"IDS_CLAN_BATTLE\"], \"league\": [null]},                    \"template\": \"Выполняется {} в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                },                {                    \"cond\": {\"battle_cond.battle_type\": [\"IDS_CLAN_BATTLE\"]},                    \"template\": \"Выполняется {} в {} {} ({})\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"name\": \"league\"}                    ]                },                {                    \"template\": \"Выполняется {} в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"setVars\": [\"battle_cond.battle_type\"],            \"vars\": [\"battle_cond.in_squad\", \"battle_cond.battle_type\", \"league\"]        },        \"TEMPLATE_COMPLETE_TASKS\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"Выполните {} {} типа «{}»\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"sseElement\"},                        {\"isVar\": true, \"name\": \"typeName\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выполните {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"sseElement\"}]                }            ],            \"vars\": [\"count\", \"typeName\", \"sseElement\"]        },        \"TEMPLATE_DAMAGE_SHIPS\": {            \"cntVars\": [\"damage\"],            \"optVars\": [\"damage_types\", \"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"template\": \"{} нанесите {} {} {} {} ед. урона {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"DAT\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"damage\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"damage_types\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"damage_types.length\": [1]},                    \"template\": \"нанесите урон {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"damage_types\"}]                },                {\"template\": \"нанесите урон\", \"template_args\": []}            ],            \"vars\": [\"precondition\", \"damage\", \"ship.nation\", \"ship.class\", \"level\", \"damage_types\"]        },        \"TEMPLATE_DESTROY_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"ship.count\", \"ship.nation\": \"ship.count\"},            \"rules\": [                {                    \"cond\": {\"ship.class\": [\"IDS_SHIP\"], \"ship.nation\": [null]},                    \"template\": \"{} уничтожьте {} {} противника {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} уничтожьте {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"ship.nation\": [null]},                    \"template\": \"уничтожьте {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"}                    ]                },                {                    \"template\": \"уничтожьте {} {}\",                    \"template_args\": [                        {\"count\": 2, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"}                    ]                }            ],            \"vars\": [\"precondition\", \"ship.count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_DESTROY_SPECIFIED_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} уничтожьте {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_SHIP\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"name\": \"ship.ids\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"уничтожьте {}\",                    \"template_args\": [{\"count\": \"ship.count\", \"isVar\": false, \"name\": \"ship.ids\"}]                }            ],            \"vars\": [\"precondition\", \"ship.count\"]        },        \"TEMPLATE_GET_BADGES\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BADGE\"},                        {\"isVar\": true, \"name\": \"badge.names\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"получите {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": false, \"name\": \"IDS_BADGE\"}]                }            ],            \"setVars\": [\"badge.names\"],            \"vars\": [\"precondition\", \"count\", \"badge.names\"]        },        \"TEMPLATE_GO_INTO_BATTLE\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"Сыграйте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выйдите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"name\": \"IDS_BATTLES\"}]                }            ],            \"vars\": [\"count\"]        },        \"TEMPLATE_MAKE_N_XP\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} заработайте {} ед. чистого опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"}                    ]                }            ],            \"rules_short\": [{\"template\": \"заработайте чистый опыт\", \"template_args\": []}],            \"vars\": [\"precondition\", \"count\"]        },        \"TEMPLATE_N_TIMES_HIT_SHIPS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"plurals\": {\"hit_types\": \"count\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"{} повредите {} противника {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} попадите в {} противника {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"{} повредите {} противника {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"hit_types\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                },                {                    \"template\": \"{} попадите в {} противника {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"hit_types\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"count\": [1], \"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"повредите {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 1, \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"повредите {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"hit_types.length\": [1]},                    \"template\": \"попадите в {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"template\": \"попадите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"hit_types\"]        },        \"TEMPLATE_N_TIMES_IGNITE_SHIPS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"count\", \"ship.nation\": \"count\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"ship.class\": [\"IDS_SHIP\"], \"ship.nation\": [null]},                    \"template\": \"{} подожгите {} противника {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} подожгите {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} подожгите {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"вызовите пожар на {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_POTENTIAL_DAMAGE\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"damage_types\", \"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите {} ед. потенциального урона {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"isVar\": true, \"name\": \"damage_types\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"damage_types.length\": [1]},                    \"template\": \"Получите потенциальный урон {}\",                    \"template_args\": [{\"isVar\": true, \"name\": \"damage_types\"}]                },                {\"template\": \"получите потенциальный урон\", \"template_args\": []}            ],            \"vars\": [\"precondition\", \"count\", \"damage_types\"]        },        \"TEMPLATE_PRECONDITION\": {            \"rules\": [                {                    \"cond\": {\"simple_precondition\": [true]},                    \"template\": \"{}\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"SIMPLE\", \"name\": \"precondition\"}]                },                {\"template\": \"{}\", \"template_args\": [{\"isVar\": true, \"name\": \"precondition\"}]}            ],            \"vars\": [\"precondition\", \"simple_precondition\"]        },        \"TEMPLATE_PVE_OPERATIONS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"Выполняется в {} {}\",                    \"template_args\": [                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"PREP\", \"name\": \"operation\"},                        {\"isVar\": true, \"name\": \"operations_names\"}                    ]                }            ],            \"setVars\": [\"operations_names\"],            \"vars\": [\"precondition\", \"count\", \"operation\", \"operations_names\"]        },        \"TEMPLATE_PVE_SECONDARY_TASKS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} выполните {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"stask\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выполните {} в {}\",                    \"template_args\": [                        {\"count\": 2, \"isVar\": true, \"name\": \"stask\"},                        {\"count\": 2, \"isVar\": true, \"mod\": \"PREP\", \"name\": \"operation\"}                    ]                }            ],            \"vars\": [\"precondition\", \"count\", \"stask\", \"operation\"]        },        \"TEMPLATE_RECEIVE_BASE_CAPTURE_POINTS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} заработайте {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_PTS_WORD\"},                        {\"isVar\": true, \"name\": \"base_points\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"заработайте {} {}\",                    \"template_args\": [                        {\"count\": 2, \"isVar\": false, \"name\": \"IDS_PTS_WORD\"},                        {\"isVar\": true, \"name\": \"base_points\"}                    ]                }            ],            \"vars\": [\"precondition\", \"count\", \"base_points\"]        },        \"TEMPLATE_SCOUTING_DAMAGE\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} обеспечьте нанесение {} ед. урона по вашим разведданным\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"}                    ]                }            ],            \"rules_short\": [{\"template\": \"обеспечьте нанесение урона\", \"template_args\": []}],            \"vars\": [\"precondition\", \"count\"]        },        \"TEMPLATE_SHIP_DAMAGE_MODULES\": {            \"cntVars\": [\"module.count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"module.type\": \"module.count\", \"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"module.count\": [1], \"ship.class\": [\"IDS_SHIP\"]},                    \"template\": \"{} повредите {} {} любого {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"module.count\"},                        {\"count\": \"module.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"module.type\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"module.count\": [1]},                    \"template\": \"{} повредите {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"module.count\"},                        {\"count\": \"module.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"module.type\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} повредите {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"module.count\"},                        {\"count\": \"module.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"module.type\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"повредите {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": true, \"name\": \"module.type\"},                        {\"count\": 1, \"isVar\": false, \"mod\": \"GEN\", \"name\": \"IDS_SHIP\"}                    ]                }            ],            \"vars\": [                \"precondition\",                \"module.count\",                \"module.type\",                \"ship.nation\",                \"ship.class\",                \"level\"            ]        },        \"TEMPLATE_SHIP_HIT_CITADELS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"ship.class\": [\"IDS_SHIP\"]},                    \"template\": \"{} попадите в цитадель любого {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} попадите в цитадель {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} попадите в цитадели {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"попадите в цитадель {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"GEN\", \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_SHIP_LIMITATIONS\": {            \"optVars\": [\"level\", \"ship.elite\", \"ship.ids\", \"ship.nation\"],            \"plurals\": {\"level\": \"10\", \"ship.class\": \"10\", \"ship.elite\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"ship.ids\": [null]},                    \"template\": \"{} {} {} {}\",                    \"template_args\": [                        {\"count\": 10, \"isVar\": true, \"name\": \"ship.elite\"},                        {\"count\": 10, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"count\": 10, \"isVar\": true, \"name\": \"level\"}                    ]                },                {\"template\": \"{}\", \"template_args\": [{\"isVar\": true, \"name\": \"ship.ids\"}]}            ],            \"vars\": [\"ship.nation\", \"ship.class\", \"ship.elite\", \"level\", \"ship.ids\"]        },        \"TEMPLATE_SHIP_START_FLOOD\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"ship.class\": [\"IDS_SHIP\"]},                    \"template\": \"{} вызовите затопление любого {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} вызовите затопление у {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} вызовите затопления у {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"вызовите затопление на {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_SHOOT_AIRPLANES\": {            \"cntVars\": [\"aircraft.count\"],            \"optVars\": [\"precondition\"],            \"plurals\": {\"aircraft.class\": \"aircraft.count\"},            \"rules\": [                {                    \"template\": \"{} сбейте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"aircraft.count\"},                        {                            \"count\": \"aircraft.count\",                            \"isVar\": true,                            \"mod\": \"ACC\",                            \"name\": \"aircraft.class\"                        }                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"уничтожьте {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"name\": \"IDS_ANY_AIRCRAFT\"}]                }            ],            \"vars\": [\"precondition\", \"aircraft.count\", \"aircraft.class\"]        },        \"TEMPLATE_SPOT\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"cond\": {\"spot_target\": [\"IDS_TORPEDO\"]},                    \"template\": \"{} обнаружьте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"spot_target\"}                    ]                },                {                    \"template\": \"{} первым обнаружьте {} {} противника\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"spot_target\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"spot_target\": [\"IDS_TORPEDO\"]},                    \"template\": \"обнаружьте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"spot_target\"}]                },                {                    \"template\": \"первым обнаружьте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"spot_target\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"spot_target\"]        },        \"TEMPLATE_SPOT_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"ship.count\", \"ship.nation\": \"ship.count\"},            \"rules\": [                {                    \"cond\": {\"ship.class\": [\"IDS_SHIP\"], \"ship.nation\": [null]},                    \"template\": \"{} первым обнаружьте {} {} противника {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} первым обнаружьте {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"обнаружьте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"ship.count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_SPOT_SPECIFIED_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} первым обнаружьте {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_SHIP\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"name\": \"ship.ids\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"обнаружьте {} противника\",                    \"template_args\": [{\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"ship.count\"]        },        \"TEMPLATE_SURVIVE_IN_BATTLES\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"выживите в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выживите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"}]                }            ],            \"vars\": [\"count\"]        },        \"TEMPLATE_TOP_N_DAMAGE\": {            \"cntVars\": [\"top.rank\"],            \"optVars\": [\"precondition\", \"top.in_team\"],            \"rules\": [                {                    \"cond\": {\"top.in_team\": [null], \"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.in_team\": [null]},                    \"template\": \"{} войдите в топ-{} {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"top.in_team\"}                    ]                },                {                    \"template\": \"{} войдите в топ-{} {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"isVar\": true, \"mod\": \"ACC\", \"name\": \"top.in_team\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"займите первое место по количеству урона\",                    \"template_args\": []                },                {                    \"template\": \"войдите в топ-{} по количеству урона\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"}]                }            ],            \"vars\": [\"precondition\", \"top.in_team\", \"top.rank\"]        },        \"TEMPLATE_TOP_N_EXP\": {            \"cntVars\": [\"top.rank\"],            \"optVars\": [\"precondition\", \"top.in_team\"],            \"rules\": [                {                    \"cond\": {\"top.in_team\": [null], \"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.in_team\": [null]},                    \"template\": \"{} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"top.in_team\"}                    ]                },                {                    \"template\": \"{} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"isVar\": true, \"mod\": \"ACC\", \"name\": \"top.in_team\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"займите первое место по количеству опыта\",                    \"template_args\": []                },                {                    \"template\": \"войдите в топ-{} по количеству опыта\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"}]                }            ],            \"vars\": [\"precondition\", \"top.in_team\", \"top.rank\"]        },        \"TEMPLATE_TOP_N_EXP_BATTLES\": {            \"cntVars\": [\"top.rank\"],            \"optVars\": [\"precondition\", \"top.in_team\"],            \"rules\": [                {                    \"cond\": {\"top.in_team\": [null], \"top.rank\": [1]},                    \"template\": \"В {} {} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.in_team\": [null]},                    \"template\": \"В {} {} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"В {} {} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"top.in_team\"}                    ]                },                {                    \"template\": \"В {} {} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"isVar\": true, \"mod\": \"ACC\", \"name\": \"top.in_team\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"займите первое место по количеству опыта\",                    \"template_args\": []                },                {                    \"template\": \"войдите в топ-{} по количеству опыта\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"}]                }            ],            \"vars\": [\"precondition\", \"top.in_team\", \"top.rank\", \"count\"]        },        \"TEMPLATE_TOTAL_CURRENCY\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} заработайте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"currency\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"заработайте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"currency\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"currency\"]        },        \"TEMPLATE_USE_CAMOUFLAGE\": {            \"rules\": [                {                    \"template\": \"На корабле должен быть установлен {} «{}»\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_CAMOUFLAGE\"},                        {\"isVar\": true, \"name\": \"camouflage.id\"}                    ]                }            ],            \"setVars\": [\"camouflage.id\"],            \"vars\": [\"camouflage.id\"]        },        \"TEMPLATE_USE_PERMOFLAGE\": {            \"rules\": [                {                    \"template\": \"На корабле должен быть установлен {} «{}»\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_PERMANENT_CAMOUFLAGE\"},                        {\"isVar\": true, \"name\": \"permoflage.id\"}                    ]                }            ],            \"setVars\": [\"permoflage.id\"],            \"vars\": [\"permoflage.id\"]        },        \"TEMPLATE_USE_SIGNALS\": {            \"optVars\": [\"signal.group\"],            \"rules\": [                {\"cond\": {\"signal.group\": [null]}, \"template\": \"\", \"template_args\": []},                {                    \"cond\": {\"count\": [1], \"signal.ids\": [null]},                    \"template\": \"На корабле должен быть установлен {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"signal.group\"}                    ]                },                {                    \"cond\": {\"signal.ids\": [null]},                    \"template\": \"На корабле должно быть установлено {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"signal.group\"}                    ]                },                {                    \"template\": \"На корабле должен быть установлен {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": true, \"name\": \"signal.group\"},                        {\"isVar\": true, \"name\": \"signal.ids\"}                    ]                }            ],            \"setVars\": [\"signal.ids\"],            \"vars\": [\"signal.group\", \"count\", \"signal.ids\"]        },        \"TEMPLATE_WIN_IN_BATTLES\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"одержите победу в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"победите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"}]                }            ],            \"vars\": [\"count\"]        }    }}"
@@ -130775,7 +129734,7 @@ msgid "IDS_SUBMARINE_DEPTH_STATE_SURFACE"
 msgstr "Надводное положение"
 
 msgid "IDS_SUBMARINE_DEPTH_STATE_WORKING"
-msgstr "Рабочая глубина"
+msgstr "Рабочая глубина [UNUSED]"
 
 msgid "IDS_SUBMARINE_GOAL"
 msgstr "Назначение подводных лодок"
@@ -131075,9 +130034,6 @@ msgstr "От %(_bottom)s"
 
 msgid "IDS_SUBST_TAG_DESCRIPTION_CUSTOM"
 msgstr "Событие «%(eventName)s»"
-
-msgid "IDS_SUBS_IMPROVE_EVENT"
-msgstr "Подводный рубеж"
 
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "СТРАНИЦА СОБРАНА"
@@ -131839,9 +130795,6 @@ msgstr "Испытания мастерства сброшены"
 
 msgid "IDS_SYS_MSG_MASTERY_TASK_DONE"
 msgstr "Пройдено испытание мастерства"
-
-msgid "IDS_SYS_MSG_MASTERY_TASK_REPLACED"
-msgstr "Испытание мастерства заменено"
 
 msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
 msgstr "Вводная задача выполнена"
@@ -133739,9 +132692,6 @@ msgstr "Учёные всех стран, соединяйтесь!"
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "Славные имена"
 
-msgid "IDS_THIRD_SPACE_MUSEUM_NAME"
-msgstr "Ракеты"
-
 msgid "IDS_THIRD_TSAR_MOREY_NAME"
 msgstr "Без сучка и задоринки"
 
@@ -134017,14 +132967,6 @@ msgstr ""
 "\n"
 "Поражают только подводные лодки противника."
 
-msgid "IDS_TIPS_ANTI_SUB_IMPROVE_AIRCRAFT_DESCRIPTION"
-msgstr ""
-"Вооружение доступно по клавише [CMD_AMMO_SLOT_4].\n"
-"\n"
-"Совершает бомбардировку отмеченной области глубинными бомбами.\n"
-"\n"
-"Поражают подводные лодки противника и уничтожают торпеды. Наносят небольшой урон надводным кораблям и подводным лодкам в надводном положении."
-
 msgid "IDS_TIPS_ARMAMENT_AP"
 msgstr "Бронебойные снаряды (ББ)"
 
@@ -134171,12 +133113,6 @@ msgstr ""
 "Сброс глубинных бомб доступен по клавише [CMD_AMMO_SLOT_G].\n"
 "\n"
 "Поражают только подводные лодки противника."
-
-msgid "IDS_TIPS_DEPTH_CHARGES_SUB_IMPROVE_DESCRIPTION"
-msgstr ""
-"Нажмите [CMD_AMMO_SLOT_G], чтобы сбросить глубинные бомбы.\n"
-"\n"
-"Поражают подводные лодки противника и уничтожают торпеды. Наносят небольшой урон надводным кораблям и подводным лодкам в надводном положении."
 
 msgid "IDS_TIPS_DESTROYERS"
 msgstr "Эсминцы"
@@ -134452,12 +133388,6 @@ msgstr "Глубинные бомбы"
 msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
 msgstr "Корабли противника оснащены средствами для борьбы с подводными лодками — глубинными бомбами."
 
-msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
-msgstr ""
-"Корабли противника оснащены средствами для борьбы с подводными лодками — глубинными бомбами.\n"
-"\n"
-"Подводные лодки получают уменьшенный урон от глубинных бомб, когда находятся в надводном положении или на предельной глубине."
-
 msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_ENERGY_FREEZE"
 msgstr "Резервный блок батарей"
 
@@ -134487,15 +133417,6 @@ msgstr "Заметность подводной лодки"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
 msgstr "Подводную лодку, находящуюся на предельной глубине, можно обнаружить только с помощью специального снаряжения."
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT"
-msgstr "Обнаружение подводных лодок"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT_DESCRIPTION"
-msgstr ""
-"Подводную лодку, находящуюся на рабочей глубине, можно обнаружить с помощью снаряжения «Гидроакустический поиск» и «Гидроакустический поиск ближнего действия».\n"
-"\n"
-"Если подводная лодка погрузилась на предельную глубину, её невозможно обнаружить."
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_BURNING"
 msgstr "Запас автономности подводной лодки"
@@ -136383,12 +135304,6 @@ msgstr "Трус"
 msgid "IDS_TRY_ANOTHER_TITLE"
 msgstr "Введите другое название."
 
-msgid "IDS_TTX_ELITE_CREW_CAN_GET_TALENT"
-msgstr "Можно получить талант"
-
-msgid "IDS_TTX_ELITE_CREW_CAN_UPGRADE_SKILL"
-msgstr "Можно улучшить навык"
-
 msgid "IDS_TUESDAY"
 msgstr "Вт"
 
@@ -137467,9 +136382,6 @@ msgstr "Neil Chesters"
 msgid "IDS_UVAROV"
 msgstr "Александр Уваров"
 
-msgid "IDS_U_2501_SUBTEST"
-msgstr "Simon Fischer"
-
 msgid "IDS_VALERKA_MESHCHERYAKOV"
 msgstr "Валерка Мещеряков"
 
@@ -137994,14 +136906,23 @@ msgstr "Установка модернизаций"
 msgid "IDS_WINNER_TEAM"
 msgstr "Победила команда «%(_teamName)s»"
 
+msgid "IDS_WITHOUT_COMMANDER"
+msgstr "Без командира"
+
 msgid "IDS_WITHOUT_PREM"
 msgstr "Без премиума"
 
 msgid "IDS_WITHOUT_PREM_DESC"
 msgstr "Базовый аккаунт"
 
+msgid "IDS_WITHOUT_SLOT"
+msgstr "Без слота"
+
 msgid "IDS_WITH_BOMBERS"
 msgstr "Бомбардировщиками"
+
+msgid "IDS_WITH_COMMANDER"
+msgstr "С командиром"
 
 msgid "IDS_WITH_CONSUME_FIGHTER"
 msgstr "Истребителем"
@@ -138023,6 +136944,9 @@ msgstr "С премиум аккаунтом вы получаете больш�
 
 msgid "IDS_WITH_PREM_WOWS"
 msgstr "С Корабельным премиумом"
+
+msgid "IDS_WITH_SLOT"
+msgstr "Со слотом"
 
 msgid "IDS_WITH_TBOMBERS"
 msgstr "Торпедоносцами"

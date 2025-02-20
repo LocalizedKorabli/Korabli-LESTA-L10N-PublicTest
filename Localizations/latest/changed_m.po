@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -12,47 +12,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgid "IDS_NEWBIE_QUESTS_PCON018_DESCRIPTION"
-msgstr "研发并购买IV级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ARSONIST"
+msgstr "使一艘敌舰起火并摧毁它。火灾造成的伤害必须至少为被摧毁战舰基础生命值的%(damageRatio_percent)s。"
 
-msgid "IDS_NEWBIE_QUESTS_PCON018_NAME"
-msgstr "驾驶IV级可研发巡洋舰进行战斗"
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
+msgstr "使一艘敌舰进水并摧毁它。进水造成的伤害必须至少为被摧毁战舰基础生命值的%(damageRatio_percent)s。"
 
-msgid "IDS_NEWBIE_QUESTS_PCON019_DESCRIPTION"
-msgstr "研发并购买V级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+msgid "IDS_ADDITIONAL_CONTENT"
+msgstr "非历史风格的涂装和指挥官"
 
-msgid "IDS_NEWBIE_QUESTS_PCON019_NAME"
-msgstr "驾驶V级可研发巡洋舰进行战斗"
+msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
+msgstr "在25.3版本结束前从兵工厂的随机礼包链中获得。"
 
-msgid "IDS_NEWBIE_QUESTS_PCON020_DESCRIPTION"
-msgstr "研发并购买VI级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
+msgstr "在25.3版本结束前，用于兑换包括II-IV级加值战舰补给箱、V级加值战舰补给箱、VI级加值战舰补给箱、VIII级加值战舰补给箱和IX级加值战舰补给箱、研究点、精英加成补给箱和其他资源的随机礼包链。"
 
-msgid "IDS_NEWBIE_QUESTS_PCON020_NAME"
-msgstr "驾驶VI级可研发巡洋舰进行战斗"
+msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
+msgstr "“海洋奖杯”活动的临时资源。25.4版本发布后，代币将被无偿收回。"
 
-msgid "IDS_NEWBIE_QUESTS_PCON021_DESCRIPTION"
-msgstr "研发并购买VII级巡洋舰，然后驾驶她参与战斗。在此战舰上战斗可获取战舰经验，用于研发该战舰分支的下一艘战舰。"
+msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYWORKINGDEPTHSTATEINSMOKE"
+msgstr "从工作深度"
 
-msgid "IDS_NEWBIE_QUESTS_PCON021_NAME"
-msgstr "驾驶VII级可研发巡洋舰进行战斗"
+msgid "IDS_PASC210_NUMBER"
+msgstr "2"
 
-msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
+msgid "IDS_PASS910"
+msgstr "雅罗鱼"
+
+msgid "IDS_PASS910_DESCR"
+msgstr "在两次世界大战之间研发的潜艇，最初旨在与战列舰协同作战，承担侦察任务并完成对受损敌舰的最后打击。它们需要具备较高的航速和强大的武器装备。然而，在太平洋战区发生的一系列事件之后，这些战术理念已经过时，新的潜艇类型开始面向远程航行进行设计：这类潜艇注重提升艇员的舒适度，并配备更大数量的燃料和鱼雷储备。"
+
+msgid "IDS_PASS910_FULL"
+msgstr "雅罗鱼"
+
+msgid "IDS_PAUH923_HULL_BALAO_TEST"
+msgstr "雅罗鱼"
+
+msgid "IDS_PFSD508_DESCR"
 msgstr ""
-"1932年，经济大萧条期间，亚利桑那州梅萨市的商店老板们正经历艰难时期。临近一年一度的圣诞游行，商家们急需吸引人群前来购物。\n"
+"可怖号驱逐舰隶属于空想级，最初于1931年12月在卡昂开工建造，随后被拖往南特完成。1936年，可怖与其姐妹舰空想、L’Audacieux一起，被编入驻布雷斯特的第2轻型舰队下属的第10轻型分舰队。1939年，第10分舰队被纳入“突袭舰队”（法语：Force de raid），可怖在那一年主要负责护航商船队并在大西洋上搜寻德国袭击舰。\n"
 "\n"
-"当地报纸编辑约翰•麦克菲提出了一个创意：雇佣一名跳伞员，穿着圣诞老人的服装从飞机上跳伞降落到城外的田野上，然后由警察护送到游行现场分发礼物。\n"
+"1940年春，“突袭舰队”被调往阿尔及利亚。7月3日，法军驻防的梅尔斯艾尔凯比尔基地遭到英国皇家海军的袭击。可怖护送战列巡洋舰斯特拉斯堡号从英国舰只的追击下脱身，并将其带往土伦。\n"
 "\n"
-"在游行当天，跳伞员临时退出。情急之下，麦克菲用商店里的一个人偶替代。他给人偶穿上圣诞老人服装，并从飞机上推下去。不幸的是，降落伞未能打开，人偶在孩子们的注视下摔落地面。\n"
-"\n"
-"麦克菲试图挽救局面，自己穿上圣诞老人服装与孩子们互动。但孩子们相信圣诞老人已经死了。后来，麦克菲就被称为“圣诞老人的葬送者”。"
+"1942年，该舰转移至达喀尔，11月时倒向“自由法国”一方。此后，可怖在“自由法国”海军序列中参加了意大利（1943年）和法国南部（1944年）的登陆行动。战后，可怖被编入预备役。"
 
-msgid "IDS_PFSB509_DESCR"
-msgstr ""
-"《凡尔赛条约》对德国海军战舰吨位进行了严格的限制，但是德国仍可按照他国的订单建造任何战舰。例如，在20世纪30年代初之前，德国就曾考虑为希腊建造萨拉米斯号战列舰。\n"
-"第一次世界大战结束后，德国拥有大量未完工的战舰——从战列舰到扫雷舰。其中一些封存的未成舰在完工后被销往国外。"
+msgid "IDS_PHSC990"
+msgstr "金狮Test"
 
-msgid "IDS_PWSB509_DESCR"
-msgstr "根据《凡尔赛条约》，德国海军的战舰排水量不能超过10000吨；然而，这些限制并不适用于为其他国家建造的战舰。一战后，德国还有数百艘未完成的战舰。而部分已完工的战舰销往国外。瑞典为了加强海军实力，可能曾尝试购买并建成一艘德国战列舰。"
+msgid "IDS_PHSC990_DESCR"
+msgstr "测试战舰。"
 
-msgid "IDS_SHIP_MASTERY_SHIPS_COUNT_TITLE"
-msgstr "已在进行精通挑战的战舰数"
+msgid "IDS_PHSC990_FULL"
+msgstr "金狮Test"
+
+msgid "IDS_PURCHASE_COST"
+msgstr "购买"
+
+msgid "IDS_RAGE_MODE_AVAILABLE"
+msgstr "可使用作战指令"
+
+msgid "IDS_RESEARCH_COST"
+msgstr "研发"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
+msgstr "替换"
+
+msgid "IDS_SHIPYARD_BUILD_DAYS_LEFT"
+msgstr "距离活动结束还剩：%(_timeLeft)s"
+
+msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
+msgstr "尤里•多尔戈鲁基：已完工"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_WAVED"
+msgstr "您的战舰被声呐脉冲标记，将成为敌方潜艇发射鱼雷的目标。"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_WORKING"
+msgstr "在工作深度"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE_TOOLTIP_DESCRIPTION"
+msgstr "在烟幕中主炮开火后的被侦察范围。"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
+msgstr "在工作深度"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
+msgstr "战舰限制"
+
+msgid "IDS_SUBMARINE_DEPTH_STATE_WORKING"
+msgstr "工作深度"

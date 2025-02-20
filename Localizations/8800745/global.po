@@ -2194,9 +2194,6 @@ msgstr "完成“索姆河战役”收藏。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SOVIETBB_COMPLETED"
 msgstr "完成“报效祖国”收藏。"
 
-msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SPACE_MUSEUM_COMPLETED"
-msgstr "完成“太空时代”收藏。"
-
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TFTM_108_COMPLETED"
 msgstr "完成“变形金刚（卡通电影版）35周年纪念”收藏"
 
@@ -2354,7 +2351,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_LEADERBOARD_CHAMPION_CLAN"
 msgstr "授予在Royal Navy活动期间获得出类拔萃成就的军团玩家。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
-msgstr "使一艘敌舰进水并摧毁它。进水造成的伤害必须至少为被摧毁战舰基础生命值的%(damageRatio_percent)s。"
+msgstr "使1艘敌舰进水并摧毁它。进水造成的伤害必须至少为被摧毁战舰基础生命值的%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LONGTIME_PA"
 msgstr "在战斗中存活超过10分钟。"
@@ -3103,9 +3100,6 @@ msgstr "索姆河战役"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SOVIETBB_COMPLETED"
 msgstr "报效祖国"
-
-msgid "IDS_ACHIEVEMENT_FILLALBUM_SPACE_MUSEUM_COMPLETED"
-msgstr "太空时代"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_TFTM_108_COMPLETED"
 msgstr "变形金刚（卡通电影版）35周年纪念"
@@ -4337,23 +4331,11 @@ msgstr "添加"
 msgid "IDS_ADDITIONAL"
 msgstr "额外"
 
-msgid "IDS_ADDITIONAL_BATTLE_CR"
-msgstr "每场战斗获得的额外银币"
-
-msgid "IDS_ADDITIONAL_BATTLE_CR_HINT"
-msgstr "每场战斗获得的额外银币"
-
-msgid "IDS_ADDITIONAL_BATTLE_XP"
-msgstr "每场战斗获得的额外经验"
-
-msgid "IDS_ADDITIONAL_BATTLE_XP_HINT"
-msgstr "每场战斗获得的额外经验"
-
 msgid "IDS_ADDITIONAL_CONSUMABLES_CHANGED"
 msgstr "战舰消耗品数量已增加"
 
 msgid "IDS_ADDITIONAL_CONTENT"
-msgstr "非历史风格的涂装和指挥官"
+msgstr "额外内容"
 
 msgid "IDS_ADDITIONAL_DAMAGE_COUNTERS"
 msgstr "侦察伤害/潜在伤害"
@@ -4410,7 +4392,7 @@ msgid "IDS_ADVANCED_CREW_STATUS"
 msgstr "稀有指挥官"
 
 msgid "IDS_AFFECTED_CONSUMABLES_TOOLTIP_TITLE"
-msgstr "所影响的消耗品："
+msgstr "所改变的消耗品："
 
 msgid "IDS_AFK_NOTIFICATION_TEXT"
 msgstr "不要在激烈的战斗中抛弃您的队友！消极行为将受到惩罚。"
@@ -4776,9 +4758,6 @@ msgstr "防空区域强化"
 
 msgid "IDS_AIR_DEFENSE_TOOLTIP_TITLE_DEACTIVATE"
 msgstr "正在取消防空区域强化"
-
-msgid "IDS_AIR_SUPORT_ALERT"
-msgstr "空袭"
 
 msgid "IDS_AIR_SUPPORT_HE_AVAILABLE"
 msgstr "可使用高爆炸弹空袭"
@@ -5173,12 +5152,6 @@ msgstr "AOGAS"
 msgid "IDS_AOGAS_FACTOR_HINT"
 msgstr "已减少战斗中获得的经验与银币"
 
-msgid "IDS_APPLIED_FILTER_HINT_CREWNATION"
-msgstr "按国籍筛选"
-
-msgid "IDS_APPLIED_FILTER_HINT_CREWTYPE"
-msgstr "按稀有度筛选"
-
 msgid "IDS_APPLY"
 msgstr "应用"
 
@@ -5267,7 +5240,7 @@ msgid "IDS_ARC_EVENT_COMMON_STATUS_EVENT_FINISHED"
 msgstr "活动已结束"
 
 msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
-msgstr "距离开始还有：%(_timeStart)s"
+msgstr "开始时间：%(_timeStart)s"
 
 msgid "IDS_ARC_EVENT_CONFIRM_SIDE_CALL_TO_ACTION"
 msgstr "选择？"
@@ -5782,9 +5755,6 @@ msgstr "侦察协助队友造成的伤害"
 
 msgid "IDS_ASTRA_DOG"
 msgstr "阿斯特拉"
-
-msgid "IDS_ASTRONAUT_ARTEMIEV"
-msgstr "奥列格•阿尔捷米耶夫"
 
 msgid "IDS_ASYMMETRIC_BATTLE"
 msgstr "非对称作战"
@@ -6604,9 +6574,6 @@ msgstr "挂机/暂离"
 msgid "IDS_BAJIE"
 msgstr "猪八戒"
 
-msgid "IDS_BALAO_SUBTEST"
-msgstr "山姆•费舍尔"
-
 msgid "IDS_BALBES"
 msgstr "二流子"
 
@@ -6920,9 +6887,6 @@ msgstr "战斗通行证等级数"
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_TITLE"
 msgstr "购买战斗通行证等级"
 
-msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BATTLE_XP_COEF"
-msgstr "每场战斗获得的额外经验"
-
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BP_LEVELS"
 msgstr "购买后，在取得首胜时可获得的战斗通行证等级数"
 
@@ -6944,11 +6908,11 @@ msgstr "指挥官重新训练"
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RETRAIN_GOLD"
 msgstr "重新训练指挥官的金币费用"
 
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
+msgstr "每日胜利加成"
+
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
 msgstr "您可以获得红包代币"
-
-msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
-msgstr "每日胜利加成"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_MODERNIZATION_DISMOUNT"
 msgstr "拆卸升级品"
@@ -8204,7 +8168,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_01_03_022_FULL_ESCAPE"
 msgstr "保护支援舰"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_03_023_FASTER_THAN_THE_WIND"
-msgstr "赶在Raptor之前到达会合点"
+msgstr "赶在Raptor之前到达会合点。"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_03_024_KILLCARRIER_1"
 msgstr "击毁航空母舰Haoto"
@@ -9039,6 +9003,69 @@ msgstr "永久涂装"
 msgid "IDS_CAMOUFLAGE_ROD"
 msgstr "涂装"
 
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_APRIL_SPACE"
+msgstr "“太空战舰”涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ARPEGGIO"
+msgstr "《苍蓝钢铁的琶音》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_AZURLANE"
+msgstr "《碧蓝航线》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_CH_DRAGONS"
+msgstr "农历新年涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_COLORED"
+msgstr "迷彩涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_DECORATIVE"
+msgstr "装饰涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
+msgstr "娱乐涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
+msgstr "《兔子，等着瞧！》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
+msgstr "万圣节涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HIGHSCHOOLFLEET"
+msgstr "高校舰队涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HOLOLIVE"
+msgstr "“hololive production”涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_KOBAYASHI"
+msgstr "小林诚签名涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_LOGH"
+msgstr "《银河英雄传说》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_MEGADETH"
+msgstr "麦加帝斯涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_NATU"
+msgstr "《那年那兔那些事儿》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POPEYE"
+msgstr "《大力水手波比》涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POST_APOCALYPSE"
+msgstr "诡浪涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RANGERS"
+msgstr "星河密使涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RECONSTRUCTION"
+msgstr "改造涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
+msgstr "“以进步之名！”活动涂装显示已关闭"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_WARHAMMER"
+msgstr "《战锤40K》涂装显示已关闭"
+
 msgid "IDS_CAMO_HAS_COLOR_SCHEME_INFO"
 msgstr "涂装拥有多种色彩组合"
 
@@ -9171,9 +9198,6 @@ msgstr "筛选适合军团战的战舰"
 msgid "IDS_CAROUSEL_EVENTBATTLE_FILTER"
 msgstr "筛选适合暮光狩猎的战舰"
 
-msgid "IDS_CAROUSEL_FILTER_CONSTRUCTOR"
-msgstr "筛选适合%(operationBattleNameIDS)s的战舰"
-
 msgid "IDS_CAROUSEL_LEGENDARY_BATTLE_FILTER"
 msgstr "筛选适合巨战的战舰"
 
@@ -9239,9 +9263,6 @@ msgstr "筛选适合铁甲舰时代模式的战舰"
 
 msgid "IDS_CAROUSEL_PCVE028_FILTER"
 msgstr "筛选适合“朝蛋夕拾”比赛的战舰"
-
-msgid "IDS_CAROUSEL_PCVE029_FILTER"
-msgstr "筛选适合“水下前线”的战舰"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "筛选适合所选行动的战舰"
@@ -9341,6 +9362,12 @@ msgstr "装甲甲板斜面"
 
 msgid "IDS_CATALOGUE"
 msgstr "航行日志"
+
+msgid "IDS_CATCH_EGG_HINT"
+msgstr "接住蛋以获得积分，接住金蛋能获得更多积分。"
+
+msgid "IDS_CATCH_SHARK_HINT"
+msgstr "鲨鱼！您的积分变少了，但战舰航速提高了。"
 
 msgid "IDS_CAT_SCIENTIST"
 msgstr "科学家猫"
@@ -9882,9 +9909,6 @@ msgstr "选择铁甲舰时代"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE028"
 msgstr "选择“朝蛋夕拾”比赛"
-
-msgid "IDS_CHOOSE_EVENTBATTLE_PCVE029"
-msgstr "选择“水下前线”"
 
 msgid "IDS_CHOOSE_MODERNIZATION"
 msgstr "选择一种升级品"
@@ -11840,9 +11864,6 @@ msgstr "每日补给箱目前不包含此收藏的元素。"
 msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "得到的物品"
 
-msgid "IDS_COLLECTION_RANDOM_ITEM"
-msgstr "随机物品"
-
 msgid "IDS_COLLECTION_RECEIVE_IN_ARMORY_BUNDLES"
 msgstr "此收藏的元素可以从兵工厂中的补给箱获得。"
 
@@ -12438,9 +12459,6 @@ msgstr "按住[KEY_LEFTMOUSE]使用激光。"
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "瞄准正在移动的敌舰时应考虑提前量"
 
-msgid "IDS_CONTEXT_TUTORIAL_REGEN_CREW"
-msgstr "维修小组"
-
 msgid "IDS_CONTEXT_TUTORIAL_REPAIR_BURN"
 msgstr "把火扑灭"
 
@@ -12464,18 +12482,6 @@ msgstr "按下以上浮"
 
 msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_DROP_PICKUP"
 msgstr "只能在水面上拾取增益。"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_INVULNERABLE"
-msgstr "位于最大深度时：潜艇受到的伤害更少，不会被发现；但其同时也无法发现其他战舰。"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
-msgstr "位于潜望深度时，潜艇不消耗下潜能力，并会持续进行被动声呐定位；但其航速降低，对战舰的侦察范围缩小。"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PING"
-msgstr "按下[CMD_DEACTIVATE_PING]可取消声呐标记的最后一个高亮区域，对其发射的鱼雷将不再被导向该区域。"
-
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
-msgstr "位于工作深度时：潜艇的航速较高，并会持续进行被动声呐定位；但其对战舰的侦察范围大幅缩小。"
 
 msgid "IDS_CONTEXT_TUTORIAL_USE_DC_AGAINST_MINES"
 msgstr "用深水炸弹摧毁水雷"
@@ -19582,13 +19588,13 @@ msgid "IDS_CURRENCY_EVENTUM_9"
 msgstr "战舰代币"
 
 msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
-msgstr "在25.3版本结束前从兵工厂的随机礼包链中获得。"
+msgstr "在活动期间从兵工厂的礼包链中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
-msgstr "在25.3版本结束前，用于兑换包括II-IV级加值战舰补给箱、V级加值战舰补给箱、VI级加值战舰补给箱、VIII级加值战舰补给箱和IX级加值战舰补给箱、研究点、精英加成补给箱和其他资源的随机礼包链。"
+msgstr "用于购买包含“II-IV级加值战舰”、“V级加值战舰”、“VI级加值战舰”、“VIII级加值战舰”和“IX级加值战舰”补给箱的礼包，研究点，精英加成补给箱，以及其他资源。"
 
 msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
-msgstr "“海洋奖杯”活动的临时资源。25.4版本发布后，代币将被无偿收回。"
+msgstr "临时资源"
 
 msgid "IDS_CURRENCY_EVENTUM_CN"
 msgstr "补给券"
@@ -19714,7 +19720,7 @@ msgid "IDS_CURRENCY_SESSION_STATS"
 msgstr "战斗收益"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
-msgstr "战舰部件 | %(_shipName)s"
+msgstr "战舰部件 | %(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_ADDITIONAL_INFO"
 msgstr "您拥有的战舰部件将按照1:1的比例自动转换为相应等级的备件。"
@@ -19723,7 +19729,7 @@ msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
 msgstr "可在兵工厂购买，或通过参加各种活动获得。"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
-msgstr "战舰部件 | %(_shipName)s"
+msgstr "战舰部件 | %(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
 msgstr "战舰部件"
@@ -19732,7 +19738,7 @@ msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
 msgstr "在维修船坞中修理对应战舰。"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL"
-msgstr "备件 | %(_shipLevel)s级"
+msgstr "备件 | %(_shipLevel)s级"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
 msgstr "可在兵工厂购买，或通过参加各种活动获得。"
@@ -20364,12 +20370,6 @@ msgstr ""
 
 msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
 msgstr "Utopia Show是一个发布科普主题视频的网络节目。其主要目标是消除神秘现象的常见误解，并揭露阴谋论。本收藏集包含了Utopia Show中的一些名人名场面。"
-
-msgid "IDS_DESCRIPTION_PCZA040_SPACE_MUSEUM"
-msgstr ""
-"自古以来，天空始终吸引着人类——对于科学家而言，它象征着对宇宙奥秘的探索；对诗人而言，则是宏伟而纯净的意象。然而，直到20世纪中叶，科学技术的飞速发展才让人类真正有机会用研究者的目光仰望天空，并踏上离开地球的征程。\n"
-"\n"
-"在20世纪50年代末至60年代初，苏联一系列科学与技术上的成就标志着太空时代的开端。例如，1957年将首颗人造地球卫星送入轨道，1961年实现了人类历史上首次载人航天飞行。除此之外还有许多令人瞩目的壮举，这些伟大事件的背后，离不开成千上万人的努力：科学家、工程师、工人以及国家决策者，正是他们将飞向太空的梦想变为现实——他们的成就将永载史册。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "挑战中无法使用副炮。"
@@ -21558,12 +21558,6 @@ msgstr ""
 "\n"
 "能有效对抗高机动的轻装甲目标。"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr ""
-"集成了声呐与鱼雷，会根据声呐脉冲命中的情况自动切换——每当声呐脉冲命中战舰一次，都可发射一枚声导鱼雷。\n"
-"\n"
-"位于最大深度时无法使用。"
-
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUPERSHIP"
 msgstr "对付大型装甲目标最为有效。高机动性战舰有很高的几率能躲避鱼雷攻击。"
 
@@ -21719,9 +21713,6 @@ msgstr "缴械式鱼雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT"
 msgstr "声导鱼雷"
-
-msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr "导向系统"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUPERSHIP"
 msgstr "鱼雷"
@@ -23061,12 +23052,6 @@ msgstr "深水鱼雷（DT）"
 msgid "IDS_DOCTOR_LINEBELLY_H2020"
 msgstr "Doctor Linebelly"
 
-msgid "IDS_DOF"
-msgstr "港口景深"
-
-msgid "IDS_DOF_DESCRIPTION"
-msgstr "在港口中，对焦范围外的物体会被模糊处理，营造电影般的效果。仅在后期处理品质设定为“极高”时生效。"
-
 msgid "IDS_DOGTAGS_BGBORDERCOLOR_GROUP_BASIC"
 msgstr "基础"
 
@@ -23857,7 +23842,7 @@ msgid "IDS_DOGTAG_PCNB060_NAME"
 msgstr "风向玫瑰图"
 
 msgid "IDS_DOGTAG_PCNB061_DESCRIPTION"
-msgstr "铁尺是琉球的传统三叉戟式刺杀武器。这种武器的原型在印度，泰国，中国和其他亚洲国家均有发现。它主要用于日本武术，如忍术和古武道。"
+msgstr "铁尺是日本冲绳的传统三叉戟式刺杀武器。这种武器的原型在印度，泰国，中国和其他亚洲国家均有发现。它主要用于日本武术，如忍术和古武道。"
 
 msgid "IDS_DOGTAG_PCNB061_NAME"
 msgstr "双重赛"
@@ -27717,12 +27702,6 @@ msgstr "个人档案"
 msgid "IDS_ELITE_CREW_BANNER_TITLE"
 msgstr "精英训练"
 
-msgid "IDS_ELITE_CREW_CAN_GET_TALENT_TOOLTIP_STATUS"
-msgstr "可激活国家天赋"
-
-msgid "IDS_ELITE_CREW_CAN_UPGRADE_SKILL_TOOLTIP_STATUS"
-msgstr "可强化技能"
-
 msgid "IDS_ELITE_CREW_NOT_READY_ONBOARDING_BANNER_SUBTITLE"
 msgstr "在指挥官达到最高等级后可用"
 
@@ -30214,9 +30193,6 @@ msgstr "汽车人永久涂装"
 msgid "IDS_FIFTH_SOVIETBBARC_NAME"
 msgstr "海军指挥官之路"
 
-msgid "IDS_FIFTH_SPACE_MUSEUM_NAME"
-msgstr "最初的记录"
-
 msgid "IDS_FIFTH_YAMSUBCOLLECTION_NAME"
 msgstr "其它"
 
@@ -30414,9 +30390,6 @@ msgstr "机器人以“智慧”著称"
 
 msgid "IDS_FIRST_SOVIETBBARC_NAME"
 msgstr "海军上将 尼古拉•库兹涅佐夫"
-
-msgid "IDS_FIRST_SPACE_MUSEUM_NAME"
-msgstr "人造卫星与空间站：第1部分"
 
 msgid "IDS_FIRST_TSAR_MOREY_NAME"
 msgstr "梦之队"
@@ -30657,9 +30630,6 @@ msgstr "世界科学的荣耀！"
 
 msgid "IDS_FOURTH_SOVIETBBARC_NAME"
 msgstr "俄罗斯造船人I"
-
-msgid "IDS_FOURTH_SPACE_MUSEUM_NAME"
-msgstr "宇航服"
 
 msgid "IDS_FOURTH_TSAR_MOREY_NAME"
 msgstr "胜者之路"
@@ -31366,9 +31336,6 @@ msgstr "前往军团界面"
 
 msgid "IDS_GO_TO_COLLECTION_SCREEN"
 msgstr "前往收藏界面"
-
-msgid "IDS_GO_TO_COLLECTION_SSE_BUTTON"
-msgstr "查看收藏"
 
 msgid "IDS_GO_TO_EVENT_BATTLE_DETAILS_MOUSE_INSTRUCTION"
 msgstr "前往活动界面"
@@ -34019,9 +33986,6 @@ msgstr "出售您不需要的资源。"
 msgid "IDS_HINT_YOUR_ACCOUNT"
 msgstr "您的账号"
 
-msgid "IDS_HIRE_CREW"
-msgstr "征募指挥官"
-
 msgid "IDS_HIRE_CREW_SWITCH_OFF_TOOLTIP"
 msgstr "不为这艘战舰征募新指挥官"
 
@@ -34115,6 +34079,9 @@ msgstr "画虎"
 msgid "IDS_HUA_QING"
 msgstr "华卿"
 
+msgid "IDS_HYDROPHONE"
+msgstr "被发现"
+
 msgid "IDS_I00_AV_HINT"
 msgstr "要使用全部炮塔，转向用舷侧面向敌人。"
 
@@ -34183,6 +34150,9 @@ msgstr "无法进行回放。回放文件与您的客户端版本不匹配。"
 
 msgid "IDS_INCOMPLETE_DIVISION"
 msgstr "以不满员状态进入战斗"
+
+msgid "IDS_INCREASE_BARRACKS_CAPACITY"
+msgstr "扩充"
 
 msgid "IDS_INFORMER_TIME_LEFT"
 msgstr "剩余：%(_timeLeft)s"
@@ -34267,9 +34237,6 @@ msgstr "飞行甲板失火！"
 
 msgid "IDS_INFO_CARRIR_BURNING_PLANE_CANT_TAKE_OFF"
 msgstr "飞行甲板失火！"
-
-msgid "IDS_INFO_DEEP_WATER_DISABLED"
-msgstr "位于工作深度时无法使用"
 
 msgid "IDS_INFO_DEEP_WATER_INVUL_DISABLED"
 msgstr "在最大深度时无法使用"
@@ -34757,9 +34724,6 @@ msgstr "铁甲舰时代模式的匹配时间为:"
 
 msgid "IDS_IN_PCVE028"
 msgstr "“朝蛋夕拾”比赛的匹配时间为:"
-
-msgid "IDS_IN_PCVE029"
-msgstr "“水下前线”的匹配时间为:"
 
 msgid "IDS_IN_PVEBATTLE"
 msgstr "行动的匹配时间为:"
@@ -35277,12 +35241,6 @@ msgstr "节"
 msgid "IDS_KUZNETSOV"
 msgstr "Nikolay Kuznetsov"
 
-msgid "IDS_K_TYPE_SUBTEST"
-msgstr "谢苗•雷巴科夫"
-
-msgid "IDS_LANA_ANIME"
-msgstr "拉娜"
-
 msgid "IDS_LAND_LAUNCH"
 msgstr "起飞/降落"
 
@@ -35437,9 +35395,6 @@ msgstr "九年法则，1948"
 
 msgid "IDS_LEGENDARY_PROGRAM_USA"
 msgstr "长期造船计划，1950"
-
-msgid "IDS_LEILA_ANIME"
-msgstr "艾拉"
 
 msgid "IDS_LENA_SUMMER"
 msgstr "莉娜"
@@ -39389,39 +39344,6 @@ msgstr "位列积分榜前3名的玩家将获得相应的纪念成就。"
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "您的积分越高，战斗收益就越丰厚。"
 
-msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
-msgstr "水下前线"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_HEADER"
-msgstr "水下前线"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
-msgstr "战斗特点"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "您可以选择驾驶潜艇参战，以体验对该战舰类型所做的改动。"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "若您选择驾驶其他类型战舰参战，则可以体验关于对抗潜艇的各项改动。"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
-msgstr "潜艇"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "声呐与声导鱼雷已被合并：声呐命中目标后会自动切换到鱼雷发射管。每一次声呐脉冲命中可为一枚鱼雷提供制导。"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "无法使用水听器消耗品。所有潜艇在位于潜望深度和工作深度时都会持续进行被动声呐定位。"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_HEADER"
-msgstr "水面战舰"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "深水炸弹会在较浅深度停留一段时间。在这段时间内，其可被附近的水面战舰、潜艇或鱼雷触发爆炸。"
-
-msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "除对水下的潜艇造成伤害外，深水炸弹还能摧毁鱼雷，并对水面上的水面战舰和潜艇造成少量伤害。"
-
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
 msgstr "特兰西瓦尼亚的最终航行"
 
@@ -39709,42 +39631,6 @@ msgstr "对付水面目标最有效。[UNUSED]"
 
 msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_TEXT_2"
 msgstr "对付水面目标最有效。[UNUSED]"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_HEADER"
-msgstr "潜艇"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_TEXT_1"
-msgstr "当潜艇发射声呐脉冲时，水面会出现波纹，指示潜艇移动的方向。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_HEADER"
-msgstr "被动声呐"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_TEXT_1"
-msgstr "潜艇能够在一定范围内直接看到位于水面上战舰的位置。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_HEADER"
-msgstr "深水炸弹"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
-msgstr "会在较浅深度停留片刻，能对潜艇造成伤害并摧毁鱼雷。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
-msgstr "声呐与鱼雷"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
-msgstr "同一艘潜艇在同一时间针对同一战舰进行制导的鱼雷数量有限，具体取决于潜艇种类。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_HEADER"
-msgstr "最大深度"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
-msgstr "位于最大深度时：潜艇无法被发现，受到的伤害也更少；但作战能力受到限制。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_HEADER"
-msgstr "深水炸弹"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
-msgstr "会在较浅深度停留片刻，能对潜艇造成伤害并摧毁鱼雷。"
 
 msgid "IDS_MODAL_WINDOW_TITLE_CAMOUFLAGE_PURCHASE"
 msgstr "购买涂装"
@@ -40212,7 +40098,7 @@ msgid "IDS_MOUSE_INSTRUCTION_INSTALL_CAMOUFLAGE"
 msgstr "安装涂装"
 
 msgid "IDS_MOUSE_INSTRUCTION_INSTALL_CAMO_COLOR"
-msgstr "安装指定色彩组合的涂装"
+msgstr "安装这种色彩组合的涂装"
 
 msgid "IDS_MOUSE_INSTRUCTION_INSTALL_ECONOMIC_BOOST"
 msgstr "安装加成"
@@ -40263,10 +40149,10 @@ msgid "IDS_MOUSE_INSTRUCTION_SHIP_FEATURES"
 msgstr "查看战舰特性"
 
 msgid "IDS_MOUSE_INSTRUCTION_START_PREVIEW_MODULE_TTX"
-msgstr "显示安装配件对战舰参数的更改。"
+msgstr "安装配件后显示对战舰参数的更改。"
 
 msgid "IDS_MOUSE_INSTRUCTION_STOP_PREVIEW_MODULE_TTX"
-msgstr "隐藏安装配件对战舰参数的更改。"
+msgstr "安装配件后隐藏对战舰参数的更改。"
 
 msgid "IDS_MOUSE_INSTRUCTION_TAKE_AWAY_CAMOUFLAGE"
 msgstr "拆卸涂装"
@@ -40320,7 +40206,7 @@ msgid "IDS_MSAA_MODE"
 msgstr "多重采样抗锯齿"
 
 msgid "IDS_MSAA_MODE_DESCRIPTION"
-msgstr "一种图像抗锯齿方案，处理更多位于3D对象边缘处的像素。为对象的边缘提供更好的图像品质。"
+msgstr "一种图像抗锯齿，对3D对象的边缘处理更多像素。为对象的边缘提供更好的图像品质。"
 
 msgid "IDS_MSKIN_NOT_LINKED"
 msgstr "尚未绑定。一旦绑定至一艘战舰，此涂装将无法安装在其他战舰上。"
@@ -41395,7 +41281,7 @@ msgid "IDS_NOT_ENOUGH_FOR_TRAINING_BY_CLASS_AIRCARRIER"
 msgstr "航空母舰太少"
 
 msgid "IDS_NOT_ENOUGH_FOR_TRAINING_BY_CLASS_AUXILIARY"
-msgstr "辅助舰太少"
+msgstr "运输舰太少"
 
 msgid "IDS_NOT_ENOUGH_FOR_TRAINING_BY_CLASS_BATTLESHIP"
 msgstr "战列舰太少"
@@ -44079,7 +43965,7 @@ msgid "IDS_OP_09_PAYLOAD_HALF_HEALTH_TASK_END_F"
 msgstr "旗舰受到严重伤害。行动告急！"
 
 msgid "IDS_OP_09_START_CYCLONE"
-msgstr "在雷暴区中，战舰的侦察范围和被侦察范围都将缩小。主炮开火后被侦察范围增加的持续时间缩短至7秒。"
+msgstr "在雷暴天气中，战舰的侦察范围和被侦察范围都将缩小。主炮开火后被侦察范围增加的持续时间缩短至7秒。"
 
 msgid "IDS_OP_09_THIRD_READY"
 msgstr "发现敌方战列舰！"
@@ -44747,12 +44633,6 @@ msgstr "Consolidated PB4Y-2 Privateer"
 
 msgid "IDS_PAAD920_ESSEX_TOP"
 msgstr "BTD Destroyer"
-
-msgid "IDS_PAAD983_ASW_T10_CV_SUBTEST"
-msgstr "Consolidated PB4Y-2 Privateer Test"
-
-msgid "IDS_PAAD988_ASW_T10_SUBTEST"
-msgstr "Consolidated PB4Y-2 Privateer"
 
 msgid "IDS_PAAD998_CONCORD_BRIDGE"
 msgstr "SB2C Helldiver"
@@ -46647,12 +46527,6 @@ msgstr "350 lb Depth Bomb Mk 54"
 msgid "IDS_PAPD110_DEPTH_CV_10"
 msgstr "650 lb Depth Bomb Mk 38"
 
-msgid "IDS_PAPD907_DEPTH_T10"
-msgstr "650-pound Depth Bomb"
-
-msgid "IDS_PAPD910_DEPTH_CV_10"
-msgstr "650-pound Depth Bomb Mk 38"
-
 msgid "IDS_PAPR009_KEARSARGE"
 msgstr "Tiny Tim"
 
@@ -46961,12 +46835,6 @@ msgstr "Mk29 MIE"
 
 msgid "IDS_PAPT920_ESSEX_TOP"
 msgstr "Torpedo Mk.7 mod.1"
-
-msgid "IDS_PAPT990_MK29_SUBTEST"
-msgstr "Mk29 MIE"
-
-msgid "IDS_PAPT991_MK29_SUB_MAGNETIC_SUBTEST"
-msgstr "Mk29"
 
 msgid "IDS_PAPT998_CONCORD_BRIDGE"
 msgstr "Torpedo Mk.13-2"
@@ -47370,12 +47238,6 @@ msgstr "目标锁定时间"
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
 msgstr "战舰消耗品的作用时间"
 
-msgid "IDS_PARAMS_MODIFIER_CANBEDAMAGED"
-msgstr "潜艇受到的伤害降低"
-
-msgid "IDS_PARAMS_MODIFIER_CANBEDETECTED"
-msgstr "潜艇无法被发现"
-
 msgid "IDS_PARAMS_MODIFIER_CANBEDETECTEDBYSONAR"
 msgstr "潜艇监视设备可以侦察潜艇。"
 
@@ -47498,22 +47360,19 @@ msgstr "深水炸弹伤害"
 msgid "IDS_PARAMS_MODIFIER_DCNUMPACKSBONUS"
 msgstr "舰载深水炸弹数"
 
-msgid "IDS_PARAMS_MODIFIER_DCRELOADTIMECOEFF"
-msgstr "深水炸弹的装填时间"
-
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
 msgstr "攻击潜艇时弹药的爆炸半径"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_BOMB"
-msgstr "攻击潜艇时高爆炸弹的爆炸半径"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
+msgstr "攻击潜艇时高爆弹的爆炸半径"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_ROCKET"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
 msgstr "攻击潜艇时高爆火箭弹的爆炸半径"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_MAIN"
-msgstr "攻击潜艇时高爆弹和半穿甲弹的爆炸半径"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
+msgstr "攻击潜艇时主炮高爆弹和半穿甲弹的爆炸半径"
 
-msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_SEC"
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
 msgstr "攻击潜艇时副炮炮弹的爆炸半径"
 
 msgid "IDS_PARAMS_MODIFIER_DECREASINGSPEEDBYBLUELINE"
@@ -47933,9 +47792,6 @@ msgstr "可发现战舰的距离"
 msgid "IDS_PARAMS_MODIFIER_IGNOREPTZBONUS"
 msgstr "使敌方防雷鼓包的防护减弱"
 
-msgid "IDS_PARAMS_MODIFIER_INFINITEWORKHYDROPHONE"
-msgstr "被动声呐定位"
-
 msgid "IDS_PARAMS_MODIFIER_INVULNERABLE"
 msgstr "此战舰不受任何类型的伤害"
 
@@ -48007,9 +47863,6 @@ msgstr "舰载鱼雷航速"
 
 msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE"
 msgstr "在最大深度时无法使用"
-
-msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE_SUB_IMPROVE"
-msgstr "位于工作深度和最大深度时无法使用"
 
 msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_PERISCOPESTATE"
 msgstr "在潜望深度和最大深度时无法使用"
@@ -48179,6 +48032,9 @@ msgstr "目标区域半径"
 msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
 msgstr "受到的主炮伤害"
 
+msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
+msgstr "受到的鱼雷伤害"
+
 msgid "IDS_PARAMS_MODIFIER_REGENBYREPAIRAREA"
 msgstr "生命值恢复"
 
@@ -48330,7 +48186,7 @@ msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYPERISCOPEDEPTHSTATEINSMOKE"
 msgstr "在潜望深度"
 
 msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYWORKINGDEPTHSTATEINSMOKE"
-msgstr "从工作深度"
+msgstr "从作业深度[UNUSED]"
 
 msgid "IDS_PARAMS_MODIFIER_SHOOTSHIFT"
 msgstr "被敌方炮弹攻击的误差"
@@ -50131,7 +49987,7 @@ msgid "IDS_PASC210_FULL"
 msgstr "伍斯特"
 
 msgid "IDS_PASC210_NUMBER"
-msgstr "2"
+msgstr "3"
 
 msgid "IDS_PASC210_YEAR"
 msgstr "1948"
@@ -51044,13 +50900,13 @@ msgid "IDS_PASS610_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASS910"
-msgstr "雅罗鱼"
+msgstr "巴劳鱵Test"
 
 msgid "IDS_PASS910_DESCR"
-msgstr "在两次世界大战之间研发的潜艇，最初旨在与战列舰协同作战，承担侦察任务并完成对受损敌舰的最后打击。它们需要具备较高的航速和强大的武器装备。然而，在太平洋战区发生的一系列事件之后，这些战术理念已经过时，新的潜艇类型开始面向远程航行进行设计：这类潜艇注重提升艇员的舒适度，并配备更大数量的燃料和鱼雷储备。"
+msgstr "用于测试的战舰复制品。"
 
 msgid "IDS_PASS910_FULL"
-msgstr "雅罗鱼"
+msgstr "巴劳鱵Test"
 
 msgid "IDS_PASS910_NUMBER"
 msgstr "77"
@@ -53185,7 +53041,7 @@ msgid "IDS_PAUH922_A_HUMP"
 msgstr "约书亚•汉弗莱斯"
 
 msgid "IDS_PAUH923_HULL_BALAO_TEST"
-msgstr "雅罗鱼"
+msgstr "巴劳鱵Test"
 
 msgid "IDS_PAUH924_D10_HULL_STOCK"
 msgstr "林奇"
@@ -56787,7 +56643,7 @@ msgid "IDS_PBSC105"
 msgstr "翡翠"
 
 msgid "IDS_PBSC105_DESCR"
-msgstr "项目E是英国轻型巡洋舰的进一步发展，采用了功率较高的引擎来提高航速。该级首艘巡洋舰HMS翡翠号于1918年铺设龙骨，并直到1926年才开始服役。在两次世界大战之间，它在（驻）东印度及中国舰队服役。该舰在1939年至1940年间护送哈利法克斯的船团，并于1942年成为东方舰队的旗舰。在1942年和1943年经历维修后，它参加了盟军在诺曼底的登陆，后来被重新归类为靶舰。"
+msgstr "项目E是英国轻型巡洋舰的进一步发展，采用了功率较高的引擎来提高航速。该级首艘巡洋舰HMS翡翠号于1918年铺设龙骨，并直到1926年才开始服役。在两次世界大战之间，它在东印度群岛和中国舰队行动。该舰在1939年至1940年间护送哈利法克斯的船团，并于1942年成为东方舰队的旗舰。在1942年和1943年经历维修后，它参加了盟军在诺曼底的登陆，后来被重新归类为靶舰。"
 
 msgid "IDS_PBSC105_FULL"
 msgstr "翡翠"
@@ -56877,7 +56733,7 @@ msgid "IDS_PBSC111"
 msgstr "埃德加"
 
 msgid "IDS_PBSC111_DESCR"
-msgstr "在推进米诺陶级项目时，英国工程师受到1945年铺设龙骨的美国伍斯特级巡洋舰的启发。伍斯特级首舰于1948年服役后，有人提议将炮塔的数量增加到6座；然而，由于改动后的开发时间也相应增加，该提议未被采纳。"
+msgstr "在推进米诺陶级项目时，英国工程师受到1945年铺设龙骨的美国伍斯特级巡洋舰的启发。首舰于1948年服役后，有人提议将炮塔的数量增加到6座；然而，由于改动后的开发时间也相应增加，因此该想法未予采纳。"
 
 msgid "IDS_PBSC111_FULL"
 msgstr "埃德加"
@@ -56892,7 +56748,7 @@ msgid "IDS_PBSC205"
 msgstr "霍金斯"
 
 msgid "IDS_PBSC205_DESCR"
-msgstr "为了应对德国轻型巡洋舰（海上破袭者），基于城级战舰的反破袭舰项目出现。鉴于对远射程、高射速火炮的需求，此战舰统一配备了190毫米火炮。HMS霍金斯号于1916年6月铺设龙骨，1919年服役。1920年至1928年间，它作为（驻）中国舰队第五轻型巡洋舰中队的旗舰行动。1928年至1929年间，此战舰驻扎在大西洋和印度洋。在二战期间，该巡洋舰被部署在第二战区——加勒比、非洲和印度。"
+msgstr "为了应对德国轻型巡洋舰（海上破袭者），基于城级战舰的反破袭舰项目出现。鉴于对远射程、高射速火炮的需求，此战舰统一配备了190毫米火炮。HMS霍金斯号于1916年6月铺设龙骨，1919年服役。1920年至1928年间，它作为中国舰队第五轻型巡洋舰中队的旗舰行动。1928年至1929年间，此战舰驻扎在大西洋和印度洋。在二战期间，该巡洋舰被部署在第二战区——加勒比、非洲和印度。"
 
 msgid "IDS_PBSC205_FULL"
 msgstr "霍金斯"
@@ -57060,7 +56916,7 @@ msgid "IDS_PBSC516"
 msgstr "伦敦"
 
 msgid "IDS_PBSC516_DESCR"
-msgstr "HMS伦敦号是第二批郡级巡洋舰的首舰，于1926年铺设龙骨，1929年服役。在二战开始之前，伦敦号是第一巡洋舰中队的旗舰。战争期间，它参与了对德国战列舰俾斯麦号的追击，并在北大西洋执行船团护航的任务。1943年经过整修后，伦敦号被派到东方舰队。在战争结束后，它在（驻）中国舰队服役。"
+msgstr "HMS伦敦号是第二批郡级巡洋舰的首舰，于1926年铺设龙骨，1929年服役。在二战开始之前，伦敦号是第一巡洋舰中队的旗舰。战争期间，它参与了对德国战列舰俾斯麦号的追击，并在北大西洋执行船团护航的任务。1943年经过整修后，伦敦号被派到东方舰队。在战争结束后，它在中国舰队服役。"
 
 msgid "IDS_PBSC516_FULL"
 msgstr "伦敦"
@@ -64529,12 +64385,6 @@ msgstr ""
 "\n"
 "全世界无产阶级和劳动人民的伟大导师弗里德里希•恩格斯在为《法兰西内战》作的序言中写道：“先生们，你们想知道无产阶级专政是什么样子吗？请看看巴黎公社吧。这就是无产阶级专政。”"
 
-msgid "IDS_PCEE738_DUPERRE_FLAG"
-msgstr "杜皮尔"
-
-msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
-msgstr "吉-维克多•杜皮尔（1775–1846）是法国海军将领，曾经历拿破仑战争、波旁王朝复辟与七月王朝时期。他在指挥贝洛纳号护卫舰时，于毛里求斯战役中取得了大港之战的胜利。1830 年，他获任命为法国海军上将，随后三度担任海军部长。"
-
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "2016年圣诞老人召集令"
 
@@ -65588,7 +65438,7 @@ msgid "IDS_PCVE024"
 msgstr "护航战"
 
 msgid "IDS_PCVE024_DESCRIPTION"
-msgstr "根据您所处的团队，摧毁或保护运输舰。"
+msgstr "击毁运输舰还是保护它们，取决于您身处哪方团队。"
 
 msgid "IDS_PCVE024_MATCHMAKER_DESCRIPTION"
 msgstr "随机分配到进攻团队或护航团队"
@@ -65636,15 +65486,6 @@ msgstr "拾取鸡蛋、躲避鲨鱼！"
 
 msgid "IDS_PCVE028_MATCHMAKER_DESCRIPTION"
 msgstr "拾取鸡蛋、躲避鲨鱼！"
-
-msgid "IDS_PCVE029"
-msgstr "水下前线"
-
-msgid "IDS_PCVE029_DESCRIPTION"
-msgstr "在此模式中，您可以体验到潜艇以及与之作战的手段的变化。"
-
-msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
-msgstr "在此模式中，您可以体验到潜艇以及与之作战的手段的变化。"
 
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "我方海军分舰队受到了攻击。一些战舰被摧毁，而被虏获的运输舰现在正被护送到敌方基地中。快拦截敌方舰团并夺回我方运输舰。"
@@ -66316,12 +66157,6 @@ msgstr "Utopia Show"
 
 msgid "IDS_PCZA039_UTOPIA_QUOTES"
 msgstr "Utopia Show"
-
-msgid "IDS_PCZA040_SPACE_MUSEUM"
-msgstr "太空时代"
-
-msgid "IDS_PCZA040_SPACE_MUSEUM_QUOTES"
-msgstr "“太空时代”"
 
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "俾斯麦"
@@ -74167,555 +74002,6 @@ msgstr ""
 "\n"
 "山葵的独特风味是植物细胞被破坏时产生的复杂物质组合的结果（据说这一特征是在进化过程中作为一种防御机制出现的）。山葵的辣味对嗅觉的刺激大于对味蕾的刺激，植物的气味具有类似于氨的效果。研究人员利用山葵的这一特性为有听力障碍的人制作了火灾警报器——一名参加实验的人在芥末的气味开始在房间里弥漫10秒钟后就醒了过来。"
 
-msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
-msgstr "第一颗人造地球卫星"
-
-msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
-msgstr ""
-"它的发射开启了人类太空时代。\n"
-"\n"
-"莫斯科时间1957年10月4日22点28分，从拜科努尔发射场起飞的运载火箭“Sputnik”将其送入近地轨道，轨道参数：\n"
-"• 近地点高度 — 228 公里；\n"
-"• 远地点高度 — 947 公里。\n"
-"\n"
-"这是在R-7洲际弹道导弹基础上改进的“Sputnik”两级火箭，首次达成第一宇宙速度，将人造物体送入地球轨道。卫星在环绕地球期间不断发射无线电信号，全世界的业余无线电爱好者都能接收到。\n"
-"\n"
-"技术数据：\n"
-"• 卫星质量 — 83.6千克；\n"
-"• 卫星主体为直径58厘米的球体，上面装有四根长度分别为2.4米、2.9米的天线。\n"
-"\n"
-"球体内部安装了：\n"
-"• 化学电源；\n"
-"• 无线电发射装置；\n"
-"• 风扇；\n"
-"• 温控恒温器与管路系统；\n"
-"• 自动控制连接系统；\n"
-"• 温度与压力传感器；\n"
-"• 电缆网络。\n"
-"\n"
-"这颗卫星共飞行了92天，完成了1440圈绕地飞行后，于1958年1月4日坠入大气层烧毁。\n"
-"\n"
-"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。\n"
-"\n"
-"科罗廖夫与米哈伊尔•克拉夫基耶维奇•吉洪拉沃夫是发射首颗人造地球卫星的倡议人。"
-
-msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
-msgstr "第二颗人造地球卫星"
-
-msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
-msgstr ""
-"这是人类第一颗生物实验卫星，装载了第一只在轨道上飞行的生物——名为“莱卡”（Лайка）的狗。\n"
-"\n"
-"1957年11月3日，由运载火箭“Sputnik”在拜科努尔发射场发射升空。\n"
-"\n"
-"卫星上安装了各种科学仪器，用于在轨直接测量和研究，其中还包括对地球外层辐射带的初步探测。\n"
-"\n"
-"除科学设备外，卫星另有一个密封舱用来容纳莱卡犬（并不打算让其返回地球）。\n"
-"\n"
-"这是对失重与宇宙辐射于生物机体的影响的首次研究。安装在卫星上的盖革计数器首次测得太空中的平均辐射水平。数据表明，人在太空中短期停留是可行的。\n"
-"\n"
-"卫星质量 — 508.3千克。\n"
-"\n"
-"它在轨道上共停留了160天，绕地球约2370圈，于1958年4月14日坠入大气层烧毁。\n"
-"\n"
-"由首席设计师谢尔盖•科罗廖夫领导的OKB-1研制。"
-
-msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
-msgstr "第三颗人造地球卫星"
-
-msgid "IDS_PCZC953_SPACE_MUSEUM_1_3_DESCRIPTION"
-msgstr ""
-"这是人类历史上第一座在地球轨道上的科学实验室。\n"
-"\n"
-"1958年5月15日，由运载火箭“Sputnik”在拜科努尔发射场送入太空，用于研究近地宇宙空间、地球大气及太阳辐射。\n"
-"\n"
-"卫星上配备了12台科学仪器，用于测量压力与温度、电荷、电磁场强度、太阳高速粒子流（太阳风）以及大气电离成分浓度、流星撞击记录等。此任务发现了地球外层辐射带。卫星还首次采用了主动温控系统和太阳能电池。\n"
-"\n"
-"卫星总重1327千克，其中科学仪器重968千克，累计绕地飞行10037圈。\n"
-"\n"
-"它在轨道上工作至1960年4月6日。\n"
-"\n"
-"由首席设计师谢尔盖•科罗廖夫领导的OKB-1研制。"
-
-msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
-msgstr "月球1号探测器"
-
-msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
-msgstr ""
-"人类历史上首个达到第二宇宙速度的航天器。\n"
-"\n"
-"1959年1月2日，由“东方-L”（Восток-Л）运载火箭在拜科努尔发射场发射。\n"
-"\n"
-"其科学仪器包括：\n"
-"• 测量地月磁场的磁力计；\n"
-"• 四根用于太阳风探测的天线；\n"
-"• 若干装置测量太阳粒子流；\n"
-"• 测量微流星碰撞的探测器；\n"
-"• 无线电发射天线，用于向地球传送数据。\n"
-"\n"
-"探测器内部还装载了一个写有“苏联”及发射日期等标识的金属徽标球体与铝制金属条，原计划让其撞击月球后留在月面。\n"
-"\n"
-"1959年1月4日，月球1号距月面约5000–6000公里处掠过，但因飞行程序出错未能命中月球表面。\n"
-"\n"
-"最终在摆脱地球引力后，它成为第一颗人造“太阳卫星”，公转周期约450天。\n"
-"\n"
-"由首席设计师谢尔盖•科罗廖夫领导的OKB-1研制。"
-
-msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
-msgstr "月球3号探测器"
-
-msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
-msgstr ""
-"人类历史上首次绕月并拍摄到月球背面图像（1959年10月7日），也是第一艘真正实现引力助推飞行的航天器。\n"
-"\n"
-"1959年10月4日，由“东方-L”（Восток-Л）运载火箭从拜科努尔发射场升空。月球3号上配备了射频系统、遥测系统、“海鸥”定向系统（以太阳和月球为基准）、太阳能电池的供电系统、温控系统及包括照相机在内的一系列科学仪器。\n"
-"\n"
-"“海鸥”定向系统由学者拉辛巴赫•鲍里斯•维克多罗维奇领导研制，首次解决了在航天器上进行空间姿态控制的难题。\n"
-"\n"
-"10月7日，探测器在距月球约65000公里处（至地球距离约470000公里）拍摄到从未被人类目视的月球背面图像，并在此后10天内逐步将照片回传地球。其中约有70%为月球背面图像，30%为部分正面图像，被誉为“世纪照片”。基于这些图像，于1960和1967年先后出版了《月球背面图集》并制作了月球仪。探测器在围绕地球11圈后，于1960年4月20日坠入大气层烧毁。\n"
-"\n"
-"由首席设计师谢尔盖•科罗廖夫领导的OKB-1研制。"
-
-msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
-msgstr "金星1号探测器"
-
-msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
-msgstr ""
-"人类历史上第一艘发射向金星方向的自动行星探测器。\n"
-"\n"
-"1961年2月12日，由运载火箭“闪电”在拜科努尔发射场发射。\n"
-"\n"
-"探测器上装载了：\n"
-"• 磁力计；\n"
-"• 两个离子捕集器，用于测量太阳风；\n"
-"• 微流星探测器；\n"
-"• 盖革计数器与闪烁探测器，用于测量宇宙辐射。\n"
-"\n"
-"推进系统是KDU-414，用于飞行轨道修正。总质量为643.5千克。7天后，在距地球约200万公里处失去联系；据计算，它于同年5月19~20日从距金星约10万公里处飞过，并进入环绕太阳的轨道。\n"
-"\n"
-"由首席设计师谢尔盖•科罗廖夫领导的OKB-1研制。"
-
-msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
-msgstr "火星1号探测器"
-
-msgid "IDS_PCZC957_SPACE_MUSEUM_2_2_DESCRIPTION"
-msgstr ""
-"人类历史上第一艘飞往火星方向的探测器。它首次建立地球——火星的星际航行路线。\n"
-"\n"
-"1962年11月1日，由运载火箭“闪电”在拜科努尔发射场发射。\n"
-"\n"
-"整个探测器由两个密封舱组成：轨道舱与行星舱。轨道舱内装有用于在飞往火星途中工作的航天器设备，行星舱则配备了摄影测量设备和科学仪器，用于在火星附近时进行观测。轨道舱上还配置了修正推进系统、太阳能电池板、温控系统与通讯天线。轨迹测定显示，它将从距火星约19.3万公里处掠过，精度相当高。与探测器共建立了61次通讯，接收了大量遥测数据，并向探测器发送了3000多条指令。\n"
-"\n"
-"本次任务首次测量了地球与火星公转轨道间的宇宙空间状况，记录到太阳风和流星体（探测器先后通过2处流星流），也测得了星际磁场强度。\n"
-"\n"
-"1963年3月21日，在距地球约1.06亿公里时进行了最后一次通讯，之后信号中断。即便如此，这在当时仍创下了航天通信的最远距离记录。"
-
-msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
-msgstr "月球9号探测器"
-
-msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
-msgstr ""
-"人类历史上首次在月球实现软着陆并传回月面图片与全景电视影像的探测器。\n"
-"\n"
-"1966年1月31日，由运载火箭“闪电”在拜科努尔发射场发射。\n"
-"\n"
-"探测器由带有制动推进系统的仪表/设备舱与着陆舱组成。\n"
-"\n"
-"1966年2月3日，探测器在减速后，将着陆舱分离，于月球表面成功软着陆。\n"
-"\n"
-"主要技术信息：\n"
-"• 着陆舱质量 — 100千克；\n"
-"• 整体探测器长度 — 2.7米；\n"
-"• 探测器质量 — 1583千克。\n"
-"\n"
-"由拉沃奇金机械制造厂在总设计师格奥尔基•巴巴金的领导下研制。"
-
-msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
-msgstr "和平号空间站"
-
-msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
-msgstr ""
-"第三代空间站，是20世纪末具有里程碑意义的航天科技成就。它首次采用了“模块化”方法在轨组装大型航天器。\n"
-"\n"
-"空间站的第一个组件——核心舱于1986年2月20日进入轨道，之后先后对接了“量子”（1987）、“量子-2”（1989）、“水晶”（1990）与“光谱”（1995）、对接舱（1995）等模块。\n"
-"\n"
-"到1996年，随着“自然”号模块对接完成，空间站达成预定构型。模块化设计大大拓展了科研能力并扩增了舱内可居住空间。\n"
-"\n"
-"在“和平”号15年的在轨运行中：\n"
-"• 共进行78次太空行走，累计时间为359小时；\n"
-"• 有来自12个国家的104名航天员与宇航员先后到访；\n"
-"• 对接31艘“联盟”载人飞船、64艘“进步”货运飞船与9艘美国航天飞机；\n"
-"• 实施各类科学实验与研究超过23000项；\n"
-"• 刷新了数项人在太空停留的持续时间纪录；\n"
-"• 成为20世纪在轨飞行时间最长的航天器。\n"
-"\n"
-"首批进入空间站的航天员是1986年“联盟T-15”飞船上的列昂尼德•基济姆和弗拉基米尔•索洛维约夫，最后一次是2000年“联盟TM-30”飞船上的谢尔盖•扎廖京和亚历山大•卡列里。\n"
-"\n"
-"2001年2月23日，“和平”号空间站脱轨坠入大气层，部分碎片坠落在太平洋南部。\n"
-"\n"
-"总设计单位：能源科研生产联合体。\n"
-"\n"
-"主要技术参数：\n"
-"• 满配质量超过137吨；\n"
-"• 科学仪器合计约11.5吨。"
-
-msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
-msgstr "礼炮6号空间站"
-
-msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
-msgstr ""
-"礼炮6号是第二代轨道空间站，1977年9月29日由运载火箭“质子”从拜科努尔发射场送入太空。与前代相比，其最显著的特点是多了一个停靠端口与可在轨补给燃料的动力系统，大幅延长了在轨寿命。\n"
-"\n"
-"1978年1月，“进步-1”货运飞船首次对接礼炮6号，为其提供所需物资并为动力系统补充燃料，标志着世界上第一艘自动货运飞船成功执行在轨补给。\n"
-"\n"
-"礼炮6号在服役期间共对接了17艘载人飞船（“联盟”与“联盟T”系列）与2艘无人版“联盟”飞船，12艘“进步”货运飞船，及自动货运飞船“宇宙-1267”（其“钻石”号模块后来也作为舱段对接在一起）。\n"
-"\n"
-"期间，5个常驻乘组和10次短期访客乘组（包括8个国际合作乘组）先后驻留过礼炮6号。1978~1980年间，来自捷克斯洛伐克、波兰、民主德国、匈牙利、越南、古巴、蒙古、罗马尼亚等国的航天员也先后来此执行任务。长期乘组在轨时间分别达到96、139、175和184天，太空行走次数为3次，总时长4小时56分。\n"
-"\n"
-"礼炮6号累计在轨1765天（其中683天有人驻留），于1982年7月29日坠入大气层结束使命。\n"
-"\n"
-"该系列由中央实验机械制造设计局负责研制，用于苏联民用载人空间站工程。\n"
-"\n"
-"主要技术参数：\n"
-"• 质量：19.8吨；\n"
-"• 长度：13.5米；\n"
-"• 最大直径：4.15米；\n"
-"• 两块太阳能电池板展开总宽17米；\n"
-"• 舱内可用体积：90.0立方米。"
-
-msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
-msgstr "三级运载火箭“东方”"
-
-msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
-msgstr ""
-"基于R-7洲际弹道导弹改进，由OKB-1特别设计局在首席设计师谢尔盖•科罗廖夫领导下研制。\n"
-"\n"
-"主要技术参数：\n"
-"• 火箭全长38.36米；\n"
-"• 最大直径（含气动舵）约10.3米；\n"
-"• 起飞质量287吨；\n"
-"• 最大近地轨道运力约5吨。\n"
-"\n"
-"它将世界上第一艘载人飞船“东方”号与首位太空人尤里•加加林送入了地球轨道。\n"
-"\n"
-"“东方”运载火箭还用于发射“东方”系列实验卫星、“东方”号载人飞船以及部分“月球”系列探测器、“宇宙”“气象”等人造卫星。\n"
-"\n"
-"它实为R-7两级火箭的变型，通过增加第三级来增强近地轨道有效载荷能力。前两级采用“捆绑式”结构：四个侧面助推器与中央芯级并行工作，第三级与第二级采用串联结构，火箭顶端加装整流罩以保护酬载。第一与第二级分别采用RD-107与RD-108发动机。\n"
-"\n"
-"自1959年1月起在拜科努尔发射场投入使用，1966年起也在普列谢茨克使用。"
-
-msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
-msgstr "运载火箭“质子”"
-
-msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
-msgstr ""
-"由中央机械制造设计局在总设计师弗拉基米尔•尼古拉耶维奇•切洛梅领导下设计、克鲁尼切夫中心制造，属于重型运载火箭系列。\n"
-"\n"
-"主要技术参数：\n"
-"• 全长约44米；\n"
-"• 最大直径7.4米；\n"
-"• 空重54吨；\n"
-"• 起飞质量702吨；\n"
-"• 近地轨道运力约20吨。\n"
-"\n"
-"自1965年起投入使用，可将各类航天器送入近地轨道，包括“质子”“彩虹”“荧光屏”等卫星，以及“礼炮”“和平”等轨道站、国际空间站组件及其他国家的航天器。\n"
-"\n"
-"起初基于UR-500洲际弹道导弹。\n"
-"\n"
-"最早的“质子”是两级构型，后发展出三、四级版本（附加上面级）即“质子-K”“质子-M”等型号。"
-
-msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
-msgstr "三级运载火箭“联盟”"
-
-msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
-msgstr ""
-"“联盟”运载火箭属于R-7火箭家族，由OKB-1特别设计局研制。\n"
-"\n"
-"主要技术参数：\n"
-"• 火箭全长39.3米；\n"
-"• 最大直径10.3米；\n"
-"• 起飞质量310吨；\n"
-"• 近地轨道运力约7.5吨。\n"
-"\n"
-"它可发射载人或无人飞船与各类卫星。\n"
-"\n"
-"在库伊比谢夫（OKB-1第3分部）由总设计师德米特里•阿纳托利耶维奇•科兹洛夫主导制造，最初用于发射“联盟”系列载人飞船（1966~1976年共发射32艘）。此后也用来发射“进步”货运飞船以及“宇宙”“预言”“资源-F”“光子”“生物”等系列卫星，还有部分国外航天器。\n"
-"\n"
-"前两级沿用R-7家族的并联捆绑布局，经改进的第三级质量为25.5吨，使其具备更强的运力。\n"
-"\n"
-"火箭顶部的整流罩与格栅减速板，以及顶端的紧急救生塔是该系列的主要外观特征。\n"
-"\n"
-"“联盟”火箭的应急救生系统可在起飞前15分钟进入待命，在出现紧急情况时，无论还在发射台上还是飞行过程中，都可将乘组救出。\n"
-"\n"
-"“联盟”运载火箭自1966年起投入使用，后续不断改进出多种现代型，发射成功率超过97%。从拜科努尔与普列谢茨克两大航天发射场已进行超过800次各型“联盟”系列火箭发射，以及60余次“联盟-2”系列发射。"
-
-msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
-msgstr ""
-"运载火箭\n"
-"“质子-M”"
-
-msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
-msgstr ""
-"世界上最可靠的重型运载火箭之一，用于发射各种军民航天器。\n"
-"\n"
-"1965年7月16日，重型运载火箭“质子”将名为“质子”的科学卫星送入近地轨道，自此“质子”之名也用于称呼该火箭。其第一级安装6台RD-253（在“质子-M”上为RD-276）发动机，总推力约1MN；第二级配备4台RD-0210发动机，第三级配备推力583kN的RD-0213发动机，均使用偏二甲肼与四氧化二氮。\n"
-"\n"
-"火箭以UR-500洲际弹道导弹为基础研制。\n"
-"\n"
-"从1967年起，“质子-K”系列三、四级火箭投入使用；2012年起，推力更强的“质子-M”服役，其有效载荷由12吨提升至22吨。\n"
-"\n"
-"“质子”火箭为苏联探月、火星与金星探测任务以及彗星探测、发射“礼炮”“钻石”空间站、“和平”号与国际空间站组建模块做出了重大贡献。\n"
-"\n"
-"由弗拉基米尔•尼古拉耶维奇•切洛梅领导的中央机械制造设计局与克鲁尼切夫国家航天科研生产中心研制与改进。\n"
-"\n"
-"主要技术参数：\n"
-"• 起飞质量最高可达705吨；\n"
-"• 总长45~60米；\n"
-"• 三节并列构型约44米；\n"
-"• 最大直径7.4米；\n"
-"• 近地轨道运力22吨。"
-
-msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
-msgstr "H-1–L-3"
-
-msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
-msgstr ""
-"超重型火箭H-1，用于将载人飞船送往月球并实现宇航员登月。\n"
-"\n"
-"最初规划将75吨级航天器送入近地轨道，后转向载人登月。1969~1972年共进行了4次试验发射，均因第一级故障而失败。所有发射都在拜科努尔113号发射场进行，包含两个发射台。苏联于1974年终止了载人登月计划（H-1–L-3）。该火箭独特的多发动机并联布局在航天领域至今仍属罕见。\n"
-"\n"
-"自1964年起在OKB-1研制，首席设计师为谢尔盖•科罗廖夫。\n"
-"\n"
-"主要技术参数：\n"
-"• 第一级最大直径17米；\n"
-"• 火箭全长105.3米；\n"
-"• 起飞质量2820吨；\n"
-"• 近地轨道运力90吨；\n"
-"• 燃料质量1410吨；\n"
-"• 第一级共安装30台发动机；\n"
-"• 地面总推力约4615tf；\n"
-"• 燃料为煤油，氧化剂为液氧。"
-
-msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
-msgstr "运载火箭“能源”"
-
-msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
-msgstr ""
-"苏联最强的运载火箭之一，也是世界上最强的火箭之一；首次在苏联火箭中使用了液氢燃料。由能源科研生产联合体研制，由总设计师瓦连京•格鲁什科领导的“能源-暴风雪”计划。\n"
-"\n"
-"“能源”火箭具备通用性，原设计可用于发射“暴风雪”号可重复使用航天飞机、载人或无人探月及火星飞行、新一代大型轨道站，以及超重型GEO卫星等，近地轨道运力可达100吨。项目自1976年起启动。采用两级“捆绑”并联布局：第一级由四个助推器组成，每个配备RD-170四室发动机（使用煤油与液氧），助推器可通过降落伞回收复用；第二级中心芯级配备四台RD-0120（液氢液氧发动机），中部留有有效载荷安装界面。\n"
-"\n"
-"共进行过两次发射：\n"
-"• 1987年5月15日搭载“极地”号实验载荷，但因载荷自身姿态控制失效未能入轨；\n"
-"• 1988年11月15日搭载“暴风雪”号航天飞机。\n"
-"\n"
-"主要技术参数：\n"
-"• 系统总质量2375–2419吨；\n"
-"• 火箭质量2270吨；\n"
-"• 长度58.76米；\n"
-"• 宽度17.65米。"
-
-msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
-msgstr "SK-1高空救生宇航服"
-
-msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
-msgstr ""
-"1961年4月12日，世界首位宇航员加加林在东方号飞船执行首次载人航天飞行时使用的宇航服。\n"
-"\n"
-"SK-1系列供“东方”号飞船宇航员穿着，使用至1963年。加加林、季托夫、尼古拉耶夫、波波维奇、比科夫斯基等人曾穿着它执行任务。捷列什科娃则使用了其改型SK-2。\n"
-"\n"
-"宇航服为柔性结构，采用开放式通风系统。内外双层：外层为聚酯纤维层，内层为橡胶气密层。宇航服外还加有防护层，内则穿着带水冷/风冷系统的贴身服。头盔为不可拆卸的硬壳结构，双层视窗并带应急关闭机构。\n"
-"\n"
-"与飞船通风、氧气系统协同，可满足：\n"
-"• 在密封座舱内工作长达12天；\n"
-"• 在座舱失压时可生存4~5小时；\n"
-"• 在8公里高度实施座舱弹射并使用降落伞；\n"
-"• 飞行着陆后在水面漂浮12小时；\n"
-"\n"
-"主要技术指标：\n"
-"• 舱内维持服内压力约270–300百帕；\n"
-"• 通风流量150升/分；\n"
-"• 飞船氧气系统供给速率50标准升/分；\n"
-"• 宇航服质量约20千克。\n"
-"\n"
-"由“星”工厂（Завод «Звезда»）在1960~1961年研制，首席设计师为谢苗•米哈伊洛维奇•阿列克谢耶夫。外壳由阿纳托利•尤德列维奇•斯托克利茨基领导的团队设计；生命维持系统由I.P.阿布拉莫夫团队负责；综合测试由V.I.斯维尔什切克团队完成；宇航服电气设备由I.I.斯科莫罗夫斯基团队负责；地面准备由F.A.沃斯托科夫团队执行。"
-
-msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
-msgstr "猎隼型短时出舱宇航服"
-
-msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
-msgstr ""
-"苏联“上升-2”飞船成员贝利亚耶夫与列昂诺夫在1965年3月太空任务中使用。\n"
-"\n"
-"除了作为飞船座舱发生失压时的应急服，“猎隼”也是第一款支持舱外活动的宇航服。\n"
-"\n"
-"1965年3月18日，列昂诺夫身穿“猎隼”通过气闸舱首次出舱进行太空行走，舱外停留12分9秒。\n"
-"\n"
-"“猎隼”为柔性结构，可拆卸硬头盔并采用开放式通风系统。外壳有三层：外为锦纶加固层，两层内壳分别为橡胶密封层与泡沫橡胶层；表面还有隔热防护层。与飞船共用送风与氧气系统时可在失压座舱内生存约4小时；舱外则背挂KP-55自主式氧气背包维持45分钟。\n"
-"\n"
-"具体数据：\n"
-"• 在配备背包时可舱外自主工作约45分钟；\n"
-"• 舱内正常压力约400百帕，附加应急模式下降至270百帕；\n"
-"• 从飞船接入通风流量约150升/分；\n"
-"• 宇航服质量约20千克；\n"
-"• 氧气背包质量约21.5千克。\n"
-"\n"
-"由“星”工厂（Звезда）在1964~1965年研制，首席设计师盖伊•塞维林领导。"
-
-msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
-msgstr "曙光型宇航服"
-
-msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
-msgstr ""
-"半硬式结构，用于舱外工作，1977~1984年应用于礼炮6号、礼炮7号空间站。\n"
-"\n"
-"1977年12月20日，礼炮6号上的罗曼年科与格列奇科首次穿着“曙光”型出舱作业。\n"
-"\n"
-"与此前的“猎隼”和“隼”型相比，“曙光”可根据不同航天员体型进行适配，适合需要长时间值守的空间站。\n"
-"\n"
-"使用封闭循环（再生式）生命保障系统，配合水冷服带走多余热量。\n"
-"\n"
-"通过一根20米长电缆连接飞船获取供电、通信与遥测；该缆同时也是安全绳。另配一根安全索作为备用。\n"
-"\n"
-"后续出现了多种改进型号。\n"
-"\n"
-"在“星”工厂制造。\n"
-"\n"
-"关键参数：\n"
-"• 航天服质量73.5~114千克（视型号而定）；\n"
-"• 适用胸围96~108厘米；\n"
-"• 适用身高164~180厘米；\n"
-"• 在轨舱外作业时间5~8小时（视型号而定）。"
-
-msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
-msgstr "隼鹫型航天服"
-
-msgid "IDS_PCZC970_SPACE_MUSEUM_4_4_DESCRIPTION"
-msgstr ""
-"苏联为载人登月计划（H-1–L-3）研制的半硬式舱外航天服，自带生命保障系统，可供宇航员登月并在月面上活动。\n"
-"\n"
-"苏联于1974年终止了登月计划，但“隼鹫”已研制完成，后成为“曙光”系列舱外服的雏形。\n"
-"\n"
-"主体由铝合金硬壳与头盔一体成型，手臂和腿部采用软质壳体。\n"
-"\n"
-"后背开口为气密舱门，背包内置生命支持设备。\n"
-"\n"
-"为封闭循环式生命保障系统，采用水冷服与升华式热交换器维持温度。设备操作面板置于胸前，独立工作时间约10小时；航天服质量约106千克（在月球上的重力约等价于地球上17.5千克物体提供的重力）。\n"
-"\n"
-"外壳三层结构：最外层为锦纶织物，内含双层橡胶气密层。袖管带有肩关节和腕关节轴承，用于灵活操作。表面还有隔热层与内置天线。\n"
-"\n"
-"由“星”工厂在20世纪60年代后期完成设计与制造。"
-
-msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
-msgstr "贝尔卡、斯特列卡与弹射舱"
-
-msgid "IDS_PCZC971_SPACE_MUSEUM_5_1_DESCRIPTION"
-msgstr ""
-"这是两条1960年8月19日成功返回地球的英雄犬；图中展示了它们所乘坐的弹射舱外壳，表面还可见再入着陆时留下的痕迹。\n"
-"\n"
-"在1960~1961年间，为了筹备人类首次载人航天飞行，苏联进行了7次“东方”号无人飞船实验飞行，重点检验座舱设计以及生命保障与返回系统。\n"
-"\n"
-"此弹射舱是座舱弹射座椅的原型，由“星”工厂在谢苗•米哈伊洛维奇•阿列克谢耶夫的领导下设计。降落时，它会在距地面约7公里高空与返回舱分离并伞降，着陆速度约为6–8米/秒。\n"
-"\n"
-"1960年8月20日，舱内所有生物样本均安全返航，为研究失重与宇宙辐射对生命体的影响提供了宝贵数据。"
-
-msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
-msgstr "“东方”系列单座飞船返回舱"
-
-msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
-msgstr ""
-"1961~1963 年间，“东方”载人计划使用的飞船返回舱；加加林、季托夫、尼古拉耶夫、波波维奇、比科夫斯基、捷列什科娃均乘此舱。\n"
-"\n"
-"“东方”飞船由球形返回舱与设备/仪表舱组成，二者通过金属带与火工锁连结。\n"
-"\n"
-"返回舱用于宇航员在发射、轨道飞行与下降至7公里高度的期间乘坐。之后宇航员随座椅弹射并伞降在地面；宇航员与座椅在约4公里时分离，座椅留在空中，宇航员本人单独伞降。\n"
-"\n"
-"球形舱体由铝合金制成，外覆热防护层，厚度30~180毫米。外部有3个直径1米的舱门（宇航员入口/出口、技术检修、降落伞仓）以及3个观察窗与一套弹射座椅。\n"
-"\n"
-"为防止意外失压，宇航员还穿着专用航天服，可在座舱内生存4小时，也具备在10公里以下弹射的保护。\n"
-"\n"
-"内部另装有水、食物和排泄容器。通信系统由一套超短波和两套短波无线电组成。\n"
-"\n"
-"主要技术信息：\n"
-"• 质量约2.4吨；\n"
-"• 直径约2.3米；\n"
-"• 内部体积5.2立方米；\n"
-"• 宇航员可活动体积约1.6立方米。\n"
-"\n"
-"由首席设计师谢尔盖•科罗廖夫领导的OKB-1研制。"
-
-msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
-msgstr "东方号载人飞船"
-
-msgid "IDS_PCZC973_SPACE_MUSEUM_5_3_DESCRIPTION"
-msgstr ""
-"这款飞船堪称当时的工程奇迹，首次让人类得以在太空环境中生存和工作。1961年4月12日，加加林乘坐的东方号飞船成功完成了世界首次载人环绕地球飞行。在座舱内部，他坐在弹射座椅上——座椅和宇航员本身就占了座舱可用体积的一半。\n"
-"\n"
-"飞行期间，加加林与地面保持通信并报告各种观测与飞行情况。"
-
-msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
-msgstr "“上升-2”飞船气闸舱"
-
-msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
-msgstr ""
-"用于确保飞船在舱外活动时仍保持密封。1965年3月18日，列昂诺夫经此气闸舱世界首次实施太空行走。\n"
-"\n"
-"气闸舱为可折叠的圆柱体设计，包含两个舱门：一个与返回舱相通，另一个通向外太空，并带有加压与排气功能。其使用时从飞船外部展开，通过固定支架与舱壁连接；飞行员在座椅面板上进行充放气操作，并控制舱外活动流程。\n"
-"\n"
-"主要参数：\n"
-"• 气闸质量约250千克；\n"
-"• 折叠时直径70厘米，高77厘米；\n"
-"• 展开后高度2.5米，内径约1米，外径约1.2米；\n"
-"• 两个舱门直径均为70厘米。\n"
-"\n"
-"1964~1965 年由“星”工厂（Звезда）研制，首席设计师为盖伊•塞维林。"
-
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
-msgstr "“月球车-1”"
-
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr ""
-"人类历史上第一台在地外天体表面自主移动的探测车。\n"
-"\n"
-"主要参数：\n"
-"• 质量为756千克；\n"
-"• 展开后长4.42米；\n"
-"• 宽2.15米；\n"
-"• 高1.92米；\n"
-"• 车轮直径0.51米，轮距1.6米。\n"
-"\n"
-"月球17号携“月球车-1”于1970年11月10日由运载火箭“质子”发射，11月17日在月球雨海成功软着陆。\n"
-"\n"
-"“月球车-1”在月球工作318天，行驶10540米，踏勘了约8万平方千米的月表区域；速度可达每小时2公里。\n"
-"\n"
-"它向地球发送了210幅全景图与约2万帧电视图像，并完成171次通信会话，共执行24829条遥控指令。\n"
-"\n"
-"法国制造的激光角反射器也随车带至月球，使地面对其进行激光测距，误差仅数米。\n"
-"\n"
-"1971年9月14日进行最后一次通信后不再响应。\n"
-"\n"
-"由格奥尔基•巴巴金领导的拉沃奇金科研生产联合体负责整器研制；\n"
-"底盘由A.L.克穆德日安在全苏运输机械研究院主导设计。"
-
-msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
-msgstr "月球16号探测器"
-
-msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
-msgstr ""
-"1970年9月首次将约105克月壤样品自动采集并送回地球。\n"
-"\n"
-"探测器总重5727千克，着陆月面质量1880千克，返回舱质量34千克。\n"
-"\n"
-"1970年9月12日，运载火箭“质子-K”在拜科努尔将其发射升空，其于8天后的9月20日成功在月球丰盈海软着陆。\n"
-"\n"
-"此探测系统包括通用着陆级与携带返回舱的仪表模块。着陆级上安装了可进行采样的钻取装置，通过可垂直与水平移动的机械臂收集并送入返回舱。着陆点位置由两台电视摄像仪确定。\n"
-"\n"
-"分析显示，钻芯中为松散的月球表层尘土与碎屑（风化层），化学成分类似地球玄武岩。\n"
-"\n"
-"9月21日，返回舱在地面遥控下从月面起飞，24日与仪表舱分离后在杰兹卡兹甘市东南方向80公里处软着陆。\n"
-"\n"
-"由格奥尔基•巴巴金领导的拉沃奇金科研生产联合体研制。"
-
 msgid "IDS_PEARL_HARBOR_JAP"
 msgstr "長田浩一"
 
@@ -74964,9 +74250,6 @@ msgstr "在战斗和港口中显示《战锤40K》涂装和指挥官"
 
 msgid "IDS_PECULARITY_FILTER_WARHAMMER_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "在战斗和港口中隐藏《战锤40K》涂装和指挥官的视觉外观"
-
-msgid "IDS_PECULIARITY_DISABLED_STATUS"
-msgstr "已隐藏独特外观"
 
 msgid "IDS_PEDRO_MAX"
 msgstr "Pedro Max Fernando Frontin"
@@ -75568,12 +74851,6 @@ msgstr "400 mm / 550 mm tube lance-torpilles"
 msgid "IDS_PFGT149_550MM_1TUBE_400MM_2TUBE"
 msgstr "400 mm / 550 mm tube lance-torpilles"
 
-msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
-msgstr "550 mm tube lance-torpilles"
-
-msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
-msgstr "550 mm tube lance-torpilles"
-
 msgid "IDS_PFPA001_330MM_AP_D"
 msgstr "330 mm AP OPfK Mle 1935"
 
@@ -75874,18 +75151,6 @@ msgstr "305 mm Spr.Gr. L/4.9"
 msgid "IDS_PFPA100_305MM_AP_BERNADOTTE"
 msgstr "305 mm P.Spr.Gr. L/3.8"
 
-msgid "IDS_PFPA101_127MM_54_HE_T11"
-msgstr "127 mm HE Mark 42"
-
-msgid "IDS_PFPA102_127MM_54_AP_T11"
-msgstr "127 mm AP Mark 43"
-
-msgid "IDS_PFPA103_127MM_54_HE_DUPERRE"
-msgstr "127 mm HE Mark 41"
-
-msgid "IDS_PFPA104_127MM_54_AP_DUPERRE"
-msgstr "127 mm AP Mark 42"
-
 msgid "IDS_PFPB001_BEARN_STOCK"
 msgstr "AP 500-kg G.P. Mle 1930"
 
@@ -75979,17 +75244,11 @@ msgstr "550 mm K2"
 msgid "IDS_PFPT022_400MM_SURCOUF_MZ"
 msgstr "400 mm M26V / 550 mm 23DT"
 
-msgid "IDS_PFPT023_T11"
-msgstr "550 mm 24V Mle 2"
-
 msgid "IDS_PFPT024_550_SAPHIR"
 msgstr "400 mm M26V / 550 mm 23DT"
 
 msgid "IDS_PFPT025_BERNADOTTE"
 msgstr "Torped M1943 mod 2"
-
-msgid "IDS_PFPT026_DUPERRE"
-msgstr "550 mm 24V Mle 3"
 
 msgid "IDS_PFSA506"
 msgstr "贝阿恩"
@@ -76803,23 +76062,6 @@ msgstr "1"
 msgid "IDS_PFSD110_YEAR"
 msgstr "1940"
 
-msgid "IDS_PFSD111"
-msgstr "罗伯斯庇尔"
-
-msgid "IDS_PFSD111_DESCR"
-msgstr ""
-"第二次世界大战期间，维希法国海军部提出了研发新一代驱逐舰的设想。新一代驱逐舰的项目被统称为T-42，后来逐渐发展为一系列名为E-43的初步设计。在项目研发过程中，除了其他替代设计，维希海军部还考虑过将该舰尺寸扩大成轻巡洋舰的替代方案。\n"
-"该舰将配备120mm或130mm火炮，而在不同的初步设计中，炮塔数量从三座到四座不等。最终E-43系列设计未能实施、但其进一步发展却推动了T-47项目的问世。"
-
-msgid "IDS_PFSD111_FULL"
-msgstr "罗伯斯庇尔"
-
-msgid "IDS_PFSD111_NUMBER"
-msgstr "1"
-
-msgid "IDS_PFSD111_YEAR"
-msgstr "1945"
-
 msgid "IDS_PFSD210"
 msgstr "玛索"
 
@@ -76869,12 +76111,7 @@ msgid "IDS_PFSD508"
 msgstr "可怖"
 
 msgid "IDS_PFSD508_DESCR"
-msgstr ""
-"可怖号驱逐舰隶属于空想级，最初于1931年12月在卡昂开工建造，随后被拖往南特完成。1936年，可怖与其姐妹舰空想、L’Audacieux一起，被编入驻布雷斯特的第2轻型舰队下属的第10轻型分舰队。1939年，第10分舰队被纳入“突袭舰队”（法语：Force de raid），可怖在那一年主要负责护航商船队并在大西洋上搜寻德国袭击舰。\n"
-"\n"
-"1940年春，“突袭舰队”被调往阿尔及利亚。7月3日，法军驻防的梅尔斯艾尔凯比尔基地遭到英国皇家海军的袭击。可怖护送战列巡洋舰斯特拉斯堡号从英国舰只的追击下脱身，并将其带往土伦。\n"
-"\n"
-"1942年，该舰转移至达喀尔，11月时倒向“自由法国”一方。此后，可怖在“自由法国”海军序列中参加了意大利（1943年）和法国南部（1944年）的登陆行动。战后，可怖被编入预备役。"
+msgstr "可怖号是空想级驱逐舰，二战开始时在大西洋护送船团并侦察德国破袭舰，后来它被转移到阿尔及利亚对抗意大利舰队。在弩炮行动期间，可怖号与战列巡洋舰敦刻尔克号一起突围至土伦。1942年，该驱逐舰被转移到达喀尔。此战舰参加了在意大利和法国南部的登陆。"
 
 msgid "IDS_PFSD508_FULL"
 msgstr "可怖"
@@ -76884,24 +76121,6 @@ msgstr "6"
 
 msgid "IDS_PFSD508_YEAR"
 msgstr "1936"
-
-msgid "IDS_PFSD509"
-msgstr "杜皮尔"
-
-msgid "IDS_PFSD509_DESCR"
-msgstr ""
-"T-53级驱逐舰是絮库夫(T-47)级驱逐舰的进一步发展。该型驱逐舰与前代舰的不同之处在于其对空探测设备的改进，这使得她们能够在法国舰队中扮演雷达巡逻舰的角色。\n"
-"\n"
-"杜皮尔于1954年11月在洛里昂开工建造，1956年6月下水。在1966年到1971年期间被解除武装并用于测试Cormoran 1型深海拖拽声纳。1972-1974年，该舰重新接受武装、安装了四座飞鱼反舰导弹、一座100mm主炮、两座550mm鱼雷发射器以及通过拆除旧的主炮和鱼雷来安置一架山猫直升机。重新接受武装后，杜皮尔被用于担任反潜舰队的指挥舰。"
-
-msgid "IDS_PFSD509_FULL"
-msgstr "杜皮尔"
-
-msgid "IDS_PFSD509_NUMBER"
-msgstr "5"
-
-msgid "IDS_PFSD509_YEAR"
-msgstr "1957"
 
 msgid "IDS_PFSD605"
 msgstr "旋风"
@@ -77142,9 +76361,6 @@ msgstr "330 mm/50 Mle 1931（St. Chamond Mle 1932炮座）"
 msgid "IDS_PFUA806_ART_BERNADOTTE"
 msgstr "305 mm/56 SK C/39（炮塔）"
 
-msgid "IDS_PFUA807_ART_DUPERRE"
-msgstr "127 mm/54 Mle 1948（Mle 1948炮座）"
-
 msgid "IDS_PFUA810_B9_ART_STOCK"
 msgstr "380 mm/45 Mle 1935（炮塔）"
 
@@ -77171,9 +76387,6 @@ msgstr "105 mm/65 SK C/33（Dop. L. C/37炮座）"
 
 msgid "IDS_PFUA908_ART_SURCOUF"
 msgstr "203 mm/50 Mle 1924（Mle 1931炮座）"
-
-msgid "IDS_PFUA909_D11_ART_STOCK"
-msgstr "127 mm/54 Mle 1948（Mle 1948炮座）"
 
 msgid "IDS_PFUA910_B10_ART_STOCK"
 msgstr "431 mm/50 Mle 1940（炮塔）"
@@ -77358,9 +76571,6 @@ msgstr "推进系统：100000马力"
 msgid "IDS_PFUE806_ENG_BERNADOTTE"
 msgstr "推进系统：152000马力"
 
-msgid "IDS_PFUE807_ENG_DUPERRE"
-msgstr "推进系统：63000马力"
-
 msgid "IDS_PFUE810_B9_ENG_STOCK"
 msgstr "推进系统：180000马力"
 
@@ -77390,9 +76600,6 @@ msgstr "推进系统：110000马力"
 
 msgid "IDS_PFUE907_ENG_SURCOUF"
 msgstr "推进系统：7600马力"
-
-msgid "IDS_PFUE908_D11_ENG_STOCK"
-msgstr "推进系统：108454马力"
 
 msgid "IDS_PFUE910_B10_ENG_STOCK"
 msgstr "推进系统：220000马力"
@@ -77631,9 +76838,6 @@ msgstr "布雷斯特(B)"
 msgid "IDS_PFUH809_HULL_BERNADOTTE"
 msgstr "贝尔纳多特"
 
-msgid "IDS_PFUH810_HULL_DUPERRE"
-msgstr "杜皮尔"
-
 msgid "IDS_PFUH811_B9_HULL_A"
 msgstr "阿尔萨斯(A)"
 
@@ -77663,9 +76867,6 @@ msgstr "雷诺堡"
 
 msgid "IDS_PFUH907_SURCOUF"
 msgstr "絮库夫"
-
-msgid "IDS_PFUH908_D11_HULL_STOCK"
-msgstr "罗伯斯庇尔"
 
 msgid "IDS_PFUH911_B10_HULL_A"
 msgstr "共和国"
@@ -77904,9 +77105,6 @@ msgstr "PCA n° 9 Mle 2"
 msgid "IDS_PFUS809_SUO_BERNADOTTE"
 msgstr "PCA n°9"
 
-msgid "IDS_PFUS810_SUO_DUPERRE"
-msgstr "PCA n°9"
-
 msgid "IDS_PFUS811_B9_SUO_STOCK"
 msgstr "PCA n° 9 Mle 1"
 
@@ -77933,9 +77131,6 @@ msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
 msgstr "PCA n°10"
-
-msgid "IDS_PFUS907_D11_SUO_STOCK"
-msgstr "PCA n°11"
 
 msgid "IDS_PFUS911_B10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
@@ -78030,9 +77225,6 @@ msgstr "550 mm 24V Mle 2"
 msgid "IDS_PFUT803_TORP_BERNADOTTE"
 msgstr "Mk14"
 
-msgid "IDS_PFUT804_TORP_DUPERRE"
-msgstr "550 mm 23DT"
-
 msgid "IDS_PFUT900_TORP_COLORFUL_KLEBER"
 msgstr "550 mm 24V Mle 2"
 
@@ -78049,9 +77241,6 @@ msgid "IDS_PFUT904_TORP_CHATEAURENAULT"
 msgstr "550 mm K2"
 
 msgid "IDS_PFUT905_TORP_SURCOUF"
-msgstr "550 mm 23DT"
-
-msgid "IDS_PFUT906_D11_TORP_STOCK"
 msgstr "550 mm 23DT"
 
 msgid "IDS_PFUT930_C11_TORP_STOCK"
@@ -78185,9 +77374,6 @@ msgstr "Fw 190G8"
 
 msgid "IDS_PGAD953_M_IMMELMANN_TOP"
 msgstr "Ta 152C-1/R14"
-
-msgid "IDS_PGAD980_ASW_T10_SUBTEST"
-msgstr "Fw.200 Condor Test"
 
 msgid "IDS_PGAD990_O_LILIENTHAL"
 msgstr "Ta 152C-1/R14"
@@ -79677,9 +78863,6 @@ msgstr "SC-150"
 msgid "IDS_PGPD110_DEPTH_CV_10"
 msgstr "SC-300"
 
-msgid "IDS_PGPD907_DEPTH_T10"
-msgstr "SC-300"
-
 msgid "IDS_PGPR001_PARSEVAL_STOCK"
 msgstr "Panzerbrechend L/4.8"
 
@@ -80036,12 +79219,6 @@ msgstr "G7e T10"
 
 msgid "IDS_PGPT902_HINDEN_APRIL_19"
 msgstr "SoE Rocket Mk-II-H"
-
-msgid "IDS_PGPT910_SUBTEST"
-msgstr "G7e/T4"
-
-msgid "IDS_PGPT911_SUBTEST"
-msgstr "G7e/T4 MZ"
 
 msgid "IDS_PGPT950_M_IMMELMANN_STOCK"
 msgstr "F5f"
@@ -81762,21 +80939,6 @@ msgstr "4"
 msgid "IDS_PGSS510_YEAR"
 msgstr "1944"
 
-msgid "IDS_PGSS910"
-msgstr "U-2601"
-
-msgid "IDS_PGSS910_DESCR"
-msgstr "此类潜艇专为长时间水下航行而设计，配备更强大的电池组与通气管，使其可在潜望镜深度下使用柴油机航行，也可用低噪音电动机静音接近目标。"
-
-msgid "IDS_PGSS910_FULL"
-msgstr "U-2601"
-
-msgid "IDS_PGSS910_NUMBER"
-msgstr "267"
-
-msgid "IDS_PGSS910_YEAR"
-msgstr "1944"
-
 msgid "IDS_PGSX799"
 msgstr "U-96"
 
@@ -82574,9 +81736,6 @@ msgstr "推进系统：76000马力"
 msgid "IDS_PGUE917_C10_ENG_STOCK"
 msgstr "推进系统：132000马力"
 
-msgid "IDS_PGUE920_ENG_SUBTEST"
-msgstr "推进系统：5000马力"
-
 msgid "IDS_PGUE921_S10_ENG_STOCK"
 msgstr "推进系统：5000马力"
 
@@ -83078,9 +82237,6 @@ msgstr "奥托•韦迪根"
 msgid "IDS_PGUH917_C10_HULL_STOCK"
 msgstr "汉莎"
 
-msgid "IDS_PGUH920_HULL_SUBTEST"
-msgstr "U-2601"
-
 msgid "IDS_PGUH921_S10_HULL_STOCK"
 msgstr "U-2501"
 
@@ -83197,9 +82353,6 @@ msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ904_S11_SONAR_STOCK"
 msgstr "Typ 11 Mod.A"
-
-msgid "IDS_PGUQ905_SONAR_SUBTEST"
-msgstr "Typ 10"
 
 msgid "IDS_PGUS001_SUO"
 msgstr "FKS Typ 1 Mod. 1"
@@ -83864,9 +83017,6 @@ msgstr "G7 Steinwal"
 msgid "IDS_PGUT914_C10_TORP_STOCK"
 msgstr "G7 T1 Ausf. C"
 
-msgid "IDS_PGUT917_TORP_SUBTEST"
-msgstr "G7e/T4 и G7e/T4 MZ"
-
 msgid "IDS_PGUT921_S10_TORP_STOCK"
 msgstr "G7e T4 & G7e T4 MZ"
 
@@ -83905,9 +83055,6 @@ msgstr "Fokker T.V."
 
 msgid "IDS_PHAD016_KORTENAER_AS"
 msgstr "Fokker T.V"
-
-msgid "IDS_PHAD912_GOUDEN_LEEUW_AS"
-msgstr "Fokker T.V Test"
 
 msgid "IDS_PHAF001_FOKKER_D_XI"
 msgstr "Fokker D.XI"
@@ -84190,9 +83337,6 @@ msgstr "P.u.W. 160 kg"
 msgid "IDS_PHPB026_KORTENAER_AS_HE"
 msgstr "P.u.W. 100 kg"
 
-msgid "IDS_PHPB924_PUW_160KG_AS_HE"
-msgstr "P.u.W. 160 kg"
-
 msgid "IDS_PHPT001_533MM_TROMP"
 msgstr "53.3-cm torpedo"
 
@@ -84398,7 +83542,7 @@ msgid "IDS_PHSC990"
 msgstr "金狮Test"
 
 msgid "IDS_PHSC990_DESCR"
-msgstr "测试战舰。"
+msgstr "用于测试独特升级品的战舰复制品。"
 
 msgid "IDS_PHSC990_FULL"
 msgstr "金狮Test"
@@ -84862,9 +84006,6 @@ msgstr "卓越超群"
 msgid "IDS_PIES601_AMALFI_SOUNDWAVE"
 msgstr "卓越超群"
 
-msgid "IDS_PIES602_NANI_SUBMARINEDAY"
-msgstr "加里波第旅"
-
 msgid "IDS_PIGA004_BREDA_37MM_DOUBLE"
 msgstr "37 mm/54 Model 1938（1938式炮座）"
 
@@ -85179,9 +84320,6 @@ msgstr "声呐装填较快"
 
 msgid "IDS_PINGER_RELOAD_SLOW"
 msgstr "声呐装填较慢"
-
-msgid "IDS_PINGER_SHADOW"
-msgstr "位置已暴露"
 
 msgid "IDS_PINGER_WAVE_SPEED_HIGH"
 msgstr "声呐脉冲速度较高"
@@ -87398,9 +86536,6 @@ msgstr "川西 H6K 九七式大艇"
 msgid "IDS_PJAD920_TAIHO_TOP"
 msgstr "中島 J5N “天雷”"
 
-msgid "IDS_PJAD993_ASW_T10_SUBTEST"
-msgstr "Kawanishi H6K Test"
-
 msgid "IDS_PJAD998_KIKAKU"
 msgstr "愛知 B7A “流星”"
 
@@ -89200,9 +88335,6 @@ msgstr "Experimental 45 kg"
 
 msgid "IDS_PJPD108_DEPTH_CV_10"
 msgstr "Type 1 No.25 Mk 2 model 1"
-
-msgid "IDS_PJPD905_DEPTH_T10"
-msgstr "Type 1 No.25 Mk 2 model 1"
 
 msgid "IDS_PJPM206_ZUIHO_TOP"
 msgstr "Type JI Mod.1"
@@ -95963,9 +95095,6 @@ msgstr "Beriyev Be-6"
 msgid "IDS_PRAD913_ASW_T10_CV"
 msgstr "Beriyev Be-6"
 
-msgid "IDS_PRAD990_ASW_T10_SUBTEST"
-msgstr "Beriev Be-6 Test"
-
 msgid "IDS_PRAF011_I_15_FLOAT"
 msgstr "Polikarpov I-15"
 
@@ -96223,9 +95352,6 @@ msgstr "战斗观察"
 
 msgid "IDS_PREFERENCES_MOUSE_SECTION_HEADER_MOUSE"
 msgstr "鼠标"
-
-msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_CONTENT"
-msgstr "活动外观内容"
 
 msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_SETTINGS"
 msgstr "其他设置"
@@ -96671,9 +95797,6 @@ msgstr "海军上将"
 msgid "IDS_PRES334_NUPOGODI_ISTOMIN"
 msgstr "兔子，等着瞧！"
 
-msgid "IDS_PRES335_PYOTR_VELIKIY_ANIME_EVENT"
-msgstr "平衡守护者"
-
 msgid "IDS_PRES338_23FEBRUARY_SVERDLOVSK"
 msgstr "保卫祖国"
 
@@ -96730,9 +95853,6 @@ msgstr "特别"
 
 msgid "IDS_PRES450_PETROPAVLOVSK_12_MONTHS"
 msgstr "冬日严寒"
-
-msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
-msgstr "下水仪式"
 
 msgid "IDS_PRES505_NEUSTRASHIMY_MOSFILM"
 msgstr "红色骑兵"
@@ -98431,12 +97551,6 @@ msgstr "PLAB-160"
 msgid "IDS_PRPD108_DEPTH_CV_10"
 msgstr "PLAB-300"
 
-msgid "IDS_PRPD905_ASWBOMB_SUBTEST"
-msgstr "深水炸弹"
-
-msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
-msgstr "深水炸弹"
-
 msgid "IDS_PRPR003_SEROV_TOP"
 msgstr "RS-132M"
 
@@ -98760,12 +97874,6 @@ msgstr "53-39 mod. 5"
 
 msgid "IDS_PRPT088_ULYANOVSK_TACT"
 msgstr "45-36 MAI"
-
-msgid "IDS_PRPT990_SUBTEST"
-msgstr "53-38U"
-
-msgid "IDS_PRPT991_SUBTEST_MZ"
-msgstr "53-38U MZ"
 
 msgid "IDS_PRPT999_53_TST_SUB"
 msgstr "53-51"
@@ -100865,21 +99973,6 @@ msgstr "236"
 msgid "IDS_PRSS518_YEAR"
 msgstr "1955"
 
-msgid "IDS_PRSS910"
-msgstr "К-41"
-
-msgid "IDS_PRSS910_DESCR"
-msgstr "此大型潜艇可与水面舰队协同作战，也能独立执行远航任务。它拥有10根鱼雷发射管，并具备较高的水面航速。"
-
-msgid "IDS_PRSS910_FULL"
-msgstr "К-41"
-
-msgid "IDS_PRSS910_NUMBER"
-msgstr "12"
-
-msgid "IDS_PRSS910_YEAR"
-msgstr "1939"
-
 msgid "IDS_PRSS999"
 msgstr "测试潜艇1"
 
@@ -101278,9 +100371,6 @@ msgstr "180 mm/65 SM-45（SM-48炮座）"
 
 msgid "IDS_PRUA922_D10_ART_STOCK"
 msgstr "130 mm/58 Model. 1957（SM-61炮座）"
-
-msgid "IDS_PRUA924_ART_SUBTEST"
-msgstr "100 mm/51 B-24PL Model 1936"
 
 msgid "IDS_PRUA930_D11_ART_STOCK"
 msgstr "130 mm/60（BL-109A炮座）"
@@ -101734,9 +100824,6 @@ msgstr "推进系统：76000马力"
 
 msgid "IDS_PRUE925_CV11_ENG_STOCK"
 msgstr "推进系统：267000马力"
-
-msgid "IDS_PRUE926_ENG_SUBTEST"
-msgstr "推进系统：8400马力"
 
 msgid "IDS_PRUE930_D11_ENG_STOCK"
 msgstr "推进系统：130000马力"
@@ -102304,9 +101391,6 @@ msgstr "自豪"
 
 msgid "IDS_PRUH925_CV11_HULL_STOCK"
 msgstr "乌里扬诺夫斯克"
-
-msgid "IDS_PRUH926_HULL_SUBTEST"
-msgstr "К-41"
 
 msgid "IDS_PRUH930_D11_HULL_STOCK"
 msgstr "佐尔基"
@@ -103201,9 +102285,6 @@ msgstr "53-51"
 
 msgid "IDS_PRUT918_D10_TORP_STOCK"
 msgstr "53-51"
-
-msgid "IDS_PRUT919_TORP_SUBTEST"
-msgstr "533 mm"
 
 msgid "IDS_PRUT930_D11_TORP_STOCK"
 msgstr "53-36 mod.2"
@@ -104214,10 +103295,7 @@ msgid "IDS_PURCHASE_CHANCE_LOOTBOX_EPIC"
 msgstr "超级补给箱"
 
 msgid "IDS_PURCHASE_COST"
-msgstr "购买"
-
-msgid "IDS_PURCHASE_COST_COLON"
-msgstr "购买："
+msgstr "购买价："
 
 msgid "IDS_PURCHASE_COST_TTH"
 msgstr "购买："
@@ -104263,9 +103341,6 @@ msgstr "购买此战舰以查看升级品"
 
 msgid "IDS_PURCHASE_SHIP_UPPER_CASE"
 msgstr "购买战舰"
-
-msgid "IDS_PURCHASE_SLOT"
-msgstr "购买空位"
 
 msgid "IDS_PURCHASE_SLOTS_HEADER"
 msgstr "购买新的船位"
@@ -114306,7 +113381,7 @@ msgid "IDS_RANKED_QUALIFICATION_TOOLTIP_TITLE"
 msgstr "晋级赛"
 
 msgid "IDS_RANKED_REWARDS_COUNT"
-msgstr "+ %(_value)s"
+msgstr "+%(_value)s"
 
 msgid "IDS_RANKED_REWARDS_TITLE"
 msgstr "奖励"
@@ -114613,6 +113688,12 @@ msgstr "拉斯普京"
 
 msgid "IDS_RATE"
 msgstr "汇率："
+
+msgid "IDS_RATES"
+msgstr "服务器比率"
+
+msgid "IDS_RATES_HINT"
+msgstr "服务器比率"
 
 msgid "IDS_RATING_GBR_ALL"
 msgstr "此游戏适合所有年龄段的玩家。"
@@ -115227,10 +114308,7 @@ msgid "IDS_RESEARCH_AND_PURCHASE_SHIP_TO_SEE_MODERNIZATIONS"
 msgstr "研发并购买此战舰以查看升级品"
 
 msgid "IDS_RESEARCH_COST"
-msgstr "研发"
-
-msgid "IDS_RESEARCH_COST_COLON"
-msgstr "研发："
+msgstr "研发费用："
 
 msgid "IDS_RESEARCH_COST_TTX"
 msgstr "研发："
@@ -120446,30 +119524,6 @@ msgstr "“王朝遗产”高级补给箱"
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE_SHORT"
 msgstr "王朝遗产"
 
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
-msgstr "战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "VIII级加值战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII级"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "贾科莫•纳尼"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "贾科莫•纳尼"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
-msgstr "“贾科莫•纳尼”高级补给箱"
-
-msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_SHORT"
-msgstr "贾科莫•纳尼"
-
 msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
 msgstr "免费补给箱空位"
 
@@ -121066,9 +120120,6 @@ msgstr "防御"
 
 msgid "IDS_RIBBON_SSE_BOMB"
 msgstr "炸弹命中"
-
-msgid "IDS_RIBBON_SSE_BUILDING_KILL"
-msgstr "摧毁陆上设施"
 
 msgid "IDS_RIBBON_SSE_BURN"
 msgstr "造成火灾"
@@ -121880,9 +120931,6 @@ msgstr "标准战"
 msgid "IDS_SCENARIO_ST_TEST"
 msgstr "装甲韧性测试"
 
-msgid "IDS_SCENARIO_SUBS_IMPROVE_EVENT"
-msgstr "水下前线"
-
 msgid "IDS_SCENARIO_TARGET"
 msgstr "小把戏"
 
@@ -122229,9 +121277,6 @@ msgstr "主炮"
 
 msgid "IDS_SECOND_SPACE"
 msgstr "秒"
-
-msgid "IDS_SECOND_SPACE_MUSEUM_NAME"
-msgstr "人造卫星与空间站：第二部分"
 
 msgid "IDS_SECOND_TSAR_MOREY_NAME"
 msgstr "主办团队"
@@ -122694,17 +121739,8 @@ msgstr "剩余战舰"
 msgid "IDS_SHIPS_MASTERY_SELECT_SHIP"
 msgstr "选择合适的战舰"
 
-msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_QUESTION"
-msgstr "替换？确认花费"
-
-msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_TITLE"
-msgstr "替换挑战"
-
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
-msgstr "替换"
-
-msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
-msgstr "全部重置"
+msgstr "重置"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_QUESTION"
 msgstr "重置精通挑战？确认花费"
@@ -122734,13 +121770,13 @@ msgid "IDS_SHIPS_SPOTTED_TOOLTIP"
 msgstr "侦察到的战舰总数"
 
 msgid "IDS_SHIPYARD_BUILD_DAYS_LEFT"
-msgstr "距离活动结束还剩：%(_timeLeft)s"
+msgstr "距离作战任务结束还剩：%(_timeLeft)s"
 
 msgid "IDS_SHIPYARD_COMMON_EVENT_TITLE"
 msgstr "造船厂"
 
 msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "尤里•多尔戈鲁基：已完工"
+msgstr "絮库夫：已完工"
 
 msgid "IDS_SHIPYARD_LEVEL_BANNER"
 msgstr "造船阶段%(_level)s"
@@ -123896,6 +122932,9 @@ msgstr "该战舰的精通等级"
 msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_POINTS"
 msgstr "总共已获得%(_points)s点基础经验。"
 
+msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
+msgstr "正在进行精通挑战"
+
 msgid "IDS_SHIP_MASTERY_LEVEL_TITLE"
 msgstr ""
 "综合\n"
@@ -123925,17 +122964,11 @@ msgstr "恭喜！该战舰已达到最高精通等级。"
 msgid "IDS_SHIP_MASTERY_TASKS_AVAILABLE"
 msgstr "可进行精通挑战"
 
-msgid "IDS_SHIP_MASTERY_TASKS_IN_PROGRESS"
-msgstr "正在进行的精通挑战"
-
 msgid "IDS_SHIP_MASTERY_TRIALS_AVAILABLE"
 msgstr "可进行精通挑战"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
 msgstr "进行精通挑战"
-
-msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
-msgstr "在单场战斗中完成"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
 msgstr "正在进行精通挑战的战舰"
@@ -123954,6 +122987,9 @@ msgstr "完成精通挑战以提升精通等级。"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
 msgstr "基础经验不足，未解锁精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
+msgstr "完成精通挑战。每一项挑战需在一场战斗中完成。"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_1"
 msgstr "完成任意1项精通挑战。"
@@ -124028,9 +123064,6 @@ msgstr "生存性提升"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ACCURACY"
 msgstr "精度降低"
-
-msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_AIR_SUPPORT_RELOAD_FACTOR"
-msgstr "降低空袭效率"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ATBA"
 msgstr "副炮效率降低"
@@ -124767,9 +123800,6 @@ msgstr "瞬间伤害（视敌方中队的当前生命值）"
 msgid "IDS_SHIP_PARAM_AA_SECTOR_STRENGTH"
 msgstr "最大强化"
 
-msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
-msgstr "可显示海底地形与水面战舰、潜艇的位置。仅在位于潜望深度与工作深度时工作，无法发现处于最大深度的潜艇。"
-
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_RAGE_MODE"
 msgstr "由于成功校正火炮射击，战舰的属性已暂时提升。"
 
@@ -124834,7 +123864,7 @@ msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_OIL_LEAK_PENDING"
 msgstr "在水下时会发生溢油，潜艇会在水面上留下明显的痕迹。"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_WAVED"
-msgstr "您的战舰被声呐脉冲标记，将成为敌方潜艇发射鱼雷的目标。"
+msgstr "战舰被声呐脉冲命中。敌方潜艇的鱼雷将被导向高亮区域。"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_EMERGENCY_SURFACING"
 msgstr "紧急上浮"
@@ -125244,9 +124274,6 @@ msgstr "甲板上的飞机数"
 msgid "IDS_SHIP_PARAM_HANGAR_SIZE"
 msgstr "甲板上的飞机数量"
 
-msgid "IDS_SHIP_PARAM_HEADER_ACTIVE_EFFECT_HYDROPHONE"
-msgstr "被动声呐"
-
 msgid "IDS_SHIP_PARAM_HEADER_BATTERY_STATE_CHARGING"
 msgstr "下潜能力恢复"
 
@@ -125255,9 +124282,6 @@ msgstr "下潜能力消耗"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_BLUE_LINE"
 msgstr "地图边界"
-
-msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_HYDROPHONE_RANGE"
-msgstr "被动声呐"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_SMOKE"
 msgstr "烟幕"
@@ -125321,9 +124345,6 @@ msgstr "激光作用范围"
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_BLUE_LINE"
 msgstr "由于穿越了地图边界，战舰航速已大幅降低。"
-
-msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_HYDROPHONE_FAR_RANGE"
-msgstr "您处于敌方潜艇被动声呐定位范围内，位置可能已暴露。"
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_SMOKE"
 msgstr "会被敌舰侦察到的范围已缩小。不会被空中目标侦察到。"
@@ -125847,9 +124868,6 @@ msgstr "深水鱼雷"
 msgid "IDS_SHIP_PARAM_TORPEDO_DISABLED_UNDERWATER"
 msgstr "无法在最大深度发射"
 
-msgid "IDS_SHIP_PARAM_TORPEDO_DRUM_SHOT_DELAY"
-msgstr "单枚鱼雷装填间隔"
-
 msgid "IDS_SHIP_PARAM_TORPEDO_GUN"
 msgstr "鱼雷发射管"
 
@@ -125923,7 +124941,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_SURFACE"
 msgstr "在水面上"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_WORKING"
-msgstr "在工作深度"
+msgstr "在作业深度[UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_FIRE"
 msgstr "战舰起火时的被侦察范围"
@@ -125955,9 +124973,6 @@ msgstr "发射声呐脉冲后的对海被侦察范围。"
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE"
 msgstr "对空被侦察范围"
 
-msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE_TOOLTIP_DESCRIPTION"
-msgstr "飞机可在该距离内发现您的战舰。"
-
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP"
 msgstr "对海被侦察范围"
 
@@ -125974,7 +124989,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
 msgstr "在潜望深度"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
-msgstr "在工作深度"
+msgstr "在作业深度[UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISION_RANGE"
 msgstr "侦察范围"
@@ -126264,13 +125279,13 @@ msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_2"
 msgstr "需要更多维修材料："
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_1"
-msgstr "要修复这艘战舰，您必须收集至少%(_shipComponentsCount)s个“战舰部件 | %(_shipName)s”。"
+msgstr "要修复这艘战舰，您必须收集至少%(_shipComponentsCount)s个“战舰部件 | %(_shipName)s”。"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_1"
 msgstr "缺失的战舰部件可由备件合成"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_2"
-msgstr "可使用“备件 | %(_shipLevel)s级”合成战舰部件"
+msgstr "可使用“备件 | %(_shipLevel)s级”合成战舰部件"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TITLE"
 msgstr "维修材料"
@@ -126391,15 +125406,6 @@ msgstr "团队阵容"
 
 msgid "IDS_SHOWSTATS_DESCRIPTION"
 msgstr "显示团队名单，其中包含战舰名称、类型、等级和性能数据。可以单独设置是否显示玩家名称。"
-
-msgid "IDS_SHOW_ADDITION_CONTENT"
-msgstr "活动主题外观与指挥官"
-
-msgid "IDS_SHOW_ADDITION_CONTENT_DESCRIPTION"
-msgstr "在战斗与港口中显示来自活动的非历史性涂装与指挥官。关闭后，所有涂装与指挥官的外观将回到符合历史时代的样式。"
-
-msgid "IDS_SHOW_ADDITION_CONTENT_STATUS"
-msgstr "若您当前正处于战斗中，此设置需要等到战斗结束后才生效。"
 
 msgid "IDS_SHOW_ARMOUR_ARTI"
 msgstr "显示炮座装甲"
@@ -126657,7 +125663,7 @@ msgid "IDS_SKILLS_IS_NOT_WORKING_TOOLTIP_TEXT"
 msgstr "必须完成指挥官的重新训练。"
 
 msgid "IDS_SKILLS_LEARN_COST_COLON"
-msgstr "学习所需技能点数："
+msgstr "学习费用："
 
 msgid "IDS_SKILL_AA_DAMAGE_CONSTANT_BUBBLES"
 msgstr "火力专家"
@@ -127145,13 +126151,13 @@ msgid "IDS_SKILL_TRIGGER_ACTIVATIONONBATTERY"
 msgstr "若下潜能力低于规定值"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVATIONONBURNFLOOD"
-msgstr "您战舰上的每处火灾都将提升战舰的属性。"
+msgstr "您舰上的每个活跃的火源都将提升战舰的属性。"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVATIONONCONSUMABLE"
 msgstr "若消耗品已启用"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVATIONONDETECTTRIGGER"
-msgstr "在您被发现后的15秒内，降低敌人对您的射击精度。"
+msgstr "在您被发现后的15秒，降低敌人对您的射击精度。"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVEAIRDEFENSE"
 msgstr "防空炮正常运转时提升战舰的属性"
@@ -127274,9 +126280,6 @@ msgstr "按任意键跳过"
 
 msgid "IDS_SKY_LIGHT_MAP"
 msgstr "地图天空光线"
-
-msgid "IDS_SLAVIC_GIRL"
-msgstr "风暴女卡佳"
 
 msgid "IDS_SLAVYANA_SUMMER"
 msgstr "斯拉维娅"
@@ -127445,12 +126448,6 @@ msgstr "耳机"
 msgid "IDS_SOUND_DEVICE_SPEAKER"
 msgstr "扬声器"
 
-msgid "IDS_SOUND_MOD_ANIME_MAGA_LANA_ANIME"
-msgstr "拉娜"
-
-msgid "IDS_SOUND_MOD_ANIME_MAGA_LEILA_ANIME"
-msgstr "艾拉"
-
 msgid "IDS_SOUND_MOD_APRAKSIN"
 msgstr "Fyodor Apraksin"
 
@@ -127519,9 +126516,6 @@ msgstr "Ashley Violet"
 
 msgid "IDS_SOUND_MOD_ASTRA_DOG"
 msgstr "阿斯特拉"
-
-msgid "IDS_SOUND_MOD_ASTRONAUT_ARTEMIEV"
-msgstr "奥列格•阿尔捷米耶夫"
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_ATAGO"
 msgstr "碧蓝航线：爱宕"
@@ -127867,9 +126861,6 @@ msgstr "Scrooge Nicholson"
 
 msgid "IDS_SOUND_MOD_SEAGAL"
 msgstr "Steven Seagal（英）"
-
-msgid "IDS_SOUND_MOD_SLAVIC_GIRL"
-msgstr "风暴女卡佳"
 
 msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
 msgstr "兔"
@@ -128279,12 +127270,6 @@ msgstr "堪察加"
 
 msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
 msgstr "堪察加"
-
-msgid "IDS_SPACES/57_AOTS"
-msgstr "最后的港湾"
-
-msgid "IDS_SPACES/57_AOTS_DESCR"
-msgstr "最后的港湾"
 
 msgid "IDS_SPACES/99_GAMEMODE_TEST"
 msgstr "游戏模式测试用"
@@ -129025,7 +128010,7 @@ msgid "IDS_SSE_STATUS_LOCKED_PREVIOUSCHAINTASKNOTCOMPLETED"
 msgstr "完成前置任务"
 
 msgid "IDS_SSE_STATUS_PORTAL_RESULTS_COUNTING"
-msgstr "计算结果中"
+msgstr "正在计算结果"
 
 msgid "IDS_SSE_STATUS_PORTAL_REWARDS_RECEIVED"
 msgstr "奖励已发放"
@@ -129064,7 +128049,10 @@ msgid "IDS_SSE_TASK_REWARD_COLON"
 msgstr "完成奖励："
 
 msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
-msgstr "战舰限制"
+msgstr "限制"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
+msgstr "作战任务只能在特定战舰上进行。"
 
 msgid "IDS_SSE_TEMPLATES_META"
 msgstr "{\"IDS\":{\"IDS_ANTI_AIR_DEF\":{\"\":[\"用防空炮\"]},\"IDS_ANY_AIRCRAFT\":{\"\":[\"飞机\"]},\"IDS_BADGE\":{\"\":[\"勋带\"]},\"IDS_BASE_CAPTURE_POINTS\":{\"\":[\"基地占领\"]},\"IDS_BASE_DEFENCE_POINTS\":{\"\":[\"基地防御\"]},\"IDS_BATTLES\":{\"\":[\"战斗\"]},\"IDS_BATTLESHIP_CLASS\":{\"\":[\"战列舰\"]},\"IDS_BATTLE_SIGNALS\":{\"\":[\"战斗信号旗\"]},\"IDS_BOMBER_CLASS\":{\"\":[\"俯冲轰炸机\"]},\"IDS_CAMOUFLAGE\":{\"\":[\"涂装\"]},\"IDS_CARRIER_CLASS\":{\"\":[\"航空母舰\"]},\"IDS_CHAIN\":{\"\":[\"任务链\"]},\"IDS_CLAN_BATTLE\":{\"\":[\"军团战\"]},\"IDS_COMMONWEALTH_NATION\":{\"\":[\"联邦\"]},\"IDS_COOP_BATTLE\":{\"\":[\"联合作战\"]},\"IDS_CREDITS\":{\"\":[\"银币\"]},\"IDS_CREWXP\":{\"\":[\"指挥官经验\"]},\"IDS_CRUISER_CLASS\":{\"\":[\"巡洋舰\"]},\"IDS_DESTROYER_CLASS\":{\"\":[\"驱逐舰\"]},\"IDS_ECO_SIGNALS\":{\"\":[\"经济信号旗\"]},\"IDS_ELITE\":{\"\":[\"精英\"]},\"IDS_ENUM_1\":{\"\":[\"{1}\"]},\"IDS_ENUM_2\":{\"\":[\"{1}或{2}\"]},\"IDS_ENUM_3\":{\"\":[\"{1}、{2}或{3}\"]},\"IDS_ENUM_4\":{\"\":[\"{1}、{2}、{3}或{4}\"]},\"IDS_ENUM_5\":{\"\":[\"{1}、{2}、{3}、{4}或{5}\"]},\"IDS_ENUM_6\":{\"\":[\"{1}、{2}、{3}、{4}、{5}或{6}\"]},\"IDS_ENUM_7\":{\"\":[\"{1}、{2}、{3}、{4}、{5}、{6}或{7}\"]},\"IDS_ENUM_8\":{\"\":[\"{1}、{2}、{3}、{4}、{5}、{6}、{7}或{8}\"]},\"IDS_EUROPE_NATION\":{\"\":[\"欧洲\"]},\"IDS_EVENT_BATTLE\":{\"\":[\"夺钥之战\"]},\"IDS_EXP\":{\"\":[\"经验\"]},\"IDS_FIGHTER_CLASS\":{\"\":[\"攻击机\"]},\"IDS_FRANCE_NATION\":{\"\":[\"法国\"]},\"IDS_FREEXP\":{\"\":[\"全局经验\"]},\"IDS_GERMANY_NATION\":{\"\":[\"德国\"]},\"IDS_GOLD\":{\"\":[\"金币\"]},\"IDS_HEROIC_ACHIEVEMENT\":{\"\":[\"英勇成就\"]},\"IDS_HONORABLE_ACHIEVEMENT\":{\"\":[\"荣誉成就\"]},\"IDS_INTRO_BATTLE\":{\"\":[\"新手战役\"]},\"IDS_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中，\"],\"SIMPLE\":[\"在一场战斗中\"]},\"IDS_IN_SQUAD\":{\"\":[\"在小队中\"]},\"IDS_ITALY_NATION\":{\"\":[\"意大利\"]},\"IDS_JAPAN_NATION\":{\"\":[\"日本\"]},\"IDS_LEAGUE_EXACT\":{\"\":[\"{league}\"]},\"IDS_LEAGUE_LESS\":{\"\":[\"{league}以上\"]},\"IDS_LEAGUE_MORE\":{\"\":[\"{league}以下\"]},\"IDS_LEAGUE_RANGE\":{\"\":[\"{leaguemin}—{leaguemax}\"]},\"IDS_LEVEL_EXACT\":{\"\":[\"{level}级\"]},\"IDS_LEVEL_LESS\":{\"\":[\"{level}级以下\"]},\"IDS_LEVEL_MORE\":{\"\":[\"{level}级以上\"]},\"IDS_LEVEL_RANGE\":{\"\":[\"{levelmin}-{levelmax}级\"]},\"IDS_MODULE\":{\"\":[\"配件\"]},\"IDS_NETHERLANDS_NATION\":{\"\":[\"荷兰\"]},\"IDS_OF_ALL\":{\"\":[\"双方团队\"]},\"IDS_OPERATION\":{\"\":[\"行动\"]},\"IDS_PAN_AMERICA_NATION\":{\"\":[\"泛美\"]},\"IDS_PAN_ASIA_NATION\":{\"\":[\"泛亚\"]},\"IDS_PERMANENT_CAMOUFLAGE\":{\"\":[\"永久涂装\"]},\"IDS_POLAND_NATION\":{\"\":[\"波兰\"]},\"IDS_PREMIUM\":{\"\":[\"高级\"]},\"IDS_PTS_WORD\":{\"\":[\"点数\"]},\"IDS_PVE_BATTLE\":{\"\":[\"剧情战役\"]},\"IDS_RANDOM_BATTLE\":{\"\":[\"随机战\"]},\"IDS_RANK_BATTLE\":{\"\":[\"排位战\"]},\"IDS_RUSSIA_NATION\":{\"\":[\"苏联\"]},\"IDS_SCOUT_CLASS\":{\"\":[\"侦察机\"]},\"IDS_SECONDARY_TASK\":{\"\":[\"次要目标\"]},\"IDS_SHIP\":{\"\":[\"战舰\"]},\"IDS_SIGNALS\":{\"\":[\"信号旗\"]},\"IDS_SOME_ACHIEVEMENT\":{\"\":[\"成就\"]},\"IDS_SPAIN_NATION\":{\"\":[\"西班牙\"]},\"IDS_SPECIAL_SIGNALS\":{\"\":[\"特殊信号旗\"]},\"IDS_STAR\":{\"\":[\"星\"]},\"IDS_SUBMARINE_CLASS\":{\"\":[\"潜艇\"]},\"IDS_SURVIVE_IN_BATTLES\":{\"\":[\"在战斗中幸存，\"],\"SIMPLE\":[\"在战斗中幸存\"]},\"IDS_SURVIVE_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中幸存，\"],\"SIMPLE\":[\"在一场战斗中幸存\"]},\"IDS_SURVIVE_WIN_IN_BATTLES\":{\"\":[\"在战斗中获胜且幸存，\"],\"SIMPLE\":[\"在战斗中获胜且幸存\"]},\"IDS_SURVIVE_WIN_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中获胜且幸存，\"],\"SIMPLE\":[\"在一场战斗中获胜且幸存\"]},\"IDS_TASK\":{\"\":[\"作战任务\"]},\"IDS_TBOMBER_CLASS\":{\"\":[\"鱼雷轰炸机\"]},\"IDS_TIMES_WORD\":{\"\":[\"次\"]},\"IDS_TOP_IN_TEAM\":{\"\":[\"己方团队\"]},\"IDS_TORPEDO\":{\"\":[\"鱼雷\"]},\"IDS_TRAINING_BATTLE\":{\"\":[\"战斗训练\"]},\"IDS_UNITED_KINGDOM_NATION\":{\"\":[\"英国\"]},\"IDS_USA_NATION\":{\"\":[\"美国\"]},\"IDS_USING_BOMBER\":{\"\":[\"用机载炸弹\"]},\"IDS_USING_FIGHTER\":{\"\":[\"用攻击机\"]},\"IDS_USING_FIRE\":{\"\":[\"通过引起敌舰起火\"]},\"IDS_USING_FLOOD\":{\"\":[\"通过引起敌舰进水\"]},\"IDS_USING_MAIN_GUN\":{\"\":[\"用主炮组\"]},\"IDS_USING_RAM\":{\"\":[\"通过冲撞\"]},\"IDS_USING_ROCKET\":{\"\":[\"用火箭弹\"]},\"IDS_USING_SEA_MINE\":{\"\":[\"用水雷\"]},\"IDS_USING_SECONDARY_GUN\":{\"\":[\"用副炮组\"]},\"IDS_USING_SKIPBOMBER\":{\"\":[\"用弹跳炸弹\"]},\"IDS_USING_TBOMBER\":{\"\":[\"用机载鱼雷\"]},\"IDS_USING_TORPEDOES\":{\"\":[\"用舰载鱼雷\"]},\"IDS_WIN_IN_BATTLES\":{\"\":[\"在战斗中获胜，\"],\"SIMPLE\":[\"在战斗中获胜\"]},\"IDS_WIN_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中获胜，\"],\"SIMPLE\":[\"在一场战斗中获胜\"]},\"IDS_WITH_AGRO_AIR\":{\"\":[\"用机载炸弹或机载鱼雷\"]},\"IDS_WITH_AGRO_ART\":{\"\":[\"用火炮\"]},\"IDS_WITH_AGRO_DBOMB\":{\"\":[\"用深水炸弹\"]},\"IDS_WITH_AGRO_MINES\":{\"\":[\"用水雷\"]},\"IDS_WITH_AGRO_TORPS\":{\"\":[\"用舰载鱼雷或机载鱼雷\"]}},\"TRANSLATOR\":\"SSE模板翻译——澪刻本地化\",\"TEMPLATES\":{\"TEMPLATE_BATTLE_ACHIEVEMENTS\":{\"cntVars\":[\"count\"],\"optVars\":[\"colon\",\"precondition\"],\"rules\":[{\"template\":\"{}获得{}次{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"achievement.type\"},{\"isVar\":true,\"name\":\"colon\"}]}],\"rules_short\":[{\"template\":\"获得{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"achievement.type\"}]}],\"vars\":[\"precondition\",\"achievement.type\",\"colon\",\"count\"]},\"TEMPLATE_BATTLE_ACHIEVEMENTS_SHORT\":{\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}获得：\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"}]}],\"vars\":[\"precondition\"]},\"TEMPLATE_BATTLE_ACHIEVEMENTS_TYPE\":{\"cntVars\":[\"count\"],\"rules\":[{\"template\":\"{}次{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"achievement.type\"}]}],\"vars\":[\"achievement.type\",\"count\"]},\"TEMPLATE_BATTLE_CONDITIONS\":{\"optVars\":[\"battle_cond.in_squad\",\"league\"],\"rules\":[{\"cond\":{\"battle_cond.battle_type\":[null],\"battle_cond.in_squad\":[null]},\"template\":\"必须完成\",\"template_args\":[]},{\"cond\":{\"battle_cond.battle_type\":[null]},\"template\":\"必须{}完成\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"}]},{\"cond\":{\"battle_cond.battle_type\":[\"IDS_CLAN_BATTLE\"],\"league\":[null]},\"template\":\"必须{}完成{}\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"},{\"isVar\":true,\"name\":\"battle_cond.battle_type\"}]},{\"cond\":{\"battle_cond.battle_type\":[\"IDS_CLAN_BATTLE\"]},\"template\":\"必须{}完成{}({})\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"},{\"isVar\":true,\"name\":\"battle_cond.battle_type\"},{\"isVar\":true,\"name\":\"league\"}]},{\"template\":\"必须{}完成{}\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"},{\"isVar\":true,\"name\":\"battle_cond.battle_type\"}]}],\"setVars\":[\"battle_cond.battle_type\"],\"vars\":[\"battle_cond.in_squad\",\"battle_cond.battle_type\",\"league\"]},\"TEMPLATE_COMPLETE_TASKS\":{\"cntVars\":[\"count\"],\"rules\":[{\"template\":\"完成“{}”类型中的{}个{}\",\"template_args\":[{\"isVar\":true,\"name\":\"typeName\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"sseElement\"}]}],\"rules_short\":[{\"template\":\"完成{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"sseElement\"}]}],\"vars\":[\"count\",\"typeName\",\"sseElement\"]},\"TEMPLATE_DAMAGE_SHIPS\":{\"cntVars\":[\"damage\"],\"optVars\":[\"damage_types\",\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"template\":\"{}{}对{}{}{}造成{}点生命值伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"damage_types\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"damage\"}]}],\"rules_short\":[{\"cond\":{\"damage_types.length\":[1]},\"template\":\"{}造成伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"damage_types\"}]},{\"template\":\"造成伤害\",\"template_args\":[]}],\"vars\":[\"precondition\",\"damage\",\"ship.nation\",\"ship.class\",\"level\",\"damage_types\"]},\"TEMPLATE_DESTROY_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"ship.count\",\"ship.nation\":\"ship.count\"},\"rules\":[{\"template\":\"{}击毁{}艘{}{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]}],\"rules_short\":[{\"template\":\"击毁{}{}\",\"template_args\":[{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":2,\"isVar\":true,\"name\":\"ship.class\"}]}],\"vars\":[\"precondition\",\"ship.count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_DESTROY_SPECIFIED_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}击毁{}艘{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"ship.ids\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"rules_short\":[{\"template\":\"击毁{}{}\",\"template_args\":[{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"ship.ids\"},{\"count\":2,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"ship.count\"]},\"TEMPLATE_GET_BADGES\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"{}获得一枚{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"badge.names\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BADGE\"}]},{\"template\":\"{}获得至少{}枚{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"count\"},{\"isVar\":true,\"name\":\"badge.names\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BADGE\"}]}],\"rules_short\":[{\"template\":\"获得{}\",\"template_args\":[{\"count\":2,\"isVar\":false,\"name\":\"IDS_BADGE\"}]}],\"setVars\":[\"badge.names\"],\"vars\":[\"precondition\",\"count\",\"badge.names\"]},\"TEMPLATE_GO_INTO_BATTLE\":{\"cntVars\":[\"count\"],\"rules\":[{\"template\":\"进行{}场战斗\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"template\":\"进入一次{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"vars\":[\"count\"]},\"TEMPLATE_MAKE_N_XP\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{} 获得{}点基础经验\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"template\":\"获得基础经验\",\"template_args\":[]}],\"vars\":[\"precondition\",\"count\"]},\"TEMPLATE_N_TIMES_HIT_SHIPS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"{}{}命中一艘敌方{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"hit_types\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_SHIP\"}]},{\"template\":\"{}{}命中敌方{}{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"hit_types\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_SHIP\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"cond\":{\"hit_types.length\":[1]},\"template\":\"{}命中一艘敌方{}\",\"template_args\":[{\"isVar\":true,\"name\":\"hit_types\"},{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]},{\"template\":\"命中一艘敌方{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"hit_types\"]},\"TEMPLATE_N_TIMES_IGNITE_SHIPS\":{\"cntVars\":[\"count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"count\",\"ship.nation\":\"count\"},\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"{}使{}{}{}起火\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}使{}{}{}起火{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"使一艘{}起火\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_POTENTIAL_DAMAGE\":{\"cntVars\":[\"count\"],\"optVars\":[\"damage_types\",\"precondition\"],\"rules\":[{\"template\":\"{}承受{}{}点潜在伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"damage_types\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"cond\":{\"damage_types.length\":[1]},\"template\":\"承受{}潜在伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"damage_types\"}]},{\"template\":\"承受潜在伤害\",\"template_args\":[]}],\"vars\":[\"precondition\",\"count\",\"damage_types\"]},\"TEMPLATE_PRECONDITION\":{\"rules\":[{\"cond\":{\"simple_precondition\":[true]},\"template\":\"{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"SIMPLE\",\"name\":\"precondition\"}]},{\"template\":\"{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"}]}],\"vars\":[\"precondition\",\"simple_precondition\"]},\"TEMPLATE_PVE_OPERATIONS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"必须在{}完成 {}\",\"template_args\":[{\"count\":\"count\",\"isVar\":true,\"name\":\"operation\"},{\"isVar\":true,\"name\":\"operations_names\"}]}],\"setVars\":[\"operations_names\"],\"vars\":[\"precondition\",\"count\",\"operation\",\"operations_names\"]},\"TEMPLATE_PVE_SECONDARY_TASKS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{} 完成{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"stask\"}]}],\"rules_short\":[{\"template\":\"在{}完成{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"operation\"},{\"count\":2,\"isVar\":true,\"name\":\"stask\"}]}],\"vars\":[\"precondition\",\"count\",\"stask\",\"operation\"]},\"TEMPLATE_RECEIVE_BASE_CAPTURE_POINTS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}获得{}点{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"isVar\":true,\"name\":\"base_points\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_PTS_WORD\"}]}],\"rules_short\":[{\"template\":\"获得{}点{}\",\"template_args\":[{\"isVar\":true,\"name\":\"base_points\"},{\"count\":2,\"isVar\":false,\"name\":\"IDS_PTS_WORD\"}]}],\"vars\":[\"precondition\",\"count\",\"base_points\"]},\"TEMPLATE_SCOUTING_DAMAGE\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}通过侦察协助团队造成{}点伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"template\":\"协助团队造成伤害\",\"template_args\":[]}],\"vars\":[\"precondition\",\"count\"]},\"TEMPLATE_SHIP_DAMAGE_MODULES\":{\"cntVars\":[\"module.count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"module.type\":\"module.count\",\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"template\":\"{}伤害{}{}{}{}个{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"module.count\"},{\"count\":\"module.count\",\"isVar\":true,\"name\":\"module.type\"}]}],\"rules_short\":[{\"template\":\"伤害一艘{}的{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"},{\"count\":1,\"isVar\":true,\"name\":\"module.type\"}]}],\"vars\":[\"precondition\",\"module.count\",\"module.type\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SHIP_HIT_CITADELS\":{\"cntVars\":[\"count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"cond\":{\"count\":[1],\"ship.class\":[\"IDS_SHIP\"]},\"template\":\"{}命中{}{}{}的核心区\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"count\":[1]},\"template\":\"{}命中{}{}{}的核心区\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}命中{}{}{}的核心区{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"命中一艘{}的核心区\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SHIP_LIMITATIONS\":{\"optVars\":[\"level\",\"ship.elite\",\"ship.ids\",\"ship.nation\"],\"plurals\":{\"level\":\"10\",\"ship.class\":\"10\",\"ship.elite\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"cond\":{\"ship.ids\":[null]},\"template\":\"{}级{}{}{}\",\"template_args\":[{\"count\":10,\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.elite\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}\",\"template_args\":[{\"isVar\":true,\"name\":\"ship.ids\"}]}],\"vars\":[\"ship.nation\",\"ship.class\",\"ship.elite\",\"level\",\"ship.ids\"]},\"TEMPLATE_SHIP_START_FLOOD\":{\"cntVars\":[\"count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"cond\":{\"count\":[1],\"ship.class\":[\"IDS_SHIP\"]},\"template\":\"{}造成{}{}{}进水\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"count\":[1]},\"template\":\"{}造成{}{}{}进水\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}造成{}{}{}进水{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"使一艘{}进水\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SHOOT_AIRPLANES\":{\"cntVars\":[\"aircraft.count\"],\"optVars\":[\"precondition\"],\"plurals\":{\"aircraft.class\":\"aircraft.count\"},\"rules\":[{\"cond\":{\"aircraft.count\":[1]},\"template\":\"{}击落一架{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"aircraft.count\",\"isVar\":true,\"name\":\"aircraft.class\"}]},{\"template\":\"{}击落{}架{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"aircraft.count\"},{\"count\":\"aircraft.count\",\"isVar\":true,\"name\":\"aircraft.class\"}]}],\"rules_short\":[{\"template\":\"击毁一架{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_ANY_AIRCRAFT\"}]}],\"vars\":[\"precondition\",\"aircraft.count\",\"aircraft.class\"]},\"TEMPLATE_SPOT\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"cond\":{\"spot_target\":[\"IDS_TORPEDO\"]},\"template\":\"{}发现{}枚{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]},{\"cond\":{\"spot_target\":[\"IDS_SHIP\"]},\"template\":\"[{}成为第一个发现{}艘敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]},{\"cond\":{\"spot_target\":[\"IDS_ANY_AIRCRAFT\"]},\"template\":\"{}成为第一个发现{}架敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]},{\"template\":\"{}成为第一个发现{}架敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]}],\"rules_short\":[{\"cond\":{\"spot_target\":[\"IDS_TORPEDO\"]},\"template\":\"发现{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"spot_target\"}]},{\"template\":\"第一个发现{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"spot_target\"}]}],\"vars\":[\"precondition\",\"count\",\"spot_target\"]},\"TEMPLATE_SPOT_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"ship.count\",\"ship.nation\":\"ship.count\"},\"rules\":[{\"cond\":{\"level\":[null],\"ship.class\":[\"IDS_SHIP\"],\"ship.nation\":[null]},\"template\":\"{}成为第一个发现{}艘敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"ship.class\":[\"IDS_SHIP\"],\"ship.nation\":[null]},\"template\":\"{}成为第一个发现{}艘敌方{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"level\":[null]},\"template\":\"{}成为第一个发现{}艘{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}成为第一个发现{}艘{}{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]}],\"rules_short\":[{\"template\":\"发现{}\",\"template_args\":[{\"count\":2,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"ship.count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SPOT_SPECIFIED_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}成为第一个发现{}艘{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"ship.ids\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"rules_short\":[{\"template\":\"发现敌方{}\",\"template_args\":[{\"count\":2,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"ship.count\"]},\"TEMPLATE_SURVIVE_IN_BATTLES\":{\"cntVars\":[\"count\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"在一场{}中幸存\",\"template_args\":[{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]},{\"template\":\"在{}场{}中幸存\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"rules_short\":[{\"template\":\"在一场{}中幸存\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"vars\":[\"count\"]},\"TEMPLATE_TOP_N_DAMAGE\":{\"cntVars\":[\"top.rank\"],\"optVars\":[\"precondition\",\"top.in_team\"],\"rules\":[{\"cond\":{\"top.in_team\":[null],\"top.rank\":[1]},\"template\":\"{}对敌方造成的伤害在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"}]},{\"cond\":{\"top.in_team\":[null]},\"template\":\"{}对敌方造成的伤害在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]},{\"cond\":{\"top.rank\":[1]},\"template\":\"{}对敌方造成的伤害在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"}]},{\"template\":\"{}对敌方造成的伤害在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"rules_short\":[{\"cond\":{\"top.rank\":[1]},\"template\":\"对敌方造成的伤害在排名第1\",\"template_args\":[]},{\"template\":\"对敌方造成的伤害在排名前{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"vars\":[\"precondition\",\"top.in_team\",\"top.rank\"]},\"TEMPLATE_TOP_N_EXP\":{\"cntVars\":[\"top.rank\"],\"optVars\":[\"precondition\",\"top.in_team\"],\"rules\":[{\"cond\":{\"top.in_team\":[null],\"top.rank\":[1]},\"template\":\"{}经验获取量在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"}]},{\"cond\":{\"top.in_team\":[null]},\"template\":\"{}经验获取量在{}排名前{} \",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]},{\"cond\":{\"top.rank\":[1]},\"template\":\"{}经验获取量在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"}]},{\"template\":\"{}经验获取量在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"rules_short\":[{\"cond\":{\"top.rank\":[1]},\"template\":\"经验获取量在排名第1\",\"template_args\":[]},{\"template\":\"经验获取量在排名前{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"vars\":[\"precondition\",\"top.in_team\",\"top.rank\"]},\"TEMPLATE_TOP_N_EXP_BATTLES\":{\"cntVars\":[\"top.rank\"],\"optVars\":[\"precondition\",\"top.in_team\"],\"rules\":[{\"cond\":{\"top.in_team\":[null],\"top.rank\":[1]},\"template\":\"在{}场{}中，获得的经验在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"}]},{\"cond\":{\"top.in_team\":[null]},\"template\":\"在{}场{}中，获得的经验在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]},{\"cond\":{\"top.rank\":[1]},\"template\":\"在{}场{}中，获得的经验在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"isVar\":true,\"name\":\"top.in_team\"}]},{\"template\":\"在{}场{}中，获得的经验在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"isVar\":true,\"name\":\"top.in_team\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"rules_short\":[{\"cond\":{\"top.rank\":[1]},\"template\":\"经验获取量在排名第1\",\"template_args\":[]},{\"template\":\"经验获取量在排名前{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"vars\":[\"precondition\",\"top.in_team\",\"top.rank\",\"count\"]},\"TEMPLATE_TOTAL_CURRENCY\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}获得{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"currency\"}]}],\"rules_short\":[{\"template\":\"获得{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"currency\"}]}],\"vars\":[\"precondition\",\"count\",\"currency\"]},\"TEMPLATE_USE_CAMOUFLAGE\":{\"rules\":[{\"template\":\"必须在这艘战舰上安装{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"camouflage.id\"},{\"count\":1,\"isVar\":false,\"name\":\"IDS_CAMOUFLAGE\"}]}],\"setVars\":[\"camouflage.id\"],\"vars\":[\"camouflage.id\"]},\"TEMPLATE_USE_PERMOFLAGE\":{\"rules\":[{\"template\":\"必须在这艘战舰上安装{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"permoflage.id\"},{\"count\":1,\"isVar\":false,\"name\":\"IDS_PERMANENT_CAMOUFLAGE\"}]}],\"setVars\":[\"permoflage.id\"],\"vars\":[\"permoflage.id\"]},\"TEMPLATE_USE_SIGNALS\":{\"optVars\":[\"signal.group\"],\"rules\":[{\"cond\":{\"signal.group\":[null]},\"template\":\"\",\"template_args\":[]},{\"cond\":{\"count\":[1],\"signal.ids\":[null]},\"template\":\"必须在这艘战舰上安装{}个{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"signal.group\"}]},{\"cond\":{\"signal.ids\":[null]},\"template\":\"必须在这艘战舰上安装{}个{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"signal.group\"}]},{\"template\":\"必须在这艘战舰上安装{}个{}\",\"template_args\":[{\"count\":1,\"isVar\":true,\"name\":\"signal.group\"},{\"isVar\":true,\"name\":\"signal.ids\"}]}],\"setVars\":[\"signal.ids\"],\"vars\":[\"signal.group\",\"count\",\"signal.ids\"]},\"TEMPLATE_WIN_IN_BATTLES\":{\"cntVars\":[\"count\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"赢得{}\",\"template_args\":[{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]},{\"template\":\"赢得{}场{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"rules_short\":[{\"template\":\"赢得{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"vars\":[\"count\"]}}}"
@@ -129550,7 +128538,7 @@ msgid "IDS_SUBMARINE_DEPTH_STATE_SURFACE"
 msgstr "水面"
 
 msgid "IDS_SUBMARINE_DEPTH_STATE_WORKING"
-msgstr "工作深度"
+msgstr "作业深度[UNUSED]"
 
 msgid "IDS_SUBMARINE_GOAL"
 msgstr "潜艇角色定位"
@@ -129782,9 +128770,6 @@ msgstr "%(_bottom)s或更多"
 
 msgid "IDS_SUBST_TAG_DESCRIPTION_CUSTOM"
 msgstr "%(eventName)s活动"
-
-msgid "IDS_SUBS_IMPROVE_EVENT"
-msgstr "水下前线"
 
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "页面已完成"
@@ -130546,9 +129531,6 @@ msgstr "精通挑战已重置"
 
 msgid "IDS_SYS_MSG_MASTERY_TASK_DONE"
 msgstr "精通挑战已完成"
-
-msgid "IDS_SYS_MSG_MASTERY_TASK_REPLACED"
-msgstr "精通挑战已替换"
 
 msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
 msgstr "已完成教学任务"
@@ -132182,9 +131164,6 @@ msgstr "全世界的科学家，联合起来！"
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "荣耀的名字"
 
-msgid "IDS_THIRD_SPACE_MUSEUM_NAME"
-msgstr "火箭"
-
 msgid "IDS_THIRD_TSAR_MOREY_NAME"
 msgstr "一帆风顺"
 
@@ -132460,14 +131439,6 @@ msgstr ""
 "\n"
 "只能命中敌方潜艇。"
 
-msgid "IDS_TIPS_ANTI_SUB_IMPROVE_AIRCRAFT_DESCRIPTION"
-msgstr ""
-"按下[CMD_AMMO_SLOT_4]即可使用武器。\n"
-"\n"
-"用深水炸弹对标记区域进行空中轰炸。\n"
-"\n"
-"深水炸弹可对水下潜艇造成伤害、摧毁鱼雷；也会对水面战舰及水面上的潜艇造成少量伤害。"
-
 msgid "IDS_TIPS_ARMAMENT_AP"
 msgstr "穿甲弹（AP）"
 
@@ -132614,12 +131585,6 @@ msgstr ""
 "按下[CMD_AMMO_SLOT_G]释放深水炸弹。\n"
 "\n"
 "只能命中敌方潜艇。"
-
-msgid "IDS_TIPS_DEPTH_CHARGES_SUB_IMPROVE_DESCRIPTION"
-msgstr ""
-"按下[CMD_AMMO_SLOT_G]释放深水炸弹。\n"
-"\n"
-"深水炸弹可对水下潜艇造成伤害、摧毁鱼雷；也会对水面战舰及水面上的潜艇造成少量伤害。"
 
 msgid "IDS_TIPS_DESTROYERS"
 msgstr "驱逐舰"
@@ -132896,12 +131861,6 @@ msgstr "深水炸弹"
 msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
 msgstr "敌舰携带深水炸弹——对抗潜艇的装备。"
 
-msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
-msgstr ""
-"敌舰拥有对潜武器——深水炸弹。\n"
-"\n"
-"当潜艇处于水面或最大深度时，受到的深水炸弹伤害将有所降低。"
-
 msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_ENERGY_FREEZE"
 msgstr "储备蓄电池单位"
 
@@ -132931,15 +131890,6 @@ msgstr "潜艇的被侦察范围"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
 msgstr "位于最大深度的潜艇只能被特定消耗品发现。"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT"
-msgstr "发现潜艇"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT_DESCRIPTION"
-msgstr ""
-"处于工作深度的潜艇可被“对海搜索”或“短程对海搜索”发现。\n"
-"\n"
-"若潜艇下潜至最大深度，则无法被发现。"
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_BURNING"
 msgstr "潜艇的下潜能力"
@@ -134169,7 +133119,7 @@ msgid "IDS_TOOLTIP_WAVE_SPEED"
 msgstr "声呐脉冲速度"
 
 msgid "IDS_TOOLTIP_WAVE_WIDTH"
-msgstr "声呐脉冲宽度"
+msgstr "声呐脉冲宽度。"
 
 msgid "IDS_TOOLTIP_WEAPONRY"
 msgstr "反映战舰火炮攻击能力的参数"
@@ -134535,7 +133485,7 @@ msgid "IDS_TRAINING_ROOM_INPUT_PASSWORD_INFO"
 msgstr "密码不超过8个字符，只能包含拉丁字母、数字和下划线。"
 
 msgid "IDS_TRAINING_ROOM_JOINING"
-msgstr "进入房间中"
+msgstr "正在进入训练房间"
 
 msgid "IDS_TRAINING_ROOM_MANAGEMENT_HINT"
 msgstr "配置战舰"
@@ -134565,7 +133515,7 @@ msgid "IDS_TRAINING_ROOM_PLAYER_STATE_OBSERVER"
 msgstr "观察者"
 
 msgid "IDS_TRAINING_ROOM_QUITING"
-msgstr "退出训练房间"
+msgstr "正在退出训练房间"
 
 msgid "IDS_TRAINING_ROOM_SPECTATORS_IS_ENABLED"
 msgstr "允许观战"
@@ -134802,12 +133752,6 @@ msgstr "懦夫"
 
 msgid "IDS_TRY_ANOTHER_TITLE"
 msgstr "试试其它名称。"
-
-msgid "IDS_TTX_ELITE_CREW_CAN_GET_TALENT"
-msgstr "可激活天赋"
-
-msgid "IDS_TTX_ELITE_CREW_CAN_UPGRADE_SKILL"
-msgstr "可强化技能"
 
 msgid "IDS_TUESDAY"
 msgstr "周二"
@@ -135897,9 +134841,6 @@ msgstr "Neil Chesters"
 msgid "IDS_UVAROV"
 msgstr "亚历山大•乌瓦罗夫"
 
-msgid "IDS_U_2501_SUBTEST"
-msgstr "西蒙•费舍尔"
-
 msgid "IDS_VALERKA_MESHCHERYAKOV"
 msgstr "瓦列尔卡•梅谢利亚科夫"
 
@@ -136424,14 +135365,23 @@ msgstr "安装升级品"
 msgid "IDS_WINNER_TEAM"
 msgstr "%(_teamName)s队获胜"
 
+msgid "IDS_WITHOUT_COMMANDER"
+msgstr "不含指挥官"
+
 msgid "IDS_WITHOUT_PREM"
 msgstr "无高级账号"
 
 msgid "IDS_WITHOUT_PREM_DESC"
 msgstr "标准账号"
 
+msgid "IDS_WITHOUT_SLOT"
+msgstr "不含船位"
+
 msgid "IDS_WITH_BOMBERS"
 msgstr "用轰炸机"
+
+msgid "IDS_WITH_COMMANDER"
+msgstr "含指挥官"
 
 msgid "IDS_WITH_CONSUME_FIGHTER"
 msgstr "用战斗机"
@@ -136453,6 +135403,9 @@ msgstr "使用高级账号，您每场战斗可以获得更多的经验和银币
 
 msgid "IDS_WITH_PREM_WOWS"
 msgstr "使用战舰高级账号"
+
+msgid "IDS_WITH_SLOT"
+msgstr "含船位"
 
 msgid "IDS_WITH_TBOMBERS"
 msgstr "用鱼雷轰炸机"
@@ -136884,10 +135837,6 @@ msgstr[0] "%(days)s天"
 msgid "IDS_CP_REWARD_FOR_HOLDING"
 msgid_plural "IDS_CP_REWARD_FOR_HOLDING"
 msgstr[0] "+%s/%s%s"
-
-msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
-msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
-msgstr[0] "+%(_amount)s技能点"
 
 msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
 msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"

@@ -1,0 +1,136 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_DAILY_WIN_EXP"
+msgstr "Ежедневный бонус за победу"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_APRIL_SPACE"
+msgstr "Отображение камуфляжей «Космические» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ARPEGGIO"
+msgstr "Отображение камуфляжей Arpeggio отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_AZURLANE"
+msgstr "Отображение камуфляжей Azur Lane отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_CH_DRAGONS"
+msgstr "Отображение камуфляжей «Лунный Новый год» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_COLORED"
+msgstr "Отображение камуфляжей «Окраска» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_DECORATIVE"
+msgstr "Отображение камуфляжей «Декоративные» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_ENTERTAINMENT"
+msgstr "Отображение камуфляжей «Развлекательный контент» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_EV24SMF"
+msgstr "Отображение камуфляжей «Ну, погоди!» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HALLOWEEN_16"
+msgstr "Отображение камуфляжей «Хэллоуин» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HIGHSCHOOLFLEET"
+msgstr "Отображение камуфляжей High School Fleet отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_HOLOLIVE"
+msgstr "Отображение камуфляжей hololive production отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_KOBAYASHI"
+msgstr "Отображение камуфляжей Makoto Kobayashi Signature отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_LOGH"
+msgstr "Отображение камуфляжей Legend of the Galactic Heroes отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_MEGADETH"
+msgstr "Отображение камуфляжей Megadeth отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_NATU"
+msgstr "Отображение камуфляжей Year Hare Affair отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POPEYE"
+msgstr "Отображение камуфляжей Popeye the Sailor Man отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_POST_APOCALYPSE"
+msgstr "Отображение камуфляжей «Дикая волна» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RANGERS"
+msgstr "Отображение камуфляжей «Посланники звёзд» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_RECONSTRUCTION"
+msgstr "Отображение камуфляжей «Реконструкция» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
+msgstr "Отображение камуфляжей события «Во имя прогресса!» отключено"
+
+msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_WARHAMMER"
+msgstr "Отображение камуфляжей Warhammer 40,000 отключено"
+
+msgid "IDS_CATCH_EGG_HINT"
+msgstr "Ловите яйца, чтобы получать очки. Золотые яйца приносят больше очков."
+
+msgid "IDS_CATCH_SHARK_HINT"
+msgstr "Акула! Вы потеряли очки, но скорость корабля повысилась."
+
+msgid "IDS_HYDROPHONE"
+msgstr "ОБНАРУЖЕН"
+
+msgid "IDS_INCREASE_BARRACKS_CAPACITY"
+msgstr "Расширить"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
+msgstr "Радиус взрыва боеприпасов по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
+msgstr "Радиус взрыва ОФ-бомб по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
+msgstr "Радиус взрыва ОФ-ракет по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
+msgstr "Радиус взрыва ОФ- и ПББ-снарядов ГК по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
+msgstr "Радиус взрыва снарядов ПМК по подводным лодкам"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVETORPEDODAMAGECOEFF"
+msgstr "Модификатор получаемого урона от торпед"
+
+msgid "IDS_RATES"
+msgstr "Специальный коэффициент"
+
+msgid "IDS_RATES_HINT"
+msgstr "Специальный коэффициент"
+
+msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
+msgstr "Проходит испытания"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
+msgstr "Пройдите испытания. Каждое испытание выполняется в одном бою."
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
+msgstr "Боевую задачу можно выполнить только на определённых кораблях."
+
+msgid "IDS_WITHOUT_COMMANDER"
+msgstr "Без командира"
+
+msgid "IDS_WITHOUT_SLOT"
+msgstr "Без слота"
+
+msgid "IDS_WITH_COMMANDER"
+msgstr "С командиром"
+
+msgid "IDS_WITH_SLOT"
+msgstr "Со слотом"
