@@ -1000,13 +1000,13 @@ msgid "IDS_PRPT991_SUBTEST_MZ"
 msgstr "53-38U MZ"
 
 msgid "IDS_PRSS910"
-msgstr "К-41"
+msgstr "K-41"
 
 msgid "IDS_PRSS910_DESCR"
 msgstr "此大型潜艇可与水面舰队协同作战，也能独立执行远航任务。它拥有10根鱼雷发射管，并具备较高的水面航速。"
 
 msgid "IDS_PRSS910_FULL"
-msgstr "К-41"
+msgstr "K-41"
 
 msgid "IDS_PRSS910_NUMBER"
 msgstr "12"
@@ -1021,7 +1021,7 @@ msgid "IDS_PRUE926_ENG_SUBTEST"
 msgstr "推进系统：8400马力"
 
 msgid "IDS_PRUH926_HULL_SUBTEST"
-msgstr "К-41"
+msgstr "K-41"
 
 msgid "IDS_PRUT919_TORP_SUBTEST"
 msgstr "533 mm"

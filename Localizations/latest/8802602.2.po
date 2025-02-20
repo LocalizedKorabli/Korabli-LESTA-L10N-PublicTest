@@ -100865,13 +100865,13 @@ msgid "IDS_PRSS518_YEAR"
 msgstr "1955"
 
 msgid "IDS_PRSS910"
-msgstr "К-41"
+msgstr "K-41"
 
 msgid "IDS_PRSS910_DESCR"
 msgstr "此大型潜艇可与水面舰队协同作战，也能独立执行远航任务。它拥有10根鱼雷发射管，并具备较高的水面航速。"
 
 msgid "IDS_PRSS910_FULL"
-msgstr "К-41"
+msgstr "K-41"
 
 msgid "IDS_PRSS910_NUMBER"
 msgstr "12"
@@ -102305,7 +102305,7 @@ msgid "IDS_PRUH925_CV11_HULL_STOCK"
 msgstr "乌里扬诺夫斯克"
 
 msgid "IDS_PRUH926_HULL_SUBTEST"
-msgstr "К-41"
+msgstr "K-41"
 
 msgid "IDS_PRUH930_D11_HULL_STOCK"
 msgstr "佐尔基"
