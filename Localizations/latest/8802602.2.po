@@ -11841,7 +11841,7 @@ msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "得到的物品"
 
 msgid "IDS_COLLECTION_RANDOM_ITEM"
-msgstr "随机物品"
+msgstr "随机元素"
 
 msgid "IDS_COLLECTION_RECEIVE_IN_ARMORY_BUNDLES"
 msgstr "此收藏的元素可以从兵工厂中的补给箱获得。"
@@ -123934,7 +123934,7 @@ msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
 msgstr "进行精通挑战"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
-msgstr "在单场战斗中完成"
+msgstr "每一项挑战必须在单场战斗中完成"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
 msgstr "正在进行精通挑战的战舰"
