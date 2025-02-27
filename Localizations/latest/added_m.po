@@ -1081,7 +1081,9 @@ msgid "IDS_SHIP_MASTERY_TASKS_IN_PROGRESS"
 msgstr "正在进行精通挑战"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
-msgstr "每一项挑战必须在单场战斗中完成"
+msgstr ""
+"每一项挑战\n"
+"必须在单场战斗中完成"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_AIR_SUPPORT_RELOAD_FACTOR"
 msgstr "降低深水炸弹空袭效率"
