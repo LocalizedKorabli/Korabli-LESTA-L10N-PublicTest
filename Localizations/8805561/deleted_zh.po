@@ -1,0 +1,209 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ADDITIONAL_REWARD_AFTER"
+msgstr "已发放的奖励"
+
+msgid "IDS_ADDITIONAL_REWARD_BEFORE"
+msgstr "奖励将在第一次完成后发放"
+
+msgid "IDS_AVAILABLE_SHIP"
+msgstr "可用战舰"
+
+msgid "IDS_BOUGHT_WOWS_PREMIUM_ACCOUNT"
+msgstr "战舰高级账号已购买"
+
+msgid "IDS_CAMPAIGN_TAKE_REWARD"
+msgstr "领取奖励"
+
+msgid "IDS_CAMPAIGN_TASKS_IN_PROGRESS"
+msgstr "正在进行的目标："
+
+msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_WOWS"
+msgstr "此用户名已有人使用。请尝试其他用户名。"
+
+msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_WOWS_SUGGESTIONS"
+msgstr "此用户名已有人使用。请尝试其他用户名或选择系统推荐的用户名。"
+
+msgid "IDS_CHOOSE_TASKS_INFO"
+msgstr ""
+"做任务时请选择您偏好的目标。可同时进行多个作战目标。\n"
+"最终目标达成后任务就会完结。"
+
+msgid "IDS_CHOOSE_WOWS_NAME"
+msgstr ""
+"选择用户名。\n"
+"一旦登录游戏便无法变更。"
+
+msgid "IDS_CONTEXT_TUTORIAL_BINOCULARS_USE"
+msgstr "进入望远镜视角"
+
+msgid "IDS_DOCK_BANNER_CAMPAIGNS"
+msgstr "战役"
+
+msgid "IDS_DOCK_BANNER_TOOLTIP_CAMPAIGNS"
+msgstr "战役"
+
+msgid "IDS_FINAL_TASK"
+msgstr "最终目标"
+
+msgid "IDS_HINT_CAMPAIGN_LIFETIME"
+msgstr "战役结束日期"
+
+msgid "IDS_HINT_CAMPAIGN_STARTTIME"
+msgstr "战役开始日期"
+
+msgid "IDS_MISSION_NUMBER"
+msgstr "任务编号"
+
+msgid "IDS_MISSION_STATE_OPENED_BOSS"
+msgstr "已完成最终目标。想要完成此任务，请完成剩下的目标。"
+
+msgid "IDS_MISSION_TAKE_STARS"
+msgstr "收集星数："
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_3"
+msgstr "分支中所有战舰（包含配件）将被出售；"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_4"
+msgstr "涂装、旗帜、信号旗和消耗型经济加成将被拆卸；"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_5"
+msgstr "当您重新研发战舰时，之前已绑定的永久加成包和永久涂装将可继续使用；"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_6"
+msgstr "升级品将被免费拆卸；"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
+msgstr "指挥官将被调回预备队；"
+
+msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
+msgstr "任何未转换为全局经验的经验将转移到I级战舰。"
+
+msgid "IDS_NOT_ENOUGH_GOLD_TO_BUY_PREMIUM_WOWS"
+msgstr "金币不足，无法购买战舰高级账号"
+
+msgid "IDS_NOT_READY_TO_BATTLE_IN_DIVISION_INFO"
+msgstr ""
+"您未准备好加入小队战斗。\n"
+"\n"
+"选择一艘合适的战舰并点击“准备”来进入战斗。"
+
+msgid "IDS_ONLY_FOR_PREM"
+msgstr "仅高级账号可用"
+
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_0"
+msgstr "分支的所有战舰和配件将被出售。"
+
+msgid "IDS_PASSING_TASKS"
+msgstr "进行中"
+
+msgid "IDS_PREMIUM_ACCOUNT_WG_TOOLTIP_HEADER"
+msgstr "Lesta高级账号：%(days)s"
+
+msgid "IDS_PREMIUM_ACCOUNT_WOWS_TOOLTIP_HEADER"
+msgstr "战舰高级账号：%(days)s"
+
+msgid "IDS_PRUA724_D8_ART_TOP_2"
+msgstr "130 mm/55（B-2-U炮座）"
+
+msgid "IDS_PRUH704_D8_HULL_TOP_2"
+msgstr "火力(B)"
+
+msgid "IDS_PRUS713_D8_SUO_TOP_2"
+msgstr "GFCS VIII mod.2"
+
+msgid "IDS_PURCHASE_WOWS_ACCOUNT_FOR"
+msgstr "购买战舰高级账号？确认花费"
+
+msgid "IDS_RETURN_TO_MISSIONS"
+msgstr "返回任务"
+
+msgid "IDS_REWARDS_FOR_MISSION_COMPLETE"
+msgstr "完成最终目标奖励"
+
+msgid "IDS_REWARD_FOR_CAMPAIGN"
+msgstr "完成战役奖励"
+
+msgid "IDS_SELECTED_FOR_PASSAGE"
+msgstr "选择"
+
+msgid "IDS_SHIP_ELITE_RESTRICTION"
+msgstr "用精英战舰完成目标"
+
+msgid "IDS_SHIP_LEVEL_RESTRICTION"
+msgstr "限制战舰等级"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
+msgstr "基础经验不足，未解锁精通挑战"
+
+msgid "IDS_SHIP_NATION_RESTRICTION"
+msgstr "限制战舰国家"
+
+msgid "IDS_SHIP_PREMIUM_RESTRICTION"
+msgstr "使用加值战舰完成目标"
+
+msgid "IDS_SHIP_SHIPNAME_RESTRICTION"
+msgstr "使用特定战舰完成目标"
+
+msgid "IDS_SHIP_SHIPTYPE_RESTRICTION"
+msgstr "战舰类型限制"
+
+msgid "IDS_SHIP_SPECIAL_RESTRICTION"
+msgstr "使用特殊战舰完成目标"
+
+msgid "IDS_SHOW_TASK_DETAILS"
+msgstr "查看详情"
+
+msgid "IDS_STARS_FOR_BATTLE"
+msgstr "这是您完成此目标所获得的星星。您需要用它们来解开任务最终目标。"
+
+msgid "IDS_STARS_FOR_BATTLE_EARNED"
+msgstr "您完成目标所获得的星星。"
+
+msgid "IDS_STARS_FOR_BATTLE_EMPTY"
+msgstr "通过完成目标来收集星星。"
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_TASK_BOSS_ENABLED"
+msgstr "任务的最终目标现已开放"
+
+msgid "IDS_SYS_MSG_CAMPAIGNS_TASK_UNLOCKED"
+msgstr "任务的最终目标已解锁"
+
+msgid "IDS_TASK_RESTRICTIONS"
+msgstr "限制："
+
+msgid "IDS_TOOLTIP_FINAL_TASK_LOCKED"
+msgstr "收集到所需数量的星星来解开最后的目标。"
+
+msgid "IDS_WG_PREMIUM_ACCOUNT_ENDS_TIME"
+msgstr "Lesta高级账号有效期：%(timeLeft)s"
+
+msgid "IDS_WOWS_PREMIUM_ACCOUNT_ENDS_TIME"
+msgstr "战舰高级账号有效期：%(timeLeft)s"
+
+msgid "IDS_AND_OTHER_SHIPS"
+msgid_plural "IDS_AND_OTHER_SHIPS"
+msgstr[0] "以及另外%(count)s艘战舰"
+
+msgid "IDS_CHOOSE_TASK_DESCR"
+msgid_plural "IDS_CHOOSE_TASK_DESCR"
+msgstr[0] ""
+"<body>收集%(count)s颗星来解锁最终目标。\n"
+"缺少的<h3>星数</h3>可以通过重复完成目标来收集。</body>"
+
+msgid "IDS_TASK_EXPLAIN_TOOLTIP_PREM"
+msgid_plural "IDS_TASK_EXPLAIN_TOOLTIP_PREM"
+msgstr[0] "高级账号让您可以同时进行%(count)s个目标"
