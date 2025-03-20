@@ -1,0 +1,1184 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SPACE_MUSEUM_COMPLETED"
+msgstr "完成“太空时代”收藏。"
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_SPACE_MUSEUM_COMPLETED"
+msgstr "太空时代"
+
+msgid "IDS_ADDITIONAL_BATTLE_CR"
+msgstr "每场战斗获得的额外银币"
+
+msgid "IDS_ADDITIONAL_BATTLE_CR_HINT"
+msgstr "每场战斗获得的额外银币"
+
+msgid "IDS_ADDITIONAL_BATTLE_XP"
+msgstr "每场战斗获得的额外经验"
+
+msgid "IDS_ADDITIONAL_BATTLE_XP_HINT"
+msgstr "每场战斗获得的额外经验"
+
+msgid "IDS_AIR_SUPORT_ALERT"
+msgstr "空袭"
+
+msgid "IDS_APPLIED_FILTER_HINT_CREWNATION"
+msgstr "按国籍筛选"
+
+msgid "IDS_APPLIED_FILTER_HINT_CREWTYPE"
+msgstr "按稀有度筛选"
+
+msgid "IDS_ASTRONAUT_ARTEMIEV"
+msgstr "奥列格•阿尔捷米耶夫"
+
+msgid "IDS_BALAO_SUBTEST"
+msgstr "山姆•费舍尔"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_BATTLE_XP_COEF"
+msgstr "每场战斗获得的额外经验"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
+msgstr "每日胜利加成"
+
+msgid "IDS_CAROUSEL_FILTER_CONSTRUCTOR"
+msgstr "筛选适合%(operationBattleNameIDS)s的战舰"
+
+msgid "IDS_CAROUSEL_PCVE029_FILTER"
+msgstr "筛选适合“水下前线”的战舰"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE029"
+msgstr "选择“水下前线”"
+
+msgid "IDS_COLLECTION_RANDOM_ITEM"
+msgstr "随机元素"
+
+msgid "IDS_CONTEXT_TUTORIAL_REGEN_CREW"
+msgstr "维修小组"
+
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_INVULNERABLE"
+msgstr "位于最大深度时：潜艇受到的伤害更少，不会被发现；但其同时也无法发现其他战舰。"
+
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
+msgstr "位于潜望深度时，潜艇不消耗下潜能力，并会持续进行被动声呐定位；但其航速降低，对战舰的侦察范围缩小。"
+
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PING"
+msgstr "按下[CMD_DEACTIVATE_PING]可取消声呐标记的最后一个高亮区域，对其发射的鱼雷将不再被导向该区域。"
+
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
+msgstr "位于工作深度时：潜艇的航速较高，并会持续进行被动声呐定位；但其对战舰的侦察范围大幅缩小。"
+
+msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
+msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_CLIENT_PAID_PL"
+msgstr[0] "+%(_amount)s技能点"
+
+msgid "IDS_DESCRIPTION_PCZA040_SPACE_MUSEUM"
+msgstr ""
+"自古以来，天空始终吸引着人类——对于科学家而言，它象征着对宇宙奥秘的探索；对诗人而言，则是宏伟而纯净的意象。然而，直到20世纪中叶，科学技术的飞速发展才让人类真正有机会用研究者的目光仰望天空，并踏上离开地球的征程。\n"
+"\n"
+"在20世纪50年代末至60年代初，苏联一系列科学与技术上的成就标志着太空时代的开端。例如，1957年将首颗人造地球卫星送入轨道，1961年实现了人类历史上首次载人航天飞行。除此之外还有许多令人瞩目的壮举，这些伟大事件的背后，离不开成千上万人的努力：科学家、工程师、工人以及国家决策者，正是他们将飞向太空的梦想变为现实——他们的成就将永载史册。"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr ""
+"该武器集成了声呐与鱼雷，会根据声呐脉冲命中的情况在后两者间自动切换——每当声呐脉冲命中战舰一次，可以发射一枚声导鱼雷。\n"
+"\n"
+"位于最大深度时无法使用。"
+
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr "导向系统"
+
+msgid "IDS_DOF"
+msgstr "港口景深"
+
+msgid "IDS_DOF_DESCRIPTION"
+msgstr "在港口中，对焦范围外的物体会被模糊处理，营造电影般的效果。仅在后期处理品质设定为“极高”时生效。"
+
+msgid "IDS_ELITE_CREW_CAN_GET_TALENT_TOOLTIP_STATUS"
+msgstr "可激活国家天赋"
+
+msgid "IDS_ELITE_CREW_CAN_UPGRADE_SKILL_TOOLTIP_STATUS"
+msgstr "可强化技能"
+
+msgid "IDS_FIFTH_SPACE_MUSEUM_NAME"
+msgstr "最初的记录"
+
+msgid "IDS_FIRST_SPACE_MUSEUM_NAME"
+msgstr "人造卫星与空间站：第1部分"
+
+msgid "IDS_FOURTH_SPACE_MUSEUM_NAME"
+msgstr "宇航服"
+
+msgid "IDS_GO_TO_COLLECTION_SSE_BUTTON"
+msgstr "查看收藏"
+
+msgid "IDS_HIRE_CREW"
+msgstr "征募指挥官"
+
+msgid "IDS_INFO_DEEP_WATER_DISABLED"
+msgstr "位于工作深度时无法使用"
+
+msgid "IDS_IN_PCVE029"
+msgstr "“水下前线”的匹配时间为:"
+
+msgid "IDS_K_TYPE_SUBTEST"
+msgstr "谢苗•雷巴科夫"
+
+msgid "IDS_LANA_ANIME"
+msgstr "拉娜"
+
+msgid "IDS_LEILA_ANIME"
+msgstr "艾拉"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
+msgstr "水下前线"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_HEADER"
+msgstr "水下前线"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
+msgstr "战斗特点"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "您可以选择驾驶潜艇参战，以体验对该战舰类型所做的改动。"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "若您选择驾驶其他类型战舰参战，则可以体验关于对抗潜艇的各项改动。"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
+msgstr "潜艇"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "声呐与声导鱼雷已被合并：声呐命中目标后会自动切换到鱼雷发射管。每一次声呐脉冲命中可为一枚鱼雷提供制导。"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "无法使用水听器消耗品。所有潜艇在位于潜望深度和工作深度时都会持续进行被动声呐定位。"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_HEADER"
+msgstr "水面战舰"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "深水炸弹会在较浅深度停留一段时间。在这段时间内，其可被附近的水面战舰、潜艇或鱼雷触发爆炸。"
+
+msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "除对水下的潜艇造成伤害外，深水炸弹还能摧毁鱼雷，并对水面上的水面战舰和潜艇造成少量伤害。"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_HEADER"
+msgstr "潜艇"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_1_PARAGRAPH_1_TEXT_1"
+msgstr "当潜艇发射声呐脉冲时，水面会出现波纹，指示潜艇移动的方向。"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_HEADER"
+msgstr "被动声呐"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_2_PARAGRAPH_2_TEXT_1"
+msgstr "潜艇能够在一定范围内直接看到位于水面上战舰的位置。"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_HEADER"
+msgstr "深水炸弹"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
+msgstr "会在较浅深度停留片刻，能对潜艇造成伤害并摧毁鱼雷。"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
+msgstr "声呐与鱼雷"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
+msgstr "同一艘潜艇在同一时间针对同一战舰进行制导的鱼雷数量有限，具体取决于潜艇种类。"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_HEADER"
+msgstr "最大深度"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
+msgstr "位于最大深度时：潜艇无法被发现，受到的伤害也更少；但作战能力受到限制。"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_HEADER"
+msgstr "深水炸弹"
+
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
+msgstr "会在较浅深度停留片刻，能对潜艇造成伤害并摧毁鱼雷。"
+
+msgid "IDS_PAAD983_ASW_T10_CV_SUBTEST"
+msgstr "Consolidated PB4Y-2 Privateer Test"
+
+msgid "IDS_PAAD988_ASW_T10_SUBTEST"
+msgstr "Consolidated PB4Y-2 Privateer"
+
+msgid "IDS_PAPD907_DEPTH_T10"
+msgstr "650-pound Depth Bomb"
+
+msgid "IDS_PAPD910_DEPTH_CV_10"
+msgstr "650-pound Depth Bomb Mk 38"
+
+msgid "IDS_PAPT990_MK29_SUBTEST"
+msgstr "Mk29 MIE"
+
+msgid "IDS_PAPT991_MK29_SUB_MAGNETIC_SUBTEST"
+msgstr "Mk29"
+
+msgid "IDS_PARAMS_MODIFIER_CANBEDAMAGED"
+msgstr "潜艇受到的伤害降低"
+
+msgid "IDS_PARAMS_MODIFIER_CANBEDETECTED"
+msgstr "潜艇无法被发现"
+
+msgid "IDS_PARAMS_MODIFIER_DCRELOADTIMECOEFF"
+msgstr "深水炸弹的装填时间"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER"
+msgstr "攻击潜艇时弹药的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_BOMB"
+msgstr "攻击潜艇时高爆炸弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_ROCKET"
+msgstr "攻击潜艇时高爆火箭弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_MAIN"
+msgstr "攻击潜艇时主炮高爆弹和半穿甲弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_SEC"
+msgstr "攻击潜艇时副炮炮弹的爆炸半径"
+
+msgid "IDS_PARAMS_MODIFIER_INFINITEWORKHYDROPHONE"
+msgstr "被动声呐定位"
+
+msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_DEPTHSTATE_SUB_IMPROVE"
+msgstr "位于工作深度和最大深度时无法使用"
+
+msgid "IDS_PCEE738_DUPERRE_FLAG"
+msgstr "杜皮尔"
+
+msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
+msgstr "居伊-维克托•杜佩雷（1775–1846）是法国海军将领，曾经历拿破仑战争、波旁王朝复辟与七月王朝时期。他在指挥贝洛纳号护卫舰时，于毛里求斯战役中取得了大港之战的胜利。1830年，他获任命为法国海军上将，随后三度担任海军部长。"
+
+msgid "IDS_PCVE029"
+msgstr "水下前线"
+
+msgid "IDS_PCVE029_DESCRIPTION"
+msgstr "在此模式中，您可以体验到潜艇以及与之作战的手段的变化。"
+
+msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
+msgstr "在此模式中，您可以体验到潜艇以及与之作战的手段的变化。"
+
+msgid "IDS_PCZA040_SPACE_MUSEUM"
+msgstr "太空时代"
+
+msgid "IDS_PCZA040_SPACE_MUSEUM_QUOTES"
+msgstr "“太空时代”"
+
+msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
+msgstr "第一颗人造地球卫星"
+
+msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
+msgstr ""
+"它的发射开启了人类太空时代。\n"
+"\n"
+"莫斯科时间1957年10月4日22点28分，从拜科努尔发射场起飞的卫星号运载火箭将其送入近地轨道，轨道参数：\n"
+"• 近地点高度 — 228公里；\n"
+"• 远地点高度 — 947公里。\n"
+"\n"
+"这是在R-7洲际弹道导弹基础上改进的“Sputnik”两级火箭，首次达成第一宇宙速度，将人造物体送入地球轨道。卫星在环绕地球期间不断发射无线电信号，全世界的业余无线电爱好者都能接收到。\n"
+"\n"
+"技术数据：\n"
+"• 卫星质量 — 83.6千克；\n"
+"• 卫星主体为直径58厘米的球体，上面装有四根长度分别为2.4米、2.9米的天线。\n"
+"\n"
+"球体内部安装了：\n"
+"• 化学电源；\n"
+"• 无线电发射装置；\n"
+"• 风扇；\n"
+"• 温控恒温器与管路系统；\n"
+"• 自动控制连接系统；\n"
+"• 温度与压力传感器；\n"
+"• 电缆网络。\n"
+"\n"
+"这颗卫星共飞行了92天，完成了1440圈绕地飞行后，于1958年1月4日坠入大气层烧毁。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。\n"
+"\n"
+"科罗廖夫与米哈伊尔•克拉夫基耶维奇•吉洪拉沃夫是发射首颗人造地球卫星的倡议人。"
+
+msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
+msgstr "第二颗人造地球卫星"
+
+msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
+msgstr ""
+"这是人类第一颗生物实验卫星，装载了第一只在轨道上飞行的生物——名为“莱卡”（Лайка）的狗。\n"
+"\n"
+"1957年11月3日，由卫星号运载火箭在拜科努尔发射场发射升空。\n"
+"\n"
+"卫星上安装了各种科学仪器，用于在轨直接测量和研究，其中还包括对地球外层辐射带的初步探测。\n"
+"\n"
+"除科学设备外，卫星另有一个密封舱用来容纳莱卡犬（并不打算让其返回地球）。\n"
+"\n"
+"这是对失重与宇宙辐射于生物机体的影响的首次研究。安装在卫星上的盖革计数器首次测得太空中的平均辐射水平。数据表明，人在太空中短期停留是可行的。\n"
+"\n"
+"卫星质量 — 508.3千克。\n"
+"\n"
+"它在轨道上共停留了160天，绕地球约2370圈，于1958年4月14日坠入大气层烧毁。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。"
+
+msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
+msgstr "第三颗人造地球卫星"
+
+msgid "IDS_PCZC953_SPACE_MUSEUM_1_3_DESCRIPTION"
+msgstr ""
+"这是人类历史上第一座运行在地球轨道上的科学实验室。\n"
+"\n"
+"1958年5月15日，由卫星号运载火箭在拜科努尔发射场送入太空，用于研究近地宇宙空间、地球大气及太阳辐射。\n"
+"\n"
+"卫星上配备了12台科学仪器，用于测量压力与温度、电荷、电磁场强度、太阳高速粒子流（太阳风）以及大气电离成分浓度、流星撞击记录等。此任务发现了地球外层辐射带。卫星还首次采用了主动温控系统和太阳能电池。\n"
+"\n"
+"卫星总重1327千克，其中科学仪器重968千克，累计绕地飞行10037圈。\n"
+"\n"
+"它在轨道上工作至1960年4月6日。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。"
+
+msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
+msgstr "月球1号探测器"
+
+msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
+msgstr ""
+"人类历史上首个达到第二宇宙速度的航天器。\n"
+"\n"
+"1959年1月2日，由东方-L（Восток-Л）运载火箭在拜科努尔发射场发射。\n"
+"\n"
+"其科学仪器包括：\n"
+"• 测量地月磁场的磁力计；\n"
+"• 四根用于太阳风探测的天线；\n"
+"• 若干装置测量太阳粒子流；\n"
+"• 测量微流星碰撞的探测器；\n"
+"• 无线电发射天线，用于向地球传送数据。\n"
+"\n"
+"探测器内部还装载了一个写有“苏联”及发射日期等标识的金属徽标球体与铝制金属条，原计划让其撞击月球后留在月面。\n"
+"\n"
+"1959年1月4日，月球1号距月面约5000–6000公里处掠过，但因飞行程序出错未能命中月球表面。\n"
+"\n"
+"最终在摆脱地球引力后，它成为第一颗人造“太阳卫星”，公转周期约450天。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。"
+
+msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
+msgstr "月球3号探测器"
+
+msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
+msgstr ""
+"人类历史上首次绕月并拍摄到月球背面图像（1959年10月7日），也是第一艘真正实现引力助推飞行的航天器。\n"
+"\n"
+"1959年10月4日，由东方-L（Восток-Л）运载火箭从拜科努尔发射场升空。月球3号上配备了射频系统、遥测系统、“海鸥”定向系统（以太阳和月球为基准）、太阳能电池的供电系统、温控系统及包括照相机在内的一系列科学仪器。\n"
+"\n"
+"“海鸥”定向系统由学者拉辛巴赫•鲍里斯•维克多罗维奇领导研制，首次解决了在航天器上进行空间姿态控制的难题。\n"
+"\n"
+"10月7日，探测器在距月球约65000公里处（至地球距离约470000公里）拍摄到从未被人类目视的月球背面图像，并在此后10天内逐步将照片回传地球。其中约有70%为月球背面图像，30%为部分正面图像，被誉为“世纪照片”。基于这些图像，于1960和1967年先后出版了《月球背面图集》并制作了月球仪。探测器在围绕地球11圈后，于1960年4月20日坠入大气层烧毁。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。"
+
+msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
+msgstr "金星1号探测器"
+
+msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
+msgstr ""
+"人类历史上首个飞往金星方向的探测器。\n"
+"\n"
+"1961年2月12日，由闪电号运载火箭在拜科努尔发射场发射。\n"
+"\n"
+"探测器上装载了：\n"
+"• 磁力计；\n"
+"• 两个离子捕集器，用于测量太阳风；\n"
+"• 微流星探测器；\n"
+"• 盖革计数器与闪烁探测器，用于测量宇宙辐射。\n"
+"\n"
+"推进系统是KDU-414，用于飞行轨道修正。总质量为643.5千克。7天后，在距地球约200万公里处失去联系；据计算，它于同年5月19~20日从距金星约10万公里处飞过，并进入环绕太阳的轨道。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。"
+
+msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
+msgstr "火星1号探测器"
+
+msgid "IDS_PCZC957_SPACE_MUSEUM_2_2_DESCRIPTION"
+msgstr ""
+"人类历史上首个飞往火星方向的探测器。它首次建立地球——火星的星际航行路线。\n"
+"\n"
+"1962年11月1日，由闪电号运载火箭在拜科努尔发射场发射。\n"
+"\n"
+"整个探测器由两个密封舱组成：轨道舱与行星舱。轨道舱内装有用于在飞往火星途中工作的航天器设备，行星舱则配备了摄影测量设备和科学仪器，用于在火星附近时进行观测。轨道舱上还配置了修正推进系统、太阳能电池板、温控系统与通讯天线。轨迹测定显示，它将从距火星约19.3万公里处掠过，精度相当高。与探测器共建立了61次通讯，接收了大量遥测数据，并向探测器发送了3000多条指令。\n"
+"\n"
+"本次任务首次测量了地球与火星公转轨道间的宇宙空间状况，记录到太阳风和流星体（探测器先后通过2处流星流），也测得了星际磁场强度。\n"
+"\n"
+"1963年3月21日，在距地球约1.06亿公里时进行了最后一次通讯，之后信号中断。即便如此，这在当时仍创下了航天通信的最远距离记录。"
+
+msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
+msgstr "月球9号探测器"
+
+msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
+msgstr ""
+"人类历史上首次在月球实现软着陆并传回月面图片与全景电视影像的探测器。\n"
+"\n"
+"1966年1月31日，由闪电号运载火箭在拜科努尔发射场发射。\n"
+"\n"
+"探测器由带有制动推进系统的仪表/设备舱与着陆舱组成。\n"
+"\n"
+"1966年2月3日，探测器在减速后，将着陆舱分离，于月球表面成功软着陆。\n"
+"\n"
+"主要技术信息：\n"
+"• 着陆舱质量 — 100千克；\n"
+"• 整体探测器长度 — 2.7米；\n"
+"• 探测器质量 — 1583千克。\n"
+"\n"
+"由拉沃奇金机械制造厂在总设计师格奥尔基•巴巴金的领导下研制。"
+
+msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
+msgstr "和平号空间站"
+
+msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
+msgstr ""
+"第三代空间站，是20世纪末具有里程碑意义的航天科技成就。它首次采用了“模块化”方法在轨组装大型航天器。\n"
+"\n"
+"空间站的第一个组件——核心舱于1986年2月20日进入轨道，之后先后对接了“量子”（1987）、“量子-2”（1989）、“水晶”（1990）与“光谱”（1995）、对接舱（1995）等模块。\n"
+"\n"
+"到1996年，随着“自然”号模块对接完成，空间站达成预定构型。模块化设计大大拓展了科研能力并扩增了舱内可居住空间。\n"
+"\n"
+"在“和平”号15年的在轨运行中：\n"
+"• 共进行78次太空行走，累计时间为359小时；\n"
+"• 有来自12个国家的104名航天员与宇航员先后到访；\n"
+"• 对接31艘“联盟”载人飞船、64艘“进步”货运飞船与9艘美国航天飞机；\n"
+"• 实施各类科学实验与研究超过23000项；\n"
+"• 刷新了数项人在太空停留的持续时间纪录；\n"
+"• 成为20世纪在轨飞行时间最长的航天器。\n"
+"\n"
+"首批进入空间站的航天员是1986年“联盟T-15”飞船上的列昂尼德•基济姆和弗拉基米尔•索洛维约夫，最后一次是2000年“联盟TM-30”飞船上的谢尔盖•扎廖京和亚历山大•卡列里。\n"
+"\n"
+"2001年2月23日，“和平”号空间站脱轨坠入大气层，部分碎片坠落在太平洋南部。\n"
+"\n"
+"总设计单位：能源科研生产联合体。\n"
+"\n"
+"主要技术参数：\n"
+"• 满配质量超过137吨；\n"
+"• 科学仪器合计约11.5吨。"
+
+msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
+msgstr "礼炮6号空间站"
+
+msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
+msgstr ""
+"礼炮6号是第二代轨道空间站，1977年9月29日由质子号运载火箭从拜科努尔发射场送入太空。与前代相比，其最显著的特点是多了一个停靠端口与可在轨补给燃料的动力系统，大幅延长了在轨寿命。\n"
+"\n"
+"1978年1月，“进步-1”货运飞船首次对接礼炮6号，为其提供所需物资并为动力系统补充燃料，标志着世界上第一艘自动货运飞船成功执行在轨补给。\n"
+"\n"
+"礼炮6号在服役期间共对接了17艘载人飞船（“联盟”与“联盟T”系列）与2艘无人版“联盟”飞船，12艘“进步”货运飞船，及自动货运飞船“宇宙-1267”（其“钻石”号模块后来也作为舱段对接在一起）。\n"
+"\n"
+"期间，5个常驻乘组和10次短期访客乘组（包括8个国际合作乘组）先后驻留过礼炮6号。1978~1980年间，来自捷克斯洛伐克、波兰、民主德国、匈牙利、越南、古巴、蒙古、罗马尼亚等国的航天员也先后来此执行任务。长期乘组在轨时间分别达到96、139、175和184天，太空行走次数为3次，总时长4小时56分。\n"
+"\n"
+"礼炮6号累计在轨1765天（其中683天有人驻留），于1982年7月29日坠入大气层结束使命。\n"
+"\n"
+"该系列由中央实验机械制造设计局负责研制，用于苏联民用载人空间站工程。\n"
+"\n"
+"主要技术参数：\n"
+"• 质量：19.8吨；\n"
+"• 长度：13.5米；\n"
+"• 最大直径：4.15米；\n"
+"• 两块太阳能电池板展开总宽17米；\n"
+"• 舱内可用体积：90.0立方米。"
+
+msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
+msgstr "东方号三级运载火箭"
+
+msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
+msgstr ""
+"基于R-7洲际弹道导弹改进，由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。\n"
+"\n"
+"主要技术参数：\n"
+"• 火箭全长38.36米；\n"
+"• 最大直径（含气动舵）约10.3米；\n"
+"• 起飞质量287吨；\n"
+"• 最大近地轨道运力约5吨。\n"
+"\n"
+"它将世界上第一艘载人飞船东方号与首位太空人尤里•加加林送入了地球轨道。\n"
+"\n"
+"东方号运载火箭还被用于发射卫星式飞船、东方号载人飞船以及部分“月球”系列探测器、“宇宙”“气象”等人造卫星。\n"
+"\n"
+"它实为R-7两级火箭的变型，通过增加第三级来增强近地轨道有效载荷能力。前两级采用“捆绑式”结构：四个侧面助推器与中央芯级并行工作，第三级与第二级采用串联结构，火箭顶端加装整流罩以保护酬载。第一与第二级分别采用RD-107与RD-108发动机。\n"
+"\n"
+"自1959年1月起在拜科努尔发射场投入使用，1966年起也在普列谢茨克使用。"
+
+msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
+msgstr "质子号运载火箭"
+
+msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
+msgstr ""
+"由中央机械制造设计局在总设计师弗拉基米尔•尼古拉耶维奇•切洛梅领导下设计、克鲁尼切夫中心制造，属于重型运载火箭系列。\n"
+"\n"
+"主要技术参数：\n"
+"• 全长约44米；\n"
+"• 最大直径7.4米；\n"
+"• 空重54吨；\n"
+"• 起飞质量702吨；\n"
+"• 近地轨道运力约20吨。\n"
+"\n"
+"自1965年起投入使用，可将各类航天器送入近地轨道，包括“质子”“彩虹”“荧光屏”等卫星，以及“礼炮”“和平”等轨道站、国际空间站组件及其他国家的航天器。\n"
+"\n"
+"起初基于UR-500洲际弹道导弹。\n"
+"\n"
+"最早的“质子”是两级构型，后发展出三、四级版本（附加上面级）即“质子-K”“质子-M”等型号。"
+
+msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
+msgstr "联盟号三级运载火箭"
+
+msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
+msgstr ""
+"联盟号运载火箭属于R-7火箭家族，由OKB-1特别设计局研制。\n"
+"\n"
+"主要技术参数：\n"
+"• 火箭全长39.3米；\n"
+"• 最大直径10.3米；\n"
+"• 起飞质量310吨；\n"
+"• 近地轨道运力约7.5吨。\n"
+"\n"
+"它可发射载人或无人飞船与各类卫星。\n"
+"\n"
+"在库伊比谢夫（OKB-1第3分部）由总设计师德米特里•阿纳托利耶维奇•科兹洛夫主导制造，最初用于发射“联盟”系列载人飞船（1966~1976年共发射32艘）。此后也用来发射“进步”货运飞船以及“宇宙”“预言”“资源-F”“光子”“生物”等系列卫星，还有部分国外航天器。\n"
+"\n"
+"前两级沿用R-7家族的并联捆绑布局，经改进的第三级质量为25.5吨，使其具备更强的运力。\n"
+"\n"
+"火箭顶部的整流罩与格栅减速板，以及顶端的紧急救生塔是该系列的主要外观特征。\n"
+"\n"
+"“联盟”火箭的应急救生系统可在起飞前15分钟进入待命，在出现紧急情况时，无论还在发射台上还是飞行过程中，都可将乘组救出。\n"
+"\n"
+"“联盟”运载火箭自1966年起投入使用，后续不断改进出多种现代型，发射成功率超过97%。从拜科努尔与普列谢茨克两大航天发射场已进行超过800次各型“联盟”系列火箭发射，以及60余次“联盟-2”系列发射。"
+
+msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
+msgstr "质子-M运载火箭"
+
+msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
+msgstr ""
+"世界上最可靠的重型运载火箭之一，用于发射各种军民航天器。\n"
+"\n"
+"1965年7月16日，重型质子号运载火箭将名为“质子”的科学卫星送入近地轨道，自此“质子”之名也用于称呼该火箭。其第一级安装6台RD-253（在“质子-M”上为RD-276）发动机，总推力约1MN；第二级配备4台RD-0210发动机，第三级配备推力583kN的RD-0213发动机，均使用偏二甲肼与四氧化二氮。\n"
+"\n"
+"火箭以UR-500洲际弹道导弹为基础研制。\n"
+"\n"
+"从1967年起，“质子-K”系列三、四级火箭投入使用；2012年起，推力更强的“质子-M”服役，其有效载荷由12吨提升至22吨。\n"
+"\n"
+"“质子”火箭为苏联探月、火星与金星探测任务以及彗星探测、发射“礼炮”“钻石”空间站、“和平”号与国际空间站组建模块做出了重大贡献。\n"
+"\n"
+"由弗拉基米尔•尼古拉耶维奇•切洛梅领导的中央机械制造设计局与克鲁尼切夫国家航天科研生产中心研制与改进。\n"
+"\n"
+"主要技术参数：\n"
+"• 起飞质量最高可达705吨；\n"
+"• 总长45~60米；\n"
+"• 三节并列构型约44米；\n"
+"• 最大直径7.4米；\n"
+"• 近地轨道运力22吨。"
+
+msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
+msgstr "N-1–L-3"
+
+msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
+msgstr ""
+"超重型火箭N-1，用于将载人飞船送往月球并实现宇航员登月。\n"
+"\n"
+"最初规划将75吨级航天器送入近地轨道，后转向载人登月。1969~1972年共进行了4次试验发射，均因第一级故障而失败。所有发射都在拜科努尔113号发射场进行，包含两个发射台。苏联于1974年终止了载人登月计划（N-1–L-3）。该火箭独特的多发动机并联布局在航天领域至今仍属罕见。\n"
+"\n"
+"自1964年起由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。\n"
+"\n"
+"主要技术参数：\n"
+"• 第一级最大直径17米；\n"
+"• 火箭全长105.3米；\n"
+"• 起飞质量2820吨；\n"
+"• 近地轨道运力90吨；\n"
+"• 燃料质量1410吨；\n"
+"• 第一级共安装30台发动机；\n"
+"• 地面总推力约4615吨力；\n"
+"• 燃料为煤油，氧化剂为液氧。"
+
+msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
+msgstr "能源号运载火箭"
+
+msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
+msgstr ""
+"苏联最强的运载火箭之一，也是世界上最强的火箭之一；首次在苏联火箭中使用了液氢燃料。由能源科研生产联合体研制，由总设计师瓦连京•格鲁什科领导的“能源-暴风雪”计划。\n"
+"\n"
+"“能源”火箭具备通用性，原设计可用于发射“暴风雪”号可重复使用航天飞机、载人或无人探月及火星飞行、新一代大型轨道站，以及超重型GEO卫星等，近地轨道运力可达100吨。项目自1976年起启动。采用两级“捆绑”并联布局：第一级由四个助推器组成，每个配备RD-170四室发动机（使用煤油与液氧），助推器可通过降落伞回收复用；第二级中心芯级配备四台RD-0120（液氢液氧发动机），中部留有有效载荷安装界面。\n"
+"\n"
+"共进行过两次发射：\n"
+"• 1987年5月15日搭载“极地”号实验载荷，但因载荷自身姿态控制失效未能入轨；\n"
+"• 1988年11月15日搭载“暴风雪”号航天飞机。\n"
+"\n"
+"主要技术参数：\n"
+"• 系统总质量2375–2419吨；\n"
+"• 火箭质量2270吨；\n"
+"• 长度58.76米；\n"
+"• 宽度17.65米。"
+
+msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
+msgstr "SK-1高空救生宇航服"
+
+msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
+msgstr ""
+"1961年4月12日，世界首位宇航员加加林在东方号飞船执行首次载人航天飞行时使用的宇航服。\n"
+"\n"
+"SK-1系列供东方号飞船宇航员穿着，使用至1963年。加加林、季托夫、尼古拉耶夫、波波维奇、比科夫斯基等人曾穿着它执行任务。捷列什科娃则使用了其改型SK-2。\n"
+"\n"
+"宇航服为柔性结构，采用开放式通风系统。内外双层：外层为聚酯纤维层，内层为橡胶气密层。宇航服外还加有防护层，内则穿着带水冷/风冷系统的贴身服。头盔为不可拆卸的硬壳结构，双层视窗并带应急关闭机构。\n"
+"\n"
+"与飞船通风、氧气系统协同，可满足：\n"
+"• 在密封座舱内工作长达12天；\n"
+"• 在座舱失压时可生存4~5小时；\n"
+"• 在8千米高空弹射出舱时提供保护；\n"
+"• 跳伞时的氧气供应；\n"
+"• 飞行着陆后在水面漂浮12小时；\n"
+"\n"
+"主要技术指标：\n"
+"• 舱内维持服内压力约270–300百帕；\n"
+"• 通风流量150升/分；\n"
+"• 飞船氧气系统供给速率50标准升/分；\n"
+"• 宇航服质量约20千克。\n"
+"\n"
+"由星辰科学研究所（Завод «Звезда»）在1960~1961年研制，首席设计师为谢苗•米哈伊洛维奇•阿列克谢耶夫。外壳由阿纳托利•尤德列维奇•斯托克利茨基领导的团队设计；生命维持系统由I.P.阿布拉莫夫团队负责；综合测试由V.I.斯维尔什切克团队完成；宇航服电气设备由I.I.斯科莫罗夫斯基团队负责；地面准备由F.A.沃斯托科夫团队执行。"
+
+msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
+msgstr "金雕型短时出舱宇航服"
+
+msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
+msgstr ""
+"苏联上升-2飞船成员贝利亚耶夫与列昂诺夫在1965年3月太空任务中使用。\n"
+"\n"
+"除了作为飞船座舱发生失压时的应急服，“金雕”也是第一款支持舱外活动的宇航服。\n"
+"\n"
+"1965年3月18日，列昂诺夫身穿“金雕”通过气闸舱首次出舱进行太空行走，舱外停留12分9秒。\n"
+"\n"
+"“金雕”为柔性结构，可拆卸硬头盔并采用开放式通风系统。外壳有三层：外为锦纶加固层，两层内壳分别为橡胶密封层与泡沫橡胶层；表面还有隔热防护层。与飞船共用送风与氧气系统时可在失压座舱内生存约4小时；舱外则背挂KP-55自主式氧气背包维持45分钟。\n"
+"\n"
+"具体数据：\n"
+"• 在配备背包时可舱外自主工作约45分钟；\n"
+"• 舱内正常压力约400百帕，附加应急模式下降至270百帕；\n"
+"• 从飞船接入通风流量约150升/分；\n"
+"• 宇航服质量约20千克；\n"
+"• 氧气背包质量约21.5千克。\n"
+"\n"
+"由星辰科学研究所（Звезда）在1964~1965年研制，首席设计师盖伊•塞维林领导。"
+
+msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
+msgstr "海鹰-D型宇航服"
+
+msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
+msgstr ""
+"半硬式结构，用于舱外工作，1977~1984年应用于礼炮6号、礼炮7号空间站。\n"
+"\n"
+"1977年12月20日，礼炮6号上的罗曼年科与格列奇科首次穿着“海鹰-D”型出舱作业。\n"
+"\n"
+"与此前的“金雕”和“隼”型相比，“海鹰-D”可根据不同航天员体型进行适配，适合需要长时间值守的空间站。\n"
+"\n"
+"使用封闭循环（再生式）生命保障系统，配合水冷服带走多余热量。\n"
+"\n"
+"通过一根20米长电缆连接飞船获取供电、通信与遥测；该缆同时也是安全绳。另配一根安全索作为备用。\n"
+"\n"
+"后续出现了多种改进型号：“海鹰-DM”、“海鹰-DMA”、“海鹰-M”、“海鹰-MK”、“海鹰-MKS”等。\n"
+"\n"
+"在星辰科学研究所制造。\n"
+"\n"
+"关键参数：\n"
+"• 航天服质量73.5~114千克（视型号而定）；\n"
+"• 适用胸围96~108厘米；\n"
+"• 适用身高164~180厘米；\n"
+"• 在轨舱外作业时间5~8小时（视型号而定）。"
+
+msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
+msgstr "隼94型航天服"
+
+msgid "IDS_PCZC970_SPACE_MUSEUM_4_4_DESCRIPTION"
+msgstr ""
+"苏联为载人登月计划（N-1–L-3）研制的半硬式舱外航天服，自带生命保障系统，可供宇航员登月并在月面上活动。\n"
+"\n"
+"苏联于1974年终止了登月计划，但“隼94”已研制完成，后成为“海鹰”系列舱外服的雏形。\n"
+"\n"
+"主体由铝合金硬壳与头盔一体成型，手臂和腿部采用软质壳体。\n"
+"\n"
+"后背开口为气密舱门，背包内置生命支持设备。\n"
+"\n"
+"为封闭循环式生命保障系统，采用水冷服与升华式热交换器维持温度。设备操作面板置于胸前，独立工作时间约10小时；航天服质量约106千克（在月球上的重力约等价于地球上17.5千克物体提供的重力）。\n"
+"\n"
+"外壳三层结构：最外层为锦纶织物，内含双层橡胶气密层。袖管带有肩关节和腕关节轴承，用于灵活操作。表面还有隔热层与内置天线。\n"
+"\n"
+"由星辰科学研究所在20世纪60年代后期完成设计与制造。"
+
+msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
+msgstr "贝尔卡、斯特列卡与弹射舱"
+
+msgid "IDS_PCZC971_SPACE_MUSEUM_5_1_DESCRIPTION"
+msgstr ""
+"这是两条1960年8月19日成功返回地球的英雄犬；图中展示了它们所乘坐的弹射舱外壳，表面还可见再入着陆时留下的痕迹。\n"
+"\n"
+"在1960~1961年间，为了筹备人类首次载人航天飞行，苏联进行了7次“东方”号无人飞船实验飞行，重点检验座舱设计以及生命保障与返回系统。\n"
+"\n"
+"此弹射舱是座舱弹射座椅的原型，由星辰科学研究所在谢苗•米哈伊洛维奇•阿列克谢耶夫的领导下设计。降落时，它会在距地面约7公里高空与返回舱分离并伞降，着陆速度约为6–8米/秒。\n"
+"\n"
+"1960年8月20日，舱内所有生物样本均安全返航，为研究失重与宇宙辐射对生命体的影响提供了宝贵数据。"
+
+msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
+msgstr "“东方”系列单座飞船返回舱"
+
+msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
+msgstr ""
+"1961~1963年间，“东方”载人计划使用的飞船返回舱；加加林、季托夫、尼古拉耶夫、波波维奇、比科夫斯基、捷列什科娃均乘此舱。\n"
+"\n"
+"“东方”飞船由球形返回舱与设备/仪表舱组成，二者通过金属带与火工锁连结。\n"
+"\n"
+"返回舱用于宇航员在发射、轨道飞行与下降至7公里高度的期间乘坐。之后宇航员随座椅弹射并伞降在地面；宇航员与座椅在约4公里时分离，座椅留在空中，宇航员本人单独伞降。\n"
+"\n"
+"球形舱体由铝合金制成，外覆热防护层，厚度30~180毫米。外部有3个直径1米的舱门（宇航员入口/出口、技术检修、降落伞仓）以及3个观察窗与一套弹射座椅。\n"
+"\n"
+"为防止意外失压，宇航员还穿着专用航天服，可在座舱内生存4小时，也具备在10公里以下弹射的保护。\n"
+"\n"
+"内部另装有水、食物和排泄容器。通信系统由一套超短波和两套短波无线电组成。\n"
+"\n"
+"主要技术信息：\n"
+"• 质量约2.4吨；\n"
+"• 直径约2.3米；\n"
+"• 内部体积5.2立方米；\n"
+"• 宇航员可活动体积约1.6立方米。\n"
+"\n"
+"它由首席设计师谢尔盖•科罗廖夫领导的OKB-1特别设计局研制。"
+
+msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
+msgstr "东方号载人飞船"
+
+msgid "IDS_PCZC973_SPACE_MUSEUM_5_3_DESCRIPTION"
+msgstr ""
+"这款飞船堪称当时的工程奇迹，首次让人类得以在太空环境中生存和工作。1961年4月12日，加加林乘坐的东方号飞船成功完成了世界首次载人环绕地球飞行。在座舱内部，他坐在弹射座椅上——座椅和宇航员本身就占了座舱可用体积的一半。\n"
+"\n"
+"飞行期间，加加林与地面保持通信并报告各种观测与飞行情况。"
+
+msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
+msgstr "“上升-2”飞船气闸舱"
+
+msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
+msgstr ""
+"用于确保飞船在舱外活动时仍保持密封。1965年3月18日，列昂诺夫经此气闸舱世界首次实施太空行走。\n"
+"\n"
+"气闸舱为可折叠的圆柱体设计，包含两个舱门：一个与返回舱相通，另一个通向外太空，并带有加压与排气功能。其使用时从飞船外部展开，通过固定支架与舱壁连接；飞行员在座椅面板上进行充放气操作，并控制舱外活动流程。\n"
+"\n"
+"主要参数：\n"
+"• 气闸质量约250千克；\n"
+"• 折叠时直径70厘米，高77厘米；\n"
+"• 展开后高度2.5米，内径约1米，外径约1.2米；\n"
+"• 两个舱门直径均为70厘米。\n"
+"\n"
+"1964~1965 年由星辰科学研究所（Звезда）研制，首席设计师为盖伊•塞维林。"
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
+msgstr "“月球车-1”"
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
+msgstr ""
+"人类历史上第一台在地外天体表面自主移动的探测车。\n"
+"\n"
+"主要参数：\n"
+"• 质量为756千克；\n"
+"• 展开后长4.42米；\n"
+"• 宽2.15米；\n"
+"• 高1.92米；\n"
+"• 车轮直径0.51米，轮距1.6米。\n"
+"\n"
+"月球17号携“月球车-1”于1970年11月10日由质子号运载火箭发射，11月17日在月球雨海成功软着陆。\n"
+"\n"
+"“月球车-1”在月球工作318天，行驶10540米，踏勘了约8万平方千米的月表区域；速度可达每小时2公里。\n"
+"\n"
+"它向地球发送了210幅全景图与约2万帧电视图像，并完成171次通信会话，共执行24829条遥控指令。\n"
+"\n"
+"法国制造的激光角反射器也随车带至月球，使地面对其进行激光测距，误差仅数米。\n"
+"\n"
+"1971年9月14日进行最后一次通信后不再响应。\n"
+"\n"
+"由格奥尔基•巴巴金领导的拉沃奇金科研生产联合体负责整器研制；\n"
+"底盘由A.L.克穆德日安在全苏运输机械研究院主导设计。"
+
+msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
+msgstr "月球16号探测器"
+
+msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
+msgstr ""
+"1970年9月首次采集约105克月壤样品并送回地球。\n"
+"\n"
+"探测器总重5727千克，着陆月面质量1880千克，返回舱质量34千克。\n"
+"\n"
+"1970年9月12日，质子-K运载火箭在拜科努尔将其发射升空，其于8天后的9月20日成功在月球丰富海软着陆。\n"
+"\n"
+"此探测系统包括通用着陆级与携带返回舱的仪表模块。着陆级上安装了可进行采样的钻取装置，通过可垂直与水平移动的机械臂收集并送入返回舱。着陆点位置由两台电视摄像仪确定。\n"
+"\n"
+"分析显示，钻芯中为松散的月球表层尘土与碎屑（风化层），化学成分类似地球玄武岩。\n"
+"\n"
+"9月21日，返回舱在地面遥控下从月面起飞，24日与仪表舱分离后在杰兹卡兹甘市东南方向80公里处软着陆。\n"
+"\n"
+"由格奥尔基•巴巴金领导的拉沃奇金科研生产联合体研制。"
+
+msgid "IDS_PECULIARITY_DISABLED_STATUS"
+msgstr "已隐藏独特外观"
+
+msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFPA101_127MM_54_HE_T11"
+msgstr "127 mm HE Mark 42"
+
+msgid "IDS_PFPA102_127MM_54_AP_T11"
+msgstr "127 mm AP Mark 43"
+
+msgid "IDS_PFPA103_127MM_54_HE_DUPERRE"
+msgstr "127 mm HE Mark 41"
+
+msgid "IDS_PFPA104_127MM_54_AP_DUPERRE"
+msgstr "127 mm AP Mark 42"
+
+msgid "IDS_PFPT023_T11"
+msgstr "550 mm 24V Mle 2"
+
+msgid "IDS_PFPT026_DUPERRE"
+msgstr "550 mm 24V Mle 3"
+
+msgid "IDS_PFSD111"
+msgstr "罗伯斯庇尔"
+
+msgid "IDS_PFSD111_DESCR"
+msgstr ""
+"第二次世界大战期间，维希法国海军部提出了研发新一代驱逐舰的设想。新一代驱逐舰的项目被统称为T-42，后来逐渐发展为一系列名为E-43的初步设计。在项目研发过程中，除了其他替代设计，维希海军部还考虑过将该舰尺寸扩大成轻巡洋舰的替代方案。\n"
+"该舰将配备120mm或130mm火炮，而在不同的初步设计中，炮塔数量从三座到四座不等。最终E-43系列设计未能实施、但其进一步发展却推动了T-47项目的问世。"
+
+msgid "IDS_PFSD111_FULL"
+msgstr "罗伯斯庇尔"
+
+msgid "IDS_PFSD111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSD111_YEAR"
+msgstr "1945"
+
+msgid "IDS_PFSD509"
+msgstr "杜皮尔"
+
+msgid "IDS_PFSD509_DESCR"
+msgstr ""
+"T-53级驱逐舰是絮库夫(T-47)级驱逐舰的进一步发展。该型驱逐舰与前代舰的不同之处在于其对空探测设备的改进，这使得她们能够在法国舰队中扮演雷达巡逻舰的角色。\n"
+"\n"
+"杜皮尔于1954年11月在洛里昂开工建造，1956年6月下水。在1966年到1971年期间被解除武装并用于测试Cormoran 1型深海拖拽声纳。1972-1974年，该舰重新接受武装、安装了四座飞鱼反舰导弹、一座100mm主炮、两座550mm鱼雷发射器以及通过拆除旧的主炮和鱼雷来安置一架山猫直升机。重新接受武装后，杜皮尔被用于担任反潜舰队的指挥舰。"
+
+msgid "IDS_PFSD509_FULL"
+msgstr "杜皮尔"
+
+msgid "IDS_PFSD509_NUMBER"
+msgstr "5"
+
+msgid "IDS_PFSD509_YEAR"
+msgstr "1957"
+
+msgid "IDS_PFUA807_ART_DUPERRE"
+msgstr "127 mm/54 Mle 1948（Mle 1948炮座）"
+
+msgid "IDS_PFUA909_D11_ART_STOCK"
+msgstr "127 mm/54 Mle 1948（Mle 1948炮座）"
+
+msgid "IDS_PFUE807_ENG_DUPERRE"
+msgstr "推进系统：63000马力"
+
+msgid "IDS_PFUE908_D11_ENG_STOCK"
+msgstr "推进系统：108454马力"
+
+msgid "IDS_PFUH810_HULL_DUPERRE"
+msgstr "杜皮尔"
+
+msgid "IDS_PFUH908_D11_HULL_STOCK"
+msgstr "罗伯斯庇尔"
+
+msgid "IDS_PFUS810_SUO_DUPERRE"
+msgstr "PCA n°9"
+
+msgid "IDS_PFUS907_D11_SUO_STOCK"
+msgstr "PCA n°11"
+
+msgid "IDS_PFUT804_TORP_DUPERRE"
+msgstr "550 mm 23DT"
+
+msgid "IDS_PFUT906_D11_TORP_STOCK"
+msgstr "550 mm 23DT"
+
+msgid "IDS_PGAD980_ASW_T10_SUBTEST"
+msgstr "Fw.200 Condor Test"
+
+msgid "IDS_PGPD907_DEPTH_T10"
+msgstr "SC-300"
+
+msgid "IDS_PGPT910_SUBTEST"
+msgstr "G7e/T4"
+
+msgid "IDS_PGPT911_SUBTEST"
+msgstr "G7e/T4 MZ"
+
+msgid "IDS_PGSS910"
+msgstr "U-2601"
+
+msgid "IDS_PGSS910_DESCR"
+msgstr "此类潜艇专为长时间水下航行而设计，配备更强大的电池组与通气管，使其可在潜望镜深度下使用柴油机航行，也可用低噪音电动机静音接近目标。"
+
+msgid "IDS_PGSS910_FULL"
+msgstr "U-2601"
+
+msgid "IDS_PGSS910_NUMBER"
+msgstr "267"
+
+msgid "IDS_PGSS910_YEAR"
+msgstr "1944"
+
+msgid "IDS_PGUE920_ENG_SUBTEST"
+msgstr "推进系统：5000马力"
+
+msgid "IDS_PGUH920_HULL_SUBTEST"
+msgstr "U-2601"
+
+msgid "IDS_PGUQ905_SONAR_SUBTEST"
+msgstr "Typ 10"
+
+msgid "IDS_PGUT917_TORP_SUBTEST"
+msgstr "G7e/T4 и G7e/T4 MZ"
+
+msgid "IDS_PHAD912_GOUDEN_LEEUW_AS"
+msgstr "Fokker T.V Test"
+
+msgid "IDS_PHPB924_PUW_160KG_AS_HE"
+msgstr "P.u.W. 160 kg"
+
+msgid "IDS_PIES602_NANI_SUBMARINEDAY"
+msgstr "加里波第旅"
+
+msgid "IDS_PINGER_SHADOW"
+msgstr "位置已暴露"
+
+msgid "IDS_PJAD993_ASW_T10_SUBTEST"
+msgstr "Kawanishi H6K Test"
+
+msgid "IDS_PJPD905_DEPTH_T10"
+msgstr "Type 1 No.25 Mk 2 model 1"
+
+msgid "IDS_PRAD990_ASW_T10_SUBTEST"
+msgstr "Beriev Be-6 Test"
+
+msgid "IDS_PREFERENCES_OTHER_SECTION_HEADER_ADDITIONAL_CONTENT"
+msgstr "活动外观内容"
+
+msgid "IDS_PRES335_PYOTR_VELIKIY_ANIME_EVENT"
+msgstr "平衡守护者"
+
+msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
+msgstr "下水仪式"
+
+msgid "IDS_PRPD905_ASWBOMB_SUBTEST"
+msgstr "深水炸弹"
+
+msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
+msgstr "深水炸弹"
+
+msgid "IDS_PRPT990_SUBTEST"
+msgstr "53-38U"
+
+msgid "IDS_PRPT991_SUBTEST_MZ"
+msgstr "53-38U MZ"
+
+msgid "IDS_PRSS910"
+msgstr "K-41"
+
+msgid "IDS_PRSS910_DESCR"
+msgstr "此大型潜艇可与水面舰队协同作战，也能独立执行远航任务。它拥有10根鱼雷发射管，并具备较高的水面航速。"
+
+msgid "IDS_PRSS910_FULL"
+msgstr "K-41"
+
+msgid "IDS_PRSS910_NUMBER"
+msgstr "12"
+
+msgid "IDS_PRSS910_YEAR"
+msgstr "1939"
+
+msgid "IDS_PRUA924_ART_SUBTEST"
+msgstr "100 mm/51 B-24PL Model 1936"
+
+msgid "IDS_PRUE926_ENG_SUBTEST"
+msgstr "推进系统：8400马力"
+
+msgid "IDS_PRUH926_HULL_SUBTEST"
+msgstr "K-41"
+
+msgid "IDS_PRUT919_TORP_SUBTEST"
+msgstr "533 mm"
+
+msgid "IDS_PURCHASE_COST_COLON"
+msgstr "购买："
+
+msgid "IDS_PURCHASE_SLOT"
+msgstr "购买空位"
+
+msgid "IDS_RESEARCH_COST_COLON"
+msgstr "研发："
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "VIII级加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII级"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "贾科莫•纳尼"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "贾科莫•纳尼"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
+msgstr "“贾科莫•纳尼”高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_SHORT"
+msgstr "贾科莫•纳尼"
+
+msgid "IDS_RIBBON_SSE_BUILDING_KILL"
+msgstr "摧毁陆上设施"
+
+msgid "IDS_SCENARIO_SUBS_IMPROVE_EVENT"
+msgstr "水下前线"
+
+msgid "IDS_SECOND_SPACE_MUSEUM_NAME"
+msgstr "人造卫星与空间站：第二部分"
+
+msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_QUESTION"
+msgstr "替换？确认花费"
+
+msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_TITLE"
+msgstr "替换挑战"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
+msgstr "全部重置"
+
+msgid "IDS_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "正在进行精通挑战"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
+msgstr ""
+"每一项挑战\n"
+"必须在单场战斗中完成"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_AIR_SUPPORT_RELOAD_FACTOR"
+msgstr "降低深水炸弹空袭效率"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
+msgstr "可显示海底地形与水面战舰、潜艇的位置。仅在位于潜望深度与工作深度时工作，无法发现处于最大深度的潜艇。"
+
+msgid "IDS_SHIP_PARAM_HEADER_ACTIVE_EFFECT_HYDROPHONE"
+msgstr "被动声呐"
+
+msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_HYDROPHONE_RANGE"
+msgstr "被动声呐"
+
+msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_HYDROPHONE_FAR_RANGE"
+msgstr "您处于敌方潜艇被动声呐定位范围内，位置可能已暴露。"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_DRUM_SHOT_DELAY"
+msgstr "单枚鱼雷装填间隔"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE_TOOLTIP_DESCRIPTION"
+msgstr "飞机可在该距离内发现您的战舰。"
+
+msgid "IDS_SHOW_ADDITION_CONTENT"
+msgstr "活动主题外观与指挥官"
+
+msgid "IDS_SHOW_ADDITION_CONTENT_DESCRIPTION"
+msgstr "在战斗与港口中显示来自活动的非历史性涂装与指挥官。关闭后，所有涂装与指挥官的外观将回到符合历史时代的样式。"
+
+msgid "IDS_SHOW_ADDITION_CONTENT_STATUS"
+msgstr "若您当前正处于战斗中，此设置需要等到战斗结束后才生效。"
+
+msgid "IDS_SLAVIC_GIRL"
+msgstr "风暴女卡佳"
+
+msgid "IDS_SOUND_MOD_ANIME_MAGA_LANA_ANIME"
+msgstr "拉娜"
+
+msgid "IDS_SOUND_MOD_ANIME_MAGA_LEILA_ANIME"
+msgstr "艾拉"
+
+msgid "IDS_SOUND_MOD_ASTRONAUT_ARTEMIEV"
+msgstr "奥列格•阿尔捷米耶夫"
+
+msgid "IDS_SOUND_MOD_SLAVIC_GIRL"
+msgstr "风暴女卡佳"
+
+msgid "IDS_SPACES/57_AOTS"
+msgstr "最后的港湾"
+
+msgid "IDS_SPACES/57_AOTS_DESCR"
+msgstr "最后的港湾"
+
+msgid "IDS_SUBS_IMPROVE_EVENT"
+msgstr "水下前线"
+
+msgid "IDS_SYS_MSG_MASTERY_TASK_REPLACED"
+msgstr "精通挑战已替换"
+
+msgid "IDS_THIRD_SPACE_MUSEUM_NAME"
+msgstr "火箭"
+
+msgid "IDS_TIPS_ANTI_SUB_IMPROVE_AIRCRAFT_DESCRIPTION"
+msgstr ""
+"按下[CMD_AMMO_SLOT_4]即可使用深水炸弹空袭。\n"
+"\n"
+"用深水炸弹对标记区域进行空中轰炸。\n"
+"\n"
+"深水炸弹可对水下潜艇造成伤害、摧毁鱼雷；也会对水面战舰及水面上的潜艇造成少量伤害。"
+
+msgid "IDS_TIPS_DEPTH_CHARGES_SUB_IMPROVE_DESCRIPTION"
+msgstr ""
+"按下[CMD_AMMO_SLOT_G]释放深水炸弹。\n"
+"\n"
+"深水炸弹可对水下潜艇造成伤害、摧毁鱼雷；也会对水面战舰及水面上的潜艇造成少量伤害。"
+
+msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
+msgstr ""
+"敌舰拥有对潜武器——深水炸弹。\n"
+"\n"
+"当潜艇处于水面或最大深度时，受到的深水炸弹伤害将有所降低。"
+
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT"
+msgstr "发现潜艇"
+
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_SUBEVENT_DESCRIPTION"
+msgstr ""
+"处于工作深度的潜艇可被“对海搜索”或“短程对海搜索”发现。\n"
+"\n"
+"下潜至最大深度的潜艇无法被发现。"
+
+msgid "IDS_TTX_ELITE_CREW_CAN_GET_TALENT"
+msgstr "可激活天赋"
+
+msgid "IDS_TTX_ELITE_CREW_CAN_UPGRADE_SKILL"
+msgstr "可强化技能"
+
+msgid "IDS_U_2501_SUBTEST"
+msgstr "西蒙•费舍尔"

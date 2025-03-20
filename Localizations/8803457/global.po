@@ -9794,7 +9794,7 @@ msgid "IDS_CHOOSE_BATTLETYPE_STATS"
 msgstr "选择战斗模式以显示统计"
 
 msgid "IDS_CHOOSE_BATTLE_TYPE"
-msgstr "切换战斗模式"
+msgstr "更改战斗模式"
 
 msgid "IDS_CHOOSE_BG_FOR_CROSSHAIR_PREVIEW"
 msgstr "变更背景来预览准星"
@@ -31650,7 +31650,7 @@ msgid "IDS_GUIDING_TIP_126_HEADER"
 msgstr "选择行动"
 
 msgid "IDS_GUIDING_TIP_130_DESC"
-msgstr "只有小队指挥官可以切换战斗模式。退出小队或担任指挥官。"
+msgstr "只有小队指挥官可以更改战斗模式。退出小队或担任指挥官。"
 
 msgid "IDS_GUIDING_TIP_130_HEADER"
 msgstr "选择战斗模式"
@@ -34149,7 +34149,7 @@ msgid "IDS_IKEDAMAMORU"
 msgstr "池田守"
 
 msgid "IDS_IMPOSSIBLE_TO_CHOOSE_TASK"
-msgstr "您已经获得完成此目标的奖励并解锁了任务的最终目标。"
+msgstr "您已经获得完成此目标的奖励并解开了任务的最终目标。"
 
 msgid "IDS_INACTIVE_CAMPAIGN_HINT_DESCR"
 msgstr "等到战役开始时，才能开始任务。"
@@ -60224,7 +60224,7 @@ msgstr "欧根亲王"
 
 msgid "IDS_PCEE044_PRINZ_EUGEN_DESCRIPTION"
 msgstr ""
-"欧根亲王在莱茵演习行动期间投入作战，并于1941年5月与战列舰俾斯麦一起试图突破大西洋防线。两艘战舰在丹麦海峡海战中摧毁了英国战斗巡洋舰胡德并且严重损伤战列舰 Prince of Wales。\n"
+"欧根亲王在莱茵演习行动期间投入作战，并于1941年5月与战列舰俾斯麦 一起试图突破大西洋防线。两艘战舰在丹麦海峡海战中摧毁了英国战斗巡洋舰胡德并且严重损伤战列舰 Prince of Wales。\n"
 "1945年5月德国垮台后，欧根亲王被转交给美国海军作为战利品前是向英国皇家海军投降。在美国考察过战舰之后，美国海军指派这艘巡洋舰前往比基尼环礁的十字路行动核试验。"
 
 msgid "IDS_PCEE045_YOKOSUKA_MARINE_SCHOOL"
@@ -64716,10 +64716,10 @@ msgid "IDS_PCEM008_SWEDENARC_MSKIN"
 msgstr "北方传统"
 
 msgid "IDS_PCEM010_SOVIETARC01_MSKIN"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PCEM011_SOVIETARC02_MSKIN"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PCEM014_5YEARS_9LVL"
 msgstr "新时代"
@@ -66339,7 +66339,7 @@ msgid "IDS_PCZC012_BISMARCK_PRINZEUGEN_DESCRIPTION"
 msgstr ""
 "欧根亲王为1940年进入服役的希佩尔海军上将级重型巡洋舰。战舰徽章包含着用来命名此战舰的著名Prince Eugene of Savoy标志，为十七世纪晚期-十八世纪初期的奥地利指挥官。\n"
 "\n"
-"Rhine作战期间 (1941年5月)，该巡洋舰在突破进入大西洋以拦截盟军船运期间护卫着俾斯麦。5月24日，欧根亲王和该战列舰在丹麦海峡一起行动，随后它和俾斯麦分开以进行独自一人的袭击任务，但却没有获得任何的成果。"
+"Rhine作战期间 (1941年5月)，该巡洋舰在突破进入大西洋以拦截盟军船运期间护卫着 俾斯麦。5月24日，欧根亲王和该战列舰在丹麦海峡一起行动，随后它和俾斯麦分开以进行独自一人的袭击任务，但却没有获得任何的成果。"
 
 msgid "IDS_PCZC013_BISMARCK_GOTLAND"
 msgstr "Gotland"
@@ -66366,7 +66366,7 @@ msgid "IDS_PCZC015_BISMARCK_NO1PHOTORECONUNIT_DESCRIPTION"
 msgstr ""
 "Photographic Reconnaissance Unit No. 1 的徽章，是一支隶属于皇家空军的特殊飞行单位，其中一个主要工作就是追踪德国海军的战舰动向。\n"
 "\n"
-"1941年5月21日，一架由 飞行员Michael F. Suckling 所驾驶的 Spitfire PR Mk.VI 看见并拍下了位于挪威科斯峡湾中的德国战列舰俾斯麦和巡洋舰 欧根亲王。这样一来，就能证实战舰已进入海域，而本土舰队就能开始重新整编部队来拦截侵入者"
+"1941年5月21日，一架由 飞行员Michael F. Suckling 所驾驶的 Spitfire PR Mk.VI 看见并拍下了位于挪威科斯峡湾中的德国战列舰 俾斯麦 和巡洋舰 欧根亲王。这样一来，就能证实战舰已进入海域，而本土舰队就能开始重新整编部队来拦截侵入者"
 
 msgid "IDS_PCZC016_BISMARCK_825NAVALAIRSQUADRON"
 msgstr "825 Naval Air Squadron"
@@ -66375,7 +66375,7 @@ msgid "IDS_PCZC016_BISMARCK_825NAVALAIRSQUADRON_DESCRIPTION"
 msgstr ""
 "825 Naval Air Squadron (成立于1934年)的徽章，海军中队的皇家海军作战舰载机。老鹰和马耳他十字象征着航空母舰Eagle 与中队早年所服役的马耳他岛。\n"
 "\n"
-"1941年5月，为HMS Victorious补给飞机的一部分。5月24日-25日晚，Victorious让它的双翼式Fairey Swordfish鱼雷轰炸机升空，其中有八架攻击了俾斯麦，击中了舰身中央部分并迫使俾斯麦降低航速。没有飞机在攻击期间被击落且成功返回了航母，尽管完全没有夜间起降的经验。"
+"1941年5月，为HMS Victorious补给飞机的一部分。5月24日-25日晚，Victorious让它的双翼式Fairey Swordfish鱼雷轰炸机升空，其中有八架攻击了俾斯麦，击中了舰身中央部分并迫使 俾斯麦 降低航速。没有飞机在攻击期间被击落且成功返回了航母，尽管完全没有夜间起降的经验。"
 
 msgid "IDS_PCZC017_BISMARCK_ARKROYAL"
 msgstr "HMS Ark Royal"
@@ -66429,7 +66429,7 @@ msgid "IDS_PCZC022_BISMARCK_MASHONA_DESCRIPTION"
 msgstr ""
 "HMS Mashona的徽章，一艘于1939年进入服役的Tribal级驱逐舰。该徽章描绘着南非马沙纳人的传奇图腾形象──津巴布韦鸟。\n"
 "\n"
-"1941年5月，HMS Mashona加入了一个大西洋船团的护卫舰队。5月24日，召回战舰来参加战列舰俾斯麦的狩猎行动。HMS Mashona 和战列舰 Rodney 一直到5月27日都追在德国侵入者的后面，但因为缺乏燃料而不得不调头。隔天，它被派来帮助俾斯麦的德国俯冲轰炸机击沉。"
+"1941年5月，HMS Mashona加入了一个大西洋船团的护卫舰队。5月24日，召回战舰来参加战列舰俾斯麦 的狩猎行动。HMS Mashona 和战列舰 Rodney 一直到5月27日都追在德国侵入者的后面，但因为缺乏燃料而不得不调头。隔天，它被派来帮助 俾斯麦 的德国俯冲轰炸机击沉。"
 
 msgid "IDS_PCZC023_BISMARCK_COSSACK"
 msgstr "HMS哥萨克人"
@@ -66456,7 +66456,7 @@ msgid "IDS_PCZC025_BISMARCK_RENOWN_DESCRIPTION"
 msgstr ""
 "HMS Renown 是一艘于1916年进入皇家海军服役的战斗巡洋舰。战舰徽章上描绘着经典的象征──月桂花环和荣耀之炬──与此战舰的名称相呼应。\n"
 "\n"
-"自1941年5月23日起，HMS Renown 就在中将 Somerville 麾下参加追击战列舰俾斯麦的行动。5月26日，以战斗巡洋舰为首的H部队似乎是唯一能阻止侵入者战舰突破至法国的部队。HMS Renown 的主要工作是为对德国战列舰造成重大打击的航空母舰 Ark Royal 提供掩护。"
+"自1941年5月23日起，HMS Renown 就在中将 Somerville 麾下参加追击战列舰 俾斯麦 的行动。5月26日，以战斗巡洋舰为首的H部队似乎是唯一能阻止侵入者战舰突破至法国的部队。HMS Renown 的主要工作是为对德国战列舰造成重大打击的航空母舰 Ark Royal 提供掩护。"
 
 msgid "IDS_PCZC026_BISMARCK_SHEFFIELD"
 msgstr "HMS Sheffield"
@@ -76891,7 +76891,7 @@ msgid "IDS_PFSD509_DESCR"
 msgstr ""
 "T-53级驱逐舰是絮库夫(T-47)级驱逐舰的进一步发展。该型驱逐舰与前代舰的不同之处在于其对空探测设备的改进，这使得她们能够在法国舰队中扮演雷达巡逻舰的角色。\n"
 "\n"
-"杜皮尔于1954年11月在洛里昂开工建造，1956年6月下水。在1966年到1971年期间被解除武装并用于测试Cormoran 1型深海拖拽声呐。1972-1974年，该舰重新接受武装、安装了四座飞鱼反舰导弹、一座100mm主炮、两座550mm鱼雷发射器以及通过拆除旧的主炮和鱼雷来安置一架山猫直升机。重新接受武装后，杜皮尔被用于担任反潜舰队的指挥舰。"
+"杜皮尔于1954年11月在洛里昂开工建造，1956年6月下水。在1966年到1971年期间被解除武装并用于测试Cormoran 1型深海拖拽声纳。1972-1974年，该舰重新接受武装、安装了四座飞鱼反舰导弹、一座100mm主炮、两座550mm鱼雷发射器以及通过拆除旧的主炮和鱼雷来安置一架山猫直升机。重新接受武装后，杜皮尔被用于担任反潜舰队的指挥舰。"
 
 msgid "IDS_PFSD509_FULL"
 msgstr "杜皮尔"
@@ -87398,7 +87398,7 @@ msgid "IDS_PJAD920_TAIHO_TOP"
 msgstr "中島 J5N “天雷”"
 
 msgid "IDS_PJAD993_ASW_T10_SUBTEST"
-msgstr "川西 H6K Test"
+msgstr "Kawanishi H6K Test"
 
 msgid "IDS_PJAD998_KIKAKU"
 msgstr "愛知 B7A “流星”"
@@ -96402,22 +96402,22 @@ msgid "IDS_PREINSTALLED_SIGNAL"
 msgstr "不可用。已选信号旗会在有库存时自动安装。"
 
 msgid "IDS_PREM101_TALLIN_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PREM102_RIGA_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PREM103_PETROPAVLOVSK_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PREM104_MIKOYAN_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PREM105_BAGRATION_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PREM106_OCHAKOV_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PREM109_DONSKOY_STEAMPUNK"
 msgstr "因塔尼亚舰队"
@@ -96581,7 +96581,7 @@ msgid "IDS_PREP312_SOVRUSSIA_DOMRU"
 msgstr "默认"
 
 msgid "IDS_PREP411_OKTYABRSKAYA_REVOLUTSIYA"
-msgstr "红色十月"
+msgstr "Krasny Oktyabr"
 
 msgid "IDS_PREP412_STALINGRAD"
 msgstr "默认"
@@ -96680,7 +96680,7 @@ msgid "IDS_PRES403_AZUR_AVRORA"
 msgstr "碧蓝航线"
 
 msgid "IDS_PRES405_KIROV_SOVIET"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PRES406_BLACK_MOLOTOV"
 msgstr "特别"
@@ -99003,7 +99003,7 @@ msgid "IDS_PRSB109_DESCR"
 msgstr "1937年春，苏联当局获悉德国和日本在建的新战舰比他们的A级战列舰项目更强大。造船局建议将项目23的排水量和速度分别提高到55000吨和29.5节。该项目于1938年3月完成，国防委员会下令再建造四艘战舰。苏联号于1938年7月15日在波罗的海工厂铺设龙骨。战争爆发后，国外生产的零部件订单被取消；此战舰已完成了21%，但由于列宁格勒的封锁而没有完工。"
 
 msgid "IDS_PRSB109_FULL"
-msgstr "苏维埃联盟"
+msgstr "苏联"
 
 msgid "IDS_PRSB109_NUMBER"
 msgstr "4"
@@ -102161,10 +102161,10 @@ msgid "IDS_PRUH808_D9_HULL_TOP_4"
 msgstr "塔什干(B)"
 
 msgid "IDS_PRUH809_B9_HULL_A"
-msgstr "苏维埃联盟(A)"
+msgstr "苏联(A)"
 
 msgid "IDS_PRUH810_B9_HULL_B"
-msgstr "苏维埃联盟(B)"
+msgstr "苏联(B)"
 
 msgid "IDS_PRUH811_DDONSKOY_A"
 msgstr "迪米特里•顿斯科伊(A)"
@@ -105616,7 +105616,7 @@ msgid "IDS_PWEM111_SMALAND_EUROPE"
 msgstr "北方传统"
 
 msgid "IDS_PWEP502_BLYSKAWICA_SZARZA"
-msgstr "冲锋陷阵"
+msgstr "Szarża"
 
 msgid "IDS_PWEP503_BLYSKAWICA_303"
 msgstr "303中队"
@@ -111234,7 +111234,7 @@ msgid "IDS_PZAD908_ASW"
 msgstr "Beriyev MBR-2"
 
 msgid "IDS_PZAD910_ASW_T10"
-msgstr "川西 H6K 九七式大艇"
+msgstr "川西H6K九七式大艇"
 
 msgid "IDS_PZAF001_VG_39_BIS_FLOAT"
 msgstr "Arsenal VG 39"
@@ -111252,7 +111252,7 @@ msgid "IDS_PZAS005_BREGUET_BR790"
 msgstr "Breguet Br.790"
 
 msgid "IDS_PZAS006_AICHI_E16A1"
-msgstr "愛知 E16A1 “瑞雲”"
+msgstr "愛知E16A1“瑞雲”"
 
 msgid "IDS_PZEM108_HSIEN_YANG_STEAMPUNK"
 msgstr "因塔尼亚舰队"
@@ -122951,7 +122951,7 @@ msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_OPERATION_SUBMARINE"
 msgstr "潜艇不可参加此行动"
 
 msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRAINING_AIRCARRIER"
-msgstr "此训练房间不允许使用航空母舰"
+msgstr "此训练房间不允许使用航母"
 
 msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRAINING_AUXILIARY"
 msgstr "此训练房间不允许使用辅助舰"
@@ -127152,7 +127152,7 @@ msgid "IDS_SKILL_TRIGGER_ACTIVATIONONCONSUMABLE"
 msgstr "若消耗品已启用"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVATIONONDETECTTRIGGER"
-msgstr "在您每次被发现后的15秒内，降低敌人对您的射击精度。"
+msgstr "在您被发现后的15秒内，降低敌人对您的射击精度。"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVEAIRDEFENSE"
 msgstr "防空炮正常运转时提升战舰的属性"
@@ -129104,7 +129104,7 @@ msgid "IDS_STARSCREAM"
 msgstr "红蜘蛛"
 
 msgid "IDS_STARS_FOR_BATTLE"
-msgstr "这是您完成此目标所获得的星星。您需要用它们来解锁任务最终目标。"
+msgstr "这是您完成此目标所获得的星星。您需要用它们来解开任务最终目标。"
 
 msgid "IDS_STARS_FOR_BATTLE_EARNED"
 msgstr "您完成目标所获得的星星。"
@@ -133777,7 +133777,7 @@ msgid "IDS_TOOLTIP_FIGHTER_SQUADRONS"
 msgstr "攻击机中队"
 
 msgid "IDS_TOOLTIP_FINAL_TASK_LOCKED"
-msgstr "收集到所需数量的星星来解锁最后的目标。"
+msgstr "收集到所需数量的星星来解开最后的目标。"
 
 msgid "IDS_TOOLTIP_FREE_EXP_BALANCE"
 msgstr "兑换经验"
