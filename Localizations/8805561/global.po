@@ -122951,7 +122951,7 @@ msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_OPERATION_SUBMARINE"
 msgstr "潜艇不可参加此行动"
 
 msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRAINING_AIRCARRIER"
-msgstr "此训练房间不允许使用航母"
+msgstr "此训练房间不允许使用航空母舰"
 
 msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRAINING_AUXILIARY"
 msgstr "此训练房间不允许使用辅助舰"
