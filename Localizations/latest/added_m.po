@@ -22,7 +22,7 @@ msgid "IDS_ANDROID_TM4"
 msgstr "CM-10A"
 
 msgid "IDS_AND_RECEIVE_QUESTION_DROP_BRANCH_CONFIRMATION_WINDOW"
-msgstr "并获得"
+msgstr "，并立即获得"
 
 msgid "IDS_BATTLE_STATS_CLOSE"
 msgstr "关闭"
@@ -34,7 +34,7 @@ msgid "IDS_BATTLE_TYPE_CHOOSER_LOCK_REASON_NOT_COMMANDER_DIVISION"
 msgstr "您不是小队指挥官。只有小队指挥官才能切换战斗模式。"
 
 msgid "IDS_BONUS_QUESTION_DROP_BRANCH_CONFIRMATION_WINDOW"
-msgstr "安装到战舰上"
+msgstr "确认重置分支，以在之后获得"
 
 msgid "IDS_BOUGHT_MK_PREMIUM_ACCOUNT"
 msgstr "已购买战舰高级账号"
@@ -156,7 +156,7 @@ msgid "IDS_DROP_BRANCH_BONUSES_FROM_BATTLES_LABEL"
 msgstr "您将能够获得研究点"
 
 msgid "IDS_DROP_BRANCH_CREDITS_COMPENSATION_LABEL"
-msgstr "您将获得银币"
+msgstr "您将立即获得银币"
 
 msgid "IDS_DROP_BRANCH_X2_MULTIPLIER"
 msgstr "×2"

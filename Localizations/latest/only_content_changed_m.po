@@ -37,7 +37,7 @@ msgid "IDS_CURRENCY_EVENTUM_3"
 msgstr "苏联代币"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "通过以下途径获取——①在25.4和25.5版本期间完成个人挑战活动任务②在25.4版本结束前达到战斗通行证最高等级③在25.5版本结束前领取兵工厂的礼包"
+msgstr "通过以下途径获取：①在25.4和25.5版本期间完成个人挑战活动任务②在25.4版本结束前达到战斗通行证最高等级③在25.5版本结束前兑换或领取兵工厂的礼包"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
 msgstr "在25.5版本结束前用于：推进获取以下抢先体验战舰①VII级驱逐舰缜密②VIII级驱逐舰英勇③IX级驱逐舰平静④X级驱逐舰自豪的进度条；兑换②③④的永久涂装“英勇水手”、①的永久加成包以及其他资源。"
@@ -175,7 +175,7 @@ msgid "IDS_PARAGON_BONUS_FOOTER_SPECIAL_STORAGE_INFO"
 msgstr "研究点可以在兵工厂研究局兑换特殊和加值战舰、精英升级品和特殊信号旗。"
 
 msgid "IDS_PARAGON_BONUS_SEASON_UPDATE"
-msgstr "距离下一个赛季开始还有：%(timeUntilMultiplier)s."
+msgstr "距离下一个赛季开始还有：%(timeUntilMultiplier)s"
 
 msgid "IDS_PARAGON_DENY_REASON_IS_IN_BATTLE"
 msgstr ""
