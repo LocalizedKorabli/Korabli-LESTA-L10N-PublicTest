@@ -3867,7 +3867,7 @@ msgid "IDS_ACHIEVEMENT_UNSINKABLE"
 msgstr "永不沉没"
 
 msgid "IDS_ACHIEVEMENT_VANGUARD"
-msgstr "先锋"
+msgstr "首当其冲"
 
 msgid "IDS_ACHIEVEMENT_VETERAN"
 msgstr "老兵"
