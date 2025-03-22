@@ -325,7 +325,7 @@ msgid "IDS_TAKE_STARS"
 msgstr "领取星星"
 
 msgid "IDS_TASK_IS_USELESS"
-msgstr "非必要任务"
+msgstr "非必要目标"
 
 msgid "IDS_TOOLTIP_CAMPAIGN_NEED_TOKEN"
 msgstr "需要令牌才能进入战役"

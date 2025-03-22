@@ -102,7 +102,7 @@ msgid "IDS_CONTEXT_HINT013_MG_PREEMPTION_AND_SPEED"
 msgstr "目标正在移动，计算好提前量！目标的航速与其烟囱中飘出烟雾的长度成正比。"
 
 msgid "IDS_CONTEXT_HINT014_MAP_BORDER"
-msgstr "您已到达地图边界，请转变航向返回战场！"
+msgstr "您已抵近地图边界，请转变航向返回战场！"
 
 msgid "IDS_CONTEXT_HINT016_MANEUVER_VS_MG"
 msgstr "不要对敌舰露出侧舷！"
