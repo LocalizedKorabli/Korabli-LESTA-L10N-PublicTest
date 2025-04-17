@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 msgid "ID"
 msgstr "Русский"
@@ -27156,7 +27156,7 @@ msgid "IDS_DREADNOUGHT_EVENT_MIDDLE_CALIBER_GOOD"
 msgstr "Высокая эффективность среднего калибра"
 
 msgid "IDS_DREADNOUGHT_EVENT_MODULE_RESEARCH"
-msgstr "Есть исследуемые модули"
+msgstr "Доступен выбор модулей с ОФ- и ББ-снарядами"
 
 msgid "IDS_DREADNOUGHT_EVENT_NOVIK"
 msgstr "Самая высокая эффективность тарана"
