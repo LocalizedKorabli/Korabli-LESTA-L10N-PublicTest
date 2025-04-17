@@ -1,0 +1,361 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_BUY_CLICK_TO_SET_PORT"
+msgstr "选择港口并点击“保存”，以设置它为默认港口。"
+
+msgid "IDS_FAST_TRAINING_DISABLE_REASON_IN_DEMOBILIZATION"
+msgstr "取消解雇指挥官后才能使用加速训练。"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "200艘战舰：获得400点基础经验，奖励+2"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_3"
+msgstr "300艘战舰：获得450点基础经验，奖励+3"
+
+msgid "IDS_NO_MORE_PLACE_IN_RESERVE_TO_CANCEL_DEMOBILIZATION"
+msgstr "要取消解雇，需要在预备队中留出空位。"
+
+msgid "IDS_PJPT042_SAZANAMI"
+msgstr "457 mm"
+
+msgid "IDS_PJPT125_ASAMA"
+msgstr "457 mm"
+
+msgid "IDS_PJUA103_ART_ASAMA"
+msgstr "203 mm/45 EOC Pattern U（双联装炮塔）"
+
+msgid "IDS_PJUH104_HULL_SAZANAMI"
+msgstr "涟"
+
+msgid "IDS_PJUT105_TORP_ASAMA"
+msgstr "457 mm"
+
+msgid "IDS_PJUT109_TORP_SAZANAMI"
+msgstr "457 mm"
+
+msgid "IDS_PORT_TWITCH"
+msgstr "Twitch Prime"
+
+msgid "IDS_PORT_TWITCH_TOOLTIP"
+msgstr "Twitch Prime港口"
+
+msgid "IDS_PORT_TWITCH_UNAVAILABLE_REASON"
+msgstr "此港口只对Twitch Prime的用户开放"
+
+msgid "IDS_PRPA232_47MM_CS_HOTCHKISS"
+msgstr "47 mm SAP"
+
+msgid "IDS_PRPT081_BOYKIY"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_PRUA102_ART_BORODINO"
+msgstr "305 mm/40 Model 1895（炮塔）"
+
+msgid "IDS_PRUA103_ART_GROMOBOY"
+msgstr "203 mm/45 Model 1892（单装炮座）"
+
+msgid "IDS_PRUH102_HULL_BORODINO"
+msgstr "博罗季诺"
+
+msgid "IDS_PRUH103_HULL_GROMOBOY"
+msgstr "格罗姆鲍伊"
+
+msgid "IDS_PRUH104_HULL_BOYKIY"
+msgstr "敏捷"
+
+msgid "IDS_PRUT105_TORP_BOYKIY"
+msgstr "鱼雷Model 1895"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BASE_CAPTURE"
+msgstr "占领关键区域或敌方基地"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BASE_CAPTURE_ASSIST"
+msgstr "协助占领关键区域或敌方基地"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BASE_DEFENSE"
+msgstr "击中正在占领关键区域或我方基地的敌舰"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DROP"
+msgstr "拾取一个增益"
+
+msgid "IDS_RIBBON_SSE_ACOUSTIC_HIT"
+msgstr "通过声呐标记"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST"
+msgstr "推动飞艇"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_BOOST_ASSIST"
+msgstr "协助推动飞艇"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW"
+msgstr "牵制飞艇"
+
+msgid "IDS_RIBBON_SSE_AIRSHIP_SLOW_ASSIST"
+msgstr "协助牵制飞艇"
+
+msgid "IDS_RIBBON_SSE_BASE_CAPTURE"
+msgstr "占领"
+
+msgid "IDS_RIBBON_SSE_BASE_CAPTURE_ASSIST"
+msgstr "协助占领"
+
+msgid "IDS_RIBBON_SSE_BASE_DEFENSE"
+msgstr "防御"
+
+msgid "IDS_RIBBON_SSE_BOMB"
+msgstr "炸弹命中"
+
+msgid "IDS_RIBBON_SSE_BUILDING_KILL"
+msgstr "摧毁陆上设施"
+
+msgid "IDS_RIBBON_SSE_BURN"
+msgstr "造成火灾"
+
+msgid "IDS_RIBBON_SSE_CITADEL"
+msgstr "命中核心区"
+
+msgid "IDS_RIBBON_SSE_CRIT"
+msgstr "瘫痪"
+
+msgid "IDS_RIBBON_SSE_DBOMB"
+msgstr "深水炸弹命中"
+
+msgid "IDS_RIBBON_SSE_DBOMB_FULL_DAMAGE"
+msgstr "深水炸弹直接命中"
+
+msgid "IDS_RIBBON_SSE_DBOMB_PARTIAL_DAMAGE"
+msgstr "深水炸弹弹片伤害"
+
+msgid "IDS_RIBBON_SSE_DETECTED"
+msgstr "发现"
+
+msgid "IDS_RIBBON_SSE_DROP"
+msgstr "拾取增益"
+
+msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
+msgstr "掩护"
+
+msgid "IDS_RIBBON_SSE_FLOOD"
+msgstr "造成进水"
+
+msgid "IDS_RIBBON_SSE_FRAG"
+msgstr "摧毁"
+
+msgid "IDS_RIBBON_SSE_HELP_TEAM"
+msgstr "战术贡献"
+
+msgid "IDS_RIBBON_SSE_MAIN_CALIBER"
+msgstr "主炮组命中"
+
+msgid "IDS_RIBBON_SSE_MINE"
+msgstr "水雷命中"
+
+msgid "IDS_RIBBON_SSE_PLANE"
+msgstr "击落（通过防空炮）"
+
+msgid "IDS_RIBBON_SSE_ROCKET"
+msgstr "火箭弹命中"
+
+msgid "IDS_RIBBON_SSE_SECONDARY_CALIBER"
+msgstr "副炮组命中"
+
+msgid "IDS_RIBBON_SSE_SPLANE"
+msgstr "击落（通过战斗机）"
+
+msgid "IDS_RIBBON_SSE_SUPPRESSED"
+msgstr "压制陆上设施"
+
+msgid "IDS_RIBBON_SSE_TANKING"
+msgstr "吸引火力"
+
+msgid "IDS_RIBBON_SSE_TORPEDO"
+msgstr "鱼雷命中"
+
+msgid "IDS_RIBBON_SSE_VICTORY_ACTION"
+msgstr "战略贡献"
+
+msgid "IDS_SYS_MSG_CREW_FROM_BASKET"
+msgstr "指挥官已回到预备队"
+
+msgid "IDS_SYS_MSG_CREW_TO_BASKET"
+msgstr "指挥官正等待解雇"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHAIR"
+msgstr "准备迎接新年"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL"
+msgstr "准备迎接新年"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE"
+msgstr "准备迎接新年"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TREE"
+msgstr "准备迎接新年"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TV"
+msgstr "准备迎接新年"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_WINDOW"
+msgstr "准备迎接新年"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_0"
+msgstr "爷爷喜欢坐在这张椅子上读书。他把茶往桌上一放，就开始沉浸在侦探故事的情节中。每逢新年，这个地方总是显得格外亮丽。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_1"
+msgstr "桌上的橘子散发着香气，爷爷很高兴，但似乎不想读书了。还可以装饰些什么？对于小朋友来说，凡是高于自己的都可以被称为圣诞树，而圣诞树就得装饰！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_2"
+msgstr "所有能触及的地方都已装饰一新！穿上最美的衣服坐下进餐。此刻，椅子仿佛变成了衣柜。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_CHAIR_3"
+msgstr "并不是每个节日都会这样打扮，只有新年才如此隆重！穿戴整齐后就可以去看圣诞树了！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_0"
+msgstr "“吃”是几乎所有节日的核心，尤其是新年！豪华的、传奇的折叠餐桌！它整年都在等待这一刻，今天终于成了主角！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_1"
+msgstr "布置新年餐桌并非易事。你永远不知道需要多少盘子……随时可能有客人光临！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_2"
+msgstr "桌上放了五个盘子，心中算好了十个——每个人都有份。准备的菜肴多得足够吃上一周！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TABLE_3"
+msgstr "“别碰，那是留给新年的！”这句话已成过去，热闹的晚宴即将开始。再等一会儿，我们就要送别旧年了！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_0"
+msgstr "昨天这里还空荡荡，今天却如魔法般出现了一棵美丽的圣诞树。该装饰它了！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_1"
+msgstr "轻轻地把玩具盒放在圣诞树旁。这些玻璃制成的玩具盒易碎且珍贵。装饰圣诞树是一次小小的冒险！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_2"
+msgstr "1、2、3，点亮圣诞树！红色星星在圣诞树上占据了特殊的位置——怎么能少了它呢？现在就等着圣诞老人把礼物放到树下了。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TREE_3"
+msgstr "太美了！现在我们可以迎接新年了！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_0"
+msgstr "电视机是新年不可或缺的象征之一。等等……电视机在哪？"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
+msgstr "这就对了！再等一会儿，就会有歌声从音响中飘来。只有电视的电视柜似乎显得有些不够节日气氛……应该能用橘子装点一下。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_2"
+msgstr "好了，电视柜看上去节日气氛满满。趁父母还在厨房忙，可以打开游戏机玩一会儿！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_3"
+msgstr "今晚可以熬到凌晨3点！而且父母也不反对：电视上播放的内容太精彩了……"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_0"
+msgstr "小时候我特别喜欢在新年夜看烟花：声音很大，夜空亮如白昼……窗户上还得贴满纸做的雪花！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_1"
+msgstr "剪完雪花，立刻就能感受到节日的气氛！新年时，玩具要摆满每个角落。把雪人堆在窗前，让冬天的气息充满我们的房间！"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_2"
+msgstr "雪人堆好啦！呼呼，真冷哇~"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_WINDOW_3"
+msgstr "快看！雪人在玻璃窗上画了美丽的图案。真是奇迹！"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_CHAIR"
+msgstr "爷爷的椅子"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL"
+msgstr "亚历山大•哈里托诺夫"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE"
+msgstr "节日餐桌"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_TREE"
+msgstr "新年圣诞树"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_TV"
+msgstr "电视柜"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_WINDOW"
+msgstr "窗户"
+
+msgid "IDS_TERRITORY_TITLE_CHAIR"
+msgstr "爷爷的椅子"
+
+msgid "IDS_TERRITORY_TITLE_TABLE"
+msgstr "节日餐桌"
+
+msgid "IDS_TERRITORY_TITLE_TREE"
+msgstr "新年圣诞树"
+
+msgid "IDS_TERRITORY_TITLE_TV"
+msgstr "电视柜"
+
+msgid "IDS_TERRITORY_TITLE_WINDOW"
+msgstr "窗户"
+
+msgid "IDS_TILL_CREW_DEMOBILIZATION_TOOLTIP"
+msgstr "在%(_timeLeft)s后被解雇"
+
+msgid "IDS_UNLOCKS_17"
+msgstr "研发并购买新战舰。"
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "与其他玩家一起对抗电脑玩家，并完成剧情任务。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_17_0"
+msgstr "有多种类型和国家的战舰供您选择：高隐蔽性的驱逐舰、能力均衡的巡洋舰、重装甲的战列舰，以及携带高速高伤害飞机的航空母舰。选择您在战斗中的角色！"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_17_1"
+msgstr "为了提升您的战斗力，您可以使用赚取的经验和银币来研发和购买新战舰，或购买新的配件来升级您的战舰。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr "在“行动”中，您的团队必须在与电脑玩家战斗的同时完成各种任务。每个行动都有独特的故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr "完成主要目标即可获得胜利。完成附加目标将获得更多资源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr "行动的难度取决于队伍中战舰的类型和等级。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_17"
+msgstr ""
+"<body>您现在可以进行\n"
+"<h3>战舰研发和强化</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_17"
+msgstr "科技树分页中开放了新的战舰。升级品可在装备分页安装。"
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "可见于战斗模式选择界面。"
+
+msgid "IDS_UNLOCKS_TITLE_17"
+msgstr "战舰研发和升级"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "行动"
+
+msgid "IDS_WAITING_FOR_DEMOBILIZATION_COLON"
+msgstr "等待解雇："
+
+msgid "IDS_WAITING_FOR_DEMOBILIZATION_TIMER"
+msgstr "等待解雇：%(_timeLeft)s"
+
+msgid "IDS_PL_STRATEGIC_ACTIONS_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_PL_STRATEGIC_ACTIONS_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "距离下一阶段还需：%(_pointsTillNext)s分"

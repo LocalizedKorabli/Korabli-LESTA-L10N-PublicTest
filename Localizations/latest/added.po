@@ -1,0 +1,2405 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_SUPERWARRIOR"
+msgstr "Уничтожить 20 кораблей противника в одном бою."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_TRIPLE_KILL"
+msgstr "Уничтожить 3 корабля противника с интервалом не более 20 секунд."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_TROPHY_WIN_MEMORABLE"
+msgstr "Победить в бою, сражаясь на трофейном крейсере Железной орды."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_WIN_MEMORABLE"
+msgstr "Победить орду ботов, сражаясь в объединённых силах Российской и Японской империй."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_9MAY_FULL"
+msgstr "Выполнить все операции в событии «Подвиги Балтфлота»."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORYDAY"
+msgstr "Принять участие в праздновании 80-летия победы в Великой Отечественной войне."
+
+msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_SUPERWARRIOR"
+msgstr "Разрушитель машин"
+
+msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_TRIPLE_KILL"
+msgstr "Тройной удар"
+
+msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_TROPHY_WIN_MEMORABLE"
+msgstr "Охотник за трофеями"
+
+msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_WIN_MEMORABLE"
+msgstr "Союз империй"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVE_DREADNOUGHT"
+msgstr "Выполняется в событии «Железная орда»."
+
+msgid "IDS_ACHIEVEMENT_STRATOPS_9MAY_FULL"
+msgstr "Подвиги Балтфлота"
+
+msgid "IDS_ACHIEVEMENT_VICTORYDAY"
+msgstr "80 лет Великой Победе"
+
+msgid "IDS_ARCHIVE_BUTTON_SOUND"
+msgstr "Послушать запись"
+
+msgid "IDS_ARCHIVE_TITLE"
+msgstr "Подвиги Балтфлота"
+
+msgid "IDS_BATTLEPASS_SPLASH_SCREEN_OBSERVE_ELITE_CREW_BOOK"
+msgstr "К Боевому пропуску"
+
+msgid "IDS_BATTLEPASS_SPLASH_SCREEN_SUBTITLE"
+msgstr "У вас есть командир, с которым вы прошли через огонь и воду множества боёв, чьи навыки не раз выручали вас в трудную минуту? Теперь вы можете повысить вашего командира до элитного, чтобы открыть ему доступ к национальному таланту и улучшенным навыкам. Для этого вам потребуется элитное командирское пособие — проходите Боевой пропуск, чтобы получить его!"
+
+msgid "IDS_BATTLEPASS_SPLASH_SCREEN_TITLE"
+msgstr "Элитное командирское пособие"
+
+msgid "IDS_BB_NAME1_1"
+msgstr "Разрушитель-01"
+
+msgid "IDS_BB_NAME1_10"
+msgstr "Конструктор-14"
+
+msgid "IDS_BB_NAME1_2"
+msgstr "Техно-77"
+
+msgid "IDS_BB_NAME1_3"
+msgstr "Ржавчина-3000"
+
+msgid "IDS_BB_NAME1_4"
+msgstr "Искра-12"
+
+msgid "IDS_BB_NAME1_5"
+msgstr "Катаклизм-13"
+
+msgid "IDS_BB_NAME1_6"
+msgstr "Удар-99"
+
+msgid "IDS_BB_NAME1_7"
+msgstr "Кибер-17"
+
+msgid "IDS_BB_NAME1_8"
+msgstr "Машина-77"
+
+msgid "IDS_BB_NAME1_9"
+msgstr "Электрон-66"
+
+msgid "IDS_BEST_RATING"
+msgstr "Лучший рейтинг"
+
+msgid "IDS_BEST_RATING_TOOLTIP"
+msgstr "Лучший рейтинг, которого вы достигли в Рейтинговых боях"
+
+msgid "IDS_CAROUSEL_RATINGBATTLE_FILTER"
+msgstr "Фильтр кораблей, подходящих для участия в Рейтинговом бою"
+
+msgid "IDS_CA_NAME1_1"
+msgstr "Синтезатор-9"
+
+msgid "IDS_CA_NAME1_10"
+msgstr "Молот-7"
+
+msgid "IDS_CA_NAME1_2"
+msgstr "Конфликт-66"
+
+msgid "IDS_CA_NAME1_3"
+msgstr "Армагеддон-3"
+
+msgid "IDS_CA_NAME1_4"
+msgstr "Битва-X"
+
+msgid "IDS_CA_NAME1_5"
+msgstr "Железо-19"
+
+msgid "IDS_CA_NAME1_6"
+msgstr "Мусор-Х"
+
+msgid "IDS_CA_NAME1_7"
+msgstr "Технолог-77"
+
+msgid "IDS_CA_NAME1_8"
+msgstr "Механика-9"
+
+msgid "IDS_CA_NAME1_9"
+msgstr "Сталь-9"
+
+msgid "IDS_CHAT_DREADNOUGHT_PVE_MAKAROV_1"
+msgstr "Они словно копии наших кораблей, но без души. Мы сражаемся не только за свои империи, но и за саму идею человечности."
+
+msgid "IDS_CHAT_DREADNOUGHT_PVE_MAKAROV_2"
+msgstr "Согласен. И пусть шторм будет на нашей стороне. В атаку!"
+
+msgid "IDS_CHAT_DREADNOUGHT_PVE_TOGO_1"
+msgstr "Макаров, они идут. Им нет числа, но мы должны попробовать их остановить."
+
+msgid "IDS_CHAT_DREADNOUGHT_PVE_TOGO_2"
+msgstr "Тогда пусть этот бой станет доказательством, что машины никогда не превзойдут людей. Фланг ваш, центр — мой."
+
+msgid "IDS_CHOOSE_RATINGBATTLE"
+msgstr "Выбрать Рейтинговый бой"
+
+msgid "IDS_CLICK_TO_SET_PORT"
+msgstr "Нажмите на изображение Порта, чтобы установить его Портом по умолчанию."
+
+msgid "IDS_CONTINUE_QUESTION"
+msgstr "Продолжить?"
+
+msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IN_FORMATION"
+msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для вручения элитного командирского пособия."
+
+msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IS_IN_BATTLE"
+msgstr "Дождитесь возвращения командира из боя для вручения элитного командирского пособия."
+
+msgid "IDS_CREW_EPIC_SKILL_NO_OTHER_SKILL_HOSTS_ON_ACCOUNT"
+msgstr "У вас больше нет командиров с этим улучшенным навыком."
+
+msgid "IDS_CREW_EPIC_SKILL_WITH_NO_OTHER_SKILL_HOSTS_DENY_CONSEQUENCE"
+msgstr "Если вы откажетесь от улучшения, другие элитные командиры потеряют к нему доступ."
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_0"
+msgstr "Francisco"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_1"
+msgstr "Juan"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_10"
+msgstr "Edgar"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_11"
+msgstr "Gustavo"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_12"
+msgstr "Julio"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_13"
+msgstr "Miguel"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_14"
+msgstr "Carlos"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_15"
+msgstr "Ronald"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_16"
+msgstr "Alejandro"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_17"
+msgstr "Enrique"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_18"
+msgstr "Nicolás"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_19"
+msgstr "Diosdado"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_2"
+msgstr "Jorge"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_20"
+msgstr "Elías"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_21"
+msgstr "Remiglio"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_22"
+msgstr "Lucas"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_23"
+msgstr "Rafael"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_24"
+msgstr "Manuel"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_25"
+msgstr "Ernesto"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_26"
+msgstr "Ricardo"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_27"
+msgstr "Félix"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_28"
+msgstr "Antonio"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_29"
+msgstr "Jesús"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_3"
+msgstr "Fernando"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_4"
+msgstr "Ramón"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_5"
+msgstr "José"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_6"
+msgstr "Daniel"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_7"
+msgstr "Luis"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_8"
+msgstr "Hugo"
+
+msgid "IDS_CREW_FIRSTNAME_VENEZUELA_9"
+msgstr "Eliseo"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_0"
+msgstr "Gallardo Moros"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_1"
+msgstr "Moreno Lagleyze"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_10"
+msgstr "Soteldo Olivares"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_11"
+msgstr "Guererro Martínez"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_12"
+msgstr "Quiento Andrande"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_13"
+msgstr "Gomes Alvarez"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_14"
+msgstr "Seijas Fossa"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_15"
+msgstr "Chacón Villalobos"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_16"
+msgstr "Rivero Blanco"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_17"
+msgstr "Falcón Castellano"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_18"
+msgstr "Benatuil Córdova"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_19"
+msgstr "Rivero Núñez"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_2"
+msgstr "Machado Vivas"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_20"
+msgstr "Medina Veloz"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_21"
+msgstr "Romero Cedeño"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_22"
+msgstr "Osorio Nader"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_23"
+msgstr "Paredes Altuve"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_24"
+msgstr "Rondon Flores"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_25"
+msgstr "Arango Vizcarrondo"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_26"
+msgstr "Delgado Rivas"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_27"
+msgstr "Ichaso Caripe"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_28"
+msgstr "Carrera Vásquez"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_29"
+msgstr "Ruiz Sevillano"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_3"
+msgstr "Chávez Pérez"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_4"
+msgstr "Maduro Guastini"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_5"
+msgstr "Bolívar Lezama"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_6"
+msgstr "Pereira Ochoa"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_7"
+msgstr "Hernández Frias"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_8"
+msgstr "Seijas Contreras"
+
+msgid "IDS_CREW_LASTNAME_VENEZUELA_9"
+msgstr "Lanz Navarro"
+
+msgid "IDS_CREW_RANK_VENEZUELA_0"
+msgstr "Guardiamarina"
+
+msgid "IDS_CREW_RANK_VENEZUELA_1"
+msgstr "Alférez de navío"
+
+msgid "IDS_CREW_RANK_VENEZUELA_10"
+msgstr "Almirante en Jefe"
+
+msgid "IDS_CREW_RANK_VENEZUELA_2"
+msgstr "Teniente de fragata"
+
+msgid "IDS_CREW_RANK_VENEZUELA_3"
+msgstr "Teniente de navío"
+
+msgid "IDS_CREW_RANK_VENEZUELA_4"
+msgstr "Capitán de corbeta"
+
+msgid "IDS_CREW_RANK_VENEZUELA_5"
+msgstr "Capitán de fragata"
+
+msgid "IDS_CREW_RANK_VENEZUELA_6"
+msgstr "Capitán de navío"
+
+msgid "IDS_CREW_RANK_VENEZUELA_7"
+msgstr "Contraalmirante"
+
+msgid "IDS_CREW_RANK_VENEZUELA_8"
+msgstr "Vicealmirante"
+
+msgid "IDS_CREW_RANK_VENEZUELA_9"
+msgstr "Almirante"
+
+msgid "IDS_CUSTOM_MAP_PCVO032"
+msgstr "Буря в Тихом море"
+
+msgid "IDS_DD_NAME1_1"
+msgstr "Беспощадник-17"
+
+msgid "IDS_DD_NAME1_10"
+msgstr "Адаптер-66"
+
+msgid "IDS_DD_NAME1_2"
+msgstr "Карга-К47"
+
+msgid "IDS_DD_NAME1_3"
+msgstr "Вихрь-9"
+
+msgid "IDS_DD_NAME1_4"
+msgstr "Руина-88"
+
+msgid "IDS_DD_NAME1_5"
+msgstr "Десант-17"
+
+msgid "IDS_DD_NAME1_6"
+msgstr "Рыцарь-6"
+
+msgid "IDS_DD_NAME1_7"
+msgstr "Коготь-92"
+
+msgid "IDS_DD_NAME1_8"
+msgstr "Апокалипсис-5"
+
+msgid "IDS_DD_NAME1_9"
+msgstr "Шрам-0"
+
+msgid "IDS_DE_ASYMM_DOMINATION_DESCRIPTION"
+msgstr "Ход Русско-японской войны был нарушен, когда морские силы обеих стран были атакованы загадочным противником. Скрипя железом и стуча поршнями, из пелены проливного дождя выдвинулась эскадра, состоящая из грубых копий русских и японских кораблей. На них не было ни одного живого человека, а семафоры передавали по кругу один и тот же сигнал: «Сдавайтесь перед мощью Железной орды». Соперникам ничего не оставалось, кроме как объединить силы против общей угрозы."
+
+msgid "IDS_DE_ASYMM_DOMINATION_GOAL"
+msgstr "Наберите 1000 очков, уничтожая корабли противника."
+
+msgid "IDS_DE_ASYMM_DOMINATION_NAME"
+msgstr "Железная орда"
+
+msgid "IDS_DE_ASYMM_DOMINATION_NAME_RESULT_SCREEN"
+msgstr "Железная орда"
+
+msgid "IDS_DOGTAG_PCNB458_DESCRIPTION"
+msgstr "В честь 80-летия победы советского народа в Великой Отечественной войне против немецко-фашистских захватчиков."
+
+msgid "IDS_DOGTAG_PCNB458_NAME"
+msgstr "80 лет Великой Победе"
+
+msgid "IDS_DREADNOUGHT_EVENT_ANTIRAM"
+msgstr "Корабль получает малый урон при таране"
+
+msgid "IDS_DREADNOUGHT_EVENT_AP_HIGH_DAMAGE"
+msgstr "ББ-снаряды наносят большой урон"
+
+msgid "IDS_DREADNOUGHT_EVENT_AP_ONLY"
+msgstr "Доступны только ББ-снаряды"
+
+msgid "IDS_DREADNOUGHT_EVENT_AP_SECONDARIES"
+msgstr "Орудия ПМК ведут огонь ББ-снарядами"
+
+msgid "IDS_DREADNOUGHT_EVENT_AP_STANDARD"
+msgstr "В базовых модулях только ББ-снаряды"
+
+msgid "IDS_DREADNOUGHT_EVENT_AVRORA"
+msgstr "Самый большой урон за минуту"
+
+msgid "IDS_DREADNOUGHT_EVENT_BOYKIY_B_HULL"
+msgstr "Исследуемый корпус улучшает живучесть"
+
+msgid "IDS_DREADNOUGHT_EVENT_GOOD_SMOKES"
+msgstr "Доступен «Дымогенератор полного хода»"
+
+msgid "IDS_DREADNOUGHT_EVENT_GOOD_SPEED_BOOSTER"
+msgstr "Доступен «Боевой форсаж»"
+
+msgid "IDS_DREADNOUGHT_EVENT_HE_HIGH_DAMAGE"
+msgstr "ОФ-снаряды наносят большой урон"
+
+msgid "IDS_DREADNOUGHT_EVENT_HE_ONLY"
+msgstr "Доступны только ОФ-снаряды"
+
+msgid "IDS_DREADNOUGHT_EVENT_HE_SECONDARIES"
+msgstr "Орудия ПМК ведут огонь ОФ-снарядами"
+
+msgid "IDS_DREADNOUGHT_EVENT_HE_STANDARD"
+msgstr "В базовых модулях только ОФ-снаряды"
+
+msgid "IDS_DREADNOUGHT_EVENT_MIDDLE_CALIBER_GOOD"
+msgstr "Высокая эффективность среднего калибра"
+
+msgid "IDS_DREADNOUGHT_EVENT_MODULE_RESEARCH"
+msgstr "Есть исследуемые модули"
+
+msgid "IDS_DREADNOUGHT_EVENT_NOVIK"
+msgstr "Самая высокая эффективность тарана"
+
+msgid "IDS_DREADNOUGHT_EVENT_SAZANAMI_B_HULL"
+msgstr "Исследуемый корпус увеличивает скорость хода"
+
+msgid "IDS_DREADNOUGHT_EVENT_TORPEDO"
+msgstr "Высокая эффективность торпед"
+
+msgid "IDS_DREADNOUGHT_EVENT_VARYAG"
+msgstr "Самая высокая эффективность ГК"
+
+msgid "IDS_DREADNOUGHT_ICON_RULES_HEADER"
+msgstr "Типы улучшений"
+
+msgid "IDS_DREADNOUGHT_RULES_BULLET_1"
+msgstr "Подбирайте улучшения, чтобы повысить боевые характеристики кораблей вашей команды."
+
+msgid "IDS_DREADNOUGHT_RULES_HEADER"
+msgstr "Особенности режима"
+
+msgid "IDS_DREADNOUGHT_SUBTITLE"
+msgstr "Сражения против орды ботов на кораблях эпохи броненосцев. Количество противников постоянно увеличивается!"
+
+msgid "IDS_DUAL_SSC_SS_CONSTRSIDE"
+msgstr "Обшивка"
+
+msgid "IDS_ELITE_CREW_MANUAL"
+msgstr "Элитное командирское пособие"
+
+msgid "IDS_ELITE_CREW_MANUAL_BUTTON_GIVE_LABEL"
+msgstr "Вручить командиру"
+
+msgid "IDS_ELITE_CREW_MANUAL_CONDITIONS_TOOLTIP_DESCRIPTION"
+msgstr "Можно вручить командиру на экране «Личное дело»."
+
+msgid "IDS_ELITE_CREW_MANUAL_CONDITIONS_TOOLTIP_HEADER"
+msgstr "Как использовать"
+
+msgid "IDS_ELITE_CREW_MANUAL_PROMOTE_CREW_MODAL_EFFECT_DESCRIPTION"
+msgstr "Командир станет элитным."
+
+msgid "IDS_ELITE_CREW_MANUAL_PROMOTE_CREW_MODAL_QUESTION"
+msgstr "Вручить элитное командирское пособие?"
+
+msgid "IDS_ELITE_CREW_MANUAL_PURPOSE_TOOLTIP_DESCRIPTION"
+msgstr "Повышение любого стандартного, особого или редкого командира до элитного. Достигнув 21-го уровня, элитный командир может получить национальный талант и улучшенные навыки от других командиров."
+
+msgid "IDS_ELITE_CREW_MANUAL_PURPOSE_TOOLTIP_HEADER"
+msgstr "Назначение"
+
+msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RATINGBATTLE"
+msgstr "Специальные корабли не могут участвовать в Рейтинговом бою."
+
+msgid "IDS_EV_25_01"
+msgstr "Скрежет-7"
+
+msgid "IDS_EV_25_02"
+msgstr "Шторм-45"
+
+msgid "IDS_EV_25_03"
+msgstr "Призрак-13"
+
+msgid "IDS_EV_25_04"
+msgstr "Роботрон-404"
+
+msgid "IDS_EV_25_05"
+msgstr "Гром-99"
+
+msgid "IDS_EV_25_06"
+msgstr "Автоматика-X"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_0"
+msgstr "Увеличение урона от артиллерии"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_1"
+msgstr "Увеличение точности артиллерии"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_2"
+msgstr "Ускорение перезарядки артиллерии"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_3"
+msgstr "Ускорение перезарядки торпед"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_4"
+msgstr "Повышение скорости кораблей"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_5"
+msgstr "Восстановление боеспособности "
+
+msgid "IDS_GMIDEAL_RADIUS_CHANGED"
+msgstr "Максимальное рассеивание снарядов ГК уменьшено"
+
+msgid "IDS_GMROTATION_SPEED_CHANGED"
+msgstr "Скорость поворота орудий ГК повышена"
+
+msgid "IDS_GUIDING_TIP_332_DESC"
+msgstr "Нажмите, чтобы ознакомиться с полной сводкой боевых действий."
+
+msgid "IDS_GUIDING_TIP_332_HEADER"
+msgstr "Полная сводка"
+
+msgid "IDS_HINT_TALENT_EVENT_BALANCE_ATTENTION"
+msgstr "Условия активации и эффект таланта могут быть изменены в рамках события"
+
+msgid "IDS_IMPOSSIBLE_TO_UNDO_ACTION"
+msgstr "Вы не сможете отменить это действие."
+
+msgid "IDS_IN_RATINGBATTLE"
+msgstr "в Рейтинговом бою"
+
+msgid "IDS_MAKAROV"
+msgstr "Степан Макаров"
+
+msgid "IDS_MATCHMAKER_LEAVE_REASON_RATING_PRIME_OVER"
+msgstr "Вы были исключены из очереди в Рейтинговый бой. Сессия Рейтинговых боёв завершена."
+
+msgid "IDS_MATCHMAKER_LEAVE_REASON_RATING_SEASON_OVER"
+msgstr "Вы были исключены из очереди в Рейтинговый бой. Сезон Рейтинговых боёв завершён."
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "ПРОТИВНИК"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Уничтожайте ботов на кораблях эпохи броненосцев. Количество противников постоянно увеличивается!"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "УЛУЧШЕНИЯ"
+
+msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "На месте некоторых уничтоженных противников появляются улучшения. Подбирайте их, пока они доступны!"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "ПРОТИВНИК"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Уничтожайте ботов на кораблях эпохи броненосцев. Количество противников постоянно увеличивается!"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "УЛУЧШЕНИЯ"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "На месте некоторых уничтоженных противников появляются улучшения. Подбирайте их, пока они доступны!"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_HEADER"
+msgstr "Железная орда"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вы сразитесь с ордой ботов на кораблях эпохи броненосцев. Количество противников постоянно увеличивается."
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Ваша задача: набрать 1000 очков, уничтожая корабли противника."
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_HEADER"
+msgstr "Улучшения"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "В бою вам будут встречаться противники с улучшениями."
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Уничтожив такой корабль, вы сможете подобрать улучшение в течение ограниченного времени."
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_HEADER"
+msgstr "Модули"
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "У некоторых кораблей доступен выбор модулей."
+
+msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Меняя модули, вы можете выбрать тип снарядов для орудий главного и среднего калибра."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_HEADER"
+msgstr "Рейтинговый бой"
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "Особенности боя"
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Вам предстоит сражаться с другими игроками, которые подбираются по рейтингу боевой эффективности."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Рейтинг корректируется после каждого боя на основе его результата и полученного чистого опыта."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "Лиги и рейтинг"
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Прогресс в Рейтинговых боях сбрасывается каждый сезон. В начале сезона нужно провести 5 боёв, чтобы получить рейтинг в одной из лиг."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Максимальный рейтинг в Железной, Бронзовой, Серебряной и Золотой лигах — 100. Превысив это значение в текущей лиге, вы перейдёте в следующую. В Обсидиановой лиге можно повышать рейтинг неограниченно."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "Отряды"
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Рейтинг отряда — средний рейтинг всех участников с повышающим коэффициентом за их количество. Чем больше участников в отряде, тем выше коэффициент."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "При подборе соперников учитывается как рейтинг игроков, так и рейтинг отрядов."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_HEADER"
+msgstr "Условия участия"
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "Состав команд может меняться в зависимости от сезона."
+
+msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "Вы можете выйти в бой в одиночку или в составе отряда. Размер отряда ограничен только размером команды."
+
+msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_0"
+msgstr "Правила"
+
+msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_1"
+msgstr "Достижения"
+
+msgid "IDS_NAVAL_FLAG_VENEZUELA"
+msgstr "ВМС Венесуэлы"
+
+msgid "IDS_NAVAL_FLAG_VENEZUELA_DESCRIPTION"
+msgstr "Флаг Национальных боливарианских военно-морских сил Венесуэлы не отличается от государственного. В его основе лежит флаг борца за независимость южноамериканских стран Франсиско де Миранды, состоящий из трёх полос: жёлтой, синей и красной. На синей полосе помещены семь звёзд, символизирующих семь провинций страны. До 1930 г. звёзды располагались в виде окружности, а после — по дуге. С 1954 г. в крыже флага помещён герб страны."
+
+msgid "IDS_NO_BATTLES_PLAYED_IN_RATINGBATTLE"
+msgstr "Вы не провели ни одного Рейтингового боя"
+
+msgid "IDS_PBES509_JUTLAND_COLORFUL"
+msgstr "Розовый луч"
+
+msgid "IDS_PBGS168_6IN45_BL_MK_XII"
+msgstr "152-мм/45 BL Mk.XII в казематной установке"
+
+msgid "IDS_PBPA150_381MM_HE_R_SOVEREIGN"
+msgstr "381-мм HE Mk VIIIb"
+
+msgid "IDS_PBPA151_381MM_AP_R_SOVEREIGN"
+msgstr "381-мм AP Mk XXIIb"
+
+msgid "IDS_PBSB506"
+msgstr "Royal Sovereign"
+
+msgid "IDS_PBSB506_DESCR"
+msgstr "<p>Линейные корабли типа R были основаны на предшественниках — линкорах типа Queen Elizabeth. Бронирование претерпело изменения: главная броневая палуба была поднята вверх на один уровень, а плиты главного пояса имели одну толщину по всей высоте. Был перепроектирован каземат противоминного калибра.</p><p class=\"p_spacing\"> </p><p>HMS Royal Sovereign вошёл в строй в разгар Первой мировой войны, за день до Ютландского сражения. Адмирал Дж. Джеллико намеренно оставил линкор в порту из-за неготовности команды.</p><p class=\"p_spacing\"> </p><p>В годы Второй мировой войны Royal Sovereign участвовал в эскортных миссиях и перехватах итальянского флота, а затем сопровождал конвои в Атлантике. В 1944 г. корабль был временно передан Советскому Союзу в счёт военных репараций от Италии. В Северном флоте СССР корабль служил до 1949 г. под именем «Архангельск».</p><p class=\"p_spacing\"> </p><p>Когда линкор вернулся в Великобританию, часть механизмов его орудийных башен была использована при строительстве радиотелескопа в Чешире.</p>"
+
+msgid "IDS_PBSB506_FULL"
+msgstr "Royal Sovereign"
+
+msgid "IDS_PBSB506_NUMBER"
+msgstr "5"
+
+msgid "IDS_PBSB506_YEAR"
+msgstr "1916 г."
+
+msgid "IDS_PBSD809"
+msgstr "Jutland CLR"
+
+msgid "IDS_PBSD809_DESCR"
+msgstr "Тип Battle стал результатом осмысления опыта эсминцев в первые годы Второй мировой войны: акцент сместился на ПВО и ПЛО. HMS Jutland, изначально носивший имя Malplaquet, был построен в 1945–47 гг. Корабль служил в составе 4-й флотилии эсминцев, в 4-м и 7-м дивизионах эсминцев. В 1953 г. Jutland принимал участие во флотском смотре по случаю коронации Елизаветы II."
+
+msgid "IDS_PBSD809_FULL"
+msgstr "Jutland CLR"
+
+msgid "IDS_PBSD809_NUMBER"
+msgstr "42"
+
+msgid "IDS_PBSD809_YEAR"
+msgstr "1947 г."
+
+msgid "IDS_PBUA509_ART_R_SOVEREIGN"
+msgstr "381-мм/42 Mk.I в установке Mk.I"
+
+msgid "IDS_PBUA809_ART_CLR_JUTLAND"
+msgstr "113-мм/45 QF Mk.IV в установке RP10 Mk.IV*/RP50 Mk.V*"
+
+msgid "IDS_PBUE513_ENG_R_SOVEREIGN"
+msgstr "ЭУ 40 000 л.с."
+
+msgid "IDS_PBUE808_ENG_CLR_JUTLAND"
+msgstr "ЭУ 50 000 л.с."
+
+msgid "IDS_PBUH519_R_SOVEREIGN"
+msgstr "Royal Sovereign"
+
+msgid "IDS_PBUH814_HULL_CLR_JUTLAND"
+msgstr "Jutland CLR"
+
+msgid "IDS_PBUS514_SUO_R_SOVEREIGN"
+msgstr "Mk VI mod. 1"
+
+msgid "IDS_PBUS814_SUO_CLR_JUTLAND"
+msgstr "Mk IX"
+
+msgid "IDS_PBUT807_TORP_CLR_JUTLAND"
+msgstr "533-мм Mk IX**"
+
+msgid "IDS_PCEC151_CAMO_BRONEKORABLI_ENEMY"
+msgstr " "
+
+msgid "IDS_PCEC152_CAMO_BRONEKORABLI_ENEMYOFFSET"
+msgstr " "
+
+msgid "IDS_PCEC153_CAMO_BRONEKORABLI_ENEMY_BUFF"
+msgstr " "
+
+msgid "IDS_PCEC154_CAMO_BRONEKORABLI_ENEMY_BUFFOFFSET"
+msgstr " "
+
+msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG"
+msgstr "Jutland CLR"
+
+msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_DESCRIPTION"
+msgstr "На гербе эсминца HMS Jutland был изображён морской грифон. Именно эти существа являлись щитодержателями на графском гербе адмирала Джона Джеллико, командовавшего британским флотом в Ютландском сражении в 1916 г."
+
+msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода ослепительно ярких кораблей."
+
+msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG"
+msgstr "Yamato CLR"
+
+msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_DESCRIPTION"
+msgstr "В апреле 1945 г. линкор Yamato отправился на боевое задание против превосходящих сил противника. У корабля почти не было шансов вернуться назад, а на его дымовую трубу была нанесена белая хризантема — символ бессмертия."
+
+msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода ослепительно ярких кораблей."
+
+msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG"
+msgstr "Condé CLR"
+
+msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_DESCRIPTION"
+msgstr "Герб принцев Конде — младшей ветви королевского дома Бурбонов. Этот род дал Франции немало видных военачальников и государственных деятелей, в числе которых знаменитый полководец XVII в. Людовик II де Бурбон (1621–1686)."
+
+msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_EXTRA_DESCRIPTION"
+msgstr "В честь выхода ослепительно ярких кораблей."
+
+msgid "IDS_PCEE746_VICTORYDAY_FLAG"
+msgstr "80 лет Великой Победе"
+
+msgid "IDS_PCEE746_VICTORYDAY_FLAG_DESCRIPTION"
+msgstr "В честь 80-летия победы советского народа в Великой Отечественной войне против немецко-фашистских захватчиков."
+
+msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG"
+msgstr "HMS Royal Sovereign"
+
+msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG_DESCRIPTION"
+msgstr "В первой половине XX в. появился проект флага, который отражал бы весь территориальный состав Британской империи. Помимо флагов Англии и Великобритании, этот проект включал в себя герб Канады, гербы Южной Африки и Австралии, звезду Британской Индии, а также четыре звезды, символизирующие Новую Зеландию."
+
+msgid "IDS_PCEP313_PERMO_BRONE_2"
+msgstr " "
+
+msgid "IDS_PCVO032_EV25BRONEKORABLI_GOAL"
+msgstr "Сражения против орды ботов на кораблях эпохи броненосцев. Количество противников постоянно увеличивается!"
+
+msgid "IDS_PCVO032_EV25BRONEKORABLI_NAME"
+msgstr "Железная орда"
+
+msgid "IDS_PFES401_CONDE_COLORFUL"
+msgstr "Малахитовая стрела"
+
+msgid "IDS_PFSC811"
+msgstr "Condé CLR"
+
+msgid "IDS_PFSC811_DESCR"
+msgstr "Гипотетическое дальнейшее развитие французских тяжёлых крейсеров. Задумывался как средство борьбы с немецкими тяжёлыми крейсерами, основан на довоенных проработках корабля этого класса. В качестве основного вооружения выступают три характерные для французского флота межвоенных лет четырёхорудийные башни с 240-мм орудиями."
+
+msgid "IDS_PFSC811_FULL"
+msgstr "Condé CLR"
+
+msgid "IDS_PFSC811_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSC811_YEAR"
+msgstr "1957 г."
+
+msgid "IDS_PFUA913_ART_CLR_CONDE"
+msgstr "240-мм/50 Mle 1930 в башенной установке"
+
+msgid "IDS_PFUE912_ENG_CLR_CONDE"
+msgstr "ЭУ 220 000 л.с."
+
+msgid "IDS_PFUH910_HULL_CLR_CONDE"
+msgstr "Condé CLR"
+
+msgid "IDS_PFUS909_SUO_CLR_CONDE"
+msgstr "PCA n°11"
+
+msgid "IDS_PFUT908_TORP_CLR_CONDE"
+msgstr "550-мм 23DT"
+
+msgid "IDS_PJES370_YAMATO_COLORFUL"
+msgstr "Синее цунами"
+
+msgid "IDS_PJGS240_152MM40_CASEMATE"
+msgstr "152-мм/40 EOC Pattern Z в казематной установке"
+
+msgid "IDS_PJGS241_152MM40"
+msgstr "152-мм/40 EOC Pattern Z в одиночной установке"
+
+msgid "IDS_PJPA163_SHELL_305MM_AP_850LBS_MIKASA"
+msgstr "305-мм AP 850 фн."
+
+msgid "IDS_PJPA164_SHELL_305MM_HE_850LBS_MIKASA"
+msgstr "305-мм HE 850 фн."
+
+msgid "IDS_PJPA165_SHELL_76MM_HE_O_MK_2_MIKASA"
+msgstr "76-мм HE Elswick Pattern N"
+
+msgid "IDS_PJPA166_SHELL_152MM_HE_TYPE_0_MIKASA"
+msgstr "152-мм HE Type0"
+
+msgid "IDS_PJPA167_SHELL_152MM_AP_MOD_1_MIKASA"
+msgstr "152-мм AP Mod 1"
+
+msgid "IDS_PJPA168_47MM_HE_MIKASA"
+msgstr "47-мм HE"
+
+msgid "IDS_PJPA169_203MM_HE_ASAMA"
+msgstr "203-мм HE EOC Pattern U"
+
+msgid "IDS_PJPA170_203MM_AP_ASAMA"
+msgstr "203-мм AP EOC Pattern U"
+
+msgid "IDS_PJPA171_76MM_HE_ASAMA"
+msgstr "76-мм HE Elswick Pattern N"
+
+msgid "IDS_PJPA172_47MM_HE_ASAMA"
+msgstr "47-мм HE"
+
+msgid "IDS_PJPA173_152MM_HE_SA_ASAMA"
+msgstr "152-мм Common Type 0 HE"
+
+msgid "IDS_PJPA174_152MM_AP_SA_ASAMA"
+msgstr "152-мм Common Type 0 AP"
+
+msgid "IDS_PJPA175_76MM_HE_SAZANAMI"
+msgstr "76-мм HE Elswick Pattern N"
+
+msgid "IDS_PJPA177_57MM_HE_SAZANAMI"
+msgstr "57-мм HE"
+
+msgid "IDS_PJPT042_SAZANAMI_STOCK"
+msgstr "457-мм mod. 1"
+
+msgid "IDS_PJPT043_SAZANAMI_TOP"
+msgstr "457-мм mod. 2"
+
+msgid "IDS_PJPT125_ASAMA_STOCK"
+msgstr "457-мм mod. 1"
+
+msgid "IDS_PJPT126_ASAMA_TOP"
+msgstr "457-мм mod. 2"
+
+msgid "IDS_PJSB810"
+msgstr "Yamato CLR"
+
+msgid "IDS_PJSB810_DESCR"
+msgstr "Предэскизный проект линкора, разрабатывавшийся в Японии с 1934 г., в разных вариантах предполагал водоизмещение 49 000–69 500 т, скорость 24–31 уз и главный калибр 410–460 мм. Финальный вариант стал кораблём Yamato — крупнейшим линкором в мире. Адмирал И. Ямамото руководил с его мостика японскими силами в сражении при Мидуэе. Yamato был потоплен у острова Кюсю в ходе операции «Тэн-го» ударом авиации американского флота 7 апреля 1945 г."
+
+msgid "IDS_PJSB810_FULL"
+msgstr "Yamato CLR"
+
+msgid "IDS_PJSB810_NUMBER"
+msgstr "4"
+
+msgid "IDS_PJSB810_YEAR"
+msgstr "1941 г."
+
+msgid "IDS_PJUA103_ART_ASAMA_STOCK"
+msgstr "ОФ-снаряды / 203-мм в двухорудийной башне"
+
+msgid "IDS_PJUA105_ART_MIKASA"
+msgstr "ББ-снаряды / 305-мм в двухорудийной башне"
+
+msgid "IDS_PJUA106_ART_ASAMA_TOP"
+msgstr "ББ-снаряды / 203-мм в двухорудийной башне"
+
+msgid "IDS_PJUA914_ART_CLR_YAMATO"
+msgstr "460-мм/45 Type 94 в трёхорудийной башне"
+
+msgid "IDS_PJUE917_ENG_CLR_YAMATO"
+msgstr "ЭУ 150 000 л.с."
+
+msgid "IDS_PJUH104_HULL_SAZANAMI_STOCK"
+msgstr "Sazanami / стандартный корпус"
+
+msgid "IDS_PJUH105_HULL_MIKASA_1904"
+msgstr "Mikasa / ББ-снаряды среднего калибра"
+
+msgid "IDS_PJUH106_HULL_SAZANAMI_TOP"
+msgstr "Sazanami / облегчённый корпус"
+
+msgid "IDS_PJUH918_HULL_CLR_YAMATO"
+msgstr "Yamato CLR"
+
+msgid "IDS_PJUS917_SUO_CLR_YAMATO"
+msgstr "Type10 mod. 1"
+
+msgid "IDS_PJUT105_TORP_ASAMA_STOCK"
+msgstr "457-мм"
+
+msgid "IDS_PJUT109_TORP_SAZANAMI_STOCK"
+msgstr "457-мм"
+
+msgid "IDS_PJUT110_TORP_ASAMA_TOP"
+msgstr "457-мм"
+
+msgid "IDS_PJUT111_TORP_SAZANAMI_TOP"
+msgstr "457-мм"
+
+msgid "IDS_PLANE_SPREAD_MULTIPLIER_CHANGED"
+msgstr "Максимальное рассеивание боеприпасов эскадрилий уменьшено"
+
+msgid "IDS_PRES305_PARIZHSKAYA_KOMMUNA_VICTORYDAY"
+msgstr "Победа чести"
+
+msgid "IDS_PRES348_FRUNZE_VICTORYDAY"
+msgstr "Победа доблести"
+
+msgid "IDS_PRES509_SOVREMENNIY_VICTORYDAY"
+msgstr "Победа мужества"
+
+msgid "IDS_PRGM251_152MM_45_CASEMATE_SHIELD"
+msgstr "152-мм/45 обр. 1892 г. в казематной установке"
+
+msgid "IDS_PROFILE_RATING_BATTLES"
+msgstr "Рейтинг"
+
+msgid "IDS_PRPA235_47MM_CS_HOTCHKISS"
+msgstr "47-мм ПББ-патрон"
+
+msgid "IDS_PRPA236_47MM_AP_HOTCHKISS"
+msgstr "47-мм ББ-патрон"
+
+msgid "IDS_PRPA242_203MM_HE_GROMOBOY"
+msgstr "203-мм ОФ обр. 1892 г."
+
+msgid "IDS_PRPA243_203MM_AP_GROMOBOY"
+msgstr "203-мм ББ обр. 1892 г."
+
+msgid "IDS_PRPA244_75MM_AP_SG_GROMOBOY"
+msgstr "75-мм ББ обр. 1892 г."
+
+msgid "IDS_PRPA245_152MM_HE_SA_GROMOBOY"
+msgstr "152-мм ОФ обр. 1892 г."
+
+msgid "IDS_PRPA246_152MM_AP_SA_GROMOBOY"
+msgstr "152-мм ББ обр. 1892 г."
+
+msgid "IDS_PRPA247_37MM_AP_SG_GROMOBOY"
+msgstr "37-мм ББ-патрон"
+
+msgid "IDS_PRPA248_47MM_AP_SG_GROMOBOY"
+msgstr "47-мм ББ-патрон"
+
+msgid "IDS_PRPA249_152MM_HE_SA_BORODINO"
+msgstr "152-мм ОФ обр. 1892 г."
+
+msgid "IDS_PRPA250_152MM_AP_SA_BORODINO"
+msgstr "152-мм ББ обр. 1892 г."
+
+msgid "IDS_PRPA251_305MM_HE_BORODINO"
+msgstr "305-мм ОФ обр. 1895 г."
+
+msgid "IDS_PRPA252_305MM_AP_BORODINO"
+msgstr "305-мм ББ обр. 1895 г."
+
+msgid "IDS_PRPA253_75MM_AP_BOYKIY"
+msgstr "75-мм ББ-патрон"
+
+msgid "IDS_PRPA254_152_AP_VARYAG_EVENT"
+msgstr "152-мм ББ 91 фн."
+
+msgid "IDS_PRPA255_152_HE_AVRORA_EVENT"
+msgstr "152-мм ОФ 109 фн."
+
+msgid "IDS_PRPA256_120_HE_NOVIK_EVENT"
+msgstr "120-мм ОФ обр. 1907 г."
+
+msgid "IDS_PRPT081_BOYKIY_STOCK"
+msgstr "Торпеда обр. 1895 г. мод. 1"
+
+msgid "IDS_PRPT090_BOYKIY_TOP"
+msgstr "Торпеда обр. 1895 г. мод. 2"
+
+msgid "IDS_PRSC902"
+msgstr "Железная Аврора"
+
+msgid "IDS_PRSC902_DESCR"
+msgstr "<p>В ходе сражений 1904 г. объединёнными силами России и Японии было захвачено несколько единиц боевой техники Железной орды — загадочного флота, атаковавшего обе державы. Особенностью захваченных кораблей является полное отсутствие экипажа: управление осуществляется посредством механических устройств, расположенных в центральных постах.</p><p class=\"p_spacing\"> </p><p>Корпус этого экземпляра собран из разнородных стальных листов с грубыми заклёпочными швами, в которых местами просматриваются элементы промышленного оборудования. Корабль отличается необычной артиллерийской системой: орудия демонстрируют феноменальную скорострельность, но снаряды движутся по высокой баллистической траектории с небольшой начальной скоростью.</p>"
+
+msgid "IDS_PRSC902_FULL"
+msgstr "Железная Аврора"
+
+msgid "IDS_PRSC902_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC902_YEAR"
+msgstr "1935 г."
+
+msgid "IDS_PRSC912"
+msgstr "Железный Новик"
+
+msgid "IDS_PRSC912_DESCR"
+msgstr "<p>В ходе сражений 1904 г. объединёнными силами России и Японии было захвачено несколько единиц боевой техники Железной орды — загадочного флота, атаковавшего обе державы. Особенностью захваченных кораблей является полное отсутствие экипажа: управление осуществляется посредством механических устройств, расположенных в центральных постах.</p><p class=\"p_spacing\"> </p><p>Самый необычный из захваченных экземпляров поражает своими ходовыми характеристиками. Несмотря на примитивную конструкцию, корабль способен развивать скорость до 200 уз благодаря силовой установке, которая сочетает паровые машины со сложными вращающимися механизмами. В центральном посту обнаружены вычислительные устройства, предположительно предназначенные для расчёта таранных ударов.</p>"
+
+msgid "IDS_PRSC912_FULL"
+msgstr "Железный Новик"
+
+msgid "IDS_PRSC912_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC912_YEAR"
+msgstr "1935 г."
+
+msgid "IDS_PRSC922"
+msgstr "Железный Варяг"
+
+msgid "IDS_PRSC922_DESCR"
+msgstr "<p>В ходе сражений 1904 г. объединёнными силами России и Японии было захвачено несколько единиц боевой техники Железной орды — загадочного флота, атаковавшего обе державы. Особенностью захваченных кораблей является полное отсутствие экипажа: управление осуществляется посредством механических устройств, расположенных в центральных постах.</p><p class=\"p_spacing\"> </p><p>Этот экземпляр представляет особый интерес для военных инженеров. Внешне он похож на обычный крейсер, собранный из низкокачественных материалов, но его главное вооружение использует неизвестный принцип пуска снарядов. Орудия при выстреле издают характерный треск и производят яркие электрические разряды. Снаряды летят с невероятной скоростью по абсолютно прямой траектории, пробивая насквозь даже бронированные цели.</p>"
+
+msgid "IDS_PRSC922_FULL"
+msgstr "Железный Варяг"
+
+msgid "IDS_PRSC922_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC922_YEAR"
+msgstr "1935 г."
+
+msgid "IDS_PRUA102_ART_BORODINO_STOCK"
+msgstr "ББ-снаряды / 305-мм в башенной установке"
+
+msgid "IDS_PRUA103_ART_GROMOBOY_STOCK"
+msgstr "ББ-снаряды / 203-мм в одиночной установке"
+
+msgid "IDS_PRUA105_ART_AVRORA_EVENT"
+msgstr "ОФ-снаряды / 152-мм на станке Канэ"
+
+msgid "IDS_PRUA106_ART_NOVIK_EVENT"
+msgstr "ОФ-снаряды / 120-мм на станке Канэ"
+
+msgid "IDS_PRUA107_ART_VARYAG_EVENT"
+msgstr "ББ снаряды / 152-мм на станке Канэ"
+
+msgid "IDS_PRUA108_ART_GROMOBOY_TOP"
+msgstr "ОФ-снаряды / 203-мм в одиночной установке"
+
+msgid "IDS_PRUA109_ART_BORODINO_TOP"
+msgstr "ОФ-снаряды / 305-мм в башенной установке"
+
+msgid "IDS_PRUE105_ENG_AVRORA_EVENT"
+msgstr "ЭУ 11 600 л.с."
+
+msgid "IDS_PRUE106_ENG_NOVIK_EVENT"
+msgstr "ЭУ 17 700 л.с."
+
+msgid "IDS_PRUE107_ENG_VARYAG_EVENT"
+msgstr "ЭУ 21 100 л.с."
+
+msgid "IDS_PRUH102_HULL_BORODINO_STOCK"
+msgstr "Бородино / ББ-снаряды среднего калибра"
+
+msgid "IDS_PRUH103_HULL_GROMOBOY_STOCK"
+msgstr "Громобой / ББ-снаряды среднего калибра"
+
+msgid "IDS_PRUH104_HULL_BOYKIY_STOCK"
+msgstr "Бойкий / стандартный корпус"
+
+msgid "IDS_PRUH105_HULL_BOYKIY_TOP"
+msgstr "Бойкий / утяжелённый корпус"
+
+msgid "IDS_PRUH106_HULL_AVRORA_EVENT"
+msgstr "Железная Аврора"
+
+msgid "IDS_PRUH107_HULL_NOVIK_EVENT"
+msgstr "Железный Новик"
+
+msgid "IDS_PRUH108_HULL_VARYAG_EVENT"
+msgstr "Железный Варяг"
+
+msgid "IDS_PRUH109_HULL_GROMOBOY_TOP"
+msgstr "Громобой / ОФ-снаряды среднего калибра"
+
+msgid "IDS_PRUH110_HULL_BORODINO_TOP"
+msgstr "Бородино / ОФ-снаряды среднего калибра"
+
+msgid "IDS_PRUS105_SUO_AVRORA_EVENT"
+msgstr "СУО II"
+
+msgid "IDS_PRUS106_SUO_NOVIK_EVENT"
+msgstr "СУО II"
+
+msgid "IDS_PRUS107_SUO_VARYAG_EVENT"
+msgstr "СУО II"
+
+msgid "IDS_PRUT105_TORP_BOYKIY_STOCK"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PRUT106_TORP_BOYKIY_TOP"
+msgstr "Торпеда обр. 1895 г."
+
+msgid "IDS_PXSB502"
+msgstr "Бородино '04"
+
+msgid "IDS_PXSB502_DESCR"
+msgstr "<p>Серия кораблей, построенных по улучшенному проекту на основе броненосца «Цесаревич», была заложена в Санкт-Петербурге в 1900–02 гг. От прототипа корабли отличались более массивной энергетической установкой и более тяжёлыми башнями, что потребовало от конструкторов увеличить водоизмещение при некотором облегчении бронирования. Броненосцы принимали участие в переходе 2-й Тихоокеанской эскадры на Дальний Восток и в Цусимском сражении.</p><p class=\"p_spacing\"> </p><p>«Бородино» был заложен на верфях Нового Адмиралтейства в мае 1900, спущен на воду в сентябре 1901 и вступил в строй в сентябре 1904 г. Под командованием капитана 1-го ранга П. Серебренникова броненосец совершил переход из Кронштадта в Японское море. В ходе Цусимского сражения корабль получил тяжёлые повреждения и затонул.</p>"
+
+msgid "IDS_PXSB502_FULL"
+msgstr "Бородино '04"
+
+msgid "IDS_PXSB502_NUMBER"
+msgstr "5"
+
+msgid "IDS_PXSB502_YEAR"
+msgstr "1904 г."
+
+msgid "IDS_PXSB512"
+msgstr "Mikasa '04"
+
+msgid "IDS_PXSB512_DESCR"
+msgstr "<p>Последний из четырёх линкоров, заказанных в рамках десятилетней программы 1896 г. С точки зрения конструкции похож на предшественников, а основным отличием было улучшенное бронирование казематов противоминных орудий.</p><p class=\"p_spacing\"> </p><p>Линкор был разработан и построен фирмой Armstrong, причём этот корабль превосходил новейшие британские броненосцы. Заложен в Элсвике в январе 1899, спущен на воду в ноябре 1900 и вошёл в строй в марте 1902 г. Был флагманом адмирала Того во время Русско-японской войны, принимал участие в бою в Жёлтом море и в Цусимском сражении.</p>"
+
+msgid "IDS_PXSB512_FULL"
+msgstr "Mikasa '04"
+
+msgid "IDS_PXSB512_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSB512_YEAR"
+msgstr "1902 г."
+
+msgid "IDS_PXSC512"
+msgstr "Громобой"
+
+msgid "IDS_PXSC512_DESCR"
+msgstr "<p>«Громобой» стал дальнейшим развитием броненосных крейсеров — истребителей торговли «Рюрик» и «Россия», получив совершенно новую энергетическую установку из трёх одинаковых паровых машин тройного расширения и переработанное бронирование.</p><p class=\"p_spacing\"> </p><p>Крейсер был заложен на Балтийском заводе в мае 1898, спущен на воду год спустя и вошёл в строй в ноябре 1899 г. Сразу после сдаточных испытаний корабль был переведён на Дальний Восток, где вошёл в состав Эскадры Тихого океана.</p><p class=\"p_spacing\"> </p><p>Во время Русско-японской войны входил в состав Владивостокского отряда крейсеров. Участвовал в бою в Корейском проливе в августе 1904 г. В октябре 1904 г. получил повреждения в заливе Посьета. После окончания ремонта в мае 1905 г. подорвался на мине и простоял на ремонте до конца войны. В 1906 г. вернулся на Балтику. Участвовал в Первой мировой войне, с конца 1917 г. находился в Кронштадте.</p>"
+
+msgid "IDS_PXSC512_FULL"
+msgstr "Громобой"
+
+msgid "IDS_PXSC512_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC512_YEAR"
+msgstr "1899 г."
+
+msgid "IDS_PXSC522"
+msgstr "Asama"
+
+msgid "IDS_PXSC522_DESCR"
+msgstr "<p>В 1896 г. была принята программа пополнения флота, включавшая в себя постройку четырёх броненосных крейсеров, а год спустя количество планируемых кораблей увеличилось до шести. Первые два крейсера — Asama и Tokiwa — были заказаны в Англии. Корабли представляли собой улучшенную версию крейсера O'Higgins, построенного для Чили. На испытаниях крейсеры превысили проектную скорость на полтора узла. Оба корабля принимали участие в Русско-японской и Первой мировой войнах.</p><p class=\"p_spacing\"> </p><p>Asama был заложен в Элсвике в ноябре 1896, спущен на воду в марте 1898 и вошёл в строй в марте 1899 г. Во время Русско-японской войны крейсер находился в составе соединения адмирала Камимура, принимал участие в боях у Чемульпо, в Жёлтом море, при Цусиме. Во время Первой мировой войны Asama был тяжело повреждён, сев на мель в 1915 г. у побережья Мексики.</p><p class=\"p_spacing\"> </p><p>В годы Второй мировой войны Asama исполнял обязанности учебного корабля для морских артиллеристов в Симоносеки.</p>"
+
+msgid "IDS_PXSC522_FULL"
+msgstr "Asama"
+
+msgid "IDS_PXSC522_NUMBER"
+msgstr "2"
+
+msgid "IDS_PXSC522_YEAR"
+msgstr "1899 г."
+
+msgid "IDS_PXSD512"
+msgstr "Бойкий"
+
+msgid "IDS_PXSD512_DESCR"
+msgstr "<p>Проект 350-тонных миноносцев типа «Буйный» был заказан британской фирме Yarrow в 1897 г. Разработанный проект был основан на построенной для Японии серии миноносцев типа Ikazuchi. Корабли строились в Санкт-Петербурге в 1901–02 гг.</p><p class=\"p_spacing\"> </p><p>«Бойкий» являлся головным кораблём серии из десяти миноносцев, был заложен в июне 1901 г. и спущен на воду в августе того же года. В Русско-японскую войну принимал участие в боях с миноносцами, сражался в битве в Жёлтом море. В декабре 1904 г., перед сдачей Порт-Артура, прорвался в Чифу, где был интернирован. Входил в состав Сибирской флотилии, в перерыве между войнами прошёл ремонт с модернизацией.</p><p class=\"p_spacing\"> </p><p>В 1914–22 гг. находился в порту Владивостока на хранении. Во время оккупации Владивостока войсками Антанты корабль был захвачен французскими силами и переименован в Quentin Roosevelt. После ухода интервентов миноносец больше не вводился в строй.</p>"
+
+msgid "IDS_PXSD512_FULL"
+msgstr "Бойкий"
+
+msgid "IDS_PXSD512_NUMBER"
+msgstr "10"
+
+msgid "IDS_PXSD512_YEAR"
+msgstr "1902 г."
+
+msgid "IDS_PXSD522"
+msgstr "Sazanami"
+
+msgid "IDS_PXSD522_DESCR"
+msgstr "TEMPORARY TEXT"
+
+msgid "IDS_PXSD522_FULL"
+msgstr "Sazanami"
+
+msgid "IDS_PXSD522_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSD522_YEAR"
+msgstr "1904 г."
+
+msgid "IDS_PXUA101_ART_GROMOBOY"
+msgstr " "
+
+msgid "IDS_PXUA102_ART_BORODINO"
+msgstr " "
+
+msgid "IDS_PXUA103_ART_MIKASA"
+msgstr " "
+
+msgid "IDS_PXUA104_ART_ASAMA_BOT"
+msgstr " "
+
+msgid "IDS_PXUA105_ART_BOYKIY_BOT"
+msgstr " "
+
+msgid "IDS_PXUA106_ART_SAZANAMI_BOT"
+msgstr " "
+
+msgid "IDS_PXUE102_ENG_BORODINO"
+msgstr " "
+
+msgid "IDS_PXUE103_ENG_MIKASA"
+msgstr " "
+
+msgid "IDS_PXUE104_ENG_ASAMA_BOT"
+msgstr " "
+
+msgid "IDS_PXUE105_ENG_BOYKIY_BOT"
+msgstr " "
+
+msgid "IDS_PXUE106_ENG_SAZANAMI_BOT"
+msgstr " "
+
+msgid "IDS_PXUE107_ENG_GROMOBOY"
+msgstr " "
+
+msgid "IDS_PXUH102_HULL_BORODINO"
+msgstr " "
+
+msgid "IDS_PXUH103_HULL_MIKASA"
+msgstr " "
+
+msgid "IDS_PXUH104_HULL_ASAMA_BOT"
+msgstr " "
+
+msgid "IDS_PXUH105_HULL_BOYKIY_BOT"
+msgstr " "
+
+msgid "IDS_PXUH106_HULL_SAZANAMI_BOT"
+msgstr " "
+
+msgid "IDS_PXUH107_HULL_GROMOBOY"
+msgstr " "
+
+msgid "IDS_PXUS101_SUO_GROMOBOY"
+msgstr " "
+
+msgid "IDS_PXUS102_SUO_BORODINO"
+msgstr " "
+
+msgid "IDS_PXUS103_SUO_MIKASA"
+msgstr " "
+
+msgid "IDS_PXUS104_SUO_ASAMA_BOT"
+msgstr " "
+
+msgid "IDS_PXUS105_SUO_BOYKIY_BOT"
+msgstr " "
+
+msgid "IDS_PXUS106_SUO_SAZANAMI_BOT"
+msgstr " "
+
+msgid "IDS_PXUT101_TORP_GROMOBOY"
+msgstr " "
+
+msgid "IDS_PXUT102_TORP_BORODINO"
+msgstr " "
+
+msgid "IDS_PXUT103_TORP_MIKASA"
+msgstr " "
+
+msgid "IDS_PXUT104_TORP_ASAMA_BOT"
+msgstr " "
+
+msgid "IDS_PXUT105_TORP_BOYKIY_BOT"
+msgstr " "
+
+msgid "IDS_PXUT106_TORP_SAZANAMI_BOT"
+msgstr " "
+
+msgid "IDS_RATINGBATTLE"
+msgstr "Рейтинговый бой"
+
+msgid "IDS_RATINGBATTLE_DESCRIPTION"
+msgstr "Сражения, в которых игроки подбираются по рейтингу боевой эффективности."
+
+msgid "IDS_RATING_BATTLES_ACCOUNT_LEVEL_TOO_LOW"
+msgstr "Ваш уровень аккаунта слишком низок для участия в этом типе боя"
+
+msgid "IDS_RATING_BATTLES_DENY_REASON_NO_CURRENT_PRIME_TIME"
+msgstr "В данный момент Рейтинговые бои не проводятся."
+
+msgid "IDS_RATING_BATTLES_DENY_REASON_SEASON_NOT_STARTED"
+msgstr "Ожидайте начала сезона."
+
+msgid "IDS_RATING_BATTLES_DENY_REASON_WRONG_SHIP_LEVEL"
+msgstr "Выберите корабль подходящего уровня."
+
+msgid "IDS_RATING_BATTLES_INFORMER_TYPE_0"
+msgstr "Сезон Рейтинговых боёв начался!"
+
+msgid "IDS_RATING_BATTLES_INFORMER_TYPE_1"
+msgstr "Сезон Рейтинговых боёв скоро завершится"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_BRONZE"
+msgstr "Бронза"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_BRONZE_FULL"
+msgstr "%(_rating)s, Бронзовая лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_GOLD"
+msgstr "Золото"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_GOLD_FULL"
+msgstr "%(_rating)s, Золотая лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_IRON"
+msgstr "Железо"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_IRON_FULL"
+msgstr "%(_rating)s, Железная лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_MOUSE_INSTRUCTION"
+msgstr "Посмотреть награды лиги"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_PASSED_REWARDS"
+msgstr "За переход в лигу:"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_PLATINUM"
+msgstr "Обсидиан"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_PLATINUM_FULL"
+msgstr "%(_rating)s, Обсидиановая лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_REWARDS_TITLE"
+msgstr "Награды лиги"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_SILVER"
+msgstr "Серебро"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_SILVER_FULL"
+msgstr "%(_rating)s, Серебряная лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_0"
+msgstr "Текущая лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_1"
+msgstr "Лига пройдена"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_2"
+msgstr "Не пройдена предыдущая лига"
+
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_0"
+msgstr "Награды выдаются за переход в лигу и за каждую победу в бою."
+
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_1"
+msgstr "Награда за переход в лигу может быть получена только один раз."
+
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_2"
+msgstr "У каждого ресурса есть предельное значение, которое вы не можете превысить, получая награды в течение сезона."
+
+msgid "IDS_RATING_BATTLES_LEAGUE_VICTORIES_REWARDS"
+msgstr "За каждую победу:"
+
+msgid "IDS_RATING_BATTLES_QUALIFICATION"
+msgstr "Квалификация"
+
+msgid "IDS_RATING_BATTLES_QUALIFICATION_DESCRIPTION"
+msgstr "Проведите 5 боёв, чтобы получить рейтинг в одной из лиг"
+
+msgid "IDS_RATING_BATTLES_QUALIFICATION_RESULTS_TEXT"
+msgstr "Проведено боёв:"
+
+msgid "IDS_RATING_BATTLES_QUALIFICATION_REWARDS"
+msgstr "Награда за прохождение квалификации:"
+
+msgid "IDS_RATING_BATTLES_QUALIFICATION_TEXT"
+msgstr "Рейтинг отражает вашу боевую эффективность и корректируется по итогам каждого боя."
+
+msgid "IDS_RATING_BATTLES_RESULTS_QUALIFICATION_REWARDS"
+msgstr "Награда за прохождение:"
+
+msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION"
+msgstr "Квалификация"
+
+msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION_PASSED"
+msgstr "Квалификация пройдена"
+
+msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_LOSS"
+msgstr "Рейтинг снижен"
+
+msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_NOT_CHANGED"
+msgstr "Рейтинг не изменился"
+
+msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_RAISED"
+msgstr "Рейтинг повышен"
+
+msgid "IDS_RATING_BATTLES_RESULTS_TEXT"
+msgstr "Ваш рейтинг:"
+
+msgid "IDS_RATING_BATTLES_SEASON"
+msgstr "Рейтинговые бои"
+
+msgid "IDS_RATING_BATTLES_STATS_BATTLES_COUNT"
+msgstr "Проведено боёв"
+
+msgid "IDS_RATING_BATTLES_STATS_DAMAGE_MAX"
+msgstr "Максимальный урон"
+
+msgid "IDS_RATING_BATTLES_STATS_DESTROYED_MAX"
+msgstr "Максимум уничтожено"
+
+msgid "IDS_RATING_BATTLES_STATS_EXP_MAX"
+msgstr "Максимальный опыт"
+
+msgid "IDS_RATING_BATTLES_STATS_RATING_MAX"
+msgstr "Максимальный рейтинг"
+
+msgid "IDS_RATING_BATTLES_STATS_RATING_START"
+msgstr "Начальный рейтинг"
+
+msgid "IDS_RATING_BATTLES_STATS_VICTORIES"
+msgstr "Побед"
+
+msgid "IDS_RATING_BATTLES_SUMMARY_TITLE"
+msgstr "Сезон завершён"
+
+msgid "IDS_RATING_DIVISION_TOOLTIP"
+msgstr "Рейтинг отряда — средний рейтинг всех участников с повышающим коэффициентом за их количество. Чем больше участников в отряде, тем выше коэффициент."
+
+msgid "IDS_RATING_SEASON_FINISH_TEXT"
+msgstr "Сейчас Рейтинговые бои не проводятся. Ожидайте начала следующего сезона."
+
+msgid "IDS_REWARD_ELITE_CREW_BOOK_TITLE"
+msgstr "Элитное командирское пособие"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль IX уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "IX уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Корабль VIII уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "VIII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый корабль X уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Легендарный корабль VIII–X уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–X уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_TITLE"
+msgstr "Премиум контейнер «Слава победителям!»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_TITLE_SHORT"
+msgstr "Слава победителям!"
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_TITLE"
+msgstr "Контейнер «Стандартные сигналы»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_TITLE_SHORT"
+msgstr "Стандартные сигналы"
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_TITLE"
+msgstr "Контейнер «Особые сигналы»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_TITLE_SHORT"
+msgstr "Особые сигналы"
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE"
+msgstr "Контейнер «Редкие сигналы»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE_SHORT"
+msgstr "Редкие сигналы"
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE"
+msgstr "Контейнер «Элитные сигналы»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE_SHORT"
+msgstr "Элитные сигналы"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль VIII уровня"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VIII уровень"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Премиальный корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Премиальный корабль"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_TITLE"
+msgstr "Премиум контейнер «Премиальный корабль»"
+
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_TITLE_SHORT"
+msgstr "Премиальный корабль"
+
+msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
+msgstr "Доступ к карте «Последняя гавань» в боях."
+
+msgid "IDS_REWARD_MAP_UNLOCK_TITLE"
+msgstr "Карта «Последняя гавань»"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_BLOCK"
+msgstr "Вы попали импульсом сонара в корабль противника, но противник рассеял ваш импульс."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
+msgstr "Попасть импульсом сонара в корабль противника дважды."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
+msgstr "Попасть импульсом сонара в корабль противника один раз."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_BOOST"
+msgstr "Ускорить союзный дирижабль."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
+msgstr "Помочь в ускорении союзного дирижабля."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_SLOW"
+msgstr "Замедлить дирижабль противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
+msgstr "Помочь в замедлении дирижабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_CAPTURE"
+msgstr "Захватить контрольную точку или базу противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_CAPTURE_ASSIST"
+msgstr "Помочь захватить контрольную точку или базу противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BASE_DEFENSE"
+msgstr "Попасть в противника, захватывающего контрольную точку или союзную базу."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_BULGE"
+msgstr "Попасть в противоторпедную защиту корабля противника бомбой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_NO_PENETRATION"
+msgstr "Попасть в корабль противника бомбой, но не пробить броню."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_OVER_PENETRATION"
+msgstr "Пробить насквозь корабль противника бомбой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_PENETRATION"
+msgstr "Пробить броню корабля противника бомбой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BOMB_RICOCHET"
+msgstr "Ваша бомба отлетела от брони корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_BULGE"
+msgstr "Попасть в противоторпедную защиту корабля противника из орудий главного калибра."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DAMAGED_SEGMENT"
+msgstr "Повредить броню корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DESTROYED_SEGMENT"
+msgstr "Разрушить броню корабля противника."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DROP"
+msgstr "Подобрать улучшение для союзной команды."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_BULGE"
+msgstr "Попасть в противоторпедную защиту корабля противника ракетой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_NO_PENETRATION"
+msgstr "Попасть в корабль противника ракетой, но не пробить броню."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_OVER_PENETRATION"
+msgstr "Пробить насквозь корабль противника ракетой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_PENETRATION"
+msgstr "Пробить броню корабля противника ракетой."
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_RICOCHET"
+msgstr "Ваша ракета отлетела от брони корабля противника."
+
+msgid "IDS_RIBBON_SSE_RIBBON_ACID"
+msgstr "Поразил кислотой"
+
+msgid "IDS_RIBBON_SSE_RIBBON_ACOUSTIC_HIT"
+msgstr "Попал сонаром"
+
+msgid "IDS_RIBBON_SSE_RIBBON_BOMB"
+msgstr "Попал бомбой"
+
+msgid "IDS_RIBBON_SSE_RIBBON_BUILDING_KILL"
+msgstr "Уничтожил береговое сооружение"
+
+msgid "IDS_RIBBON_SSE_RIBBON_BURN"
+msgstr "Поджёг"
+
+msgid "IDS_RIBBON_SSE_RIBBON_CITADEL"
+msgstr "Попал в цитадель"
+
+msgid "IDS_RIBBON_SSE_RIBBON_CRIT"
+msgstr "Вывел из строя"
+
+msgid "IDS_RIBBON_SSE_RIBBON_DBOMB"
+msgstr "Попал глубинной бомбой"
+
+msgid "IDS_RIBBON_SSE_RIBBON_DEMINING_MINE"
+msgstr "Уничтожил мину"
+
+msgid "IDS_RIBBON_SSE_RIBBON_DETECTED"
+msgstr "Обнаружил"
+
+msgid "IDS_RIBBON_SSE_RIBBON_EFFECTIVE_SMOKES"
+msgstr "Прикрыл"
+
+msgid "IDS_RIBBON_SSE_RIBBON_FLOOD"
+msgstr "Затопил"
+
+msgid "IDS_RIBBON_SSE_RIBBON_FRAG"
+msgstr "Уничтожил"
+
+msgid "IDS_RIBBON_SSE_RIBBON_HELP_TEAM"
+msgstr "Тактический вклад"
+
+msgid "IDS_RIBBON_SSE_RIBBON_HIT_SEGMENT"
+msgstr "Попал в броню"
+
+msgid "IDS_RIBBON_SSE_RIBBON_MAIN_CALIBER"
+msgstr "Попал главным калибром"
+
+msgid "IDS_RIBBON_SSE_RIBBON_MINE"
+msgstr "Повредил корабль противника миной"
+
+msgid "IDS_RIBBON_SSE_RIBBON_PLANE"
+msgstr "Сбил самолёт"
+
+msgid "IDS_RIBBON_SSE_RIBBON_ROCKET"
+msgstr "Попал ракетой"
+
+msgid "IDS_RIBBON_SSE_RIBBON_SECONDARY_CALIBER"
+msgstr "Попал из ПМК"
+
+msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
+msgstr "Сбил истребителем"
+
+msgid "IDS_RIBBON_SSE_RIBBON_SUPPRESSED"
+msgstr "Подавил"
+
+msgid "IDS_RIBBON_SSE_RIBBON_TANKING"
+msgstr "Взял огонь на себя"
+
+msgid "IDS_RIBBON_SSE_RIBBON_TORPEDO"
+msgstr "Попал торпедой"
+
+msgid "IDS_RIBBON_SSE_RIBBON_VICTORY_ACTION"
+msgstr "Стратегический вклад"
+
+msgid "IDS_RIBBON_SSE_RIBBON_WAVE"
+msgstr "Попал волной"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_BLOCK"
+msgstr "Импульс рассеян"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
+msgstr "Двукратное попадание"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
+msgstr "Однократное попадание"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_BOOST"
+msgstr "Ускорил дирижабль"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
+msgstr "Помог ускорить"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW"
+msgstr "Замедлил дирижабль"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
+msgstr "Помог замедлить"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE"
+msgstr "Захватил точку"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE_ASSIST"
+msgstr "Помог захватить"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_DEFENSE"
+msgstr "Защитил точку"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_BULGE"
+msgstr "Попадание в ПТЗ бомбой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_NO_PENETRATION"
+msgstr "Непробитие бомбой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_OVER_PENETRATION"
+msgstr "Сквозное пробитие бомбой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_PENETRATION"
+msgstr "Пробитие бомбой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_RICOCHET"
+msgstr "Рикошет бомбы"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BULGE"
+msgstr "Попадание в ПТЗ главным калибром"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DAMAGED_SEGMENT"
+msgstr "Броня повреждена"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DBOMB_FULL_DAMAGE"
+msgstr "Прямое попадание глубинной бомбой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DBOMB_PARTIAL_DAMAGE"
+msgstr "Взрыв глубинной бомбы вблизи цели"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DESTROYED_SEGMENT"
+msgstr "Броня разрушена"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DROP"
+msgstr "Подобрал улучшение"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
+msgstr "Непробитие главным калибром"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
+msgstr "Сквозное пробитие главным калибром"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_PENETRATION"
+msgstr "Пробитие главным калибром"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_RICOCHET"
+msgstr "Рикошет главного калибра"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_BULGE"
+msgstr "Попадание в ПТЗ ракетой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_NO_PENETRATION"
+msgstr "Непробитие ракетой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_OVER_PENETRATION"
+msgstr "Сквозное пробитие ракетой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_PENETRATION"
+msgstr "Пробитие ракетой"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_RICOCHET"
+msgstr "Рикошет ракеты"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_CUT_WAVE"
+msgstr "Обрезал волну волной"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_HIT_VEHICLE"
+msgstr "Попал волной в корабль"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_KILL_TORPEDO"
+msgstr "Уничтожил торпеду волной"
+
+msgid "IDS_SCENARIO_DE_ASYMM_DOMINATION"
+msgstr "Железная орда"
+
+msgid "IDS_SCENARIO_DOMINATION_2POINT_COOP_TEMP"
+msgstr "Стандартный бой — Кооперативный"
+
+msgid "IDS_SCENARIO_DOMINATION_2POINT_TEMP"
+msgstr "Стандартный бой"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_COOP_TEMP"
+msgstr "Превосходство — Кооперативный"
+
+msgid "IDS_SCENARIO_DOMINATION_3POINT_TEMP"
+msgstr "Превосходство"
+
+msgid "IDS_SCENARIO_DOMINATION_4POINT_COOP_TEMP"
+msgstr "Превосходство — Четыре точки — Кооперативный"
+
+msgid "IDS_SCENARIO_DOMINATION_4POINT_TEMP"
+msgstr "Превосходство — Четыре точки"
+
+msgid "IDS_SGRUDDER_TIME_CHANGED"
+msgstr "Скорость поворота орудий ГК повышена"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM185_ENGINEBOOST_DE2025"
+msgstr "Повышение скорости корабля"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM185_ENGINEBOOST_DE2025_APPLIED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM186_TORPEDOBUFF_DE2025"
+msgstr "Ускорение перезарядки торпед"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM186_TORPEDOBUFF_DE2025_APPLIED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM187_GMIDEALRADIUS_DE2025"
+msgstr "Повышение точности артиллерии"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM187_GMIDEALRADIUS_DE2025_APPLIED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM188_GMSHOTDELAY_DE2025"
+msgstr "Ускорение перезарядки артиллерии"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM188_GMSHOTDELAY_DE2025_APPLIED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM189_ARTILLERYDAMAGECOEF_DE2025"
+msgstr "Увеличение урона от артиллерии"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM189_ARTILLERYDAMAGECOEF_DE2025_APPLIED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025_APPLIED"
+msgstr " "
+
+msgid "IDS_SHIP_MODIFIER_PXOM185_ENGINEBOOST_DE2025_APPLIED"
+msgstr "Повышение скорости корабля"
+
+msgid "IDS_SHIP_MODIFIER_PXOM186_TORPEDOBUFF_DE2025_APPLIED"
+msgstr "Ускорение перезарядки торпед"
+
+msgid "IDS_SHIP_MODIFIER_PXOM187_GMIDEALRADIUS_DE2025_APPLIED"
+msgstr "Повышение точности артиллерии"
+
+msgid "IDS_SHIP_MODIFIER_PXOM188_GMSHOTDELAY_DE2025_APPLIED"
+msgstr "Ускорение перезарядки артиллерии"
+
+msgid "IDS_SHIP_MODIFIER_PXOM189_ARTILLERYDAMAGECOEF_DE2025_APPLIED"
+msgstr "Увеличение урона от артиллерии"
+
+msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
+msgstr "Восстановление боеспособности"
+
+msgid "IDS_SKILLS_LEARNING_UNAVAILABLE"
+msgstr "Изучение навыков недоступно для этого командира"
+
+msgid "IDS_SOUND_MOD_DREADNOUGHT_MAKAROV"
+msgstr "Степан Макаров"
+
+msgid "IDS_SOUND_MOD_DREADNOUGHT_TOGO"
+msgstr "Tōgō Heihachirō"
+
+msgid "IDS_SSE_GLOBAL_STRATEGIC_ACTIONS_DONE"
+msgstr "Ваш вклад учтён"
+
+msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE_SHORT"
+msgstr "ПБФ"
+
+msgid "IDS_STRATEGIC_ACTIONS_POINTS_TILL_NEXT_STAGE"
+msgstr "До следующего этапа:"
+
+msgid "IDS_STRATEGIC_ACTIONS_POINTS_TILL_REWARD"
+msgstr "До награды:"
+
+msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_ARCHIVE"
+msgstr "Перейти к архиву сводок"
+
+msgid "IDS_SUBST_RATING_SEASON_STARTS_IN"
+msgstr "До начала сезона: %(_timeTillStart)s"
+
+msgid "IDS_SYS_MSG_CREW_LEARNED_ELITE_CREW_BOOK"
+msgstr "Вручено элитное командирское пособие"
+
+msgid "IDS_SYS_MSG_RECEIVED_ELITE_CREW_BOOK"
+msgstr "Получено элитное командирское пособие"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_ELITE_CREW_BOOK"
+msgstr "Списано элитное командирское пособие"
+
+msgid "IDS_TALENT_ACTIVATED_PJW461_ACHIEVEMENT_8_20_21"
+msgstr "Активирован талант «Энергичный»"
+
+msgid "IDS_TALENT_ACTIVATED_PJW461_RIBBONS_2"
+msgstr "Активирован талант «Мастер перезарядки вооружения»"
+
+msgid "IDS_TALENT_ACTIVATED_PRW444_DEADALLIES_0_10_17"
+msgstr "Активирован талант «Резервные запасы»"
+
+msgid "IDS_TALENT_ACTIVATED_PRW444_RIBBONS_9_22"
+msgstr "Активирован талант «Мастер наведения орудий»"
+
+msgid "IDS_TALENT_ACTIVATED_PXW172_DAMAGE_8_20_21"
+msgstr "Активирован талант «Энергичный»"
+
+msgid "IDS_TALENT_ACTIVATED_PXW172_RIBBONS_2"
+msgstr "Активирован талант «Мастер перезарядки вооружения»"
+
+msgid "IDS_TALENT_ACTIVATED_PXW173_DEADALLIES_0_10_17"
+msgstr "Активирован талант «Резервные запасы»"
+
+msgid "IDS_TALENT_ACTIVATED_PXW173_RIBBONS_9_22"
+msgstr "Активирован талант «Мастер наведения орудий»"
+
+msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21"
+msgstr "Энергичный"
+
+msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21_DESCRIPTION"
+msgstr "Срабатывает при получении достижения «Основной калибр»."
+
+msgid "IDS_TALENT_PJW461_RIBBONS_2"
+msgstr "Мастер перезарядки вооружения"
+
+msgid "IDS_TALENT_PJW461_RIBBONS_2_DESCRIPTION"
+msgstr "Срабатывает каждый раз при уничтожении корабля противника."
+
+msgid "IDS_TALENT_PRW444_DEADALLIES_0_10_17"
+msgstr "Резервные запасы"
+
+msgid "IDS_TALENT_PRW444_DEADALLIES_0_10_17_DESCRIPTION"
+msgstr "Срабатывает 1 раз за бой при потере 4 союзников."
+
+msgid "IDS_TALENT_PRW444_RIBBONS_9_22"
+msgstr "Мастер наведения орудий"
+
+msgid "IDS_TALENT_PRW444_RIBBONS_9_22_DESCRIPTION"
+msgstr "Срабатывает каждый раз при уничтожении корабля противника."
+
+msgid "IDS_TALENT_PXW172_DAMAGE_8_20_21"
+msgstr "Энергичный"
+
+msgid "IDS_TALENT_PXW172_DAMAGE_8_20_21_DESCRIPTION"
+msgstr "Срабатывает 1 раз за бой при нанесении 100 000 ед. урона кораблям противника."
+
+msgid "IDS_TALENT_PXW172_RIBBONS_2"
+msgstr "Мастер перезарядки вооружения"
+
+msgid "IDS_TALENT_PXW172_RIBBONS_2_DESCRIPTION"
+msgstr "Срабатывает каждый раз при уничтожении корабля противника."
+
+msgid "IDS_TALENT_PXW173_DEADALLIES_0_10_17"
+msgstr "Резервные запасы"
+
+msgid "IDS_TALENT_PXW173_DEADALLIES_0_10_17_DESCRIPTION"
+msgstr "Срабатывает 1 раз за бой при потере 2 союзников."
+
+msgid "IDS_TALENT_PXW173_RIBBONS_9_22"
+msgstr "Мастер наведения орудий"
+
+msgid "IDS_TALENT_PXW173_RIBBONS_9_22_DESCRIPTION"
+msgstr "Срабатывает каждый раз при уничтожении корабля противника."
+
+msgid "IDS_TERRITORY_ARCHIVE_DOC_CODE"
+msgstr "Код:"
+
+msgid "IDS_TERRITORY_ARCHIVE_DOC_NUMBER"
+msgstr "<body><h3>Вх. №</h3>: %(_index)s</body>"
+
+msgid "IDS_TERRITORY_ARCHIVE_ITEM_TITLE"
+msgstr "Сводка"
+
+msgid "IDS_TERRITORY_ARCHIVE_MESSAGE_STATUS_LOCKED"
+msgstr "Предыдущий этап не завершён"
+
+msgid "IDS_TERRITORY_ARCHIVE_MESSAGE_TITLE_LOCKED"
+msgstr "Нет доступа"
+
+msgid "IDS_TERRITORY_ARCHIVE_STEP"
+msgstr "%(_step)d-й этап"
+
+msgid "IDS_TERRITORY_ARCHIVE_STEP_LAST"
+msgstr "Итоги"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_0"
+msgstr "<p>Советское Верховное Главнокомандование в 1944 г. планирует развить успех достигнутого в 1943 г. коренного перелома в войне.</p><p class=\"p_spacing\"> </p><p>Намечены наступательные операции по разгрому противника и освобождению от немецкой оккупации СССР и стран Европы.</p><p class=\"p_spacing\"> </p><p>Советскому флоту поставлены задачи поддержки приморских флангов фронтов, противодействия противнику на море и обеспечения морских перевозок.</p><p class=\"p_spacing\"> </p><p>Под Ленинградом планируется нанести первый удар, поддержать который должен Краснознамённый Балтийский флот.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_GLOBAL_1"
+msgstr "<p>Краснознамённый Балтийский флот в кампаниях 1944 и 1945 гг. выполнил поставленные перед ним задачи.</p><p class=\"p_spacing\"> </p><p>Силы флота действовали в Финском заливе, в центральной и южной частях Балтийского моря, поддерживали советское наступление на Балтийском побережье.</p><p class=\"p_spacing\"> </p><p>Противник на этом театре боевых действий потерпел поражение, что стало вкладом Балтийского флота в окончательную победу СССР в Великой Отечественной войне.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_0"
+msgstr "<p>Остров Нерва на подходах к Выборгскому заливу имеет стратегическое значение.</p><p class=\"p_spacing\"> </p><p>В ночь с 19 на 20 июня 1944 г. десант Краснознамённого Балтийского флота успешно высадился на остров.</p><p class=\"p_spacing\"> </p><p>В это же время немецкие миноносцы вышли к Бьёркскому архипелагу, затем они были замечены у острова Нерва.</p><p class=\"p_spacing\"> </p><p>Советские торпедные катера под командованием капитана 3-го ранга С. А. Осипова, выполняя задачу по защите сил десанта на острове Нерва, атакуют немецкие миноносцы. Получено донесение о потоплении одного из них.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_1"
+msgstr "<p>Бьёркский архипелаг может стать плацдармом для удара противника в тыл войскам Ленинградского фронта.</p><p class=\"p_spacing\"> </p><p>Острова хорошо укреплены, их занимает значительный финский гарнизон. Мощная береговая артиллерия и минные поля не дают советским кораблям войти в Выборгский залив.</p><p class=\"p_spacing\"> </p><p>Силам десанта приказано очистить от противника Бьёркский архипелаг.</p><p class=\"p_spacing\"> </p><p>Первым планируется занять наименее укреплённый остров Пийсаари, что вынудит противника эвакуироваться с остальных островов архипелага.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_2"
+msgstr "<p>Командованию Краснознамённого Балтийского флота стало известно об активности немецких подводных лодок в восточной части Финского залива.</p><p class=\"p_spacing\"> </p><p>Советские корабли подверглись нескольким атакам. Днём 30 июля 1944 г. был потоплен малый охотник МО-105.</p><p class=\"p_spacing\"> </p><p>Вечером того же дня с катера-дымзавесчика визуально обнаружили идущую на малой глубине немецкую подводную лодку. Вызванный сигналами МО-103 потопил её глубинными бомбами.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_3"
+msgstr "<p>Краснознамённый Балтийский флот летом 1944 г. принял участие в Выборгской наступательной операции против финских войск на Карельском перешейке.</p><p class=\"p_spacing\"> </p><p>Морские десанты заняли Бьёркский архипелаг и острова Выборгского залива.</p><p class=\"p_spacing\"> </p><p>Поражёнными целями крупнокалиберной артиллерии и авиации флота стали оборонительные позиции и укрепления, корабли, транспорты и базы противника.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_0"
+msgstr "<p>Противник, после поражения под Ленинградом, усиливает минные заграждения и дозорные силы в Нарвском заливе, явно опасаясь ударов во фланг своих позиций на суше.</p><p class=\"p_spacing\"> </p><p>С марта 1944 г. морская авиация Краснознамённого Балтийского флота регулярно наносит удары по немецким дозорным кораблям, прикрывающим минные поля и левый фланг своих войск.</p><p class=\"p_spacing\"> </p><p>Наибольшего успеха удалось достичь 20–21 июля 1944 г., когда противник понёс большие потери.</p><p class=\"p_spacing\"> </p><p>Боевые действия в акватории Нарвского залива продолжаются.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_1"
+msgstr "<p>В начале июля 1944 г. в порту Котка был обнаружен боевой корабль, предположительно, финский броненосец береговой обороны «Вяйнямёйнен».</p><p class=\"p_spacing\"> </p><p>Авиация Краснознамённого Балтийского флота получила задачу потопить корабль противника.</p><p class=\"p_spacing\"> </p><p>Налёт 12 июля успеха не имел, однако 16 июля удалось добиться попаданий авиабомб, после чего цель начала тонуть. Уничтожение корабля противника было подтверждено.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_2"
+msgstr "<p>В конце сентября 1944 г. началась десантная операция по занятию Моонзундских островов.</p><p class=\"p_spacing\"> </p><p>Остров Вормси был взят 27 сентября, остров Муху — к утру 1 октября. После 10 октября противник занимал лишь полуостров Сырве на острове Сааремаа.</p><p class=\"p_spacing\"> </p><p>В ходе упорных боёв силы десанта поддерживали корабли, береговая артиллерия и морская авиация Краснознамённого Балтийского флота.</p><p class=\"p_spacing\"> </p><p>Противник задействовал тяжёлые крейсеры и эсминцы. Несмотря на это, 24 ноября архипелаг был полностью очищен от противника.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP02_3"
+msgstr "<p>К концу осени 1944 г. большая часть Прибалтики была освобождена.</p><p class=\"p_spacing\"> </p><p>Десанты Краснознамённого Балтийского флота поддержали продвижение Красной армии. Морская авиация нанесла ощутимые потери противнику.</p><p class=\"p_spacing\"> </p><p>После заключения перемирия с Финляндией 19 сентября 1944 г. Балтийский флот получил в распоряжение финские базы и фарватеры у северного побережья Финского залива.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_0"
+msgstr "<p>В кампанию 1945 г. советские подводные лодки успешно действуют в южной части Балтики, базируясь в финских портах.</p><p class=\"p_spacing\"> </p><p>Подводная лодка С-13 под командованием капитана 3-го ранга А. И. Маринеско, находясь на позиции возле банки Штольпе, 30 января и 10 февраля выполнила две успешные торпедные атаки. Считаются потопленными две крупные цели.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_1"
+msgstr "<p>В ходе проведения операции по взятию Кёнигсберга и Пиллау, а также по разгрому группировок противника силы Краснознамённого Балтийского флота выполнили широкий круг задач.</p><p class=\"p_spacing\"> </p><p>Железнодорожная артиллерия флота участвовала в разрушении укреплений противника.</p><p class=\"p_spacing\"> </p><p>Морская авиация наносила удары по целям в заливе Фришес-Хафф, минировала Кёнигсбергский канал и подходы к Пиллау.</p><p class=\"p_spacing\"> </p><p>Общему успеху операции содействовали тактические десанты Балтийского флота.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_2"
+msgstr "<p>По состоянию на 8 мая 1945 г. эвакуация морем немецких войск и населения на запад продолжается.</p><p class=\"p_spacing\"> </p><p>В настоящий момент проводится несколько десантных операций для занятия острова Борнхольм и ряда балтийских портов, чтобы пресечь немецкие морские перевозки.</p><p class=\"p_spacing\"> </p><p>Утром 9 мая 1945 г. торпедные катера с десантом вышли в море, ими перехвачено несколько немецких судов. Днём десант высадился на острове Борнхольм и ведёт переговоры о капитуляции немецкого гарнизона.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP03_3"
+msgstr "<p>Краснознамённый Балтийский флот принял активное участие в Восточно-Прусской и Восточно-Померанской операциях.</p><p class=\"p_spacing\"> </p><p>Корабли, морская авиация и морская артиллерия перехватывали и уничтожали корабли и суда противника, разрушали укреплённые узлы сухопутной обороны противника, высаживали десанты и перебрасывали войска, ставили мины и проводили траление.</p><p class=\"p_spacing\"> </p><p>Операционная зона Балтийского флота достигла Датских проливов на западе Балтики.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_0"
+msgstr "<p>На зимнюю кампанию 1944 г. запланирована операция по разгрому немецких войск под Ленинградом и Новгородом.</p><p class=\"p_spacing\"> </p><p>Краснознамённому Балтийскому флоту поставлена задача перевезти 2-ю ударную армию на Ораниенбаумский плацдарм, а также поддержать наступление советских войск огнём своей артиллерии и действиями морской авиации.</p>"
+
+msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP0_1"
+msgstr "<p>Наступательная операция проведена успешно. В январе 1944 г. блокада Ленинграда была снята.</p><p class=\"p_spacing\"> </p><p>Немецкие войска, державшие город в осаде, разгромлены.</p><p class=\"p_spacing\"> </p><p>По ситуации на конец февраля почти вся Ленинградская и часть Калининской области освобождены от противника.</p>"
+
+msgid "IDS_TERRITORY_MESSAGE_LEARN_MORE"
+msgstr "Читать полную сводку"
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_0"
+msgstr "Начало 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_1"
+msgstr "Май 1945 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_0"
+msgstr "20 июня 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_1"
+msgstr "20 июня 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_2"
+msgstr "30 июля 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP01_3"
+msgstr "30 июля 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_0"
+msgstr "Март–июль 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_1"
+msgstr "16 июля 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_2"
+msgstr "Сентябрь–ноябрь 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP02_3"
+msgstr "28 сентября 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_0"
+msgstr "15 февраля 1945 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_1"
+msgstr "25 апреля 1945 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_2"
+msgstr "9 мая 1945 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP03_3"
+msgstr "14 мая 1945 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP0_0"
+msgstr "14 января 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_MAP0_1"
+msgstr "28 февраля 1944 г."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_0"
+msgstr "Десант Балтийского флота высадился на остров Нерва. В это же время немецкие миноносцы вышли к Бьёркскому архипелагу, затем были замечены у Нервы. Советские корабли атакуют противника."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_1"
+msgstr "Силам десанта приказано очистить от противника Бьёркский архипелаг, который может стать плацдармом для удара в тыл. Первым планируется занять наименее укреплённый остров Пийсаари."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_2"
+msgstr "Командованию стало известно об активности немецких подводных лодок в восточной части Финского залива. Советские корабли подверглись атакам, ведётся борьба с противником."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_3"
+msgstr "В результате операции занят Бьёркский архипелаг и острова Выборгского залива. Силами флота поражены оборонительные сооружения, корабли, транспорты и базы противника."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_0"
+msgstr "Противник после поражения под Ленинградом усиливает минные заграждения и дозорные силы в Нарвском заливе. Морская авиация Балтийского флота наносит удары по немецким кораблям."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_1"
+msgstr "В порту Котка обнаружен боевой корабль, предположительно, финский броненосец береговой обороны. Морской авиации удалось поразить цель авиабомбами. Уничтожение корабля подтверждено. "
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_2"
+msgstr "Началась десантная операция по занятию Моонзундских островов при поддержке кораблей и морской авиации Балтийского флота. Противник задействовал тяжёлые крейсеры и эсминцы."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP02_3"
+msgstr "Большая часть Прибалтики освобождена. После заключения перемирия с Финляндией Балтийский флот получил в распоряжение базы и фарватеры у северного побережья Финского залива."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_0"
+msgstr "Подводная лодка С-13 под командованием капитана 3-го ранга А. И. Маринеско, находясь на позиции возле банки Штольпе, выполнила две торпедных атаки. Потоплены две крупные цели."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_1"
+msgstr "Балтийский флот выполнил широкий круг задач в ходе проведения операции по взятию Кёнигсберга и Пиллау. Успеху операции содействовала морская авиация и тактические десанты."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_2"
+msgstr "Проводятся операции для занятия острова Борнхольм и ряда балтийских портов, чтобы пресечь немецкие морские перевозки. Утром 9 мая 1945 г. торпедные катера с десантом вышли в море."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP03_3"
+msgstr "В ходе Восточно-Прусской и Восточно-Померанской операций силы Балтийского флота перехватывали и уничтожали корабли противника, высаживали десанты и перебрасывали войска."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP0_0"
+msgstr "Запланирована операция под Ленинградом и Новгородом. Балтийскому флоту поставлена задача перевезти 2-ю ударную армию на Ораниенбаумский плацдарм и поддержать наступление."
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP0_1"
+msgstr "Операция проведена успешно, блокада Ленинграда снята. По ситуации на конец февраля почти вся Ленинградская и часть Калининской области освобождены от противника."
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL_0"
+msgstr "Операции в Балтийском море"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL_1"
+msgstr "Вклад в Победу"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_0"
+msgstr "Бой у острова Нерва"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_1"
+msgstr "Бьёркский десант"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_2"
+msgstr "Потопление немецкой подводной лодки"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP01_3"
+msgstr "Итоги Выборгской операции"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_0"
+msgstr "Охота за «Нарвским патрулём»"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_1"
+msgstr "Авиаудары по порту Котка"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_2"
+msgstr "Моонзундский десант"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP02_3"
+msgstr "Итоги операций в Восточной Балтике"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_0"
+msgstr "Атаки конвоев"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_1"
+msgstr "Штурм Кёнигсберга и Пиллау"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_2"
+msgstr "Борнхольмский десант"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP03_3"
+msgstr "Итоги операций в Западной Балтике"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP0_0"
+msgstr "Наступление с Ораниенбаумского плацдарма"
+
+msgid "IDS_TERRITORY_MESSAGE_TITLE_MAP0_1"
+msgstr "Освобождение Ленинградской области"
+
+msgid "IDS_TERRITORY_TITLE_GLOBAL_0_SHORT"
+msgstr "ОБМ"
+
+msgid "IDS_TERRITORY_TITLE_GLOBAL_1_SHORT"
+msgstr "ВП"
+
+msgid "IDS_TERRITORY_TITLE_MAP0"
+msgstr "Снятие блокады Ленинграда"
+
+msgid "IDS_TERRITORY_TITLE_MAP01"
+msgstr "Выборгская операция"
+
+msgid "IDS_TERRITORY_TITLE_MAP01_SHORT"
+msgstr "ВО"
+
+msgid "IDS_TERRITORY_TITLE_MAP02"
+msgstr "Восточная Балтика"
+
+msgid "IDS_TERRITORY_TITLE_MAP02_SHORT"
+msgstr "ВБ"
+
+msgid "IDS_TERRITORY_TITLE_MAP03"
+msgstr "Западная Балтика"
+
+msgid "IDS_TERRITORY_TITLE_MAP03_SHORT"
+msgstr "ЗБ"
+
+msgid "IDS_TERRITORY_TITLE_MAP0_SHORT"
+msgstr "СБЛ"
+
+msgid "IDS_TOGO"
+msgstr "Tōgō Heihachirō"
+
+msgid "IDS_UNLOCKS_2417"
+msgstr "Исследуйте и покупайте новые корабли."
+
+msgid "IDS_UNLOCKS_31"
+msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2417_0"
+msgstr "В игре представлены корабли разных наций и классов: универсальные крейсеры, незаметные эсминцы, тяжелобронированные линкоры, авианосцы, вооружённые быстрой и сокрушительной авиацией. Выберите свою роль в бою."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_2417_1"
+msgstr "После каждого боя вам начисляются опыт и кредиты для исследования и покупки кораблей. Также вы можете исследовать и покупать модули для улучшения кораблей."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_31_0"
+msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_31_1"
+msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
+
+msgid "IDS_UNLOCKS_DESCRIPTION_31_2"
+msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+
+msgid "IDS_UNLOCKS_LEVEL_UP_2417"
+msgstr ""
+"<body>Вам стало доступно\n"
+"<h3>Исследование и улучшение кораблей</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_31"
+msgstr ""
+"<body>Вам стали доступны\n"
+"<h3>Операции</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_2417"
+msgstr "Новые корабли доступны на вкладке «Развитие». Улучшения доступны на вкладке «Оснащение»."
+
+msgid "IDS_UNLOCKS_LOCATION_31"
+msgstr "Доступно на экране выбора типа боя."
+
+msgid "IDS_UNLOCKS_TITLE_2417"
+msgstr "Исследование и улучшение кораблей"
+
+msgid "IDS_UNLOCKS_TITLE_31"
+msgstr "Операции"

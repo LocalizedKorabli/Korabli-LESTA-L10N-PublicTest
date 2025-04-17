@@ -1,0 +1,288 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED"
+msgstr "可在随机战、排位战和评级战中完成。"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "您可以获得纪念代币"
+
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "纪念代币"
+
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr "通过在25.5版本期间的有限时间内完成“波罗的海舰队英勇事迹”活动任务，达到免费通行证等级20，或从兵工厂的礼包中获取。"
+
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr "用于在25.5版本结束前获得：VIII级战列舰伏龙芝及其永久涂装“英勇胜利”，IX级驱逐舰现代及其永久涂装“勇气胜利”，“荣耀属于胜利者！”高级补给箱，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "临时资源。25.6版本更新后，代币将被无偿收回。"
+
+msgid "IDS_CURRENCY_EVENTUM_5"
+msgstr "炫彩代币"
+
+msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
+msgstr "通过在25.5版本期间的有限时间内完成活动作战任务，以及在25.5版本结束前从“炫彩角逐”高级补给箱和兵工厂的礼包中获得。"
+
+msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
+msgstr "用于在25.5版本结束前获得：IX级驱逐舰日德兰CLR，X级战列舰大和CLR，超级巡洋舰孔代CLR，“炫彩角逐”高级补给箱，以及其他资源。"
+
+msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
+msgstr "“炫彩角逐”活动临时资源。25.6版本更新后，代币将被无偿收回。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY327_IMPROVESPEED_H2019"
+msgstr ""
+"您的战舰和半径5公里内的全部友军获得战舰机动性增益效果。5公里内每有一名友军您的战舰额外获得一层增益效果。\n"
+"任何增益效果都将持续到战斗结束。"
+
+msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
+msgstr "前往“波罗的海舰队英勇事迹”活动"
+
+msgid "IDS_GUIDING_TIP_272_DESC"
+msgstr "同波罗的海舰队一起亲历伟大卫国战争中的重要海上事件！"
+
+msgid "IDS_GUIDING_TIP_274_DESC"
+msgstr "您可以获得奖励：领取后进行下一个战略行动吧！"
+
+msgid "IDS_GUIDING_TIP_274_HEADER"
+msgstr "战略行动完成"
+
+msgid "IDS_GUIDING_TIP_276_DESC"
+msgstr "进入战略行动界面，查看进度、当前任务和奖励。"
+
+msgid "IDS_GUIDING_TIP_276_HEADER"
+msgstr "选定战略行动"
+
+msgid "IDS_GUIDING_TIP_277_DESC"
+msgstr "每场战略行动包含多个任务——单场战斗中只能完成其中一项。当前任务随每次战斗而改变。"
+
+msgid "IDS_GUIDING_TIP_278_DESC"
+msgstr "通过完成任务获得进度积分来完成战略行动。"
+
+msgid "IDS_GUIDING_TIP_279_DESC"
+msgstr "战略行动全部完成后，可领取最终奖励。"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "您港口中的III级到超级战舰，都可以获得节日奖励。要从战舰上领取奖励，您需要驾驶它进入战斗并获取300点基础经验或赢得一场战斗。"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
+msgstr ""
+"50艘战舰：获得350点基础经验，奖励+1；\n"
+"100艘战舰：获得400点基础经验，奖励+2；\n"
+"200艘战舰：获得500点基础经验，奖励+3；\n"
+"300艘战舰：获得600点基础经验，奖励+4；\n"
+"400艘战舰：获得700点基础经验，奖励+5；\n"
+"500艘战舰：获得800点基础经验，奖励+6；\n"
+"600艘战舰：获得1000点基础经验，奖励+7。"
+
+msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
+msgstr "在排位战中，您可以冲击排名，晋升更高级的联赛，以获取珍贵奖励。排位战仅在排位站赛季期间开放。"
+
+msgid "IDS_PARAMS_MODIFIER_ARTILLERYDAMAGECOEF"
+msgstr "火炮伤害"
+
+msgid "IDS_PARAMS_MODIFIER_RECEIVEARTILLERYDAMAGECOEFF"
+msgstr "受到的火炮伤害"
+
+msgid "IDS_PCZC355_SOVIETBBARC_ADMIRAL_DESCRIPTION"
+msgstr "<p>尼古拉•库兹涅佐夫由于与党内高层发生冲突，整个生涯中经历了多次起落。军衔升了又降。在他的回忆录中，他曾自嘲自己是海军中的另类：他曾两次当过海军少将，三次当过海军副上将，两次当过海军元帅。</p><p class=\"p_spacing\"> </p><p>1955年5月，海军元帅军衔改名为苏联海军元帅。晋升苏联海军元帅的将官被授予元帅星。元帅星佩戴于制服的领口。从1952年开始，海军元帅开始着装元帅礼服，这是一套带有金色肩章、金丝刺绣翻领的黑色军礼服。军帽上的帽徽也带有特殊的刺绣图案。</p>"
+
+msgid "IDS_PFGT156_550MM_2TUBE_DIANE"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT158_550MM_TRIPLE_CASABIANCA"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT170_INVISIBLE_TA_LEFT"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT171_INVISIBLE_TA_RIGHT"
+msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFPT027_DIANE"
+msgstr "400 mm M26V / 550 mm 24V Mle 5"
+
+msgid "IDS_PFPT029_AFRICAINE"
+msgstr "550 mm 24V Mle 5"
+
+msgid "IDS_PFSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFUS930_C11_SUO_STOCK"
+msgstr "PCA n°11"
+
+msgid "IDS_PJUA102_ART_MIKASA"
+msgstr "高爆弹 / 305 mm（双联装炮塔）"
+
+msgid "IDS_PJUA104_ART_SAZANAMI"
+msgstr "高爆弹 / 76 mm（单装炮座）"
+
+msgid "IDS_PJUH102_MIKASA_1904"
+msgstr "三笠 / 中口径主炮：高爆弹"
+
+msgid "IDS_PRUA104_ART_BOYKIY"
+msgstr "穿甲弹 / 75 mm（Meller炮座）"
+
+msgid "IDS_PRUE926_ENG_SUBTEST"
+msgstr "推进系统：8400马力"
+
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "纪念代币"
+
+msgid "IDS_REWARD_EVENTUM_5_TITLE"
+msgstr "炫彩代币"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "X级战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X级"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACOUSTIC_HIT"
+msgstr "使用声呐脉冲命中敌舰。"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BOMB"
+msgstr "使用炸弹命中敌舰。"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_PLANE"
+msgstr "使用防空炮击落敌机。"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ROCKET"
+msgstr "使用火箭弹命中敌舰。"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_TORPEDO"
+msgstr "使用鱼雷命中敌舰。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
+msgstr "主炮命中但未击穿装甲。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
+msgstr "主炮命中但过度击穿。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_PENETRATION"
+msgstr "主炮命中并击穿装甲。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_RICOCHET"
+msgstr "主炮命中但被装甲弹开。"
+
+msgid "IDS_SSE_TEMPLATES_META"
+msgstr "{\"IDS\":{\"IDS_ANTI_AIR_DEF\":{\"\":[\"用防空炮\"]},\"IDS_ANY_AIRCRAFT\":{\"\":[\"飞机\"]},\"IDS_BADGE\":{\"\":[\"勋带\"]},\"IDS_BASE_CAPTURE_POINTS\":{\"\":[\"基地占领\"]},\"IDS_BASE_DEFENCE_POINTS\":{\"\":[\"基地防御\"]},\"IDS_BATTLES\":{\"\":[\"战斗\"]},\"IDS_BATTLESHIP_CLASS\":{\"\":[\"战列舰\"]},\"IDS_BATTLE_SIGNALS\":{\"\":[\"战斗信号旗\"]},\"IDS_BOMBER_CLASS\":{\"\":[\"俯冲轰炸机\"]},\"IDS_CAMOUFLAGE\":{\"\":[\"涂装\"]},\"IDS_CARRIER_CLASS\":{\"\":[\"航空母舰\"]},\"IDS_CHAIN\":{\"\":[\"任务链\"]},\"IDS_CLAN_BATTLE\":{\"\":[\"军团战\"]},\"IDS_COMMONWEALTH_NATION\":{\"\":[\"联邦\"]},\"IDS_COOP_BATTLE\":{\"\":[\"联合作战\"]},\"IDS_CREDITS\":{\"\":[\"银币\"]},\"IDS_CREWXP\":{\"\":[\"指挥官经验\"]},\"IDS_CRUISER_CLASS\":{\"\":[\"巡洋舰\"]},\"IDS_DESTROYER_CLASS\":{\"\":[\"驱逐舰\"]},\"IDS_ECO_SIGNALS\":{\"\":[\"经济信号旗\"]},\"IDS_ELITE\":{\"\":[\"精英\"]},\"IDS_ENUM_1\":{\"\":[\"{1}\"]},\"IDS_ENUM_2\":{\"\":[\"{1}或{2}\"]},\"IDS_ENUM_3\":{\"\":[\"{1}、{2}或{3}\"]},\"IDS_ENUM_4\":{\"\":[\"{1}、{2}、{3}或{4}\"]},\"IDS_ENUM_5\":{\"\":[\"{1}、{2}、{3}、{4}或{5}\"]},\"IDS_ENUM_6\":{\"\":[\"{1}、{2}、{3}、{4}、{5}或{6}\"]},\"IDS_ENUM_7\":{\"\":[\"{1}、{2}、{3}、{4}、{5}、{6}或{7}\"]},\"IDS_ENUM_8\":{\"\":[\"{1}、{2}、{3}、{4}、{5}、{6}、{7}或{8}\"]},\"IDS_EUROPE_NATION\":{\"\":[\"欧洲\"]},\"IDS_EVENT_BATTLE\":{\"\":[\"夺钥之战\"]},\"IDS_EXP\":{\"\":[\"经验\"]},\"IDS_FIGHTER_CLASS\":{\"\":[\"攻击机\"]},\"IDS_FRANCE_NATION\":{\"\":[\"法国\"]},\"IDS_FREEXP\":{\"\":[\"全局经验\"]},\"IDS_GERMANY_NATION\":{\"\":[\"德国\"]},\"IDS_GOLD\":{\"\":[\"金币\"]},\"IDS_HEROIC_ACHIEVEMENT\":{\"\":[\"英勇成就\"]},\"IDS_HONORABLE_ACHIEVEMENT\":{\"\":[\"荣誉成就\"]},\"IDS_INTRO_BATTLE\":{\"\":[\"新手战役\"]},\"IDS_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中，\"],\"SIMPLE\":[\"在一场战斗中\"]},\"IDS_IN_SQUAD\":{\"\":[\"在小队中\"]},\"IDS_ITALY_NATION\":{\"\":[\"意大利\"]},\"IDS_JAPAN_NATION\":{\"\":[\"日本\"]},\"IDS_LEAGUE_EXACT\":{\"\":[\"{league}\"]},\"IDS_LEAGUE_LESS\":{\"\":[\"{league}以上\"]},\"IDS_LEAGUE_MORE\":{\"\":[\"{league}以下\"]},\"IDS_LEAGUE_RANGE\":{\"\":[\"{leaguemin}—{leaguemax}\"]},\"IDS_LEVEL_EXACT\":{\"\":[\"{level}级\"]},\"IDS_LEVEL_LESS\":{\"\":[\"{level}级以下\"]},\"IDS_LEVEL_MORE\":{\"\":[\"{level}级以上\"]},\"IDS_LEVEL_RANGE\":{\"\":[\"{levelmin}-{levelmax}级\"]},\"IDS_MODULE\":{\"\":[\"配件\"]},\"IDS_NETHERLANDS_NATION\":{\"\":[\"荷兰\"]},\"IDS_OF_ALL\":{\"\":[\"双方团队\"]},\"IDS_OPERATION\":{\"\":[\"行动\"]},\"IDS_PAN_AMERICA_NATION\":{\"\":[\"泛美\"]},\"IDS_PAN_ASIA_NATION\":{\"\":[\"泛亚\"]},\"IDS_PERMANENT_CAMOUFLAGE\":{\"\":[\"永久涂装\"]},\"IDS_POLAND_NATION\":{\"\":[\"波兰\"]},\"IDS_PREMIUM\":{\"\":[\"高级\"]},\"IDS_PTS_WORD\":{\"\":[\"点数\"]},\"IDS_PVE_BATTLE\":{\"\":[\"剧情战役\"]},\"IDS_RANDOM_BATTLE\":{\"\":[\"随机战\"]},\"IDS_RANK_BATTLE\":{\"\":[\"排位战\"]},\"IDS_RUSSIA_NATION\":{\"\":[\"苏联\"]},\"IDS_SCOUT_CLASS\":{\"\":[\"侦察机\"]},\"IDS_SECONDARY_TASK\":{\"\":[\"次要目标\"]},\"IDS_SHIP\":{\"\":[\"战舰\"]},\"IDS_SIGNALS\":{\"\":[\"信号旗\"]},\"IDS_SOME_ACHIEVEMENT\":{\"\":[\"成就\"]},\"IDS_SPAIN_NATION\":{\"\":[\"西班牙\"]},\"IDS_SPECIAL_SIGNALS\":{\"\":[\"特殊信号旗\"]},\"IDS_STAR\":{\"\":[\"星\"]},\"IDS_SUBMARINE_CLASS\":{\"\":[\"潜艇\"]},\"IDS_SURVIVE_IN_BATTLES\":{\"\":[\"在战斗中幸存，\"],\"SIMPLE\":[\"在战斗中幸存\"]},\"IDS_SURVIVE_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中幸存，\"],\"SIMPLE\":[\"在一场战斗中幸存\"]},\"IDS_SURVIVE_WIN_IN_BATTLES\":{\"\":[\"在战斗中获胜且幸存，\"],\"SIMPLE\":[\"在战斗中获胜且幸存\"]},\"IDS_SURVIVE_WIN_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中获胜且幸存，\"],\"SIMPLE\":[\"在一场战斗中获胜且幸存\"]},\"IDS_TASK\":{\"\":[\"作战任务\"]},\"IDS_TBOMBER_CLASS\":{\"\":[\"鱼雷轰炸机\"]},\"IDS_TIMES_WORD\":{\"\":[\"次\"]},\"IDS_TOP_IN_TEAM\":{\"\":[\"己方团队\"]},\"IDS_TORPEDO\":{\"\":[\"鱼雷\"]},\"IDS_TRAINING_BATTLE\":{\"\":[\"战斗训练\"]},\"IDS_UNITED_KINGDOM_NATION\":{\"\":[\"英国\"]},\"IDS_USA_NATION\":{\"\":[\"美国\"]},\"IDS_USING_BOMBER\":{\"\":[\"用机载炸弹\"]},\"IDS_USING_FIGHTER\":{\"\":[\"用攻击机\"]},\"IDS_USING_FIRE\":{\"\":[\"通过引起敌舰起火\"]},\"IDS_USING_FLOOD\":{\"\":[\"通过引起敌舰进水\"]},\"IDS_USING_MAIN_GUN\":{\"\":[\"用主炮组\"]},\"IDS_USING_RAM\":{\"\":[\"通过冲撞\"]},\"IDS_USING_ROCKET\":{\"\":[\"用火箭弹\"]},\"IDS_USING_SEA_MINE\":{\"\":[\"用水雷\"]},\"IDS_USING_SECONDARY_GUN\":{\"\":[\"用副炮组\"]},\"IDS_USING_SKIPBOMBER\":{\"\":[\"用弹跳炸弹\"]},\"IDS_USING_TBOMBER\":{\"\":[\"用机载鱼雷\"]},\"IDS_USING_TORPEDOES\":{\"\":[\"用舰载鱼雷\"]},\"IDS_WIN_IN_BATTLES\":{\"\":[\"在战斗中获胜，\"],\"SIMPLE\":[\"在战斗中获胜\"]},\"IDS_WIN_IN_ONE_BATTLE\":{\"\":[\"在一场战斗中获胜，\"],\"SIMPLE\":[\"在一场战斗中获胜\"]},\"IDS_WITH_AGRO_AIR\":{\"\":[\"用机载炸弹或机载鱼雷\"]},\"IDS_WITH_AGRO_ART\":{\"\":[\"用火炮\"]},\"IDS_WITH_AGRO_DBOMB\":{\"\":[\"用深水炸弹\"]},\"IDS_WITH_AGRO_MINES\":{\"\":[\"用水雷\"]},\"IDS_WITH_AGRO_TORPS\":{\"\":[\"用舰载鱼雷或机载鱼雷\"]}},\"TRANSLATOR\":\"SSE模板翻译——澪刻本地化\",\"TEMPLATES\":{\"TEMPLATE_BATTLE_ACHIEVEMENTS\":{\"cntVars\":[\"count\"],\"optVars\":[\"colon\",\"precondition\"],\"rules\":[{\"template\":\"{}获得{}次{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"achievement.type\"},{\"isVar\":true,\"name\":\"colon\"}]}],\"rules_short\":[{\"template\":\"获得{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"achievement.type\"}]}],\"vars\":[\"precondition\",\"achievement.type\",\"colon\",\"count\"]},\"TEMPLATE_BATTLE_ACHIEVEMENTS_SHORT\":{\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}获得：\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"}]}],\"vars\":[\"precondition\"]},\"TEMPLATE_BATTLE_ACHIEVEMENTS_TYPE\":{\"cntVars\":[\"count\"],\"rules\":[{\"template\":\"{}次{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"achievement.type\"}]}],\"vars\":[\"achievement.type\",\"count\"]},\"TEMPLATE_BATTLE_CONDITIONS\":{\"optVars\":[\"battle_cond.in_squad\",\"league\"],\"rules\":[{\"cond\":{\"battle_cond.battle_type\":[null],\"battle_cond.in_squad\":[null]},\"template\":\"必须完成\",\"template_args\":[]},{\"cond\":{\"battle_cond.battle_type\":[null]},\"template\":\"必须{}完成\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"}]},{\"cond\":{\"battle_cond.battle_type\":[\"IDS_CLAN_BATTLE\"],\"league\":[null]},\"template\":\"必须{}完成{}\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"},{\"isVar\":true,\"name\":\"battle_cond.battle_type\"}]},{\"cond\":{\"battle_cond.battle_type\":[\"IDS_CLAN_BATTLE\"]},\"template\":\"必须{}完成{}({})\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"},{\"isVar\":true,\"name\":\"battle_cond.battle_type\"},{\"isVar\":true,\"name\":\"league\"}]},{\"template\":\"必须{}完成{}\",\"template_args\":[{\"isVar\":true,\"name\":\"battle_cond.in_squad\"},{\"isVar\":true,\"name\":\"battle_cond.battle_type\"}]}],\"setVars\":[\"battle_cond.battle_type\"],\"vars\":[\"battle_cond.in_squad\",\"battle_cond.battle_type\",\"league\"]},\"TEMPLATE_COMPLETE_TASKS\":{\"cntVars\":[\"count\"],\"rules\":[{\"template\":\"完成“{}”类型中的{}个{}\",\"template_args\":[{\"isVar\":true,\"name\":\"typeName\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"sseElement\"}]}],\"rules_short\":[{\"template\":\"完成{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"sseElement\"}]}],\"vars\":[\"count\",\"typeName\",\"sseElement\"]},\"TEMPLATE_DAMAGE_SHIPS\":{\"cntVars\":[\"damage\"],\"optVars\":[\"damage_types\",\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"template\":\"{}{}对{}{}{}造成{}点生命值伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"damage_types\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"damage\"}]}],\"rules_short\":[{\"cond\":{\"damage_types.length\":[1]},\"template\":\"{}造成伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"damage_types\"}]},{\"template\":\"造成伤害\",\"template_args\":[]}],\"vars\":[\"precondition\",\"damage\",\"ship.nation\",\"ship.class\",\"level\",\"damage_types\"]},\"TEMPLATE_DESTROY_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"ship.count\",\"ship.nation\":\"ship.count\"},\"rules\":[{\"template\":\"{}击毁{}艘{}{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]}],\"rules_short\":[{\"template\":\"击毁{}{}\",\"template_args\":[{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":2,\"isVar\":true,\"name\":\"ship.class\"}]}],\"vars\":[\"precondition\",\"ship.count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_DESTROY_SPECIFIED_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}击毁{}艘{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"ship.ids\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"rules_short\":[{\"template\":\"击毁{}{}\",\"template_args\":[{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"ship.ids\"},{\"count\":2,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"ship.count\"]},\"TEMPLATE_DO_STRATEGIC_ACTIONS_TERRITORIES\":{\"rules\":[{\"template\":\"在“波罗的海舰队英勇事迹”活动中完成{}{}战略行动\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"在“波罗的海舰队英勇事迹”活动中完成战略行动\",\"template_args\":[]}],\"vars\":[\"count\"]},\"TEMPLATE_GET_BADGES\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"{}获得一枚{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"badge.names\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BADGE\"}]},{\"template\":\"{}获得至少{}枚{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"count\"},{\"isVar\":true,\"name\":\"badge.names\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BADGE\"}]}],\"rules_short\":[{\"template\":\"获得{}\",\"template_args\":[{\"count\":2,\"isVar\":false,\"name\":\"IDS_BADGE\"}]}],\"setVars\":[\"badge.names\"],\"vars\":[\"precondition\",\"count\",\"badge.names\"]},\"TEMPLATE_GO_INTO_BATTLE\":{\"cntVars\":[\"count\"],\"rules\":[{\"template\":\"进行{}场战斗\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"template\":\"进入一次{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"vars\":[\"count\"]},\"TEMPLATE_MAKE_N_XP\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{} 获得{}点基础经验\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"template\":\"获得基础经验\",\"template_args\":[]}],\"vars\":[\"precondition\",\"count\"]},\"TEMPLATE_N_TIMES_HIT_SHIPS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"{}{}命中一艘敌方{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"hit_types\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_SHIP\"}]},{\"template\":\"{}{}命中敌方{}{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"hit_types\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_SHIP\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"cond\":{\"hit_types.length\":[1]},\"template\":\"{}命中一艘敌方{}\",\"template_args\":[{\"isVar\":true,\"name\":\"hit_types\"},{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]},{\"template\":\"命中一艘敌方{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"hit_types\"]},\"TEMPLATE_N_TIMES_IGNITE_SHIPS\":{\"cntVars\":[\"count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"count\",\"ship.nation\":\"count\"},\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"{}使{}{}{}起火\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}使{}{}{}起火{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"使一艘{}起火\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_POTENTIAL_DAMAGE\":{\"cntVars\":[\"count\"],\"optVars\":[\"damage_types\",\"precondition\"],\"rules\":[{\"template\":\"{}承受{}{}点潜在伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"damage_types\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"cond\":{\"damage_types.length\":[1]},\"template\":\"承受{}潜在伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"damage_types\"}]},{\"template\":\"承受潜在伤害\",\"template_args\":[]}],\"vars\":[\"precondition\",\"count\",\"damage_types\"]},\"TEMPLATE_PRECONDITION\":{\"rules\":[{\"cond\":{\"simple_precondition\":[true]},\"template\":\"{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"SIMPLE\",\"name\":\"precondition\"}]},{\"template\":\"{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"}]}],\"vars\":[\"precondition\",\"simple_precondition\"]},\"TEMPLATE_PVE_OPERATIONS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"必须在{}完成 {}\",\"template_args\":[{\"count\":\"count\",\"isVar\":true,\"name\":\"operation\"},{\"isVar\":true,\"name\":\"operations_names\"}]}],\"setVars\":[\"operations_names\"],\"vars\":[\"precondition\",\"count\",\"operation\",\"operations_names\"]},\"TEMPLATE_PVE_SECONDARY_TASKS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{} 完成{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"stask\"}]}],\"rules_short\":[{\"template\":\"在{}完成{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"operation\"},{\"count\":2,\"isVar\":true,\"name\":\"stask\"}]}],\"vars\":[\"precondition\",\"count\",\"stask\",\"operation\"]},\"TEMPLATE_RECEIVE_BASE_CAPTURE_POINTS\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}获得{}点{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"isVar\":true,\"name\":\"base_points\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_PTS_WORD\"}]}],\"rules_short\":[{\"template\":\"获得{}点{}\",\"template_args\":[{\"isVar\":true,\"name\":\"base_points\"},{\"count\":2,\"isVar\":false,\"name\":\"IDS_PTS_WORD\"}]}],\"vars\":[\"precondition\",\"count\",\"base_points\"]},\"TEMPLATE_SCOUTING_DAMAGE\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}通过侦察协助团队造成{}点伤害\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"}]}],\"rules_short\":[{\"template\":\"协助团队造成伤害\",\"template_args\":[]}],\"vars\":[\"precondition\",\"count\"]},\"TEMPLATE_SHIP_DAMAGE_MODULES\":{\"cntVars\":[\"module.count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"module.type\":\"module.count\",\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"template\":\"{}伤害{}{}{}{}个{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"module.count\"},{\"count\":\"module.count\",\"isVar\":true,\"name\":\"module.type\"}]}],\"rules_short\":[{\"template\":\"伤害一艘{}的{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"},{\"count\":1,\"isVar\":true,\"name\":\"module.type\"}]}],\"vars\":[\"precondition\",\"module.count\",\"module.type\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SHIP_HIT_CITADELS\":{\"cntVars\":[\"count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"cond\":{\"count\":[1],\"ship.class\":[\"IDS_SHIP\"]},\"template\":\"{}命中{}{}{}的核心区\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"count\":[1]},\"template\":\"{}命中{}{}{}的核心区\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}命中{}{}{}的核心区{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"命中一艘{}的核心区\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SHIP_LIMITATIONS\":{\"optVars\":[\"level\",\"ship.elite\",\"ship.ids\",\"ship.nation\"],\"plurals\":{\"level\":\"10\",\"ship.class\":\"10\",\"ship.elite\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"cond\":{\"ship.ids\":[null]},\"template\":\"{}级{}{}{}\",\"template_args\":[{\"count\":10,\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.elite\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}\",\"template_args\":[{\"isVar\":true,\"name\":\"ship.ids\"}]}],\"vars\":[\"ship.nation\",\"ship.class\",\"ship.elite\",\"level\",\"ship.ids\"]},\"TEMPLATE_SHIP_START_FLOOD\":{\"cntVars\":[\"count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"10\",\"ship.nation\":\"10\"},\"rules\":[{\"cond\":{\"count\":[1],\"ship.class\":[\"IDS_SHIP\"]},\"template\":\"{}造成{}{}{}进水\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"count\":[1]},\"template\":\"{}造成{}{}{}进水\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":1,\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}造成{}{}{}进水{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":10,\"isVar\":true,\"name\":\"ship.class\"},{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_TIMES_WORD\"}]}],\"rules_short\":[{\"template\":\"使一艘{}进水\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SHOOT_AIRPLANES\":{\"cntVars\":[\"aircraft.count\"],\"optVars\":[\"precondition\"],\"plurals\":{\"aircraft.class\":\"aircraft.count\"},\"rules\":[{\"cond\":{\"aircraft.count\":[1]},\"template\":\"{}击落一架{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"aircraft.count\",\"isVar\":true,\"name\":\"aircraft.class\"}]},{\"template\":\"{}击落{}架{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"aircraft.count\"},{\"count\":\"aircraft.count\",\"isVar\":true,\"name\":\"aircraft.class\"}]}],\"rules_short\":[{\"template\":\"击毁一架{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_ANY_AIRCRAFT\"}]}],\"vars\":[\"precondition\",\"aircraft.count\",\"aircraft.class\"]},\"TEMPLATE_SPOT\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"cond\":{\"spot_target\":[\"IDS_TORPEDO\"]},\"template\":\"{}发现{}枚{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]},{\"cond\":{\"spot_target\":[\"IDS_SHIP\"]},\"template\":\"[{}成为第一个发现{}艘敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]},{\"cond\":{\"spot_target\":[\"IDS_ANY_AIRCRAFT\"]},\"template\":\"{}成为第一个发现{}架敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]},{\"template\":\"{}成为第一个发现{}架敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"spot_target\"}]}],\"rules_short\":[{\"cond\":{\"spot_target\":[\"IDS_TORPEDO\"]},\"template\":\"发现{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"spot_target\"}]},{\"template\":\"第一个发现{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"spot_target\"}]}],\"vars\":[\"precondition\",\"count\",\"spot_target\"]},\"TEMPLATE_SPOT_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"level\",\"precondition\",\"ship.nation\"],\"plurals\":{\"ship.class\":\"ship.count\",\"ship.nation\":\"ship.count\"},\"rules\":[{\"cond\":{\"level\":[null],\"ship.class\":[\"IDS_SHIP\"],\"ship.nation\":[null]},\"template\":\"{}成为第一个发现{}艘敌方{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"ship.class\":[\"IDS_SHIP\"],\"ship.nation\":[null]},\"template\":\"{}成为第一个发现{}艘敌方{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"cond\":{\"level\":[null]},\"template\":\"{}成为第一个发现{}艘{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]},{\"template\":\"{}成为第一个发现{}艘{}{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"isVar\":true,\"name\":\"level\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.nation\"},{\"count\":\"ship.count\",\"isVar\":true,\"name\":\"ship.class\"}]}],\"rules_short\":[{\"template\":\"发现{}\",\"template_args\":[{\"count\":2,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"ship.count\",\"ship.nation\",\"ship.class\",\"level\"]},\"TEMPLATE_SPOT_SPECIFIED_SHIPS\":{\"cntVars\":[\"ship.count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}成为第一个发现{}艘{}{}的玩家\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"ship.count\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"ship.ids\"},{\"count\":\"ship.count\",\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"rules_short\":[{\"template\":\"发现敌方{}\",\"template_args\":[{\"count\":2,\"isVar\":false,\"name\":\"IDS_SHIP\"}]}],\"vars\":[\"precondition\",\"ship.count\"]},\"TEMPLATE_SURVIVE_IN_BATTLES\":{\"cntVars\":[\"count\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"在一场{}中幸存\",\"template_args\":[{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]},{\"template\":\"在{}场{}中幸存\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"rules_short\":[{\"template\":\"在一场{}中幸存\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"vars\":[\"count\"]},\"TEMPLATE_TOP_N_DAMAGE\":{\"cntVars\":[\"top.rank\"],\"optVars\":[\"precondition\",\"top.in_team\"],\"rules\":[{\"cond\":{\"top.in_team\":[null],\"top.rank\":[1]},\"template\":\"{}对敌方造成的伤害在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"}]},{\"cond\":{\"top.in_team\":[null]},\"template\":\"{}对敌方造成的伤害在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]},{\"cond\":{\"top.rank\":[1]},\"template\":\"{}对敌方造成的伤害在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"}]},{\"template\":\"{}对敌方造成的伤害在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"rules_short\":[{\"cond\":{\"top.rank\":[1]},\"template\":\"对敌方造成的伤害在排名第1\",\"template_args\":[]},{\"template\":\"对敌方造成的伤害在排名前{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"vars\":[\"precondition\",\"top.in_team\",\"top.rank\"]},\"TEMPLATE_TOP_N_EXP\":{\"cntVars\":[\"top.rank\"],\"optVars\":[\"precondition\",\"top.in_team\"],\"rules\":[{\"cond\":{\"top.in_team\":[null],\"top.rank\":[1]},\"template\":\"{}经验获取量在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"}]},{\"cond\":{\"top.in_team\":[null]},\"template\":\"{}经验获取量在{}排名前{} \",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]},{\"cond\":{\"top.rank\":[1]},\"template\":\"{}经验获取量在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"}]},{\"template\":\"{}经验获取量在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"name\":\"top.in_team\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"rules_short\":[{\"cond\":{\"top.rank\":[1]},\"template\":\"经验获取量在排名第1\",\"template_args\":[]},{\"template\":\"经验获取量在排名前{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"vars\":[\"precondition\",\"top.in_team\",\"top.rank\"]},\"TEMPLATE_TOP_N_EXP_BATTLES\":{\"cntVars\":[\"top.rank\"],\"optVars\":[\"precondition\",\"top.in_team\"],\"rules\":[{\"cond\":{\"top.in_team\":[null],\"top.rank\":[1]},\"template\":\"在{}场{}中，获得的经验在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"}]},{\"cond\":{\"top.in_team\":[null]},\"template\":\"在{}场{}中，获得的经验在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"count\":\"top.rank\",\"isVar\":false,\"name\":\"IDS_OF_ALL\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]},{\"cond\":{\"top.rank\":[1]},\"template\":\"在{}场{}中，获得的经验在{}排名第1\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"isVar\":true,\"name\":\"top.in_team\"}]},{\"template\":\"在{}场{}中，获得的经验在{}排名前{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"},{\"isVar\":true,\"name\":\"top.in_team\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"rules_short\":[{\"cond\":{\"top.rank\":[1]},\"template\":\"经验获取量在排名第1\",\"template_args\":[]},{\"template\":\"经验获取量在排名前{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"top.rank\"}]}],\"vars\":[\"precondition\",\"top.in_team\",\"top.rank\",\"count\"]},\"TEMPLATE_TOTAL_CURRENCY\":{\"cntVars\":[\"count\"],\"optVars\":[\"precondition\"],\"rules\":[{\"template\":\"{}获得{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"precondition\"},{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"currency\"}]}],\"rules_short\":[{\"template\":\"获得{}\",\"template_args\":[{\"count\":2,\"isVar\":true,\"name\":\"currency\"}]}],\"vars\":[\"precondition\",\"count\",\"currency\"]},\"TEMPLATE_USE_CAMOUFLAGE\":{\"rules\":[{\"template\":\"必须在这艘战舰上安装{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"camouflage.id\"},{\"count\":1,\"isVar\":false,\"name\":\"IDS_CAMOUFLAGE\"}]}],\"setVars\":[\"camouflage.id\"],\"vars\":[\"camouflage.id\"]},\"TEMPLATE_USE_PERMOFLAGE\":{\"rules\":[{\"template\":\"必须在这艘战舰上安装{}{}\",\"template_args\":[{\"isVar\":true,\"name\":\"permoflage.id\"},{\"count\":1,\"isVar\":false,\"name\":\"IDS_PERMANENT_CAMOUFLAGE\"}]}],\"setVars\":[\"permoflage.id\"],\"vars\":[\"permoflage.id\"]},\"TEMPLATE_USE_SIGNALS\":{\"optVars\":[\"signal.group\"],\"rules\":[{\"cond\":{\"signal.group\":[null]},\"template\":\"\",\"template_args\":[]},{\"cond\":{\"count\":[1],\"signal.ids\":[null]},\"template\":\"必须在这艘战舰上安装{}个{}\",\"template_args\":[{\"isVar\":true,\"mod\":\"incl1\",\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"signal.group\"}]},{\"cond\":{\"signal.ids\":[null]},\"template\":\"必须在这艘战舰上安装{}个{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":true,\"name\":\"signal.group\"}]},{\"template\":\"必须在这艘战舰上安装{}个{}\",\"template_args\":[{\"count\":1,\"isVar\":true,\"name\":\"signal.group\"},{\"isVar\":true,\"name\":\"signal.ids\"}]}],\"setVars\":[\"signal.ids\"],\"vars\":[\"signal.group\",\"count\",\"signal.ids\"]},\"TEMPLATE_WIN_IN_BATTLES\":{\"cntVars\":[\"count\"],\"rules\":[{\"cond\":{\"count\":[1]},\"template\":\"赢得{}\",\"template_args\":[{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]},{\"template\":\"赢得{}场{}\",\"template_args\":[{\"isVar\":true,\"name\":\"count\"},{\"count\":\"count\",\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"rules_short\":[{\"template\":\"赢得{}\",\"template_args\":[{\"count\":1,\"isVar\":false,\"name\":\"IDS_BATTLES\"}]}],\"vars\":[\"count\"]}}}"
+
+msgid "IDS_STRATEGIC_ACTIONS_BANNER_TEXT_TERRITORY"
+msgstr "选定战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_BUTTON_TOOLTIP_MESSAGE"
+msgstr "阅读战报"
+
+msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
+msgstr "波罗的海舰队英勇事迹"
+
+msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS_TOOLTIP_TEXT"
+msgstr "完成战略行动任务以获得进度积分。"
+
+msgid "IDS_STRATEGIC_ACTIONS_NOTIFICATION_BONUS_STATUS"
+msgstr "在25.5版本“波罗的海舰队英勇事迹”活动期间有效"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_0"
+msgstr "参与波罗的海舰队在伟大卫国战争末期的行动。"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_1"
+msgstr "完成作战任务，了解苏联在波罗的海的作战行动。"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_2"
+msgstr "每场战略行动均有奖励。完成所有战略行动可获得最终奖励！"
+
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TITLE_1"
+msgstr "战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
+msgstr "查看战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
+msgstr "已完成的战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_STATUS_TASK"
+msgstr "您可以继续完成其他战略行动并获得奖励。"
+
+msgid "IDS_STRATEGIC_ACTIONS_STATUS_TERRITORY"
+msgstr "选择战略行动以开始接收任务"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_ACTIVE_TASK_TOOLTIP_TEXT"
+msgstr "每场战略行动包含多个任务——单场战斗中只能完成其中一项。当前任务随每次战斗而改变。"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_AVAILABLE"
+msgstr "选定战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_LOCKED"
+msgstr "首场战略行动未完成"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_MARKER_TOOLTIP_STATUS_LOCKED"
+msgstr "需要先完成首场战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TITLE"
+msgstr "战略行动完成奖励"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
+msgstr "战略行动奖励"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
+msgstr "已选定战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_STATUS_DONE"
+msgstr "已完成战略行动"
+
+msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_TASKS_LIST"
+msgstr "战略行动任务清单"
+
+msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_PROGRESSBAR_TITLE"
+msgstr "距离下一奖励："
+
+msgid "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgid_plural "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgstr[0] "需要完成%(_count)s场战略行动"
+
+msgid "IDS_SUBST_STRATEGIC_ACTIONS_COMMON_EVENT_STATUS_TIME"
+msgstr "距离活动结束还剩：%(_timeLeft)s"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "已购买纪念代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
+msgstr "已购买炫彩代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "已获得纪念代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
+msgstr "已获得炫彩代币"
+
+msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
+msgstr "“波罗的海舰队英勇事迹”活动奖励"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "纪念代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
+msgstr "炫彩代币已移除"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_0"
+msgstr "最高统帅部正在筹备解放被占领土的作战行动。舰队任务：对抗敌方海军并保障海运安全。"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_1"
+msgstr "敌军被彻底击溃，苏联取得伟大卫国战争胜利。波罗的海舰队圆满完成既定任务，为红军提供了重要支援。"
