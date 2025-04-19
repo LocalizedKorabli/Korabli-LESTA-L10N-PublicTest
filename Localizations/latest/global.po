@@ -9878,16 +9878,22 @@ msgid "IDS_CHAT_DISABLE_HINT"
 msgstr "屏蔽来自其他玩家的消息"
 
 msgid "IDS_CHAT_DREADNOUGHT_PVE_MAKAROV_1"
-msgstr "这些铁疙瘩看起来和帝国的战舰有几分相似，但没有灵魂。不管怎么说，为了人类的荣光，此战必胜！"
+msgstr "这些锈铁疙瘩看起来和帝国的战舰有几分相似，但没有灵魂。不管怎么说，为了上帝、沙皇和帝国，此战必胜！"
 
 msgid "IDS_CHAT_DREADNOUGHT_PVE_MAKAROV_2"
 msgstr "英雄所见略同。愿风暴与我们同在。撕碎它们！"
 
 msgid "IDS_CHAT_DREADNOUGHT_PVE_TOGO_1"
-msgstr "马卡洛夫君，它们来了。黑云压城一般，而我们无路可退。"
+msgstr ""
+"敵旌蔽海來\n"
+"黒雲迫陣龍艦徊\n"
+"橫刀誓不還"
 
 msgid "IDS_CHAT_DREADNOUGHT_PVE_TOGO_2"
-msgstr "齿轮造就之物怎可与人相比？让它们见识见识吧，侧翼交给您，中路我来！"
+msgstr ""
+"齒輪豈及人\n"
+"鐵艦裂濤天威震\n"
+"兩翼鎖雲門"
 
 msgid "IDS_CHAT_ENABLE_HINT"
 msgstr "接收来自其他玩家的消息"
