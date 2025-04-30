@@ -2481,7 +2481,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_SUPERWARRIOR"
 msgstr "Уничтожить 20 кораблей противника в одном бою."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_TRIPLE_KILL"
-msgstr "Уничтожить 3 корабля противника с интервалом не более 20 секунд."
+msgstr "Уничтожить 3 корабля противника с интервалом не более 10 секунд."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DREADNOUGHT_TROPHY_WIN_MEMORABLE"
 msgstr "Победить в бою, сражаясь на трофейном крейсере Железной орды."
