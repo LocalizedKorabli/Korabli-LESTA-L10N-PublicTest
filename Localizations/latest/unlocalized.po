@@ -123361,7 +123361,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
 msgstr "Обменять"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_DESCRIPTION"
-msgstr "<p>Здесь вы можете обменять материалы на чертёж случайного корабля.</p><p class="
+msgstr "<p>Здесь вы можете обменять материалы на чертёж случайного корабля.</p><p class=\"p_spacing\"> </p><p>Вы не можете получить чертёж корабля, который у вас есть в Порту. За чертёж корабля, который у вас уже есть в Ремонтном доке, вы получите компенсацию.</p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_EMPTY_LIST"
 msgstr "<p>Вы можете ознакомиться с полным списком чертежей, доступных для получения в обмен на материалы.</p><p>Список периодически обновляется, следите за изменениями!</p>"
@@ -123372,7 +123372,7 @@ msgstr "Выберите уровень:"
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_PERCENT_RATE"
 msgstr ""
 "<p>Вероятность получения\n"
-"нового чертежа: <span class="
+"нового чертежа: <span class=\"percentRate\">%(_percentRate)s</span></p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_TITLE"
 msgstr "Обменять материалы на чертёж"

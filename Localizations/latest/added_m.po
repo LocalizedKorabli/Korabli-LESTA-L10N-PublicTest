@@ -224,7 +224,7 @@ msgid "IDS_MODAL_WINDOW_PCVT004_MANEUVER_PRIME_BATTLE_RULES_HEADER"
 msgstr "驱逐舰机动"
 
 msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_HEADER"
-msgstr "ОЧКИ"
+msgstr "简介"
 
 msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_TEXT_1"
 msgstr "每个阶段获得积分的条件不同。若您的战舰被敌舰命中，则会损失积分。"
