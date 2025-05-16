@@ -121915,7 +121915,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
 msgstr "兑换"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_DESCRIPTION"
-msgstr "<p>您可以在此用维修材料兑换战舰蓝图。</p><p class=\\\"p_spacing\\\"> </p><p>您将不会获得已拥有战舰的蓝图。若之前已拥有相同蓝图（但仍未修复），您将得到补偿。</p>"
+msgstr "<p>您可以在此用维修材料兑换战舰蓝图。</p><p class=\"p_spacing\"> </p><p>您将不会获得已拥有战舰的蓝图。若之前已拥有相同蓝图（但仍未修复），您将得到补偿。</p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_EMPTY_LIST"
 msgstr "<p>您可以在此看到可用维修材料兑换的战舰蓝图的完整清单。</p><p>清单会定期更新，敬请关注！</p>"
@@ -121924,9 +121924,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_LEVEL_TITLE"
 msgstr "选择等级："
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_PERCENT_RATE"
-msgstr ""
-"<p>获得\n"
-"新蓝图：<span class=\"percentRate\">%(_percentRate)s</span></p>"
+msgstr "<p>获得新蓝图的概率：<span class=\"percentRate\">%(_percentRate)s</span></p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_TITLE"
 msgstr "用维修材料兑换蓝图"
@@ -121935,7 +121933,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING"
 msgstr "没有合适资源兑换"
 
 msgid "IDS_SHIP_COMPONENTS_GET_TITLE"
-msgstr "获得蓝图"
+msgstr "获取蓝图"
 
 msgid "IDS_SHIP_COMPONENTS_LIST_ALL"
 msgstr "完整清单"
