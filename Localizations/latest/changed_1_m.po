@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_PISA510_DESCR"
+msgstr "<p>帝国于1938年安放龙骨，但却因第二次世界大战的爆发而停工。在帝国的建造工作停止时，其总体完成度仅有28%，但舰体完成度已达88%，而动力系统完成度则为76%。</p><p class=\"p_spacing\"> </p><p>20世纪40年代初，意大利海军曾一度考虑将其改装为航空母舰，但由于成本高昂、船厂资源紧张以及之后意大利退出战争的举措，该计划最终未能实施。最后帝国被德军缴获。</p>"
+
+msgid "IDS_PISB539_DESCR"
+msgstr "<p>维托里奥•维内托级战列舰的第二批次之一帝国号战列舰，是为了响应1938年的海军扩充计划而建造。该批次战舰相较于首批姊妹舰而言，在舰首部分略微抬高了甲板，以提升海况适应能力。该舰于1938年5月在热那亚安萨尔多造船厂安放龙骨。</p><p class=\"p_spacing\"> </p><p><b>帝国</b>于1939年11月下水，但因第二次世界大战爆发而未能完工。1940年6月，该舰被拖往布林迪西，安装了动力系统及几座小口径防空炮。直到1942年停工时，该舰的建造完成度仅为28%。</p><p class=\"p_spacing\"> </p><p>1942年，<b>帝国</b>先被转移到威尼斯、随后又被转移到的里雅斯特。1943年意大利投降后，这艘未完工的舰艇被德军缴获，随后在盟军的空袭中受损并沉没。1947年，她的舰体重新打捞、并拖回威尼斯进行了拆解。</p>"
+
+msgid "IDS_PJSC540_DESCR"
+msgstr "<p>1941年，日本通过了一项海军扩充计划，计划内包括了建造4艘专门为驱逐舰队提供对空火力支援的小型巡洋舰。而这些被称为“815项目”的战舰拥有5800吨的标准排水量，设计作为秋月级驱逐舰的领舰。</p><p class=\"p_spacing\"> </p><p>除专用防空巡洋舰的方案外，日本海军还曾考虑将正在建造的大淀级巡洋舰进行改装，或基于其舰体建造新型战舰。按照设计，每艘巡洋舰将计划配备12座双联装100毫米/65倍径高平两用炮，其火力足以和三艘秋月级驱逐舰相媲美。其中，处于舰体中轴线上的火炮将计划被安置于封闭式炮塔内，而位于舷侧的炮塔则使用半开放式设计。</p>"
+
+msgid "IDS_PRSB549_DESCR"
+msgstr "<p><i>在峡谷的隘口之外，城堡塔楼如同守卫的巨人屹立于峭壁之上，那里沉睡着一片古老的土地。翡翠般的山谷在鎏金云彩下安然酣眠，永恒的积雪为群峰戴上了银质冠冕。这片土地严酷而孤傲，却如同那些沧桑要塞般蕴藏着蓬勃生机。</i></p><p class=\"p_spacing\"> </p><p><i>于那嶙峋峭壁被千年风霜雕琢的彼端，传说依然鲜活，甜美歌谣流淌不息——那是片古老却青春永葆的大地。</i></p>"
+
+msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
+msgstr "<p>按下[CMD_AMMO_SLOT_1]可选择炮射烟雾弹。</p><p class=\"p_spacing\"> </p><p>在炮弹爆炸区域制造烟幕。</p><p class=\"p_spacing\"> </p><p>烟幕可降低您的战舰或友军战舰被敌人发现的可能性。</p>"
+
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE_DESCRIPTION"
+msgstr "<p>您战舰的主炮只能使用“连发射击”模式。</p><p class=\"p_spacing\"> </p><p>您可以在短时间内进行多次射击，但射击完毕后的装填时间较长。</p>"
+
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_1"
+msgstr "位于烟幕中时，您的被侦察范围会缩小到2公里"
+
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_4"
+msgstr "掩护队友，在不被发现的情况下尽可能多地用鱼雷造成伤害"
