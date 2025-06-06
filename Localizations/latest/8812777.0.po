@@ -4832,7 +4832,7 @@ msgid "IDS_AI_LEVEL_TOOLTIP"
 msgstr "电脑玩家的AI水平"
 
 msgid "IDS_AKENO_MASHIRO"
-msgstr "Akeno Misaki"
+msgstr "岬明乃"
 
 msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
 msgstr "不足以兑换：%(_deficit)d"
@@ -5237,7 +5237,7 @@ msgid "IDS_APPOINT_PLAYER_TO_COMMANDER"
 msgstr "指派为指挥官"
 
 msgid "IDS_APRAKSIN"
-msgstr "Fyodor Apraksin"
+msgstr "费奥多尔•阿普拉克辛"
 
 msgid "IDS_APRIL_FOOLS_DAY_BANNER_HEADER"
 msgstr "太空战役"
@@ -21310,7 +21310,7 @@ msgid "IDS_DE_SEREBRENNIKOV"
 msgstr "彼得•谢列布连尼科夫"
 
 msgid "IDS_DIEHARD_CAP"
-msgstr "Johannes Meck-Leyne"
+msgstr "约翰内斯•梅克-莱恩"
 
 msgid "IDS_DIFFERENT_LEAGUES_IN_DIVISION"
 msgstr "想要参加排位战，小队的全部成员必须属于同一级别联赛。"
@@ -34950,7 +34950,7 @@ msgid "IDS_ISNOWGIANT2022"
 msgstr "Gelo Regali"
 
 msgid "IDS_ISOROKU"
-msgstr "Isoroku"
+msgstr "五十六猫"
 
 msgid "IDS_ISSUED_STAMP"
 msgstr "已发放"
@@ -35409,7 +35409,7 @@ msgid "IDS_KOSHEJ"
 msgstr "不朽的科西切"
 
 msgid "IDS_KOUKO_NOSA"
-msgstr "Kouko Nosa"
+msgstr "纳沙幸子"
 
 msgid "IDS_KSANKA_SHCHUS"
 msgstr "桑卡•什丘斯"
@@ -35609,7 +35609,7 @@ msgid "IDS_LEVEL_RESTRICTIONS_FOR_DIVISION_TOOLTIP"
 msgstr "此等级战舰在小队中的数量限制"
 
 msgid "IDS_LIBERTY"
-msgstr "Statue of Liberty"
+msgstr "自由女神像"
 
 msgid "IDS_LICENCE_INFO"
 msgstr "法律信息"
@@ -38129,7 +38129,7 @@ msgid "IDS_MARKER_NEW"
 msgstr "新内容"
 
 msgid "IDS_MARON_YANAGIWARA"
-msgstr "Maron Yanagiwara"
+msgstr "柳原麻仑"
 
 msgid "IDS_MASTER_VOLUME"
 msgstr "总音量"
@@ -38329,7 +38329,7 @@ msgid "IDS_MEGATRON"
 msgstr "威震天"
 
 msgid "IDS_MEI_IRIZAKI"
-msgstr "Mei Irizaki"
+msgstr "西崎芽依"
 
 msgid "IDS_MENU_GUIDE"
 msgstr "训练"
@@ -38416,7 +38416,7 @@ msgid "IDS_MINAKAMISHIORI_OBONFEST"
 msgstr "Minakami Shiori"
 
 msgid "IDS_MINA_THEA"
-msgstr "Thea Kreutzer"
+msgstr "蒂亚•克鲁茨"
 
 msgid "IDS_MINA_URA"
 msgstr "Mina Hurray"
@@ -40302,7 +40302,7 @@ msgid "IDS_MODULE_TYPE_TORPEDOES_DEEPWATER"
 msgstr "深水鱼雷"
 
 msgid "IDS_MOEKA_CHINA"
-msgstr "Moeka China"
+msgstr "知名萌香"
 
 msgid "IDS_MONDAY"
 msgstr "周一"
@@ -40977,6 +40977,30 @@ msgid "IDS_NAME40"
 msgstr "目标"
 
 msgid "IDS_NAME41"
+msgstr "目标"
+
+msgid "IDS_NAME410"
+msgstr "目标"
+
+msgid "IDS_NAME411"
+msgstr "目标"
+
+msgid "IDS_NAME412"
+msgstr "目标"
+
+msgid "IDS_NAME413"
+msgstr "目标"
+
+msgid "IDS_NAME414"
+msgstr "目标"
+
+msgid "IDS_NAME415"
+msgstr "目标"
+
+msgid "IDS_NAME416"
+msgstr "目标"
+
+msgid "IDS_NAME417"
 msgstr "目标"
 
 msgid "IDS_NAME42"
@@ -67538,7 +67562,7 @@ msgid "IDS_PCZC117_NY2018_JAMAICA_SHIP_DESCRIPTION"
 msgstr "<p>HMS Jamaica是一艘斐济级(又称Crown Colony级)的轻型巡洋舰。刚好在第二次世界大战爆发前开始建造，于1942年中旬开始了它的战争生涯。</p><p class=\"p_spacing\"> </p><p>1943年12月，HMS Jamaica成为了由约克公爵所率领舰队的成员。该巡洋舰在北角海战中和旗舰并驾齐驱，第一次齐射就命中了目标，并且保持着罕见的射速。Jamaica所发射的152毫米炮弹总数就达到可461发，远超参与这场海战的其它英国巡洋舰。到了战斗的最后阶段，Jamaica还成功用鱼雷并命中了一到两次。</p>"
 
 msgid "IDS_PCZC118_NY2018_Z29_SHIP"
-msgstr "驱逐舰 Z-29"
+msgstr "驱逐舰Z-29"
 
 msgid "IDS_PCZC118_NY2018_Z29_SHIP_DESCRIPTION"
 msgstr "<p>除沙恩霍斯特外，1943年12月曾在北极海域作战的德国海军部队中还包含由五艘战舰组成的第四驱逐舰队。其中两艘(Z-29和Z-30)为1936A舰级，其余三艘(Z-33、Z-34、Z-38)被归为19 36A (Mob)级。这些战舰都装备了四到五门149毫米舰炮以及两门533毫米四联装鱼雷发射管。最高航速可达37节。</p><p class=\"p_spacing\"> </p><p>1943年12月26日的早上，搜寻盟军运输船团时由于暴风雨气候和北极的夜晚条件，这些驱逐舰在首次接触到英国战舰前就与旗舰走失。几小时后，德国海军部队的指挥官海军少将Bey命令它们返回基地。在后续的战斗中，沙恩霍斯特独自作战直到沉没。若这些驱逐舰不与旗舰走失，就有很大可能性干扰英国部队的行动，为旗舰赢得逃生机会，使沙恩霍斯特不用面对敌人就能安全地返回挪威的狭湾。</p>"
@@ -67568,7 +67592,7 @@ msgid "IDS_PCZC122_NY2018_KRIEGSMARINEFLAG_DESCRIPTION"
 msgstr "<p>这面指挥旗就悬挂在战舰的一个桅杆上，带有舰上部队指挥官持有的海军少将军阶。德国海军海军少将旗完全反映自德意志帝国海军海军少将旗：方形的白色背景上有个铁十字勋章并带有两个黑点。</p><p class=\"p_spacing\"> </p><p>1943年12月，德国海军驱逐舰指挥官兼纳尔维克海战英雄的海军少将ErichBey，在北冰洋率领着由各作战战舰所组成的德国部队。他下令队上唯一的一艘大型战舰升起他的旗帜─战列舰沙恩霍斯特，然后于1943年12月28日的北角海战中登舰。</p>"
 
 msgid "IDS_PCZC123_HSF_MISAKI_AKENO"
-msgstr "Akeno Misaki"
+msgstr "岬明乃"
 
 msgid "IDS_PCZC123_HSF_MISAKI_AKENO_DESCRIPTION"
 msgstr "<p><h3>职务：</h3> 舰长/班长</p><p class=\"p_spacing\"> </p><p><h3>爱好/特长：</h3> 独木舟</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>咖哩</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>生蚝</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>日语</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>数学</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“船到桥头自然直！”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>开朗大方，行动力强。运气好。</p>"
@@ -67586,13 +67610,13 @@ msgid "IDS_PCZC125_HSF_SHIMA_TATEISHI_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>炮术长/炮术委员</p><p class=\"p_spacing\"> </p><p><h3>兴趣/日常：</h3> 看体育比赛、垒球</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>咖喱、煎鸡肉</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>杂烩粥、米粥</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>体育</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>理科</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“沉默是金”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>沉默寡言，不擅长交流。</p>"
 
 msgid "IDS_PCZC126_HSF_MEI_IRIZAKI"
-msgstr "Mei Irizaki"
+msgstr "西崎芽依"
 
 msgid "IDS_PCZC126_HSF_MEI_IRIZAKI_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>武器长/鱼雷长</p><p class=\"p_spacing\"> </p><p><h3>兴趣/日常：</h3> 将棋(日本象棋)、鱼雷战游戏</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>鳗鱼饭</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>冷荞麦面</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>日本史</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>体育</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“杜鹃不鸣则杀之”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>急躁。</p>"
 
 msgid "IDS_PCZC127_HSF_KOUKO_NOSA"
-msgstr "Kouko Nosa"
+msgstr "纳沙幸子"
 
 msgid "IDS_PCZC127_HSF_KOUKO_NOSA_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>记录员/书记</p><p class=\"p_spacing\"> </p><p><h3>兴趣/日常：</h3> 读书、电影鉴赏</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>豆腐</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>火锅料理</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>世界史</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>美术</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“在摇篮中记起的事情，直到墓地都不忘”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>会做十分夸张的独角戏</p>"
@@ -67676,7 +67700,7 @@ msgid "IDS_PCZC140_HSF_MACHIKO_NOMA_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>监视员</p><p class=\"p_spacing\"> </p><p><h3>兴趣/特长：</h3>天体观测、夜间视物</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>蓝莓</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>栗子</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>理科(天文)</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>日语</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“天有繁星，地有百花，人间有爱”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>视力很好，但为了看见远方而总是戴着眼镜。经常在犯迷糊</p>"
 
 msgid "IDS_PCZC141_HSF_MARON_YANAGIWARA"
-msgstr "Maron Yanagiwara"
+msgstr "柳原麻仑"
 
 msgid "IDS_PCZC141_HSF_MARON_YANAGIWARA_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>工程长/工程委员</p><p class=\"p_spacing\"> </p><p><h3>兴趣/特长：</h3>切开鱼</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>烤肉</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>刺身</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>数学</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>英语</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“爱汝之邻”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>生于千叶，但内心是江户人(东京的孩子)。</p>"
@@ -67760,7 +67784,7 @@ msgid "IDS_PCZC154_HSF_WILHELMINA_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>海军上将施佩伯爵副长</p><p class=\"p_spacing\"> </p><p><h3>兴趣/特长：</h3>国际象棋、网球</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>酸菜白香肠</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>全部日本料理</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>德国史</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>无</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“Hochmut kommt vor dem Fall(骄兵必败)”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>真诚有主见，有毅力和活力</p>"
 
 msgid "IDS_PCZC155_HSF_MOEKA_CHINA"
-msgstr "Moeka China"
+msgstr "知名萌香"
 
 msgid "IDS_PCZC155_HSF_MOEKA_CHINA_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>武藏舰长</p><p class=\"p_spacing\"> </p><p><h3>兴趣/特长：</h3>独木舟</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>牛肉盖饭</p><p class=\"p_spacing\"> </p><p><h3>不喜欢的食物：</h3>无</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>全部</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>无</p><p class=\"p_spacing\"> </p><p><h3>口头禅：</h3>“没有能胜过努力的天才”</p><p class=\"p_spacing\"> </p><p><h3>性格：</h3>优秀且具备领袖气质。总是鼓励着Akeno。</p>"
@@ -67772,7 +67796,7 @@ msgid "IDS_PCZC156_HSF_ISOROKU_DESCRIPTION"
 msgstr "<h3>职务：</h3> 上将"
 
 msgid "IDS_PCZC157_HSF_THEA_KREUTZER"
-msgstr "Thea Kreutzer"
+msgstr "蒂亚•克鲁茨"
 
 msgid "IDS_PCZC157_HSF_THEA_KREUTZER_DESCRIPTION"
 msgstr "<p><h3>职务：</h3>海军上将施佩伯爵舰长</p><p class=\"p_spacing\"> </p><p><h3>兴趣/特长：</h3>国际象棋、解密</p><p class=\"p_spacing\"> </p><p><h3>喜欢的食物：</h3>德国咖喱肠、烤肉排</p><p class=\"p_spacing\"> </p><p><h3>擅长科目：</h3>数学</p><p class=\"p_spacing\"> </p><p><h3>不擅长科目：</h3>音乐</p>"
@@ -72572,7 +72596,7 @@ msgid "IDS_PER_BATTLE"
 msgstr "每场战斗"
 
 msgid "IDS_PETER_THE_GREAT"
-msgstr "Pyotr Velikiy"
+msgstr "彼得大帝"
 
 msgid "IDS_PFAB501_BEARN_STOCK"
 msgstr "Levasseur PL.108"
@@ -78970,7 +78994,7 @@ msgid "IDS_PGSC706"
 msgstr "HSF施佩伯爵"
 
 msgid "IDS_PGSC706_DESCR"
-msgstr "威廉港校的德意志级直教舰。此战舰的指挥官为Thea Kreutzer，副指挥官为Wilhelmina。此战舰在排水量相当于训练用巡洋舰的舰身装上了28公分舰炮，柴油推进系统为它带来了更大的巡航范围。使它在远距离航行中很有价值。战舰来自系列动画“High School Fleet”。在动画中，它的远程巡航能力被运用在国外贸易上。"
+msgstr "威廉港校的德意志级直教舰。此战舰的指挥官为蒂亚•克鲁茨，副指挥官为Wilhelmina。此战舰在排水量相当于训练用巡洋舰的舰身装上了28公分舰炮，柴油推进系统为它带来了更大的巡航范围。使它在远距离航行中很有价值。战舰来自系列动画“High School Fleet”。在动画中，它的远程巡航能力被运用在国外贸易上。"
 
 msgid "IDS_PGSC706_FULL"
 msgstr "HSF海军上将施佩伯爵"
@@ -85759,7 +85783,7 @@ msgid "IDS_PJES524_VANHELLSINK"
 msgstr "布莱德"
 
 msgid "IDS_PJES528_HSF_HAREKAZE_CAT"
-msgstr "HSF ISOROKU"
+msgstr "HSF五十六猫"
 
 msgid "IDS_PJES530_MAD_HARUGUMO"
 msgstr "水世界之主"
@@ -126400,7 +126424,7 @@ msgid "IDS_SORT_BY_NATION"
 msgstr "按国家"
 
 msgid "IDS_SORT_BY_SHIPTYPE"
-msgstr "按类型"
+msgstr "按战舰类型"
 
 msgid "IDS_SORT_BY_TYPE"
 msgstr "按类型"
@@ -126427,7 +126451,7 @@ msgid "IDS_SOUND_MOD_ANIME_MAGA_LEILA_ANIME"
 msgstr "艾拉"
 
 msgid "IDS_SOUND_MOD_APRAKSIN"
-msgstr "Fyodor Apraksin"
+msgstr "费奧多尔•阿普拉克辛"
 
 msgid "IDS_SOUND_MOD_ARIA_DUBININ_ARIA"
 msgstr "维塔利•杜比宁"
@@ -126625,7 +126649,7 @@ msgid "IDS_SOUND_MOD_DEFAULT_DESCRIPTION"
 msgstr "您团队的指挥官使用所选的配音语言说话。当使用有独特台词的指挥官时，标准配音将被替换。"
 
 msgid "IDS_SOUND_MOD_DIEHARD_CAP"
-msgstr "Johannes Meck-Leyne"
+msgstr "约翰内斯•梅克-莱恩"
 
 msgid "IDS_SOUND_MOD_DOBROJIR_DROBODANOVICH"
 msgstr "多布罗日尔•德罗波丹诺维奇"
@@ -126685,25 +126709,25 @@ msgid "IDS_SOUND_MOD_FREDRIK_HENRIK"
 msgstr "Fredrik Henrik af Chapman"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_AKENO_MASHIRO"
-msgstr "HSF Akeno Misaki"
+msgstr "HSF岬明乃"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_ISOROKU"
-msgstr "HSF Isoroku"
+msgstr "HSF五十六猫"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_KOUKO_NOSA"
-msgstr "HSF Kouko Nosa"
+msgstr "HSF纳沙幸子"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MARON_YANAGIWARA"
-msgstr "HSF Maron Yanagiwara"
+msgstr "HSF柳原麻仑"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MEI_IRIZAKI"
-msgstr "HSF Mei Irizaki"
+msgstr "HSF西崎芽依"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MINA_THEA"
-msgstr "HSF Thea Kreutzer"
+msgstr "HSF蒂亚•克鲁茨"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MOEKA_CHINA"
-msgstr "HSF Moeka China"
+msgstr "HSF知名萌香"
 
 msgid "IDS_SOUND_MOD_HOLOLIVE_AMELIA_WATSON"
 msgstr "Watson Amelia (hololive production)"
@@ -126733,7 +126757,7 @@ msgid "IDS_SOUND_MOD_KINDZADZA_VOVA_SKRIPACH"
 msgstr "沃瓦叔叔&小提琴手"
 
 msgid "IDS_SOUND_MOD_LIBERTY"
-msgstr "Statue of Liberty"
+msgstr "自由女神像"
 
 msgid "IDS_SOUND_MOD_LOGH_DUSTY_LOGH"
 msgstr "Dusty Attemborough"
@@ -126820,7 +126844,7 @@ msgid "IDS_SOUND_MOD_NEWYEAR2023_12_MONTHS_MARCH"
 msgstr "春之使者"
 
 msgid "IDS_SOUND_MOD_PETER_THE_GREAT"
-msgstr "Pyotr Velikiy"
+msgstr "彼得大帝"
 
 msgid "IDS_SOUND_MOD_PIRATE"
 msgstr "海盗"
