@@ -10,222 +10,338 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.6\n"
 
-msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_RANDOM_OR_RANK"
-msgstr "随机战、排位战和评级战"
+msgid "IDS_BURN_CHANCE_BONUS_CHANGED"
+msgstr "造成火灾的几率已提高"
 
-msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
-msgstr "无国籍"
+msgid "IDS_BURN_CHANCE_FACTOR_BIG_CHANGED"
+msgstr "造成火灾的几率已提高"
 
-msgid "IDS_CURRENCY_BRASS_GET_DESCRIPTION"
-msgstr "通过参加排位战、军团战或评级战获得。"
+msgid "IDS_BY_EXPERIENCE"
+msgstr "基础经验"
 
-msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "假日代币"
+msgid "IDS_CONTEXT_BATTLE_AGAINST_SUBMARINE_HINT"
+msgstr "发现水下的潜艇后，使用深水炸弹"
 
-msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "在25.6版本中，通过达成战斗通行证后续进度等级或是从兵工厂“俄罗斯日”版块中的礼包中获得。"
+msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_PLAYER_SUBMARINE_HINT"
+msgstr "潜艇被声呐脉冲命中！您可能成为敌方潜艇鱼雷的目标。"
 
-msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "在25.6版本结束前，用于兑换兵工厂“俄罗斯日”版块中的奖励。包括：IX级战列舰格鲁吉亚，IX级巡洋舰罗西亚阿拉斯加，IX级巡洋舰陶里亚蒂，以及其他资源。"
+msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_RESET_HINT"
+msgstr "使用损害管制小组消耗品来阻止敌方潜艇发射的鱼雷进行制导"
 
-msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "临时资源。25.7版本发布后，代币将被无偿收回。"
+msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_US_HINT"
+msgstr "战舰被声呐脉冲命中！您可能成为敌方潜艇鱼雷的目标。"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT"
-msgstr "蓝图 | %(_shipName)s"
+msgid "IDS_CONTEXT_OIL_LEAK_PENDING_HINT"
+msgstr "燃油系统受损。位于水下的潜艇将在水面上留下明显的油迹"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
-msgstr "通过参加活动获得，或使用维修材料兑换。"
+msgid "IDS_CONTEXT_PINGER_GUN_HOW_TO"
+msgstr "使用声呐脉冲命中敌舰以将其设定为鱼雷的目标"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
-msgstr "蓝图 | %(_shipName)s"
+msgid "IDS_CONTEXT_PINGER_GUN_TORPEDOES_SHOT"
+msgstr "被声呐脉冲标记的战舰将成为您之后发射鱼雷的目标"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
-msgstr "蓝图"
+msgid "IDS_CONTEXT_SUBMARINE_MULTIPLE_TARGETS_HINT"
+msgstr "想要同时攻击多个目标，使用声呐脉冲命中不同战舰并发射鱼雷。"
 
-msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
-msgstr "用于让对应的战舰进入您的维修船坞中进行修复。"
+msgid "IDS_CONTEXT_SUBMARINE_SELECT_ACTIVE_WAVE_HIT"
+msgstr "用声呐脉冲标记另一艘战舰，下一枚鱼雷将以它为目标"
 
-msgid "IDS_CURRENCY_SHIPMATERIAL"
-msgstr "维修材料 | %(_shipLevel)s级"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
+msgstr "位于潜望深度时：不消耗下潜能力，并会持续进行被动声呐定位；但航速降低，对战舰的侦察范围缩小"
 
-msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
-msgstr "通过开启“维修”补给箱或参加活动获得。"
+msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
+msgstr "位于工作深度时：航速较高，并会持续进行被动声呐定位；但对战舰的侦察范围大幅缩小"
 
-msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
-msgstr "用于在维修船坞修复战舰，或兑换战舰蓝图。"
+msgid "IDS_CURRENCY_EVENTUM_1"
+msgstr "海军代币"
 
-msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "无法使用消耗品。"
+msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
+msgstr "通过在25.7版本的有限时间内完成作战任务，以及在25.7版本结束前从兵工厂的礼包中获得。"
 
-msgid "IDS_DOGTAG_PCNB122_DESCRIPTION"
-msgstr "授予玩家锦标赛的参与者。"
+msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
+msgstr "用于在25.7版本结束前兑换IX级巡洋舰谢尔巴科夫和VIII级巡洋舰德米特里•波扎尔斯基，谢尔巴科夫和X级战列舰红旗的永久涂装“辉煌”，“海洋盛典”高级补给箱以及其他资源。"
 
-msgid "IDS_DOGTAG_PCNB122_NAME"
-msgstr "竞争对手"
+msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
+msgstr "临时资源。25.8版本更新后，代币将被无偿收回。"
 
-msgid "IDS_DOGTAG_PCNB355_DESCRIPTION"
-msgstr "为纪念第14届玩家锦标赛。"
+msgid "IDS_CURRENCY_EVENTUM_3"
+msgstr "法国代币"
 
-msgid "IDS_DOGTAG_PCNB355_NAME"
-msgstr "玩家锦标赛XIV"
+msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
+msgstr "通过在25.7版本结束前完成作战任务、达到战斗通行证等级，以及在25.8版本结束前从兵工厂的礼包中获得。"
 
-msgid "IDS_DOGTAG_PCNU066_DESCRIPTION"
-msgstr "在玩家群体中举行的大型竞赛。参赛队伍比拼战术和战略，观众则屏息观战。"
+msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
+msgstr "用于在25.8版本结束前兑换包含以下内容的连续礼包链：VIII级潜艇非洲女郎，X级潜艇卡萨比安卡，VI级潜艇黛安和非洲女郎的永久加成包，非洲女郎和卡萨比安卡的永久涂装，以及其他资源。"
 
-msgid "IDS_DOGTAG_PCNU066_NAME"
-msgstr "玩家锦标赛：新兵"
+msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
+msgstr "“法国潜艇”活动的临时资源。25.9版本更新后，代币将被无偿收回。"
 
-msgid "IDS_DOGTAG_PCNU067_DESCRIPTION"
-msgstr "在玩家群体中举行的大型竞赛。参赛队伍比拼战术和战略，观众则屏息观战。"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE"
+msgstr "<p>用深水炸弹对标记区域进行空中轰炸。</p><p class=\"p_spacing\"> </p><p>深水炸弹将在水中停留一段时间，于潜艇或其他目标附近引爆。有概率瘫痪配件，造成火灾、进水。较容易瘫痪敌方潜艇的声呐。可拆毁鱼雷与水雷，并对水面战舰造成轻微伤害。</p>"
 
-msgid "IDS_DOGTAG_PCNU067_NAME"
-msgstr "玩家锦标赛：老兵"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE_AUTO"
+msgstr "<p>若潜艇暴露位置，将自动对潜在的潜艇位置空投深水炸弹。</p><p class=\"p_spacing\"> </p><p>深水炸弹将在水中停留一段时间，于潜艇或其他目标附近引爆。有概率瘫痪配件，造成火灾、进水。较容易瘫痪敌方潜艇的声呐。可拆毁鱼雷与水雷，并对水面战舰造成轻微伤害。</p>"
 
-msgid "IDS_DOGTAG_PCNU068_DESCRIPTION"
-msgstr "在玩家群体中举行的大型竞赛。参赛队伍比拼战术和战略，观众则屏息观战。"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DEPTHCHARGE"
+msgstr "<p>于水中停留一段时间后，在潜艇或其他目标附近引爆。</p><p class=\"p_spacing\"> </p><p>有概率瘫痪配件，造成火灾、进水。较容易瘫痪敌方潜艇的声呐。</p><p class=\"p_spacing\"> </p><p>可拆毁鱼雷与水雷，并对水面战舰造成轻微伤害。</p>"
 
-msgid "IDS_DOGTAG_PCNU068_NAME"
-msgstr "玩家锦标赛：精英"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER"
+msgstr "<p>声呐脉冲会在命中目标时标记所触区域。声呐制导鱼雷将被导向此处。</p><p class=\"p_spacing\"> </p><p>再次命中高亮区域可延长效果时间并提高声呐制导鱼雷的机动性。</p><p class=\"p_spacing\"> </p><p>发射出的鱼雷将被导向优先目标，即最近一次高亮的舰体区域。</p>"
 
-msgid "IDS_DOGTAG_PCNU069_DESCRIPTION"
-msgstr "在玩家群体中举行的大型竞赛。参赛队伍比拼战术和战略，观众则屏息观战。"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SS"
+msgstr "<p>在炮弹爆炸区域制造烟幕。烟幕可降低被敌人发现的可能性。</p><p class=\"p_spacing\"> </p><p>这类炮弹<b>不会</b>造成伤害。</p>"
 
-msgid "IDS_DOGTAG_PCNU069_NAME"
-msgstr "玩家锦标赛：优胜者"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT"
+msgstr "<p>声呐制导鱼雷能够造成可观的伤害，并有一定几率造成进水。</p><p class=\"p_spacing\"> </p><p>每枚鱼雷发射前需向敌舰发射声呐脉冲进行制导，声呐与鱼雷发射管将自动切换。</p><p class=\"p_spacing\"> </p><p>对高机动性及轻型装甲目标尤为有效。</p>"
 
-msgid "IDS_GUIDING_TIP_294_DESC"
-msgstr "这里有需要修复的战舰。修理完成后即可将这些战舰收入麾下！"
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr "<p>声呐制导鱼雷能够造成可观的伤害，并有一定几率造成进水。</p><p class=\"p_spacing\"> </p><p>每枚鱼雷发射前需向敌舰发射声呐脉冲进行制导，声呐与鱼雷发射管将自动切换。</p><p class=\"p_spacing\"> </p><p>对高机动性及轻型装甲目标尤为有效。</p>"
 
-msgid "IDS_GUIDING_TIP_294_HEADER"
-msgstr "获取新战舰"
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
+msgstr "声呐制导鱼雷"
 
-msgid "IDS_GUIDING_TIP_295_DESC"
-msgstr "获得蓝图后，对应的战舰就会出现在您的维修船坞中。"
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
+msgstr "<p>可侦测位于潜望深度或水面的潜艇和水面战舰，以及鱼雷、水雷和深水炸弹（包括位于烟幕区域内的目标）。</p><p class=\"p_spacing\"> </p><p>可显示位于工作深度潜艇的粗略位置。</p>"
 
-msgid "IDS_GUIDING_TIP_296_DESC"
-msgstr "维修战舰需要对应等级的维修材料。"
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
+msgstr "侦测水面上的潜艇和战舰（包括位于烟幕区域内的目标）。"
 
-msgid "IDS_GUIDING_TIP_296_HEADER"
-msgstr "收集维修材料"
+msgid "IDS_DOCK_RAGE_MODE_TITLE_TANKING_BOOST"
+msgstr "即时反制敌袭"
 
-msgid "IDS_GUIDING_TIP_297_DESC"
-msgstr "在这里可以看到您拥有多少可用于修复不同等级的战舰的维修材料。"
+msgid "IDS_GUIDING_TIP_123_DESC"
+msgstr "选择一种新的战斗模式，检验您的实力！"
 
-msgid "IDS_GUIDING_TIP_301_DESC"
-msgstr "您获得了可以用来修复战舰的维修材料！当您获得第一艘战舰的蓝图后，该战舰就会出现在您的维修船坞中。"
+msgid "IDS_GUIDING_TIP_123_HEADER"
+msgstr "新战斗模式"
 
-msgid "IDS_GUIDING_TIP_302_DESC"
-msgstr "在这里可以看到您拥有多少可用于修复不同等级的战舰的维修材料。"
+msgid "IDS_GUIDING_TIP_124_DESC"
+msgstr "通过与其他玩家一决高下，晋升到更高级别的联赛。联赛级别越高，奖励越有价值！"
 
-msgid "IDS_GUIDING_TIP_303_DESC"
-msgstr "<p>您需要对应等级的维修材料来修复战舰。</p><p class=\"p_spacing\"> </p><p>点击“修复”后，战舰就归您了！</p>"
+msgid "IDS_GUIDING_TIP_124_HEADER"
+msgstr "新战斗模式"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "完成当前阶段的任务以进入下一阶段。完成的阶段越多，试炼结束时获得的资源越多。"
+msgid "IDS_GUIDING_TIP_58_DESC"
+msgstr "选择一种新的战斗模式，检验您的实力！"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "使用指定类型的武器攻击带有标记的目标可获得更多积分。"
+msgid "IDS_GUIDING_TIP_58_HEADER"
+msgstr "新战斗模式"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "每次试炼由5个阶段组成。要进入下一个阶段，必须完成当前阶段的任务。"
+msgid "IDS_GUIDING_TIP_59_DESC"
+msgstr "通过与其他玩家一决高下，晋升到更高级别的联赛。联赛级别越高，奖励越有价值！"
 
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "您完成的阶段越多，试炼结束时获得的资源就越多。"
+msgid "IDS_GUIDING_TIP_59_HEADER"
+msgstr "新战斗模式"
 
-msgid "IDS_PCEA014_CRBOOST_4"
-msgstr "银币+480%"
+msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3_DESC_0"
+msgstr "大多数航空母舰都装备副炮和会在必要时自动启用的消耗品。"
 
-msgid "IDS_PCEA024_TOTALXPBOOST_4"
-msgstr "战舰经验+2400%"
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_0"
+msgstr "发射每一枚声呐制导鱼雷前，都需要用声呐脉冲标记目标。声呐与鱼雷发射管将自动切换。"
 
-msgid "IDS_PCEA034_CREWXPBOOST_4"
-msgstr "指挥官经验+2400%"
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_1"
+msgstr "使用声呐会暴露潜艇的粗略位置和航向。"
 
-msgid "IDS_PCZC511_BD098_TRENTO_DESCRIPTION"
-msgstr "<p>1922年华盛顿海军会议对巡洋舰的发展产生了决定性的影响。会议将排水量的最高参数定在1万吨，火炮口径定在203毫米，为全世界的巡洋舰建造设定了阈值。</p><p class=\\\"p_spacing\\\"> </p><p>在意大利皇家海军中，按照这些“标准”所建造的第一批该型战舰是1928-1929年服役的特伦托号和的里雅斯特号。通过一些建设性的技巧、牺牲和妥协，意大利人建造出了具有惊人的武器装备的高速战舰，然而，这些战舰的装甲相对较弱——这是“华盛顿条约”型巡洋舰的典型缺点。</p>"
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
+msgstr "位于潜望深度和工作深度时，潜艇可以看到敌舰的粗略位置。"
 
-msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr "<p>人类历史上第一台在地外天体表面自主移动的探测车。</p><p class=\\\"p_spacing\\\"> </p><p>主要参数：</p><p class=\\\"p_spacing\\\"> </p><p>• 质量为756千克；</p><p class=\\\"p_spacing\\\"> </p><p>• 展开后长4.42米；</p><p class=\\\"p_spacing\\\"> </p><p>• 宽2.15米；</p><p class=\\\"p_spacing\\\"> </p><p>• 高1.92米；</p><p class=\\\"p_spacing\\\"> </p><p>• 车轮直径0.51米，轮距1.6米。</p><p class=\\\"p_spacing\\\"> </p><p>月球17号携“月球车-1”于1970年11月10日由质子号运载火箭发射，11月17日在月球雨海成功软着陆。</p><p class=\\\"p_spacing\\\"> </p><p>“月球车-1”在月球工作318天，行驶10540米，踏勘了约8万平方千米的月表区域；速度可达每小时2公里。</p><p class=\\\"p_spacing\\\"> </p><p>它向地球发送了210幅全景图与约2万帧电视图像，并完成171次通信会话，共执行24829条遥控指令。</p><p class=\\\"p_spacing\\\"> </p><p>法国制造的激光角反射器也随车带至月球，使地面对其进行激光测距，误差仅数米。</p><p class=\\\"p_spacing\\\"> </p><p>1971年9月14日进行最后一次通信后不再响应。</p><p class=\\\"p_spacing\\\"> </p><p>由格奥尔基•巴巴金领导的拉沃奇金科研生产联合体负责整器研制；</p><p class=\\\"p_spacing\\\"> </p><p>底盘由A.L.克穆德日安在全苏运输机械研究院主导设计。</p>"
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
+msgstr "位于最大深度时，潜艇几乎不会被敌人发现，但自身也无法侦测战舰或使用消耗品。"
 
-msgid "IDS_PFSD111_DESCR"
-msgstr "<p>第二次世界大战期间，维希法国海军部提出了研发新一代驱逐舰的设想。新一代驱逐舰的项目被统称为T-42，后来逐渐发展为一系列名为E-43的初步设计。在项目研发过程中，除了其他替代设计，维希海军部还考虑过将该舰尺寸扩大成轻巡洋舰的替代方案。</p><p class=\\\"p_spacing\\\"> </p><p>该舰将配备120mm或130mm火炮，而在不同的初步设计中，炮塔数量从三座到四座不等。最终E-43系列设计未能实施、但其进一步发展却推动了T-47项目的问世。</p>"
+msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
+msgstr "潜艇可以在下潜能力耗尽前保持下潜状态。在水面时下潜能力会恢复。"
 
-msgid "IDS_PRSB530"
-msgstr "红旗"
+msgid "IDS_MINIMAP_OPTIONS_HYDROPHONERANGEENABLED"
+msgstr "被动声呐作用范围"
 
-msgid "IDS_PRSD317_DESCR"
-msgstr "<p>1937年8月初，国防委员会的会议决定停止进一步建造7型驱逐舰，转而设计一种基于西班牙战争经验的新型驱逐舰。该型驱逐舰以30型为编号展开了相关工作，其战术以及技术要求则于1937年11月正式获批。设计工作由列宁格勒第190造船厂的设计局负责。新型驱逐舰在一定程度上与48型驱逐领舰类似，特别是在火炮配置方面(领舰配备了三座双联装炮塔，而该型驱逐舰则配备了两座)。</p><p class=\\\"p_spacing\\\"> </p><p><b>缜密</b>于1940年5月5日在北德文斯克开工建造，1944年8月下水，并于1947年9月29日正式服役，加入北方舰队。在北方舰队中，她服役了11年。</p>"
+msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "团队最大规模取决于对局等级："
 
-msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "假日代币"
+msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
+msgstr "潜艇"
 
-msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE"
-msgstr "“维修”补给箱"
+msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "团队最大规模取决于对局等级："
 
-msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE_SHORT"
-msgstr "维修"
+msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_HEADER"
+msgstr "声呐制导鱼雷"
 
-msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
-msgstr "可让对应的战舰出现在您的维修船坞中"
+msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_1"
+msgstr "会被导向被声呐脉冲标记的战舰"
 
-msgid "IDS_SHIPCOMPONENT_SHORT_TITLE"
-msgstr "蓝图"
+msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_2"
+msgstr "使用声呐制导鱼雷时，声呐与鱼雷发射管将自动切换。"
 
-msgid "IDS_SHIPMATERIAL_INFO_DESCRIPTION"
-msgstr "修复对应等级战舰所需的材料。"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
+msgstr "会在水中停留一段时间。可对潜艇造成伤害，拆毁鱼雷和水雷。对水面目标造成轻微伤害。"
 
-msgid "IDS_SHIPMATERIAL_NONE"
-msgstr "您没有修复战舰所需的维修材料。"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
+msgstr "鱼雷制导"
 
-msgid "IDS_SHIPMATERIAL_SHORT_TITLE"
-msgstr "维修材料"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
+msgstr "每发射一枚声呐制导鱼雷前，都需要用声呐脉冲标记目标。能够同时制导同一个目标的最大鱼雷数量取决于该目标的战舰类型。"
 
-msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
-msgstr "准备维修"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
+msgstr "位于最大深度时，潜艇几乎不会被敌人发现，但自身也无法侦测战舰或使用消耗品。"
 
-msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "杜皮尔：已完工"
+msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
+msgstr "会在水中停留一段时间。可对潜艇造成伤害，拆毁鱼雷和水雷。对水面目标造成轻微伤害。"
 
-#, fuzzy
-msgid "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
-msgid_plural "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
-msgstr[0] "第%(_shotCount)s组炮弹的装填时间"
+msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
+msgstr "在排位战或评级战中获得一次胜利。每种战斗模式都仅在对应赛季期间开放。"
 
-#, fuzzy
-msgid "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
-msgid_plural "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
-msgstr[0] "%(_shotCount)s号鱼雷的装填时间"
+msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
+msgstr "在排位战或评级战中获胜"
 
-msgid "IDS_SHIP_SHARDS_INFO_TEXT_1"
-msgstr "这里将显示需要维修的战舰——被修复后将归您所有！"
+msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_PERISCOPESTATE"
+msgstr "位于水下时无法使用"
 
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "已购买假日代币"
+msgid "IDS_PARAMS_MODIFIER_SPEEDCOEFBATTERY"
+msgstr "位于水面时的航速"
 
-msgid "IDS_SYS_MSG_BOUGHT_SHIP_COMPONENT"
-msgstr "已购买战舰蓝图"
+msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
+msgstr ""
+"显示位于工作深度下\n"
+"潜艇的粗略位置"
 
-msgid "IDS_SYS_MSG_BOUGHT_SHIP_MATERIAL"
-msgstr "已购买维修材料"
+msgid "IDS_RAGE_MODE_DESCRIPTION_TANKING_AUTO"
+msgstr "当您在15秒内承受了来自3艘敌舰的潜在伤害时，会自动启用。"
 
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "已获得假日代币"
+msgid "IDS_REWARD_EVENTUM_1_TITLE"
+msgstr "海军代币"
 
-msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
-msgstr "已获得战舰蓝图"
+msgid "IDS_REWARD_EVENTUM_3_TITLE"
+msgstr "法国代币"
 
-msgid "IDS_SYS_MSG_RECEIVED_SHIP_MATERIAL"
-msgstr "已获得维修材料"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "X级特殊战舰"
 
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "假日代币已移除"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X级"
 
-msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_COMPONENT"
-msgstr "战舰蓝图已移除"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "VIII–IX级加值战舰"
 
-msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_MATERIAL"
-msgstr "维修材料已移除"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–IX级"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DBOMB"
+msgstr "用深水炸弹命中敌方潜艇或战舰。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
+msgstr "使用声呐脉冲标记敌方战舰以帮助鱼雷制导。"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
+msgstr "标记"
+
+msgid "IDS_RIBBON_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
+msgstr "标记"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
+msgstr "显示水下地形以及战舰和潜艇（不包括位于最大深度的潜艇）的粗略位置。在潜艇位于潜望深度和工作深度时运作。"
+
+msgid "IDS_SHIP_PARAM_WAVE_DURATION"
+msgstr "脉冲效果持续时间"
+
+msgid "IDS_SHIP_PARAM_WAVE_DURATION_FIRST"
+msgstr "脉冲效果持续时间"
+
+msgid "IDS_SKILL_DESC_SUBMARINE_DANGER_ALERT"
+msgstr ""
+"当您在未被发现的情况下进入敌方已启用的对海搜索或监视雷达消耗品的作用范围时，将会显示指示器。\n"
+"若您在指示器显示时改变下潜深度，则有可能会被发现。"
+
+msgid "IDS_SKILL_SUBMARINE_BATTERY_BURN_DOWN_TRIGGER_DESC"
+msgstr "若潜艇剩余的下潜能力低于最大下潜能力的10%，提高位于水面上时下潜能力的恢复速率。"
+
+msgid "IDS_SKILL_SUBMARINE_SPEED_TRIGGER_DESC"
+msgstr "若潜艇剩余的下潜能力低于最大下潜能力的10%，提高位于水面上时的最高航速。"
+
+msgid "IDS_SKILL_TRIGGER_CONS_RUDDER_TIME_COEFF_TRIGGER_DESC"
+msgstr "被敌人发现时，缩短方向舵和水平舵换档时间。"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
+msgstr "已购买海军代币"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
+msgstr "已购买法国代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
+msgstr "已获得海军代币"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
+msgstr "已获得法国代币"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
+msgstr "海军代币已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
+msgstr "法国代币已移除"
+
+msgid "IDS_TIPS_ACOUSTIC_TORPEDOES_HOMING_DESCRIPTION"
+msgstr "<p>潜艇的鱼雷将根据战舰的航速和航向被导向标记区域。</p><p class=\"p_spacing\"> </p><p>命中侧舷时威力最大。</p><p class=\"p_spacing\"> </p><p>将舰首转向来袭的鱼雷可降低被命中的风险。</p>"
+
+msgid "IDS_TIPS_AIRCRAFT_CARRIER_DESCRIPTION"
+msgstr "<p>大多数航空母舰未装备主炮。它们在战斗中的角色是对敌方部队发动空中袭击以及执行侦察任务。</p><p class=\"p_spacing\"> </p><p>为了最大限度地发挥作战能力，请在保持不被敌人发现的情况下，尽量靠近战斗行动区域。</p><p class=\"p_spacing\"> </p><p>航空母舰很脆弱，应该随时处于友军的掩护下。</p>"
+
+msgid "IDS_TIPS_ANTI_SUB_AIRCRAFT_DESCRIPTION"
+msgstr "<p>按下[CMD_AMMO_SLOT_4]即可使用深水炸弹空袭。</p><p class=\"p_spacing\"> </p><p>用深水炸弹对标记区域进行空中轰炸。</p><p class=\"p_spacing\"> </p><p>深水炸弹可对潜艇造成伤害，拆毁鱼雷和水雷。对水面目标造成轻微伤害。</p>"
+
+msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
+msgstr "<p>按下[CMD_AMMO_SLOT_1]可选择炮射烟雾弹。</p><p class=\"p_spacing\"> </p><p>在炮弹爆炸区域制造烟幕。</p><p class=\"p_spacing\"> </p><p>烟幕可降低您的战舰或友军战舰被敌人发现的可能性。</p><p class=\"p_spacing\"> </p><p>这类炮弹<b>不会</b>造成伤害。</p>"
+
+msgid "IDS_TIPS_DEPTH_CHARGES_DESCRIPTION"
+msgstr "<p>按下[CMD_AMMO_SLOT_G]释放深水炸弹。</p><p class=\"p_spacing\"> </p><p>深水炸弹可对潜艇造成伤害，拆毁鱼雷和水雷。对水面目标造成轻微伤害。</p>"
+
+msgid "IDS_TIPS_HYDROACUSTIC_SEARCH_DESCRIPTION"
+msgstr "<p>可侦测位于潜望深度或水面的潜艇和水面战舰，以及鱼雷、水雷和深水炸弹（包括位于烟幕区域内的目标）。</p><p class=\"p_spacing\"> </p><p>可显示位于工作深度潜艇的粗略位置。</p>"
+
+msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP"
+msgstr "声呐脉冲"
+
+msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP_DESCRIPTION"
+msgstr "<p>潜艇会用声呐标记战舰，鱼雷将被导向此处。</p><p class=\"p_spacing\"> </p><p>使用损害管制小组消耗品来阻止敌方潜艇的鱼雷进行制导。</p>"
+
+msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
+msgstr "<p>敌舰配有深水炸弹来对抗潜艇。</p><p class=\"p_spacing\"> </p><p>深水炸弹可对潜艇造成伤害并拆毁鱼雷。</p>"
+
+msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE"
+msgstr "被动声呐侦测"
+
+msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
+msgstr "<p>显示水下地形以及战舰和潜艇（不包括位于最大深度的潜艇）的粗略位置。</p><p class=\"p_spacing\"> </p><p>在潜艇位于潜望深度和工作深度时运作。</p>"
+
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"
+msgstr "潜艇的被侦察性"
+
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
+msgstr "<p>潜艇的被侦察性取决于其所在深度。</p><p class=\"p_spacing\"> </p><p>潜望深度：潜艇可以被对海搜索侦测到。</p><p class=\"p_spacing\"> </p><p>工作深度：对海搜索可以显示潜艇的粗略位置。</p><p class=\"p_spacing\"> </p><p>最大深度：潜艇无法被侦测到。</p>"
+
+msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT_DESCRIPTION"
+msgstr "<p>潜艇需要下潜能力来保持位于水下时的正常航行。</p><p class=\"p_spacing\"> </p><p>若下潜能力耗尽，潜艇将会上浮。</p><p class=\"p_spacing\"> </p><p>位于潜望深度时，不消耗下潜能力。</p><p class=\"p_spacing\"> </p><p>在水面上时，下潜能力将会恢复。</p>"
+
+msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY"
+msgstr "从水下发射鱼雷"
+
+msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH_DESCRIPTION"
+msgstr "<p>位于水下时，您无法攻击距离过近的水面目标。</p><p class=\"p_spacing\"> </p><p>鱼雷需要时间上浮。</p>"
+
+msgid "IDS_TOOLTIP_GUARANTEED_VISIBILITY_SUBMARINE"
+msgstr "<p>潜艇即使位于烟雾中或岛屿后方，也会被敌人发现的距离。</p><p class=\"p_spacing\"> </p><p>位于工作深度时，潜艇只能被敌方潜艇或消耗品侦测到。</p>"
+
+msgid "IDS_TOOLTIP_MAX_SPEED_UNDER_WATER"
+msgstr "潜艇位于工作深度沿直线航行时所能达到的最大航速。"
+
+msgid "IDS_TOOLTIP_WAVE_DURATION_FIRST_HIT"
+msgstr "声呐脉冲命中敌舰后，会将其标记为鱼雷制导目标。"
+
+msgid "IDS_TOOLTIP_WAVE_DURATION_SECOND_HIT"
+msgstr "<p>声呐脉冲命中敌舰后，会将其标记为鱼雷制导目标。</p><p class=\"p_spacing\"> </p><p>再次命中高亮区域会延长效果时间并提高导向鱼雷的机动性。</p>"
+
+msgid "IDS_UNLOCKS_6"
+msgstr "每天最多可赚取3个每日补给箱。"
+
+msgid "IDS_UNLOCKS_7"
+msgstr "在兵工厂购买新物品。"
