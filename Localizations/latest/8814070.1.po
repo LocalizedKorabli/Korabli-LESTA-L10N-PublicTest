@@ -5156,7 +5156,7 @@ msgid "IDS_AMMUNITION_RECHARGE"
 msgstr "弹药补给："
 
 msgid "IDS_AND"
-msgstr "和"
+msgstr "与"
 
 msgid "IDS_ANDROID_TM4"
 msgstr "CM-10A"
