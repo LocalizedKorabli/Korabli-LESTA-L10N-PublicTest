@@ -1345,10 +1345,10 @@ msgid "IDS_SPAIN_NATION_GEN"
 msgstr "西班牙"
 
 msgid "IDS_SSE_CONDITIONS_ANY_SHIP_HIT_CITADELS"
-msgstr "命中任意%(level)s级%(nation)s%(shipClass)s的核心区"
+msgstr "命中任意%(level)s%(nation)s%(shipClass)s的核心区"
 
 msgid "IDS_SSE_CONDITIONS_ANY_SHIP_START_FLOOD"
-msgstr "在任意%(level)s级%(nation)s%(shipClass)s上造成进水"
+msgstr "在任意%(level)s%(nation)s%(shipClass)s上造成进水"
 
 msgid "IDS_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_ANY_SHORT"
 msgstr "获得成就"
@@ -1405,7 +1405,7 @@ msgid "IDS_SSE_CONDITIONS_COMPLETE_TASK_SHORT"
 msgstr "完成任务"
 
 msgid "IDS_SSE_CONDITIONS_DAMAGE_MODULES"
-msgstr "瘫痪%(times)s次%(level)s级%(nation)s%(shipClass)s上的%(moduleTypes)s配件"
+msgstr "瘫痪%(times)s%(level)s%(nation)s%(shipClass)s上的%(moduleTypes)s配件"
 
 msgid "IDS_SSE_CONDITIONS_DAMAGE_MODULES_SHORT"
 msgstr "瘫痪战舰配件"
@@ -1423,7 +1423,7 @@ msgid "IDS_SSE_CONDITIONS_DEFAULT_HEADER"
 msgstr "加入战斗"
 
 msgid "IDS_SSE_CONDITIONS_DESTROY_SHIPS"
-msgstr "摧毁%(count)s艘%(level)s级%(nation)s%(shipClass)s"
+msgstr "摧毁%(count)s艘%(level)s%(nation)s%(shipClass)s"
 
 msgid "IDS_SSE_CONDITIONS_DESTROY_SPECIFIC_SHIPS"
 msgstr "摧毁%(count)s艘%(shipIds)s%(shipClass)s"
@@ -1495,19 +1495,19 @@ msgid "IDS_SSE_CONDITIONS_MODULE_TORPEDOES"
 msgstr "鱼雷发射管"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_DAMAGE_USING_MINE_SHIPS"
-msgstr "用水雷对敌方%(shipClass)s造成%(times)s次伤害"
+msgstr "用水雷对敌方%(shipClass)s造成%(times)s伤害"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_DAMAGE_USING_MINE_SHIPS_SHORT"
 msgstr "用水雷造成伤害"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_HIT_SHIPS"
-msgstr "%(hitTypes)s命中敌方%(shipClass)s%(times)s次"
+msgstr "%(hitTypes)s命中敌方%(shipClass)s%(times)s"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_HIT_SHIPS_SHORT"
 msgstr "%(hitTypes)s命中敌舰"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_IGNITE_SHIPS"
-msgstr "在%(level)s级%(nation)s%(shipClass)s上造成%(times)s次火灾"
+msgstr "在%(level)s%(nation)s%(shipClass)s上造成%(times)s火灾"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_IGNITE_SHIPS_SHORT"
 msgstr "造成火灾"
@@ -1528,19 +1528,19 @@ msgid "IDS_SSE_CONDITIONS_SCOUTING_DAMAGE_SHORT"
 msgstr "侦察伤害"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS"
-msgstr "命中%(level)s级%(nation)s%(shipClass)s的核心区%(times)s次"
+msgstr "命中%(level)s%(nation)s%(shipClass)s的核心区%(times)s"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS_ONE_TIME"
-msgstr "命中%(level)s级%(nation)s%(shipClass)s的核心区1次"
+msgstr "命中%(level)s%(nation)s%(shipClass)s的核心区1次"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS_SHORT"
 msgstr "命中核心区"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD"
-msgstr "在%(level)s级%(nation)s%(shipClass)s上造成%(times)s次进水"
+msgstr "在%(level)s%(nation)s%(shipClass)s上造成%(times)s进水"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD_ONE_TIME"
-msgstr "在%(level)s级%(nation)s%(shipClass)s上造成1次进水"
+msgstr "在%(level)s%(nation)s%(shipClass)s上造成1次进水"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD_SHORT"
 msgstr "造成进水"
