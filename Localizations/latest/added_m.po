@@ -290,7 +290,7 @@ msgid "IDS_LEVEL_EXACT"
 msgstr "%(level)s级"
 
 msgid "IDS_LEVEL_NEXT"
-msgstr "下列等级：%(level)s"
+msgstr "等级为%(level)s的"
 
 msgid "IDS_MILA_MISIDE"
 msgstr "米拉"
@@ -1372,7 +1372,7 @@ msgid "IDS_SSE_CONDITIONS_BATTLE_WITH_CAMO_SHORT"
 msgstr "安装涂装并加入战斗"
 
 msgid "IDS_SSE_CONDITIONS_BATTLE_WITH_CREW"
-msgstr "将至少拥有%(points)s技能点的指挥官指派到战舰上并加入战斗，"
+msgstr "将至少拥有%(points)s技能点的指挥官指派到战舰上并加入战斗"
 
 msgid "IDS_SSE_CONDITIONS_BATTLE_WITH_CREW_LONG"
 msgstr "将至少拥有%(points)s技能点的指挥官指派到战舰上并加入战斗"
