@@ -113091,7 +113091,7 @@ msgid "IDS_QUESTION_UNMOUNT_FOR"
 msgstr "拆卸？确认花费"
 
 msgid "IDS_QUEST_BATTLE_TOURNAMENT_CHAMPION"
-msgstr "与您的团队在锦标赛战斗中赢得%(achievementCount)s场战斗，成为冠军。"
+msgstr "与您的团队在锦标赛战斗中取得%(achievementCount)s次胜利，成为冠军。"
 
 msgid "IDS_QUEST_CONTRIBUTOR_HONORED"
 msgstr "荣誉贡献者。"
@@ -128887,13 +128887,13 @@ msgid "IDS_SSE_CONDITIONS_USING_TORPEDOES"
 msgstr "用舰载鱼雷"
 
 msgid "IDS_SSE_CONDITIONS_WIN_IN_BATTLES_SHORT"
-msgstr "赢得战斗"
+msgstr "取得胜利"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_BATTLE_COUNT_FULL"
 msgstr "尽可能多地进行战斗"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_BATTLE_RESULT_COUNT_FULL"
-msgstr "尽可能多地赢得战斗"
+msgstr "尽可能多地在战斗中取得胜利"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_ATBA_FULL"
 msgstr "用副炮尽可能多地造成伤害"
@@ -135416,7 +135416,7 @@ msgstr ""
 "在您的战斗总场次超过%(amount)s场前都能重复完成。"
 
 msgid "IDS_TUTOR_BASTION_01"
-msgstr "堡垒模式是一种能利用岸上的武装设施赢得优势，两队玩家彼此对战的战斗类别。"
+msgstr "堡垒模式是一种能利用岸上的武装设施取得优势，两队玩家彼此对战的战斗类别。"
 
 msgid "IDS_TUTOR_BASTION_02"
 msgstr "地图分为几个部分[icon_1]，周边环绕的[icon_2]和监控站[icon_3]."
@@ -135710,13 +135710,13 @@ msgid "IDS_UNLOCKS_DESCRIPTION_24"
 msgstr "<p>在“行动”中，您的团队必须在与电脑玩家战斗的同时完成各种任务。每个行动都有独特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要目标即可获得胜利。完成次要目标将获得更多资源。</p><p class=\"p_spacing\"> </p><p>行动的难度取决于队伍中战舰的类型和等级。</p><p class=\"p_spacing\"> </p><p>可见于战斗模式选择界面。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
-msgstr "<p>加入军团，以参加军团战。</p><p class=\"p_spacing\"> </p><p>军团战仅在军团战赛季期间开放。</p><p class=\"p_spacing\"> </p><p>赢得军团战，获取评级点数以晋升更高级的联赛。</p><p class=\"p_spacing\"> </p><p>获取石油并扩建海军基地中的建筑，可提供永久经济加成。</p><p class=\"p_spacing\"> </p><p>创建训练房间参与战斗训练，可磨练团队配合能力。</p><p class=\"p_spacing\"> </p><p>军团战和战斗训练可通过战斗模式选择界面进入。</p>"
+msgstr "<p>加入军团，以参加军团战。</p><p class=\"p_spacing\"> </p><p>军团战仅在军团战赛季期间开放。</p><p class=\"p_spacing\"> </p><p>在军团战中取得胜利，获取评级点数以晋升更高级的联赛。</p><p class=\"p_spacing\"> </p><p>获取石油并扩建海军基地中的建筑，可提供永久经济加成。</p><p class=\"p_spacing\"> </p><p>创建训练房间参与战斗训练，可磨练团队配合能力。</p><p class=\"p_spacing\"> </p><p>军团战和战斗训练可通过战斗模式选择界面进入。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>与真人玩家对战。匹配系统将随机创建团队。</p><p class=\"p_spacing\"> </p><p>战斗模式选项位于“加入战斗”按钮的旁边。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_301600"
-msgstr "<p>以下战斗模式仅在对应赛季期间开放。每个赛季都是一场竞技，每场战斗的结果都会影响您的排名进度。达到的排名越高，奖励越丰厚！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">排位战</p><p class=\"p_spacing\"> </p><p>在排位战中，您需要与其他玩家争夺排名。想要提升排名，您需要赢得一定数量的战斗，而失败则可能导致降级！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">评级战</p><p class=\"p_spacing\"> </p><p>评级战中，敌我双方会根据战斗效率评级匹配。战斗结束后，您的评级将根据战斗结果与获得的基础经验值进行调整。</p>"
+msgstr "<p>以下战斗模式仅在对应赛季期间开放。每个赛季都是一场竞技，每场战斗的结果都会影响您的排名进度。达到的排名越高，奖励越丰厚！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">排位战</p><p class=\"p_spacing\"> </p><p>在排位战中，您需要与其他玩家争夺排名。想要提升排名，您需要在一定数量的战斗中取得胜利，而失败则可能导致降级！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">评级战</p><p class=\"p_spacing\"> </p><p>评级战中，敌我双方会根据战斗效率评级匹配。战斗结束后，您的评级将根据战斗结果与获得的基础经验值进行调整。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
 msgstr "<p>与其他玩家合作对战电脑玩家。</p><p class=\"p_spacing\"> </p><p>战斗模式选项位于“加入战斗”按钮的旁边。</p>"
@@ -138351,7 +138351,7 @@ msgstr[0] "获得%(count)s银币"
 
 msgid "IDS_PL_SSE_CONDITIONS_WIN_IN_BATTLES"
 msgid_plural "IDS_PL_SSE_CONDITIONS_WIN_IN_BATTLES"
-msgstr[0] "赢得%(count)s场战斗"
+msgstr[0] "在%(count)s场战斗中取得胜利"
 
 msgid "IDS_PL_SUBMARINE_CLASS"
 msgid_plural "IDS_PL_SUBMARINE_CLASS"
@@ -138435,7 +138435,7 @@ msgstr[0] "完成一个次要目标的奖励"
 
 msgid "IDS_QUEST_BATTLE_TOURNAMENT_WIN"
 msgid_plural "IDS_QUEST_BATTLE_TOURNAMENT_WIN"
-msgstr[0] "与您的团队在锦标赛战斗中赢得%(achievementCount)s场战斗。"
+msgstr[0] "与您的团队在锦标赛战斗中取得%(achievementCount)s次胜利。"
 
 msgid "IDS_QUEST_CLANGALEONLY_WIN"
 msgid_plural "IDS_QUEST_CLANGALEONLY_WIN"
