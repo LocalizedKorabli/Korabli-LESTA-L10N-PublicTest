@@ -97274,6 +97274,12 @@ msgstr "40-мм/56 Bofors в установке Mk.2"
 msgid "IDS_PRGA238_12_DSHK"
 msgstr "12,7-мм ДШК"
 
+msgid "IDS_PRGA3002_45MM_SM_20_ZIF"
+msgstr "45-мм установка СМ-20-ЗИФ"
+
+msgid "IDS_PRGA3003_25MM_4M120"
+msgstr "25-мм 110-ПМ в установке 4М-120"
+
 msgid "IDS_PRGA502_76MM34K"
 msgstr "Pompom"
 
@@ -97577,6 +97583,9 @@ msgstr "457-мм/48 Mk.1 в башенной установке"
 msgid "IDS_PRGM251_152MM_45_CASEMATE_SHIELD"
 msgstr "152-мм/45 обр. 1892 г. в казематной установке"
 
+msgid "IDS_PRGM3000_457MM_48"
+msgstr "457-мм/48 Б-45 в установке СМ-8"
+
 msgid "IDS_PRGM501_130MM_B2LM"
 msgstr "Pewpew"
 
@@ -97738,6 +97747,9 @@ msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
 
 msgid "IDS_PRGS249_5IN38_MK38_MOD0"
 msgstr "127-мм/38 Mk.12 в установке Mk.38"
+
+msgid "IDS_PRGS3001_152MM57_BL_118"
+msgstr "152-мм/57 в установке БЛ-118"
 
 msgid "IDS_PRGS563_21K"
 msgstr "ОПН «Рогатка»"
