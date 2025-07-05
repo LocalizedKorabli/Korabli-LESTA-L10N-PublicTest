@@ -4076,27 +4076,6 @@ msgstr "部分防空炮已瘫痪"
 msgid "IDS_ACTION_LOG_AIR_DEFENSE_DESTRUCTED"
 msgstr "部分防空炮已瘫痪"
 
-msgid "IDS_ACTION_LOG_ALL_AIR_CRIT"
-msgstr "所有防空炮都已瘫痪"
-
-msgid "IDS_ACTION_LOG_ALL_AIR_DEFENSE_CRIT"
-msgstr "所有防空炮都已瘫痪"
-
-msgid "IDS_ACTION_LOG_ALL_ATBA_CRIT"
-msgstr "所有副炮都已瘫痪"
-
-msgid "IDS_ACTION_LOG_ALL_ATBA_GUN_CRIT"
-msgstr "所有副炮都已瘫痪"
-
-msgid "IDS_ACTION_LOG_ALL_MAIN_CALIBER_CRIT"
-msgstr "所有主炮都已瘫痪"
-
-msgid "IDS_ACTION_LOG_ALL_TORPEDO_CRIT"
-msgstr "所有鱼雷发射管都已瘫痪"
-
-msgid "IDS_ACTION_LOG_ALL_TORPEDO_TUBE_CRIT"
-msgstr "所有鱼雷发射管都已瘫痪"
-
 msgid "IDS_ACTION_LOG_ARTILLERY_ALERT"
 msgstr "即将受到伤害！"
 
@@ -4136,9 +4115,6 @@ msgstr "引擎已瘫痪"
 msgid "IDS_ACTION_LOG_ENGINE_DESTRUCTED"
 msgstr "引擎已瘫痪"
 
-msgid "IDS_ACTION_LOG_FAR_AURA_CRIT"
-msgstr "大口径防空炮已瘫痪"
-
 msgid "IDS_ACTION_LOG_HANGAR_CRIT"
 msgstr "机库已瘫痪"
 
@@ -4160,35 +4136,17 @@ msgstr "战舰被攻击！"
 msgid "IDS_ACTION_LOG_MEDIUM_DAMAGE_LEVEL"
 msgstr "严重伤害！"
 
-msgid "IDS_ACTION_LOG_MID_AURA_CRIT"
-msgstr "中口径防空炮已瘫痪"
-
-msgid "IDS_ACTION_LOG_NEAR_AURA_CRIT"
-msgstr "小口径防空炮已瘫痪"
-
 msgid "IDS_ACTION_LOG_OBSERVATION_CRIT"
 msgstr "目标侦察系统已瘫痪"
 
 msgid "IDS_ACTION_LOG_OBSERVATION_DESTRUCTED"
 msgstr "目标侦察系统已瘫痪"
 
-msgid "IDS_ACTION_LOG_PORT_ATBA_CRIT"
-msgstr "左舷部分副炮已瘫痪"
-
-msgid "IDS_ACTION_LOG_PORT_ATBA_GUN_CRIT"
-msgstr "左舷部分副炮已瘫痪"
-
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_CRIT"
 msgstr "弹药库已瘫痪"
 
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_DAMAGED"
 msgstr "弹药库已瘫痪"
-
-msgid "IDS_ACTION_LOG_STAR_ATBA_CRIT"
-msgstr "右舷部分副炮已瘫痪"
-
-msgid "IDS_ACTION_LOG_STAR_ATBA_GUN_CRIT"
-msgstr "右舷部分副炮已瘫痪"
 
 msgid "IDS_ACTION_LOG_STEERING_GEAR_CRIT"
 msgstr "操舵装置已瘫痪"
@@ -19833,9 +19791,6 @@ msgstr "冠军代币"
 msgid "IDS_CURRENCY_BRASS_GET_DESCRIPTION"
 msgstr "通过参加排位战、军团战或评级战获得。"
 
-msgid "IDS_CURRENCY_BRASS_MOUSE_INSTRUCTION"
-msgstr " "
-
 msgid "IDS_CURRENCY_BRASS_SPEND_DESCRIPTION"
 msgstr "用于购买稀有的战舰涂装，以及在排位战中跳过联赛。"
 
@@ -19874,9 +19829,6 @@ msgstr "煤炭"
 
 msgid "IDS_CURRENCY_COAL_GET_DESCRIPTION"
 msgstr "可通过完成作战任务、参与活动，以及开启每日补给箱获得。"
-
-msgid "IDS_CURRENCY_COAL_MOUSE_INSTRUCTION"
-msgstr " "
 
 msgid "IDS_CURRENCY_COAL_SPEND_DESCRIPTION"
 msgstr "用于获取兵工厂中的特殊和加值战舰，以及其他游戏内物品。"
@@ -19928,9 +19880,6 @@ msgstr "精英指挥官经验"
 
 msgid "IDS_CURRENCY_ELITEXP_GET_DESCRIPTION"
 msgstr "获取量为每场战斗所获得指挥官经验的5%。指挥官达到等级上限后，所获得的指挥官经验将全为精英指挥官经验。"
-
-msgid "IDS_CURRENCY_ELITEXP_MOUSE_INSTRUCTION"
-msgstr " "
 
 msgid "IDS_CURRENCY_ELITEXP_SPEND_DESCRIPTION"
 msgstr "用于加速训练和重新训练任意指挥官。可转换为全局经验。"
@@ -20133,9 +20082,6 @@ msgstr "研究点"
 msgid "IDS_CURRENCY_PARAGONXP_GET_DESCRIPTION"
 msgstr "可通过重置科技树分支和参与各种活动获得。"
 
-msgid "IDS_CURRENCY_PARAGONXP_MOUSE_INSTRUCTION"
-msgstr " "
-
 msgid "IDS_CURRENCY_PARAGONXP_SPEND_DESCRIPTION"
 msgstr "用于获取兵工厂的研究局类别中的特殊和加值战舰，以及其他游戏内物品。"
 
@@ -20150,9 +20096,6 @@ msgstr "社区代币"
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS_GET_DESCRIPTION"
 msgstr "可通过邀请好友加入游戏、参加公开测试或参与各种活动获得。"
-
-msgid "IDS_CURRENCY_RECRUITMENT_POINTS_MOUSE_INSTRUCTION"
-msgstr " "
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS_SPEND_DESCRIPTION"
 msgstr "用于获取兵工厂的海军社区类别中的各种物品。"
@@ -20213,9 +20156,6 @@ msgstr "钢铁"
 
 msgid "IDS_CURRENCY_STEEL_GET_DESCRIPTION"
 msgstr "可通过参加排位战和军团战，以及参与各种活动获得。"
-
-msgid "IDS_CURRENCY_STEEL_MOUSE_INSTRUCTION"
-msgstr " "
 
 msgid "IDS_CURRENCY_STEEL_SPEND_DESCRIPTION"
 msgstr "用于获取兵工厂中的特殊和加值战舰。"
@@ -45068,9 +45008,6 @@ msgstr "其它"
 
 msgid "IDS_OTHERCONTROLS"
 msgstr "其他"
-
-msgid "IDS_OTHER_FEATURE_CATEGORY_AIRDEFENSE"
-msgstr "防空炮"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_AIR_DEFENSE"
 msgstr "防空炮"
@@ -135505,17 +135442,11 @@ msgstr "精英信号旗不可购买"
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_DEMOWITHOUTSTATS"
 msgstr "此战舰仍在测试中"
 
-msgid "IDS_UNAVAILABLE_TO_DISPLAY_DEMOWITHOUTSTATSPREM"
-msgstr "此战舰仍在测试中"
-
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_DISABLED"
 msgstr "此战舰暂时无法使用"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_EVENT"
 msgstr "此战舰只能在特殊活动中使用"
-
-msgid "IDS_UNAVAILABLE_TO_DISPLAY_NULL"
-msgstr "此战舰不存在"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_PRESERVED"
 msgstr "此战舰已从游戏中删除"
@@ -135525,12 +135456,6 @@ msgstr "很快"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_SPECIAL"
 msgstr "此战舰是加值战舰，只能在特定活动中或高级商店中获得"
-
-msgid "IDS_UNAVAILABLE_TO_DISPLAY_SPECIALUNSELLABLE"
-msgstr "此战舰是加值战舰，暂时无法购买"
-
-msgid "IDS_UNAVAILABLE_TO_DISPLAY_ULTIMATE"
-msgstr "此战舰是特殊战舰，只能在特定活动中或高级商店中获得"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_UNAVAILABLE"
 msgstr "此战舰暂时无法使用"
