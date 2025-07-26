@@ -135191,7 +135191,7 @@ msgstr "已超过货币操作的次数限制。请等待服务可用时再次尝
 
 msgid "IDS_TRANSACTION_ERROR"
 msgstr ""
-"交易处理时错误。\n"
+"交易处理时发生错误。\n"
 "请稍后再试。"
 
 msgid "IDS_TRANSBOW"
