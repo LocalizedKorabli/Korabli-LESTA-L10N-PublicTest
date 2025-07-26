@@ -114054,7 +114054,7 @@ msgid "IDS_RANK_STAR_LOST"
 msgstr "失去星数"
 
 msgid "IDS_RANK_STAR_SAVED"
-msgstr "已保存星星"
+msgstr "已保留星星"
 
 msgid "IDS_RANK_X"
 msgstr "军阶%(rank)s"
@@ -121353,7 +121353,7 @@ msgid "IDS_SALVATORE_CAPITANO"
 msgstr "Salvatore Capitano"
 
 msgid "IDS_SANSONETTI"
-msgstr "Luigi Sansonetti"
+msgstr "路易吉•桑索内蒂"
 
 msgid "IDS_SANTA_EUROPE"
 msgstr "Santa Claus"
