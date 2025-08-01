@@ -20395,34 +20395,34 @@ msgid "IDS_DASH"
 msgstr "—"
 
 msgid "IDS_DASHA_EU"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_FR"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_GE"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_IT"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_JP"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_NED"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_PZ"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_RU"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_UK"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DASHA_US"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_DATA_LOADING"
 msgstr "数据载入中"
@@ -20669,7 +20669,7 @@ msgstr "1900年代-1940年代美国海军巡洋舰，船员们的奖章和独特
 msgid "IDS_DESCRIPTION_PCZA010_HAPPYBIRTHDAY2018"
 msgstr ""
 "以游戏三周年为主题的节日收藏。\n"
-"海上有数以百计的战舰在航行！玩家乐此不疲地完成任务、在战役中得手、扩大收藏并赢得战斗。所有可收藏元素都是Dasha Perova在过去的一年中拍摄的照片。每张照片都附有我们的说明，有的很严肃，有的也很有趣。"
+"海上有数以百计的战舰在航行！玩家乐此不疲地完成任务、在战役中得手、扩大收藏并赢得战斗。所有可收藏元素都是达莎•佩洛娃在过去的一年中拍摄的照片。每张照片都附有我们的说明，有的很严肃，有的也很有趣。"
 
 msgid "IDS_DESCRIPTION_PCZA011_OVECHKIN"
 msgstr "亚历山大•奥维奇金是冰球历史上最佳前锋之一，同时也是世界上最负盛名冰球球员之一。他速度高，射门精准，技巧精湛而且球风强悍，能够引领球队走向胜利。球迷亲切地称他为“伟大的8号”，他也证明了自己值得这个称号。这套收藏讲述了亚历山大•奥维奇金体育生涯中最光辉的时刻。遇见传奇，获得激励，争取胜利！"
@@ -27300,7 +27300,7 @@ msgid "IDS_DROP_BRANCH_TOOLTIP_HEADER"
 msgstr "重置进程"
 
 msgid "IDS_DROP_BRANCH_X2_MULTIPLIER"
-msgstr "× 2"
+msgstr "× 2"
 
 msgid "IDS_DROZDOV"
 msgstr "瓦伦丁•德罗兹多夫"
@@ -31507,7 +31507,7 @@ msgid "IDS_GLUHSCHWANZ"
 msgstr "Glühschwanz"
 
 msgid "IDS_GMIDEAL_RADIUS_CHANGED"
-msgstr "主炮炮弹最大散布已缩小"
+msgstr "主炮炮弹最大误差已缩小"
 
 msgid "IDS_GMMAX_DIST_CHANGED"
 msgstr "主炮射程已延伸"
@@ -33001,10 +33001,10 @@ msgid "IDS_GUNZOU"
 msgstr "千早群像"
 
 msgid "IDS_GUN_LOCK_INDICATOR_ABSOLUTE"
-msgstr "武器：已锁定该区域"
+msgstr "武器：已锁定绝对坐标"
 
 msgid "IDS_GUN_LOCK_INDICATOR_RELATIVE"
-msgstr "武器：已锁定方位"
+msgstr "武器：已锁定相对方位"
 
 msgid "IDS_H2019_BORISANGLER"
 msgstr "Boris Angler"
@@ -43764,7 +43764,7 @@ msgid "IDS_OP_02_02_BOT_CRR_1"
 msgstr "Raptor"
 
 msgid "IDS_OP_02_02_CHAT_001_RAPTOR_SPOTTED"
-msgstr "看见航空母舰Raptor了！"
+msgstr "已发现航空母舰Raptor！"
 
 msgid "IDS_OP_02_02_CHAT_002_YANKEES_DEAD"
 msgstr "Whiskey系列驱逐舰已被摧毁，我们的维修基地安全了。"
@@ -43788,7 +43788,7 @@ msgid "IDS_OP_02_02_CHAT_008_FLAGMANS_SUCCESS"
 msgstr "指定的目标已被摧毁！"
 
 msgid "IDS_OP_02_02_CHAT_009_FLAGMANS_FAIL"
-msgstr "您未能为攻击中队提供足够的支援来摧毁目标。"
+msgstr "您未能提供足够的支援，攻击中队无法摧毁目标。"
 
 msgid "IDS_OP_02_02_CHAT_010_SECOND_TASK_03_OPEN"
 msgstr "发现敌机。"
@@ -68530,7 +68530,7 @@ msgid "IDS_PCZC178_AA_OMAHA"
 msgstr "太平洋舰队中的一员USS奥马哈，1924年"
 
 msgid "IDS_PCZC178_AA_OMAHA_DESCRIPTION"
-msgstr "<p>第一次世界大战参战前，美国海军面临着缺少能执行远距离侦察任务并能掩护己方无畏级战列舰中队免受敌方轻火力攻击的现代化巡洋舰的境地。</p><p class=\"p_spacing\"> </p><p>设计一种全新级别的巡洋舰的过程耗时过长，但是所幸，美国工程师能够从之前的战争中获取经验。新的首舰被命名为奥马哈，是Nebraska州的一个城市，于1918年末开始建造。在它之后，1923-1925年期间，9艘战舰开始服役。</p><p class=\"p_spacing\"> </p><p>这些新的巡洋舰的外形故意设计成与克莱姆森级驱逐舰相似的样子，目的是迷惑敌人难以确认遇到的是哪艘战舰。直到30年代早期，奥马哈和它的姐妹战舰形成了美国海军巡洋舰的核心力量。然而，自从美国加入第二次世界大战开始，它们就变得过时了。因此，海军司令部主要使用它们只在小型战场执行任务。</p><p class=\"p_spacing\"> </p><p>USS奥马哈在大西洋成功地捕获了德国的封锁穿甲舰，并于1944年火力支援了法国南部的盟军登陆。</p><p class=\"p_spacing\"> </p><p>1943年3月，它的姐妹舰，USS里士满，参加了白令海峡的科曼多尔海战，以一支小型美国中队大胆地攻击了一支强大的日本部队，并使其放弃任务调头离开。</p>"
+msgstr "<p>在准备加入第一次世界大战时，美国海军面临着一个问题：其舰队中缺乏能够执行远程侦察任务，并能保护无畏舰主力舰队免遭敌方轻型战舰攻击的现代化巡洋舰。</p><p class=\"p_spacing\"> </p><p>新型巡洋舰的设计过程被拖延了，但得益于此，美国得以汲取已结束战争的经验教训。首舰于1918年底开工建造，以内布拉斯加州的一个城市——奥马哈——来命名。随后又有九艘同型舰陆续建造，于1923至1925年间服役。</p><p class=\"p_spacing\"> </p><p>这些新的巡洋舰的外形被故意设计成与克莱姆森级驱逐舰相似的样子，以使敌方难以判断其面对的战舰类型。直到20世纪30年代初，奥马哈及其同级舰一直是美国海军巡洋舰的核心力量。然而，到美国加入第二次世界大战时，它们已经过时。因此，海军指挥部倾向于将它们部署在次要战区使用。</p><p class=\"p_spacing\"> </p><p>USS奥马哈曾在大西洋成功俘获了一艘尝试偷越封锁线的德国船，并于1944年以舰炮火力支援了盟军在法国南部的登陆作战。</p><p class=\"p_spacing\"> </p><p>其同级舰USS里士满于1943年3月参加了白令海科曼多尔群岛海战。在那场战斗中，一支规模较小的美国舰队大胆地进攻了一支更强大的日本舰队，迫使其放弃任务并掉头撤退。</p>"
 
 msgid "IDS_PCZC179_AA_SALT_LAKE_CITY"
 msgstr "科曼多尔群岛海战中的USS盐湖城，1943年"
@@ -68548,7 +68548,7 @@ msgid "IDS_PCZC181_AA_HELENA"
 msgstr "埃斯帕恩斯角海战中的USS海伦娜，1942年"
 
 msgid "IDS_PCZC181_AA_HELENA_DESCRIPTION"
-msgstr "<p>日本正在建造配备15门155毫米火炮的Mogamo级巡洋舰的消息震惊了美国海军司令部。自1930年以来发展起来的带有152毫米火炮的轻型巡洋舰项目很快进行了调整，它的三联装炮塔由四座增加到了五座。这就是Brooklyn级战舰的诞生。</p><p class=\"p_spacing\"> </p><p>1935年，当这些驱逐舰中的大多数已经开始生产时，海军又准备了一个升级项目。这个升级设计包括一个全新推进系统的和一个由最新的双联127毫米炮塔组成的功能齐全的两用炮。一年后，两艘战舰USS圣路易斯和USS海伦娜开始进行建造，并在1939年加入海军。</p><p class=\"p_spacing\"> </p><p>轻型驱逐舰海伦娜成为了1941年12月7日日本突袭珍珠港中被一颗鱼雷击中，不幸成为受害者之一。在1942年夏天，完成了修缮工作后，这艘巡洋舰又积极地参加了所罗门海战中的几场主要战斗，其中最成功的一场就是1942年10月发生的埃斯帕恩斯角海战。多亏最新装配的雷达，，USS海伦娜可以第一时间远离接近的日本中队。当敌舰接近到一定距离时，这艘巡洋舰可以率先向日军快速射击。USS海伦娜的炮弹对吹雪驱逐舰来说是致命的，并且引起了古鹰巡洋舰起火。战斗的结果是日本海军中队战败并仓促撤退。</p><p class=\"p_spacing\"> </p><p>1943年7月，海伦娜在库拉湾战役中被日本驱逐舰的3发610毫米鱼雷击沉，悲惨地结束了的服役生涯。</p>"
+msgstr "<p>日本正在建造配备15门155毫米火炮的最上级巡洋舰的消息震惊了美国海军司令部。自1930年以来发展起来的配备152毫米火炮的轻型巡洋舰项目很快进行了调整，它的三联装炮塔由四座增加到了五座，由此诞生了布鲁克林级巡洋舰。</p><p class=\"p_spacing\"> </p><p>1935年，当该级多数巡洋舰已开工建造后，改进方案应运而生：采用新型推进系统和由最新型双联装127毫米炮塔组成的完善防空武器系统。一年后，据此方案建造的两艘战舰——USS圣路易斯和USS海伦娜开始进行建造，并于1939年正式服役。</p><p class=\"p_spacing\"> </p><p>在1941年12月7日发生的珍珠港事件中，轻型巡洋舰海伦娜被一颗鱼雷击中，不幸成为受害者之一。1942年夏季完成维修后，该舰立即投入所罗门群岛争夺战，先后参与多场重大海战，其中1942年10月埃斯佩兰斯角夜战堪称其最辉煌战绩。凭借装备的新型雷达，USS海伦娜率先发现逼近的日本舰队。待敌舰进入近距离后，这艘巡洋舰再次先发制人，以速射炮向日舰倾泻弹雨。其炮火不仅击沉驱逐舰吹雪号，更令巡洋舰\"古鹰\"号燃成火海，最终迫使遭重创的日本舰队仓皇撤退。</p><p class=\"p_spacing\"> </p><p>这艘前途无量的巡洋舰却在1943年7月库拉岛海战中遭遇悲剧结局——三枚610毫米鱼雷从日本驱逐舰上呼啸而来，终结了USS海伦娜的征战历程。</p>"
 
 msgid "IDS_PCZC182_AA_ATLANTA"
 msgstr "瓜达卡纳尔岛战役中的USS亚特兰大，1942年"
@@ -69696,7 +69696,7 @@ msgid "IDS_PCZC366_SOVIETBBARC_ASHIK"
 msgstr "维克多•弗拉迪米罗维奇•阿什克（1905-1985）"
 
 msgid "IDS_PCZC366_SOVIETBBARC_ASHIK_DESCRIPTION"
-msgstr "<p>在俄罗斯和苏联的工程师中，总是有许多耀眼的明星。维克多•弗拉迪米罗维奇•阿什克无疑是其中之一。他的祖先来自塞尔维亚。维克多本人在设计和造船方面拥有超过60年的经验，是一位世袭的收藏家，也是世界文化和历史的杰出鉴赏家。</p><p class=\"p_spacing\"> </p><p>1936年，作为波罗的海船厂设计局的一名雇员，阿什克成为了23号项目的负责人鲍里斯•奇利金的副手，该项目的设想是建造一种远洋舰队用的战列舰。1939年，阿什克成为该项目的首席设计师，到此时，项目规划建造的四艘苏联及战舰已经完工并下水两艘。战争期间，在人民委员会海军委员——库兹涅佐夫上将的推动下，苏联正确认识到了舰载航空在海军战争中的决定性作用，并决定研发第一批苏联航母。阿什克被晋升为17号中央设计局总工程师后，开始领导苏联航空母舰的研发工作。</p>"
+msgstr "<p>在俄罗斯和苏联的工程师中，总是有许多耀眼的明星。维克多•弗拉迪米罗维奇•阿什克无疑是其中之一。他的祖先来自塞尔维亚。维克多本人在设计和造船方面拥有超过60年的经验，是一位世袭的收藏家，也是世界文化和历史的杰出鉴赏家。</p><p class=\"p_spacing\"> </p><p>1936年，作为波罗的海船厂设计局的一名雇员，阿什克成为了23号项目的负责人鲍里斯•奇利金的副手，该项目的设想是建造一种远洋舰队用的战列舰。1939年，阿什克成为该项目的首席设计师，到此时，项目规划建造的四艘苏联级战舰已经完工并下水两艘。战争期间，在人民委员会海军委员——库兹涅佐夫上将的推动下，苏联正确认识到了舰载航空在海军战争中的决定性作用，并决定研发第一批苏联航母。阿什克被晋升为17号中央设计局总工程师后，开始领导苏联航空母舰的研发工作。</p>"
 
 msgid "IDS_PCZC367_SOVIETBBARC_BESPOLOV"
 msgstr "费多特•埃夫多基莫维奇•别斯帕洛夫（1895-1983)"
@@ -69930,7 +69930,7 @@ msgid "IDS_PCZC405_NY2020_CRANEOPERATOR"
 msgstr "起重机操作员"
 
 msgid "IDS_PCZC405_NY2020_CRANEOPERATOR_DESCRIPTION"
-msgstr "如今，女性驾驶重型机车或任何工业机器的形象已经习以为常。然而，在第二次世界大战期间，这样的形象仍然被认为是相当出格的。尽管如此，那些离开工业企业去参军的男子，岗位几乎被所有职业妇女所取代，其中就包括起重机操作员。美国总统富兰克林•罗斯福说，公民在国内前线的牺牲对于确保胜利的重要性，不亚于士兵在海外战场作战的作用。战争的结果源于数百万计的妇女，她们在重工业最需要的时候，拿起重型设备或走上了机床岗位。"
+msgstr "如今，女性驾驶重型机车或任何工业机器的形象已经习以为常。然而，在第二次世界大战期间，这样的形象仍然被认为是相当出格的。尽管如此，那些离开工业企业去参军的男子，岗位几乎被所有职业妇女所取代，其中就包括起重机操作员。美国总统富兰克林•罗斯福说，公民在国内前线的牺牲对于确保胜利的重要性，不亚于士兵在海外战场作战的作用。战争的结果源于数百万计的妇女，她们在重工业最需要的时候，拿起了重型设备或走上了机床岗位。"
 
 msgid "IDS_PCZC406_NY2020_SHIPFITTER"
 msgstr "船舶装配工"
@@ -70122,7 +70122,7 @@ msgid "IDS_PCZC437_CAPT_1_2_SCHOOL"
 msgstr "用功读书"
 
 msgid "IDS_PCZC437_CAPT_1_2_SCHOOL_DESCRIPTION"
-msgstr "<p>中学毕业后，卡普进入苏格兰航海学院深造。就在那里，他邂逅了大玛丽——一个暗恋他的姑娘，她总是给他带来馅饼，帮他做作业（我必须补充一点，这将对他指挥船只的能力产生负面影响）。不幸的是，卡普视玛丽为知心好友，并不知道她的真实感受。</p><p class=\"p_spacing\"> </p><p>从学院毕业后，卡普想去商船上工作，于是父母的梦想似乎就要实现了。但命运另有安排。有一天，他在电视上看到了达莎•佩罗娃（Dasha Perova）发布的一段关于新版本的视频。他完全沦陷了，就在那一刻，他做出了决定，要赢得她的青睐，把自己塑造成一个勇敢的战舰指挥官，一个在在大战中击败所有敌人的人。</p>"
+msgstr "<p>中学毕业后，卡普进入苏格兰航海学院深造。就在那里，他邂逅了大玛丽——一个暗恋他的姑娘，她总是给他带来馅饼，帮他做作业（我必须补充一点，这将对他指挥船只的能力产生负面影响）。不幸的是，卡普视玛丽为知心好友，并不知道她的真实感受。</p><p class=\"p_spacing\"> </p><p>从学院毕业后，卡普想去商船上工作，于是父母的梦想似乎就要实现了。但命运另有安排。有一天，他在电视上看到了达莎•佩洛娃发布的一段关于新版本的视频。他完全沦陷了，就在那一刻，他做出了决定，要赢得她的青睐，把自己塑造成一个勇敢的战舰指挥官，一个在在大战中击败所有敌人的人。</p>"
 
 msgid "IDS_PCZC438_CAPT_1_3_FRIEND"
 msgstr "朋友不忽悠"
@@ -94359,7 +94359,7 @@ msgid "IDS_PLANE_SPEED_CHANGED"
 msgstr "飞机航速已提高"
 
 msgid "IDS_PLANE_SPREAD_MULTIPLIER_CHANGED"
-msgstr "中队投弹最大散布已缩小"
+msgstr "中队投弹最大误差已缩小"
 
 msgid "IDS_PLANE_VISIBILITY_FACTOR_CHANGED"
 msgstr "中队的被侦察范围已缩小"
@@ -104499,7 +104499,7 @@ msgid "IDS_PVSC107_DESCR"
 msgstr "<p>HMS锡兰号是皇家殖民地级巡洋舰，于二战末在太平洋和印度洋服役。在20世纪50年代，她参加了朝鲜战争和苏伊士运河危机。1959年，HMS锡兰号被卖给秘鲁，她以“<b>博洛涅西海军上校</b>海军上校号”的名字一直服役到20世纪80年代初。</p>"
 
 msgid "IDS_PVSC107_FULL"
-msgstr "博洛涅西海军上校"
+msgstr "博洛涅西陆军上校"
 
 msgid "IDS_PVSC107_NUMBER"
 msgstr "11"
@@ -127809,7 +127809,7 @@ msgid "IDS_SOUND_MOD_COMRICHARD"
 msgstr "ComRichard"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
-msgstr "Dasha Perova"
+msgstr "达莎•佩洛娃"
 
 msgid "IDS_SOUND_MOD_DEFAULT"
 msgstr "标准"
@@ -132294,7 +132294,7 @@ msgid "IDS_TASKRESTRICTION_EXTRA_SOLO"
 msgstr "战斗开始时玩家必须不在任何小队中。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVE_AIGLE"
-msgstr "用鹰驱逐舰在随机战和联合作战中完成目标。"
+msgstr "用驱逐舰鹰在随机战和联合作战中完成目标。"
 
 msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED_PEF"
 msgstr "用战列舰艾特尔•弗里德里希亲王在随机战、联合作战和排位战中完成目标。"
@@ -137128,7 +137128,7 @@ msgid "IDS_XMPP_UNAVAILABLE_MESSAGE"
 msgstr "聊天暂时不可用"
 
 msgid "IDS_X_MULTIPLIER"
-msgstr "× "
+msgstr "× "
 
 msgid "IDS_YAMAMOTO"
 msgstr "山本五十六"
