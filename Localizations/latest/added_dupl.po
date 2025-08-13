@@ -1,0 +1,867 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_ABILITY_ARTILLERY_RELOAD_BOOSTER_AVAILABLE"
+msgstr "可使用“主炮组装填助推器”消耗品"
+
+msgid "IDS_ABILITY_SMOKE_AVAILABLE"
+msgstr "可使用“发烟器”消耗品"
+
+msgid "IDS_ABILITY_SMOKE_FULL_SPEED"
+msgstr "可使用“高速发烟器”消耗品"
+
+msgid "IDS_ABILITY_SMOKE_NOT_AVAILABLE"
+msgstr "未配备“发烟器”消耗品"
+
+msgid "IDS_ABILITY_SONAR_AVAILABLE"
+msgstr "可使用“对海搜索”消耗品"
+
+msgid "IDS_ABILITY_TORPEDO_RELOAD_BOOSTER_AVAILABLE"
+msgstr "可使用“鱼雷装填助推器”消耗品"
+
+msgid "IDS_ACCEPT_INVITATION_TO_DIVISION"
+msgstr "接受"
+
+msgid "IDS_CITADEL_HEALTH_REGENERATION_HIGH"
+msgstr "“维修小组”消耗品修复战舰核心区伤害的效率较高"
+
+msgid "IDS_COLLECTION_DESCRIPTION_BUTTON"
+msgstr "收藏介绍"
+
+msgid "IDS_COLLECTION_DESCRIPTION_BUTTON_TOOLTIP"
+msgstr "查看收藏介绍"
+
+msgid "IDS_CONVERT_CREDITS_SHORT"
+msgstr "兑换"
+
+msgid "IDS_CONVERT_FREE_EXPERIENCE_SHORT"
+msgstr "转换"
+
+msgid "IDS_CREW_TYPE_LEGENDARY"
+msgstr "传奇"
+
+msgid "IDS_CREW_TYPE_RARE"
+msgstr "稀有"
+
+msgid "IDS_CREW_TYPE_UNCOMMON"
+msgstr "特殊"
+
+msgid "IDS_CURRENCY_CLANRESOURCE"
+msgstr "石油"
+
+msgid "IDS_CURRENCY_EVENTUM_SUBTYPE"
+msgstr "临时资源"
+
+msgid "IDS_DOCK_BANNER_CAMPAIGNS"
+msgstr "战役"
+
+msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_CLAN_SHIP"
+msgstr "此战舰无法安装涂装"
+
+msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_NO_SHIPS"
+msgstr "没有战舰"
+
+msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_1"
+msgstr "补丁"
+
+msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_2"
+msgstr "徽章"
+
+msgid "IDS_DOGTAG_PCNB468_NAME"
+msgstr "赫赫战功"
+
+msgid "IDS_DRUM_MODE_SWITCHABLE"
+msgstr "可使用连发射击模式"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_COMMON"
+msgstr "普通"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_ELITE"
+msgstr "精英"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_RARE"
+msgstr "稀有"
+
+msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_UNCOMMON"
+msgstr "特殊"
+
+msgid "IDS_ERROR_LGI_COMMON"
+msgstr "网页授权出错。请重试或联系玩家支持中心。"
+
+msgid "IDS_ERROR_LGI_TICKET_EXPIRED"
+msgstr "授权已过期。请再试一次。"
+
+msgid "IDS_GUIDING_TIP_19_HEADER"
+msgstr "战舰涂装"
+
+msgid "IDS_GUIDING_TIP_342_HEADER"
+msgstr "战舰信号旗"
+
+msgid "IDS_GUIDING_TIP_343_HEADER"
+msgstr "战舰信号旗"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_LEGENDARY"
+msgstr "显示传奇指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_LEGENDARY"
+msgstr "没有符合条件的传奇指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_RARE"
+msgstr "没有符合条件的稀有指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNCOMMON"
+msgstr "没有符合条件的特殊指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_RARE"
+msgstr "显示稀有指挥官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNCOMMON"
+msgstr "显示特殊指挥官"
+
+msgid "IDS_LEGENDARY_CREW_STATUS"
+msgstr "传奇指挥官"
+
+msgid "IDS_LOOTBOXES_GO_TO_METASHOP"
+msgstr "前往兵工厂"
+
+msgid "IDS_MAIN_TAB_BUTTON_ARMORY"
+msgstr "兵工厂"
+
+msgid "IDS_MAIN_TAB_BUTTON_RESEARCH"
+msgstr "科技树"
+
+msgid "IDS_MAIN_TAB_BUTTON_SHIP"
+msgstr "战舰"
+
+msgid "IDS_MODERNIZATION_COMMON"
+msgstr "升级品"
+
+msgid "IDS_MODERNIZATION_ELITE"
+msgstr "精英升级品"
+
+msgid "IDS_MODERNIZATION_RARE"
+msgstr "稀有升级品"
+
+msgid "IDS_MODERNIZATION_UNCOMMON"
+msgstr "特殊升级品"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_ABILITIES"
+msgstr "消耗品"
+
+msgid "IDS_PAGT240_INVISIBLE_TA_7M"
+msgstr "533 mm 单装"
+
+msgid "IDS_PAPA212_152MM_HE_4CRH_SG"
+msgstr "152 mm HE 4crh"
+
+msgid "IDS_PAPA213_406MM_HE_PRESIDENT"
+msgstr "406 mm HE/HC Mk13"
+
+msgid "IDS_PAPA215_305MM_HE_CONSTITUTION"
+msgstr "305 mm HE/HC Mk8"
+
+msgid "IDS_PAPA216_305MM_AP_CONSTITUTION"
+msgstr "305 mm AP Mk15 mod.1"
+
+msgid "IDS_PAPT070_533MM_MK15_CONSTITUTION"
+msgstr "Mk15 mod. 0"
+
+msgid "IDS_PASB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASB520_YEAR"
+msgstr "1918"
+
+msgid "IDS_PASC558_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC558_YEAR"
+msgstr "1915"
+
+msgid "IDS_PAUA720_ART_CONSTITUTION"
+msgstr "305 mm/50 Mk.7（炮塔）"
+
+msgid "IDS_PAUE727_ENG_CONSTITUTION"
+msgstr "推进系统：125000马力"
+
+msgid "IDS_PAUE933_ENG_PRESIDENT"
+msgstr "推进系统：210000马力"
+
+msgid "IDS_PAUS724_SUO_CONSTITUTION"
+msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUS922_SUO_PRESIDENT"
+msgstr "Mk10 mod. 1"
+
+msgid "IDS_PCEE776_AQUITAINE_FLAG"
+msgstr "阿基坦"
+
+msgid "IDS_PCQC005_BISMARCK_TOKEN"
+msgstr "狩猎俾斯麦"
+
+msgid "IDS_PCQT086_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT158_CAMPAIGNSB_MISSION01_TASK08_KEY_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT379_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT389_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT399_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT410_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT427_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT645_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT654_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT672_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT674_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT684_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT696_1"
+msgstr "通过侦察协助己方团队造成%(count)s点伤害。"
+
+msgid "IDS_PCQT698_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT713_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT715_1"
+msgstr "获得%(count)s点指挥官经验。"
+
+msgid "IDS_PCQT723_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT731_1"
+msgstr "获得%(count)s银币。"
+
+msgid "IDS_PCQT733_1"
+msgid_plural "IDS_PCQT733_1"
+msgstr[0] "获得%(count)s枚“造成火灾”或“造成进水”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT734_1"
+msgid_plural "IDS_PCQT734_1"
+msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT736_1"
+msgstr "对敌舰造成%(count)s点伤害。"
+
+msgid "IDS_PCQT737_1"
+msgid_plural "IDS_PCQT737_1"
+msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前5的玩家。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT738_1"
+msgid_plural "IDS_PCQT738_1"
+msgstr[0] "获得%(count)s枚任意勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT739_1"
+msgstr "获得%(count)s点全局经验。"
+
+msgid "IDS_PCQT740_1"
+msgid_plural "IDS_PCQT740_1"
+msgstr[0] "在%(count)s场战斗中获胜。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT741_1"
+msgid_plural "IDS_PCQT741_1"
+msgstr[0] "获得%(count)s枚任意勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT742_1"
+msgid_plural "IDS_PCQT742_1"
+msgstr[0] "获得%(count)s次“鱼雷命中”或“命中核心区”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT745_1"
+msgid_plural "IDS_PCQT745_1"
+msgstr[0] "获得%(count)s次任意成就。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT746_1"
+msgid_plural "IDS_PCQT746_1"
+msgstr[0] "获得%(count)s枚“摧毁”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT747_1"
+msgstr "获得%(count)s点基础经验。"
+
+msgid "IDS_PCQT748_1"
+msgstr "获得%(count)s点经验（应用加成后）。"
+
+msgid "IDS_PCQT749_1"
+msgid_plural "IDS_PCQT749_1"
+msgstr[0] "率先发现%(count)s枚鱼雷。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT750_1"
+msgstr "获得%(count)s点基础经验。"
+
+msgid "IDS_PCQT751_1"
+msgstr "受到%(count)s点潜在伤害。"
+
+msgid "IDS_PCQT752_1"
+msgid_plural "IDS_PCQT752_1"
+msgstr[0] "获得%(count)s枚“造成火灾”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT753_1"
+msgstr "通过侦察协助己方团队造成%(count)s点伤害。"
+
+msgid "IDS_PCQT754_1"
+msgid_plural "IDS_PCQT754_1"
+msgstr[0] "获得%(count)s枚任意勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT755_1"
+msgid_plural "IDS_PCQT755_1"
+msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前3的玩家。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT756_1"
+msgid_plural "IDS_PCQT756_1"
+msgstr[0] "获得%(count)s次任意成就。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT757_1"
+msgid_plural "IDS_PCQT757_1"
+msgstr[0] "获得%(count)s枚“摧毁”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT758_1"
+msgstr "获得%(count)s点指挥官经验。"
+
+msgid "IDS_PCQT759_1"
+msgid_plural "IDS_PCQT759_1"
+msgstr[0] "获得%(count)s枚“发现”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT760_1"
+msgid_plural "IDS_PCQT760_1"
+msgstr[0] "获得%(count)s枚“摧毁”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT761_1"
+msgid_plural "IDS_PCQT761_1"
+msgstr[0] "获得%(count)s枚“主炮命中”或“副炮命中”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT762_1"
+msgid_plural "IDS_PCQT762_1"
+msgstr[0] "获得%(count)s枚“摧毁”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT763_1"
+msgid_plural "IDS_PCQT763_1"
+msgstr[0] "在%(count)s场战斗中获胜。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT764_1"
+msgid_plural "IDS_PCQT764_1"
+msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT765_1"
+msgid_plural "IDS_PCQT765_1"
+msgstr[0] "获得%(count)s次英勇成就。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT766_1"
+msgstr "对敌舰造成%(count)s点伤害。"
+
+msgid "IDS_PCQT767_1"
+msgstr "受到%(count)s点潜在伤害。"
+
+msgid "IDS_PCQT769_1"
+msgid_plural "IDS_PCQT769_1"
+msgstr[0] "获得%(count)s枚任意勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT770_1"
+msgstr "获得%(count)s点指挥官经验。"
+
+msgid "IDS_PCQT771_1"
+msgid_plural "IDS_PCQT771_1"
+msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前5的玩家。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT772_1"
+msgid_plural "IDS_PCQT772_1"
+msgstr[0] "获得%(count)s枚“命中核心区”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT773_1"
+msgstr "受到%(count)s点潜在伤害。"
+
+msgid "IDS_PCQT776_1"
+msgid_plural "IDS_PCQT776_1"
+msgstr[0] "通过侦察协助己方团队造成%(count)s点伤害。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT777_1"
+msgid_plural "IDS_PCQT777_1"
+msgstr[0] "获得%(count)s次任意成就。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT778_1"
+msgid_plural "IDS_PCQT778_1"
+msgstr[0] "获得%(count)s枚“摧毁”勋带。"
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "IDS_PCQT779_1"
+msgstr "获得%(count)s点基础经验。"
+
+msgid "IDS_PCQT780_1"
+msgstr "用主炮造成%(count)s点伤害。"
+
+msgid "IDS_PCZC1000_BD25_PUZZLE_24"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1001_BD25_PUZZLE_25"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1002_BD25_PUZZLE_26"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1003_BD25_PUZZLE_27"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1004_BD25_PUZZLE_28"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1005_BD25_PUZZLE_29"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1006_BD25_PUZZLE_30"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1007_BD25_PUZZLE_31"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1008_BD25_PUZZLE_32"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1009_BD25_PUZZLE_33"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1010_BD25_PUZZLE_34"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1011_BD25_PUZZLE_35"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1012_BD25_PUZZLE_36"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1013_BD25_PUZZLE_37"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1014_BD25_PUZZLE_38"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1015_BD25_PUZZLE_39"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1016_BD25_PUZZLE_40"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1017_BD25_PUZZLE_41"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1018_BD25_PUZZLE_42"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1019_BD25_PUZZLE_43"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1020_BD25_PUZZLE_44"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1021_BD25_PUZZLE_45"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1022_BD25_PUZZLE_46"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1023_BD25_PUZZLE_47"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1024_BD25_PUZZLE_48"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1025_BD25_PUZZLE_49"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1026_BD25_PUZZLE_50"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1027_BD25_PUZZLE_51"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1028_BD25_PUZZLE_52"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1029_BD25_PUZZLE_53"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1030_BD25_PUZZLE_54"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1031_BD25_PUZZLE_55"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1032_BD25_PUZZLE_56"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1033_BD25_PUZZLE_57"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1034_BD25_PUZZLE_58"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1035_BD25_PUZZLE_59"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC1036_BD25_PUZZLE_60"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC977_BD25_PUZZLE_1"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC978_BD25_PUZZLE_2"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC979_BD25_PUZZLE_3"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC980_BD25_PUZZLE_4"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC981_BD25_PUZZLE_5"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC982_BD25_PUZZLE_6"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC983_BD25_PUZZLE_7"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC984_BD25_PUZZLE_8"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC985_BD25_PUZZLE_9"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC986_BD25_PUZZLE_10"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC987_BD25_PUZZLE_11"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC988_BD25_PUZZLE_12"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC989_BD25_PUZZLE_13"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC990_BD25_PUZZLE_14"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC991_BD25_PUZZLE_15"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC992_BD25_PUZZLE_16"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC993_BD25_PUZZLE_17"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC994_BD25_PUZZLE_18"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC995_BD25_PUZZLE_19"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC996_BD25_PUZZLE_20"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC997_BD25_PUZZLE_21"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC998_BD25_PUZZLE_22"
+msgstr "拼图碎片"
+
+msgid "IDS_PCZC999_BD25_PUZZLE_23"
+msgstr "拼图碎片"
+
+msgid "IDS_PIES201_LAZIO_CEREMONIAL"
+msgstr "下水仪式"
+
+msgid "IDS_PIES330_IMPERO_CEREMONIAL"
+msgstr "下水仪式"
+
+msgid "IDS_PJPT127_SEA_TORPEDO_533MM_TYPE6_MINEKAZE"
+msgstr "533 mm Type6"
+
+msgid "IDS_PL_CREDITS"
+msgstr "银币"
+
+msgid "IDS_PL_GOLD"
+msgstr "金币"
+
+msgid "IDS_PL_SSE_CONDITIONS_TOTAL_CREDIT"
+msgstr "获得%(count)s银币"
+
+msgid "IDS_PURCHASE_LOOTBOXES_BY_TYPE"
+msgstr "价格："
+
+msgid "IDS_RARE_CREW_STATUS"
+msgstr "稀有指挥官"
+
+msgid "IDS_REWARDS_PL_CREDITS_TITLE"
+msgstr "%(_amount)s银币"
+
+msgid "IDS_REWARDS_PL_GOLD_TITLE"
+msgstr "%(_amount)s金币"
+
+msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "高级补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "补给箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "加值战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "战舰"
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "永久涂装"
+
+msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "涂装"
+
+msgid "IDS_REWARD_MK_PREMIUM_TITLE"
+msgstr "战舰高级账号"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_CAMOUFLAGE"
+msgstr "涂装"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_CREW_MANAGEMENT"
+msgstr "指挥官"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_ECOBOOST"
+msgstr "经济加成"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_ENSIGN"
+msgstr "旗帜"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_LOOTBOXES"
+msgstr "补给箱"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_OVERVIEW"
+msgstr "武器"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_REPAIR_DOCK"
+msgstr "维修船坞"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_SHIP_MASTERY"
+msgstr "精通"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_SSE"
+msgstr "作战任务"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_UPGRADES"
+msgstr "升级"
+
+msgid "IDS_SHIP_EXP_SORT_DEFAULT"
+msgstr "默认排序"
+
+msgid "IDS_SHIP_EXP_SORT_LEVEL"
+msgstr "按等级排序"
+
+msgid "IDS_SHIP_MANAGEMENT_SQUADRON_WEAPON_HEADER"
+msgstr "中队消耗品"
+
+msgid "IDS_SHIP_PARAMS_HOTKEY_SHORT"
+msgstr "状态"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_COMMON"
+msgstr "普通"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_ELITE"
+msgstr "精英"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_RARE"
+msgstr "稀有"
+
+msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_UNCOMMON"
+msgstr "特殊"
+
+msgid "IDS_SUBST_CREDITS"
+msgstr "%(credits)s银币"
+
+msgid "IDS_TELEGRAPH_ANGLE_0"
+msgstr "0"
+
+msgid "IDS_TELEGRAPH_ANGLE_LEFT_MAX"
+msgstr "MAX"
+
+msgid "IDS_TELEGRAPH_ANGLE_RIGHT_MAX"
+msgstr "MAX"
+
+msgid "IDS_TORPEDO_SALVO_VOLUME_HIGH"
+msgstr "鱼雷单轮齐射伤害较高"
+
+msgid "IDS_TOURNAMENT_HEADER_LOADING_DATA"
+msgstr "加载中"
+
+msgid "IDS_TTX_WIDGET_COMMON_TITLE_ECOBOOST"
+msgstr "经济加成"
+
+msgid "IDS_TTX_WIDGET_COMMON_TITLE_MODERNIZATION"
+msgstr "升级品"
+
+msgid "IDS_TTX_WIDGET_COMMON_TITLE_SIGNAL"
+msgstr "信号旗"
+
+msgid "IDS_UNCOMMON_CREW_STATUS"
+msgstr "特殊指挥官"
+
+msgid "IDS_UNLOCKS_292101"
+msgstr "与其他玩家合作对战电脑玩家。"
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "与其他玩家一起对抗电脑玩家，并完成剧情任务。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_292101"
+msgstr "<p>与其他玩家合作对战电脑玩家。</p><p class=\"p_spacing\"> </p><p>战斗模式选项位于“加入战斗”按钮的旁边。</p>"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124"
+msgstr "<p>在“行动”中，您的团队必须在与电脑玩家战斗的同时完成各种任务。每个行动都有独特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要目标即可获得胜利。完成次要目标将获得更多资源。</p><p class=\"p_spacing\"> </p><p>行动的难度取决于队伍中战舰的类型和等级。</p><p class=\"p_spacing\"> </p><p>可见于战斗模式选择界面。</p>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_292101"
+msgstr ""
+"您现在可以加入\n"
+"<h3>联合作战</h3>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>您现在可以加入\n"
+"<h3>行动</h3></body>"
+
+msgid "IDS_UNLOCKS_TITLE_292101"
+msgstr "联合作战"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "行动"
