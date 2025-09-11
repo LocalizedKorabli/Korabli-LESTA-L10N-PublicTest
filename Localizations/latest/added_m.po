@@ -13,134 +13,89 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.6\n"
 
-msgid "IDS_DOCK_BANNER_RATING"
-msgstr "评级战"
+msgid "IDS_BASE_AI_19"
+msgstr "将准星对准敌方战舰并按下[KEY_F3]，无人舰将集中火力攻击此战舰。"
 
-msgid "IDS_DOCK_BANNER_RATING_TOOLTIP_HEADER"
-msgstr "评级战"
+msgid "IDS_PAAS216_FRANKLIN_SPY"
+msgstr "Vought OS2U Kingfisher"
 
-msgid "IDS_GO_TO_PROFILE_RATING"
-msgstr "前往评级界面"
+msgid "IDS_PAAS217_MONTEREY_SPY"
+msgstr "Vought OS2U Kingfisher"
 
-msgid "IDS_HOUR_SHORT"
-msgstr "小时"
+msgid "IDS_PAAS218_YORKTOWN_SPY"
+msgstr "Vought OS2U Kingfisher"
 
-msgid "IDS_PAPA301_SHELL_305MM_AP_AP_SAND"
-msgstr "305 mm AP mod.1"
+msgid "IDS_PECULARITY_FILTER_HOUND"
+msgstr "猎犬"
 
-msgid "IDS_PAPA302_SHELL_305MM_HE_C_SAND"
-msgstr "305 mm HE mod.1"
+msgid "IDS_PECULARITY_FILTER_HOUND_SET_SKIN_TOOLTIP"
+msgstr "在港口和战斗中显示“猎犬”战舰和指挥官"
 
-msgid "IDS_PAPA303_SHELL_305MM_AP_AP_MK15_SAND"
-msgstr "305 mm AP Mk15 mod. 2"
+msgid "IDS_PECULARITY_FILTER_HOUND_TAKE_OFF_SKIN_TOOLTIP"
+msgstr "在港口和战斗中隐藏“猎犬”战舰和指挥官的视觉外观"
 
-msgid "IDS_PAPA304_305MM_HE_HC_MK8_SAND"
-msgstr "305 mm HE/HC Mk8 mod.1"
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_SET_SKIN_TOOLTIP"
+msgstr "在港口和战斗中显示“最终兵器：隔离”战舰和指挥官"
 
-msgid "IDS_PAPA305_305MM_AP_AP_870LBS_SAND"
-msgstr "305 mm AP 870 lb mod.1"
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_TAKE_OFF_SKIN_TOOLTIP"
+msgstr "在港口和战斗中隐藏“最终兵器：隔离”战舰和指挥官的视觉外观"
 
-msgid "IDS_PAPA306_305MM_HE_COMMON_870LBS_SAND"
-msgstr "305 mm HE Common 870 lb mod.1"
+msgid "IDS_PIPT029_533_SI270_IT_CL_9_10"
+msgstr "533 mm Si 270"
 
-msgid "IDS_PBPA301_305MM_MX_AP_BC_SAND"
-msgstr "305 mm AP Mk VIb mod.1"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM196_ENGINE_WT"
+msgstr "团队引擎增压"
 
-msgid "IDS_PBPA302_305MM_MX_HE_BC_SAND"
-msgstr "305 mm HE Mk IIb mod.1"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM217_HOUNDSRESIST_WT"
+msgstr "团队护盾"
 
-msgid "IDS_PBPA303_305MM_MX_AP_SAND"
-msgstr "305 mm AP Mk VIa mod.1"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM218_HOUNDSVAMPIRISM_WT"
+msgstr "装甲汲取"
 
-msgid "IDS_PBPA304_305MM_MX_HE_SAND"
-msgstr "305 mm HE Mk IIa mod.1"
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM233_SLOWDOWN_WT"
+msgstr "致缓炮弹"
 
-msgid "IDS_PBPA305_343MM_MV_IIA_AP_SAND"
-msgstr "343 mm AP Mk I mod.1"
+msgid "IDS_SHIP_MODIFIER_PXOM196_ENGINE_WT_APPLIED"
+msgstr "已启用团队引擎增压"
 
-msgid "IDS_PBPA306_343MM_MV_HE_L_SAND"
-msgstr "343 mm HE Mk I mod.1"
+msgid "IDS_SHIP_MODIFIER_PXOM217_HOUNDSRESIST_WT_APPLIED"
+msgstr "已启用团队护盾"
 
-msgid "IDS_PBPA307_343MM_MV_AP_BC_SAND"
-msgstr "343 mm AP Mk Ia mod.1"
+msgid "IDS_SHIP_MODIFIER_PXOM218_HOUNDSVAMPIRISM_WT_APPLIED"
+msgstr "已启用装甲汲取"
 
-msgid "IDS_PBPA308_343MM_MV_HE_BC_SAND"
-msgstr "343 mm HE Mk Ia mod.1"
+msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
+msgstr "已装载致缓炮弹"
 
-msgid "IDS_PBPA309_305MM_AP_DREAD_SAND"
-msgstr "305 mm AP Mk VIa mod.1"
+msgid "IDS_WT_TAGS_BOTOMANCER_CAN_SUMMON_AUTOMATONS"
+msgstr "可召唤无人舰，其将协助战斗并为战舰提供增益"
 
-msgid "IDS_PBPA310_305MM_HE_DREAD_SAND"
-msgstr "305 mm HE Mk IIa mod.1"
+msgid "IDS_WT_TAGS_BOTOMANCER_CONSUMABLES_CHOICE_AVAILABLE"
+msgstr "可选消耗品"
 
-msgid "IDS_PFPA301_305MM_45_1910_AP_SAND"
-msgstr "305 mm AP OPf Mle 1910 mod.1"
+msgid "IDS_WT_TAGS_DICTATOR_BEST_MANEUVERABILITY"
+msgstr "在埃尔梅琳达˙荣格的战舰中机动性最好"
 
-msgid "IDS_PFPA302_305MM_45_1910_HE_SAND"
-msgstr "305 mm HE OEA Mle 1910 mod.1"
+msgid "IDS_WT_TAGS_DICTATOR_CLOSE_QUARTERS"
+msgstr "近战效率最高"
 
-msgid "IDS_PGPA301_283MM_AP_PZ_GR_L3_2_SAND"
-msgstr "283 mm P.Spr.Gr. L/3.2 mod.1"
+msgid "IDS_WT_TAGS_DICTATOR_CONSUMABLES_AFFECT_AREA"
+msgstr "配备可对敌舰造成范围性伤害的消耗品"
 
-msgid "IDS_PGPA302_283MM_HE_SPR_GR_L3_6_SAND"
-msgstr "283 mm Spr.Gr. L/3.6 mod.1"
+msgid "IDS_WT_TAGS_DICTATOR_FIRE_ADJUSTMENT"
+msgstr "造成伤害时增强消耗品性能并提高主炮和副炮的射速"
 
-msgid "IDS_PGPA303_305MM_AP_PZ_GR_L3_4_SAND"
-msgstr "305 mm P.Spr.Gr. L/3.4 mod.1"
+msgid "IDS_WT_TAGS_DICTATOR_SECONDARIES"
+msgstr "副炮打击效率较高"
 
-msgid "IDS_PGPA304_305MM_HE_SPR_GR_L3_8_BDZ_SAND"
-msgstr "305 mm Spr.Gr. L/3.8 Bdz. mod.1"
+msgid "IDS_WT_TAGS_PREDATOR_BEST_MAIN_GUNS"
+msgstr "在埃尔梅琳达˙荣格的战舰中主炮打击效率最高"
 
-msgid "IDS_PGPA305_305MM_AP_PZ_GR_L4_9_SAND"
-msgstr "305 mm P.Spr.Gr. L/4.9 mod.1"
+msgid "IDS_WT_TAGS_PREDATOR_CONCEALMENT"
+msgstr "隐蔽性较好"
 
-msgid "IDS_PGPA306_305MM_HE_SPR_GR_L4_8_KZ_SAND"
-msgstr "305 mm Spr.Gr. L/4.8 Kz. mod.1"
+msgid "IDS_WT_TAGS_PREDATOR_DAMAGE_PER_SALVO"
+msgstr "单轮齐射伤害较高"
 
-msgid "IDS_PGPA307_305MM_AP_KA_SAND"
-msgstr "305 mm P.Spr.Gr. L/3.4 mod.1"
-
-msgid "IDS_PGPA308_305MM_HE_KA_SAND"
-msgstr "305 mm Spr.Gr. L/3.8 mod.1"
-
-msgid "IDS_PIPA301_305MM_46_1909_AP_SAND"
-msgstr "305 mm proiettili AP 1909 mod.1"
-
-msgid "IDS_PIPA302_305MM_46_1909_CS_SAND"
-msgstr "305 mm proiettili CS 1909 mod.1"
-
-msgid "IDS_PJPA301_SHELL_305MM_AP_850LBS_SAND"
-msgstr "305 mm AP 850 lb mod.1"
-
-msgid "IDS_PJPA302_SHELL_305MM_HE_850LBS_SAND"
-msgstr "305 mm HE 850 lb mod.1"
-
-msgid "IDS_PJPA303_SHELL_305MM_AP_APC_41_YEAR_TYPE_SAND"
-msgstr "305 mm AP/APC Type41year mod.1"
-
-msgid "IDS_PJPA304_SHELL_305MM_HE_HE_SAND"
-msgstr "305 mm HE mod.1"
-
-msgid "IDS_PJPA305_SHELL_305MM_AP_APC_41_YEAR_TYPE_SAND"
-msgstr "305 mm AP/APC Type41year mod.1"
-
-msgid "IDS_PJPA306_SHELL_305MM_HE_HE_SAND"
-msgstr "305 mm HE mod.1"
-
-msgid "IDS_PJPA307_SHELL_356MM_AP_AP_TYPE_5_SAND"
-msgstr "356 mm AP Type5 mod.1"
-
-msgid "IDS_PJPA308_SHELL_356MM_HE_C_TYPE_0_SAND"
-msgstr "356 mm HE Type0 mod.1"
-
-msgid "IDS_PJPA309_305MM_AP_APC_MARK_VI_SAND"
-msgstr "305 mm AP Mk6 mod.1"
-
-msgid "IDS_PJPA310_305MM_HE_HE_MARK_IIA_SAND"
-msgstr "305 mm HE Mk2a mod.1"
-
-msgid "IDS_PRPA301_305_AP_1911_SAND"
-msgstr "305 mm AP Model 1911 mod.1"
-
-msgid "IDS_PRPA302_305_HE_1911_SAND"
-msgstr "305 mm HE Model 1911 mod.1"
+msgid "IDS_WT_TAGS_PREDATOR_RAGEMODE_OF_MASS_DESTRUCTION"
+msgstr "作战指令可对全体敌军造成伤害"

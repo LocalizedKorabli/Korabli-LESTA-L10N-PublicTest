@@ -2,18 +2,11 @@
 msgid ""
 msgstr ""
 
-msgid "IDS_GUIDING_TIP_304_DESC"
-msgstr ""
-"С помощью соответствующих экономических бонусов вы сможете получать больше "
-"серебра, опыта корабля, опыта командира и свободного опыта за каждый бой."
+msgid "IDS_PAAF212_FRANKLIN_INTERCEPTOR"
+msgstr "Ryan FR Fireball"
 
-msgid "IDS_GUIDING_TIP_304_HEADER"
-msgstr "Экономические бонусы"
+msgid "IDS_PAAF214_MONTEREY_INTERCEPTOR"
+msgstr "Curtiss XF14C"
 
-msgid "IDS_GUIDING_TIP_305_DESC"
-msgstr ""
-"С помощью соответствующих экономических бонусов вы сможете получать больше "
-"серебра, опыта корабля, опыта командира и свободного опыта за каждый бой."
-
-msgid "IDS_GUIDING_TIP_305_HEADER"
-msgstr "Экономические бонусы"
+msgid "IDS_PAAF216_YORKTOWN_INTERCEPTOR"
+msgstr "Grumman F5F Skyrocket"
