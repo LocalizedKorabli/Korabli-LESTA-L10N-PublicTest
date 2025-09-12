@@ -133868,13 +133868,13 @@ msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_LOSE"
 msgstr "敌人成功逃脱"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_WON"
-msgstr "同盟万岁！"
+msgstr "同盟万岁"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_LOSE"
 msgstr "冯˙克里格的遗产将被遗忘"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_WON"
-msgstr "冯˙克里格的遗产永垂不朽！"
+msgstr "冯˙克里格的遗产永垂不朽"
 
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "页面已完成"
