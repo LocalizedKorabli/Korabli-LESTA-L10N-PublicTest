@@ -64989,7 +64989,7 @@ msgid "IDS_PCEE254_MONTPELIER_FLAG"
 msgstr "碧蓝航线 — 蒙彼利埃"
 
 msgid "IDS_PCEE254_MONTPELIER_FLAG_DESCRIPTION"
-msgstr "你知道吗？我们克利夫兰级是大战中白鹰最出色的轻巡，所以你要对大姐头更加尊敬一点才行。至于我，伦内尔，皇后湾，还有些其他作战，也算是参加过一些战斗吧。"
+msgstr "你知道吗？克利夫兰级是一战期间白鹰联邦最优秀的轻型巡洋舰，所以你应该对姐姐大人多一点尊重。至于我——伦内尔群岛，奥古斯塔皇后湾，以及其他一些行动…我想我确实参加了一些战役。"
 
 msgid "IDS_PCEE254_MONTPELIER_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《碧蓝航线》。"
@@ -64998,7 +64998,7 @@ msgid "IDS_PCEE255_YUKIKAZE_FLAG"
 msgstr "碧蓝航线 — 雪风"
 
 msgid "IDS_PCEE255_YUKIKAZE_FLAG_DESCRIPTION"
-msgstr "听好了，我乃高贵的，幸运的，无敌的，雪风˙Eight˙阳炎The.Geni……（咬舌）什么啊，这个词好难念啊！（低声）咳咳，总而言之，能得到我是你的幸运，你就尽管依靠本大人的运气吧，HO,HO,HO！"
+msgstr "听好了！呃…我乃高贵、幸运、无敌的雪风，第八艘阳炎级战舰，Ge…Gene…那个词是什么来着？！也太难念了吧！咳咳，总而言之，能得到我是你的幸运，你就尽管依靠本大人的运气吧！哈哈哈！"
 
 msgid "IDS_PCEE255_YUKIKAZE_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《碧蓝航线》。"
@@ -67195,7 +67195,7 @@ msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG"
 msgstr "碧蓝航线 — 海因里希亲王"
 
 msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_DESCRIPTION"
-msgstr "自我介绍吗？唔，我的名字“海因里希亲王”和型号“P级装甲舰”，除此之外好像也没什么好说的了呢，嗯~~小铁呢？你有什么想和指挥官说的吗~？"
+msgstr "自我介绍吗？没问题！我叫海因里希亲王，是一艘P级装甲舰。除此之外好像也没什么好说的呢，嗯……小铁！嘿，小铁，要和指挥官说什么好呢？"
 
 msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《碧蓝航线》。"
@@ -67204,7 +67204,7 @@ msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG"
 msgstr "碧蓝航线 — 柴郡"
 
 msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG_DESCRIPTION"
-msgstr "我是皇家所属的重巡洋舰，柴郡号！不过，直到见到亲爱的以前，我一直都是只存在于想象之中的战舰呢。"
+msgstr "我是柴郡，皇家海军的重型巡洋舰！在遇见您之前，我只是存在于人们想象之中的战舰！"
 
 msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《碧蓝航线》。"
@@ -72078,217 +72078,220 @@ msgid "IDS_PCZC300_AZURLANE_HAMMANN"
 msgstr "哈曼"
 
 msgid "IDS_PCZC300_AZURLANE_HAMMANN_DESCRIPTION"
-msgstr "<p>看什么看，哈曼就是哈曼啦！</p><p class=\"p_spacing\"> </p><p>中途岛？哈曼可从没有后悔过去救约克城姐姐，也不用你安慰！哼！</p><p class=\"p_spacing\"> </p><p>…………不过……谢，谢谢……</p>"
+msgstr "<p>你在看什么？哈曼就是哈曼！中途岛？哈曼不后悔去救她的姐姐约克城号，也不需要你的同情，恩！</p><p class=\"p_spacing\"> </p><p>…………但是……谢谢……</p>"
 
 msgid "IDS_PCZC301_AZURLANE_SANDIEGO"
 msgstr "圣地亚哥"
 
 msgid "IDS_PCZC301_AZURLANE_SANDIEGO_DESCRIPTION"
-msgstr "我是圣地亚哥！听说我是战争中获得星星仅次于企业大姐头的船，虽然不太明白星星是什么但是好像很厉害！指挥官，你在说什么，阿妹你看？这是什么暗号吗？"
+msgstr ""
+"我是圣地亚哥！他们说我在战斗明星中仅次于企业号，我不知道什么是明星，但听起来太棒了！\n"
+"\n"
+"“阿梅尼坎”是什么意思，指挥官？这是某种代码吗？"
 
 msgid "IDS_PCZC302_AZURLANE_MONTPELIER"
 msgstr "蒙彼利埃"
 
 msgid "IDS_PCZC302_AZURLANE_MONTPELIER_DESCRIPTION"
-msgstr "你知道吗？我们克利夫兰级是大战中白鹰最出色的轻巡，所以你要对大姐头更加尊敬一点才行。至于我，伦内尔，皇后湾，还有些其他作战，也算是参加过一些战斗吧。"
+msgstr "你知道吗？克利夫兰级是一战期间白鹰联邦最优秀的轻型巡洋舰，所以你应该对姐姐大人多一点尊重。至于我——伦内尔群岛，奥古斯塔皇后湾，以及其他一些行动…我想我确实参加了一些战役。"
 
 msgid "IDS_PCZC303_AZURLANE_MASSACHUSETTS"
 msgstr "马萨诸塞"
 
 msgid "IDS_PCZC303_AZURLANE_MASSACHUSETTS_DESCRIPTION"
-msgstr "<p>在同级里，我算是普通强的那档吧。战斗星章只拿到过11枚，比起南达科他大姐还差一些。没受过什么伤？那只是因为、没遇到过什么像样的对手吧……</p><p class=\"p_spacing\"> </p><p>唔，我也想像大姐头那样、不遗余力地打一场啊。</p>"
+msgstr "<p>在我的舰级里，我的实力只能算是中等。我只有11颗战星，和我的姐姐南达科他比起来少了一些。我从没受过伤？那可能只是因为我从未遇到过像样的对手…</p><p class=\"p_spacing\"> </p><p>呃，我想像个大姐姐一样，和一切抗争。</p>"
 
 msgid "IDS_PCZC304_AZURLANE_SARATOGA"
 msgstr "萨拉托加"
 
 msgid "IDS_PCZC304_AZURLANE_SARATOGA_DESCRIPTION"
-msgstr "<p>我是航空母舰，列克星敦！的妹妹萨拉托加。</p><p class=\"p_spacing\"> </p><p>嗯……</p><p class=\"p_spacing\"> </p><p>喜欢的事情是恶作剧！啊不过指挥官已经知道了吧。</p><p class=\"p_spacing\"> </p><p>真正的航空战术先驱吗……要是姐姐没有走的那么早，那一定是姐姐的称号吧……</p>"
+msgstr "<p>我是列克星敦号航空母舰！的小妹妹，萨拉托加。</p><p class=\"p_spacing\"> </p><p>对。。。</p><p class=\"p_spacing\"> </p><p>我爱恶作剧！啊，但是指挥官已经知道了，对吧？</p><p class=\"p_spacing\"> </p><p>航空战术的真正先驱…若我妹妹没有这么早通过考试，这个头衔肯定是她的。</p>"
 
 msgid "IDS_PCZC305_AZURLANE_SOUTHDAKOTA"
 msgstr "南达科他"
 
 msgid "IDS_PCZC305_AZURLANE_SOUTHDAKOTA_DESCRIPTION"
-msgstr "<p>我是来自白鹰的战列舰，南达科他号。在战场上请不要离开我的身边，我会保护指挥官的——</p><p class=\"p_spacing\"> </p><p>“最强的盾”？</p><p class=\"p_spacing\"> </p><p>虚名并没有价值，能提供帮助才有意义。</p>"
+msgstr "<p>我是来自白鹰联邦的战列舰，南达科他。战场上请不要离开我身边，我会保护指挥官的！</p><p class=\"p_spacing\"> </p><p>“最强的盾”？</p><p class=\"p_spacing\"> </p><p>这是一个没有价值的名字，只有当你能真正提供帮助时，它才有意义。</p>"
 
 msgid "IDS_PCZC306_AZURLANE_WARSPITE"
 msgstr "厌战"
 
 msgid "IDS_PCZC306_AZURLANE_WARSPITE_DESCRIPTION"
-msgstr "伊丽莎白级高速战列舰厌战，我是最远炮击命中移动目标的记录保持者。之前出征，好几次以为要撑不住了却都奇迹般的被救了回来——这一定是我的命运。"
+msgstr "伊丽莎白级高速战列舰厌战号参上，我是用主炮命中移动目标最远距离纪录的保持者。在前几次几次出击中，有几次我似乎无法完成任务，但最终奇都迹般地获救了——这一定是我的命运。"
 
 msgid "IDS_PCZC307_AZURLANE_PRINCEOFWALES"
 msgstr "威尔士亲王"
 
 msgid "IDS_PCZC307_AZURLANE_PRINCEOFWALES_DESCRIPTION"
-msgstr "<p>我是英王乔治五世级二号舰威尔士亲王号，曾经护送首相完成了《大西洋宪章》的签订——翻开了武器史的新一页？</p><p class=\"p_spacing\"> </p><p>哼，真敢在我面前说啊。</p>"
+msgstr "<p>我是乔治五世国王级的第二艘战舰——威尔士亲王，曾陪同首相签署大西洋宪章，翻开了武器史上的新篇章。</p><p class=\"p_spacing\"> </p><p>哼，是你告诉我的。</p>"
 
 msgid "IDS_PCZC308_AZURLANE_ILLUSTRIOUS"
 msgstr "光辉"
 
 msgid "IDS_PCZC308_AZURLANE_ILLUSTRIOUS_DESCRIPTION"
-msgstr "<p>我是装甲航母——光辉，指挥官贵安。</p><p class=\"p_spacing\"> </p><p>别看我这样，其实我也是有些小脾气的~上次夜袭了塔兰托，就顺便欺负了下撒丁帝国舰队呢~</p>"
+msgstr "<p>你好，指挥官。我是装甲航空母舰，光辉。</p><p class=\"p_spacing\"> </p><p>可能我看起来很温和，但我也能非常有脾气：上一次在塔兰托夜袭中，是我一手降服意大利舰队投降的。</p>"
 
 msgid "IDS_PCZC309_AZURLANE_LONDON"
 msgstr "伦敦"
 
 msgid "IDS_PCZC309_AZURLANE_LONDON_DESCRIPTION"
-msgstr "<p>我是伦敦级重巡洋舰首舰——伦敦，服役于第1巡洋舰队，在北大西洋、太平洋都有积极参与作战。</p><p class=\"p_spacing\"> </p><p>阁下，请放心把任务交给我吧！</p>"
+msgstr "<p>我是伦敦级重型巡洋舰的第一艘战舰——伦敦号，服役于第一艘巡洋舰舰队。我曾参与了北大西洋和太平洋的战役。</p><p class=\"p_spacing\"> </p><p>请把最重要的任务留给我，阁下！</p>"
 
 msgid "IDS_PCZC310_AZURLANE_QUEENELIZABETH"
 msgstr "伊丽莎白女王"
 
 msgid "IDS_PCZC310_AZURLANE_QUEENELIZABETH_DESCRIPTION"
-msgstr "<p>皇家海军超级无畏舰旗舰，给我把这个名号刻在骨髓上牢记吧！</p><p class=\"p_spacing\"> </p><p>战功？那种东西让臣子们去拿，本王只要看着她们就好了！</p>"
+msgstr "<p>我是皇家海军的超级无畏舰，一定要记住我的名字！</p><p class=\"p_spacing\"> </p><p>我有什么战绩？这种事情让我的仆人来处理……我只需要看着他们打仗就行了！</p>"
 
 msgid "IDS_PCZC311_AZURLANE_UNICORN"
 msgstr "独角兽"
 
 msgid "IDS_PCZC311_AZURLANE_UNICORN_DESCRIPTION"
-msgstr "<p>皇家海军…支援空母…独角兽…原本是为了支援光辉姐姐而诞生的…后来也和许多其他姐姐们一起行动过…大家对我都很好呢…独角兽在很多地方都努力过…能派上用场就好了呢……</p><p class=\"p_spacing\"> </p><p>嘻嘻，我会更加努力的，哥哥…</p>"
+msgstr "<p>皇家海军…支援型航空母舰…独角兽参上。我是为了支援光辉大姐姐而生的…但后来我也和其他大姐姐们一起行动。每个人都对我很好。独角兽会尽全力帮助大家，若之后有任何用到我的地方，那就太好了……</p><p class=\"p_spacing\"> </p><p>呵呵，我会更加努力的，大哥哥…</p>"
 
 msgid "IDS_PCZC312_AZURLANE_PRINZEUGEN"
 msgstr "欧根亲王"
 
 msgid "IDS_PCZC312_AZURLANE_PRINZEUGEN_DESCRIPTION"
-msgstr "<p>我是铁血第三帝国的奇迹，希佩尔海军上将三号舰——欧根亲王。</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p>无论是怎样的战斗都能够存活下来……</p><p class=\"p_spacing\"> </p><p>祥瑞？亏你敢说呢……</p>"
+msgstr "<p>我是铁血第三帝国的奇迹，希佩尔海军上将级的第三艘战舰——欧根亲王</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p>我能在各种各样的战斗中存活下来……</p><p class=\"p_spacing\"> </p><p>我会带来好运吗？ </p><p class=\"p_spacing\"> </p><p>若一定要说出来你会紧张的……</p>"
 
 msgid "IDS_PCZC313_AZURLANE_TIRPITZ"
 msgstr "提尔皮茨"
 
 msgid "IDS_PCZC313_AZURLANE_TIRPITZ_DESCRIPTION"
-msgstr "<p>稍微有点热……啊，抱歉，我是提尔比茨，一直一个人待在北方无所事事，所以有许多人叫我“北方的孤独女王”——如果你认为这是一个好听的绰号，那你也许没有听得仔细……</p><p class=\"p_spacing\"> </p><p>这几个字中，唯有虚无。</p>"
+msgstr "<p>这里有点热…啊，对不起，我的名字是提尔皮茨。我一个人在北方待了很长时间，什么也没做，所以很多人叫我“北方的孤独女王”——若你觉得这个称号不错，那么也许你没有完全理解……</p><p class=\"p_spacing\"> </p><p>这几个字…代表了空虚…</p>"
 
 msgid "IDS_PCZC314_AZURLANE_GRAFZEPPELIN"
 msgstr "齐柏林伯爵"
 
 msgid "IDS_PCZC314_AZURLANE_GRAFZEPPELIN_DESCRIPTION"
-msgstr "<p>我是齐柏林……虽然这个名字不要也罢，为了方便称呼还是这么叫我吧。</p><p class=\"p_spacing\"> </p><p>——我的愿望？毁灭世界吧……不会请求你的帮助的哦？因为……你早就是其中一部分了。</p>"
+msgstr "<p>我是齐柏林…您可以忽略这个名字，但若它能让您更容易呼叫我，那么您也可以使用它。</p><p class=\"p_spacing\"> </p><p>…我的欲望，哈。毁灭世界…但现在我将听从您的指示，因为我已经成为您军队的一部分。</p>"
 
 msgid "IDS_PCZC315_AZURLANE_Z46"
-msgstr "Z-46"
+msgstr "Z46"
 
 msgid "IDS_PCZC315_AZURLANE_Z46_DESCRIPTION"
-msgstr "<p>铁血海军Z级驱逐舰1936年C型。和四个妹妹一同列入建造计划，但最终只有我和Z47开工。</p><p class=\"p_spacing\"> </p><p>由于进度缓慢，直到终战也没有完工…尚未出生便遭解体的舰娘，那就是我……</p><p class=\"p_spacing\"> </p><p>期待着您不再称呼我为Z46的那天来临。</p>"
+msgstr "<p>我是Z46，铁血海军z级舰的1936C型驱逐舰。虽然最初计划制造另外四艘相同型号的战舰，但开始只建造了我和Z47。</p><p class=\"p_spacing\"> </p><p>遗憾的是，直到战争结束，建造工作仍未完成，我残缺不全的身体也被丢弃了。</p><p class=\"p_spacing\"> </p><p>希望有一天，我能不被叫做Z46，而是有一个真正的名字。</p>"
 
 msgid "IDS_PCZC316_AZURLANE_ADMIRALHIPPER"
 msgstr "希佩尔海军上将"
 
 msgid "IDS_PCZC316_AZURLANE_ADMIRALHIPPER_DESCRIPTION"
-msgstr "<p>我是铁血第三帝国帝国希佩尔海军上将号重巡洋舰，名字源于“不败的名将”弗兰茨˙冯˙希佩尔。</p><p class=\"p_spacing\"> </p><p>参与过各种各样的战斗并在每场战斗中都尽了最大的努力！</p><p class=\"p_spacing\"> </p><p>哈？巴伦支海？那是因为库默兹比你还愚蠢！</p>"
+msgstr "<p>我是希佩尔海军上将，一艘来自科学之国的重型巡洋舰。我是以战无不胜的海军上将“弗兰茨˙冯˙希佩尔”而命名的。</p><p class=\"p_spacing\"> </p><p>我参加过各种各样的战斗并倾尽了我的全部！</p><p class=\"p_spacing\"> </p><p>哈？巴伦支海战？那次意外只是因为库米茨上将比你笨一点！</p>"
 
 msgid "IDS_PCZC317_AZURLANE_DEUTSCHLAND"
 msgstr "德意志"
 
 msgid "IDS_PCZC317_AZURLANE_DEUTSCHLAND_DESCRIPTION"
-msgstr "<p>哼，我就是德意志级A号舰——德意志号！如此尊贵的我怎么能随随便便出战呢，所以没有什么战绩也是理所应当的啦，精神领袖你明白么？哼！</p><p class=\"p_spacing\"> </p><p>什么？吕……吕佐夫号是谁？可、可恶，吵死了！这种事情我怎么会知道？</p>"
+msgstr "<p>我是德意志，德意志级的A号船！一艘像我这样高贵的船当然不能一时兴起就随随便便被派往战场，所以我没被看到参与太多行动是很自然的。</p><p class=\"p_spacing\"> </p><p>这叫做精神领袖！</p><p class=\"p_spacing\"> </p><p>懂？什么？谁…谁是“吕佐夫”？</p><p class=\"p_spacing\"> </p><p>闭嘴… </p><p class=\"p_spacing\"> </p><p>我为什么会在意！？</p>"
 
 msgid "IDS_PCZC318_AZURLANE_YUUDACHI"
 msgstr "夕立"
 
 msgid "IDS_PCZC318_AZURLANE_YUUDACHI_DESCRIPTION"
-msgstr "<p>我是夕立！人称“所罗门的疯狗”！哼哼，听起来很强吧，打群架我是不会输的！</p><p class=\"p_spacing\"> </p><p>咦，到点心时间了吗？指挥官，吃的呢！</p>"
+msgstr "<p>我是夕立！他们都叫我“所罗门疯狗”！</p><p class=\"p_spacing\"> </p><p>吼！吼！你听说过我很强吗？我永远不会输掉任何一场对战！</p><p class=\"p_spacing\"> </p><p>嗯？到零食时间了吗？零食在哪里？</p>"
 
 msgid "IDS_PCZC319_AZURLANE_NAGATO"
 msgstr "长门"
 
 msgid "IDS_PCZC319_AZURLANE_NAGATO_DESCRIPTION"
-msgstr "<p>吾代表着重樱的军魂，重樱的荣光以及重樱的辉煌。</p><p class=\"p_spacing\"> </p><p>吾是BIG 7之一，吾之存在即是那个时代，睁大汝的双眼，顶礼膜拜吧——看够了吗，吾站腻了，要休息一下…</p>"
+msgstr "<p>重樱帝国的精神、骄傲与荣耀…</p><p class=\"p_spacing\"> </p><p>我是那个时代的象征。好好看看我，七巨头之一。够了吗？我现在要休息，因为我累了。</p>"
 
 msgid "IDS_PCZC320_AZURLANE_KAGA"
 msgstr "加贺"
 
 msgid "IDS_PCZC320_AZURLANE_KAGA_DESCRIPTION"
-msgstr "<p>我是第一航空战队的重型空母，加贺。</p><p class=\"p_spacing\"> </p><p>虽然一开始是按照战列舰的规格进行建造，但现在成为正航可谓是命运的安排吧。</p><p class=\"p_spacing\"> </p><p>——对待敌人？当然只有虐杀一途，那不是我的兴趣，而是我的义务，明白吗？</p>"
+msgstr "<p>我是加贺，第1航母师的航空母舰。</p><p class=\"p_spacing\"> </p><p>虽然我被设计成一艘战列舰，但重生为航空母舰一定是我的宿命。</p><p class=\"p_spacing\"> </p><p>敌人？我会毫不犹豫地摧毁它们，但只是因为职责所在，不是为了好玩。知道吗？</p>"
 
 msgid "IDS_PCZC321_AZURLANE_MIKASA"
 msgstr "三笠"
 
 msgid "IDS_PCZC321_AZURLANE_MIKASA_DESCRIPTION"
-msgstr "<p>我乃敷岛级战舰，六六舰队计划中最后的一级战舰，三笠。</p><p class=\"p_spacing\"> </p><p>作为联合舰队总旗舰，我在令祖国声名远扬的那场大战中，为祖国带来了胜利。</p>"
+msgstr "<p>我是三笠，一艘敷岛级战列舰，也是“六六舰队”计划的最后一艘一级战列舰。</p><p class=\"p_spacing\"> </p><p>作为联合舰队的旗舰，我取得了巨大的海战胜利，让我国家名扬世界。</p>"
 
 msgid "IDS_PCZC322_AZURLANE_KONGO"
 msgstr "金刚"
 
 msgid "IDS_PCZC322_AZURLANE_KONGO_DESCRIPTION"
-msgstr "金刚级高速战列舰首舰、第七代联合舰队旗舰、同时也是重樱最后一艘自海外订购的主力舰，享有如此多荣衔的——那就是我，金刚！"
+msgstr "重樱帝国高航速战列舰系列的旗舰，联合舰队的第7旗舰，也是最后一艘从海外订购的旧重樱帝国的主力战舰，那就是我，金刚！"
 
 msgid "IDS_PCZC323_AZURLANE_AYANAMI"
 msgstr "绫波"
 
 msgid "IDS_PCZC323_AZURLANE_AYANAMI_DESCRIPTION"
-msgstr "吹雪级驱逐舰的改良舰绫波……的说，对我来说，战斗没什么好害怕的，所以虽然只是驱逐舰，但是无论什么敌人我都敢一战……"
+msgstr "我是绫波…吹雪级驱逐舰的改进型号。我不畏惧战斗。尽管“只是”一艘驱逐舰，不管敌人是谁，我都能一战…"
 
 msgid "IDS_PCZC324_AZURLANE_ANSHAN"
 msgstr "鞍山"
 
 msgid "IDS_PCZC324_AZURLANE_ANSHAN_DESCRIPTION"
-msgstr "<p>东煌鞍山级驱逐舰首舰“鞍山”号，东煌第一代“四大金刚”之首。</p><p class=\"p_spacing\"> </p><p>作为长姐（旗舰），参加过诸多演习、监视和对峙，并都取得了足以自豪的成绩。</p><p class=\"p_spacing\"> </p><p>虽然没有经历过实战，但我可是世界上行驶里程最远的驱逐舰之一哦~</p>"
+msgstr "<p>我是鞍山，来自东煌的鞍山级驱逐舰以及四大天王中最年长的战舰。</p><p class=\"p_spacing\"> </p><p>作为姐妹们的旗舰，我成功的完成了各种任务，包括演习、巡逻和威慑目标。</p><p class=\"p_spacing\"> </p><p>虽然我没有实战经验，但我对我的航海经验很有信心。</p>"
 
 msgid "IDS_PCZC325_AZURLANE_FUSHUN"
 msgstr "抚顺"
 
 msgid "IDS_PCZC325_AZURLANE_FUSHUN_DESCRIPTION"
-msgstr "<p>东煌鞍山级驱逐舰二号舰“抚顺”号，东煌第一代“四大金刚”之一。</p><p class=\"p_spacing\"> </p><p>“Резкий”？那是我的乳名。虽然执行过很多任务，但未曾经历过实战实在令人遗憾，明明和鞍山姐那一次差一点就开火了！</p><p class=\"p_spacing\"> </p><p>总之，请让我在战场上尽情活跃吧！</p>"
+msgstr "<p>我是抚顺，来自东煌的鞍山级驱逐舰，也是四大天王的老二。</p><p class=\"p_spacing\"> </p><p>在我的童年时期，我被称为“列兹基”。可能有点遗憾，尽管我支援了很多作战任务，但我没有实战经验。</p><p class=\"p_spacing\"> </p><p>尽管如此，我还是会全力以赴，为你带来成功！</p>"
 
 msgid "IDS_PCZC326_AZURLANE_CHANGCHUN"
 msgstr "长春"
 
 msgid "IDS_PCZC326_AZURLANE_CHANGCHUN_DESCRIPTION"
-msgstr "<p>东煌鞍山级驱逐舰三号舰“长春”号，东煌第一代“四大金刚”之一。</p><p class=\"p_spacing\"> </p><p>作为东煌海军的柱石，在人员训练与经验积累方面发挥了巨大的作用。</p><p class=\"p_spacing\"> </p><p>诶，抚顺姐又惹祸了？</p><p class=\"p_spacing\"> </p><p>鞍山姐大概又要费心了呢…</p>"
+msgstr "<p>我是长春，来自东煌的鞍山级驱逐舰，也是四大天王的老三。</p><p class=\"p_spacing\"> </p><p>作为东煌海军的骨干，我参与了水手的训练和积累经验。</p><p class=\"p_spacing\"> </p><p>呃？</p><p class=\"p_spacing\"> </p><p>抚顺大姐又惹麻烦了吗…？</p><p class=\"p_spacing\"> </p><p>鞍山大姐一定会很粗暴…</p>"
 
 msgid "IDS_PCZC327_AZURLANE_YATSEN"
 msgstr "逸仙"
 
 msgid "IDS_PCZC327_AZURLANE_YATSEN_DESCRIPTION"
-msgstr "<p>东煌海军第一舰队，逸仙号。</p><p class=\"p_spacing\"> </p><p>听说姐妹们也都在这里，这一次，逸仙绝对不会再离开指挥官的身边了！</p>"
+msgstr "<p>东煌海军第1舰队，逸仙。</p><p class=\"p_spacing\"> </p><p>我听说我的姐妹们也在这里。这一次，逸仙绝对不会离开指挥官的身边。</p>"
 
 msgid "IDS_PCZC328_AZURLANE_PINGHAI"
 msgstr "平海"
 
 msgid "IDS_PCZC328_AZURLANE_PINGHAI_DESCRIPTION"
-msgstr "<p>我是宁海级的一号舰宁海，姐姐说自我介绍要这么做，欸，我是平海？</p><p class=\"p_spacing\"> </p><p>对哦……那我是宁海级的一号舰平海。还是错了？好麻烦……</p>"
+msgstr "<p>我是宁海，宁海级1号舰。姐姐告诉我，当我自我介绍的时候，应该顺着这些台词再说些什么。</p><p class=\"p_spacing\"> </p><p>哈？我是平海？你说得对…</p><p class=\"p_spacing\"> </p><p>好的，我是平海——宁海级一号舰。我还是做错了吗？真痛苦…</p>"
 
 msgid "IDS_PCZC329_AZURLANE_AVRORA"
 msgstr "阿芙乐尔"
 
 msgid "IDS_PCZC329_AZURLANE_AVRORA_DESCRIPTION"
-msgstr "<p>我是巡洋舰阿芙乐尔，如您所知道的，我曾经为那一场著名的革命打响了第一炮，不过在那之后的世界变得我也有些看不懂了……</p><p class=\"p_spacing\"> </p><p>总之，在舰队中我也只是普通的士兵，请尽情使用我吧，我会为舰队带来胜利的！</p>"
+msgstr "<p>我是俄罗斯巡洋舰，阿夫罗拉。如你所知，我曾服役并领导过革命。</p><p class=\"p_spacing\"> </p><p>尽管如此，我不知道从那以后世界有什么变化。</p><p class=\"p_spacing\"> </p><p>不管怎样，我只是你舰队的一名士兵。请别客气全力使唤我。</p><p class=\"p_spacing\"> </p><p>我将为舰队带来胜利！</p>"
 
 msgid "IDS_PCZC330_AZURLANE_SAINTLOUIS"
 msgstr "路易九世"
 
 msgid "IDS_PCZC330_AZURLANE_SAINTLOUIS_DESCRIPTION"
-msgstr "<p>因为故土突逢苦难，我的诞生被迫取消。</p><p class=\"p_spacing\"> </p><p>而神说，你的使命留待来日。所以我出现在了这里。指挥官，您将为我指引方向，而我，则为您扫平前路。</p>"
+msgstr "<p>我只是一个幻想的化身，然而因为我的祖国陷入战争而从未成真……</p><p class=\"p_spacing\"> </p><p>但是舰长，只要您是那个引路人，我就会为您扫除面前的一切障碍。</p>"
 
 msgid "IDS_PCZC331_AZURLANE_LETRIOMPHANT"
 msgstr "凯旋"
 
 msgid "IDS_PCZC331_AZURLANE_LETRIOMPHANT_DESCRIPTION"
-msgstr "<p>自由鸢尾、空想级驱逐舰凯旋号，向您问安。</p><p class=\"p_spacing\"> </p><p>曾经作为布雷斯特的第八分队一员，与姐姐们一同突入了斯卡格拉克海峡，然而之后却和姐姐们走向了不同的道路…</p>"
+msgstr "<p>我是凯旋，自由鸢尾的空想级驱逐舰凯旋——向您致敬！</p><p class=\"p_spacing\"> </p><p>我曾服役于布雷斯特第8大驱逐舰师。</p><p class=\"p_spacing\"> </p><p>我和我的姐妹们一同去了斯卡格拉克海峡，但在那之后我们分道扬镳了…</p>"
 
 msgid "IDS_PCZC332_AZURLANE_DUNKERQUE"
 msgstr "敦刻尔克"
 
 msgid "IDS_PCZC332_AZURLANE_DUNKERQUE_DESCRIPTION"
-msgstr "<p>我是隶属于维希教廷第一线总队的敦刻尔克号。如你所知道的，我的舰历毫无光彩之处，我不会遮掩，因为这是事实。</p><p class=\"p_spacing\"> </p><p>但如果您仍然愿意用我，我想，我不会让您失望。</p>"
+msgstr "<p>我是敦刻尔克，隶属于维希第1师。</p><p class=\"p_spacing\"> </p><p>如你所知，我的服役记录中没有什么特别值得注意的…</p><p class=\"p_spacing\"> </p><p>既然这是不可否认的事实，我不想隐瞒。</p><p class=\"p_spacing\"> </p><p>不过，若你需要我的力量，我不会让你失望的。</p>"
 
 msgid "IDS_PCZC333_AZURLANE_JEANBART"
 msgstr "让˙巴尔"
 
 msgid "IDS_PCZC333_AZURLANE_JEANBART_DESCRIPTION"
-msgstr "<p>我是战列舰让˙巴尔，这名字源于“受人敬仰”的某位私掠船船长……</p><p class=\"p_spacing\"> </p><p>嗯？你问私掠船是什么？哼，就是打着国家大义名号，公然抢劫的海盗船啊。</p>"
+msgstr "<p>我是战列舰让˙巴尔。</p><p class=\"p_spacing\"> </p><p>我的名字来源于一位受人尊敬的私掠者。</p><p class=\"p_spacing\"> </p><p>…嗯？</p><p class=\"p_spacing\"> </p><p>“什么是私掠者”？</p><p class=\"p_spacing\"> </p><p>私掠者是一名正义的海盗，为了正当的理由合法从人身上掠夺财物。</p>"
 
 msgid "IDS_PCZC334_AZURLANE_LEMARS"
 msgstr "勒马尔"
 
 msgid "IDS_PCZC334_AZURLANE_LEMARS_DESCRIPTION"
-msgstr "<p>我是机敏级的驱逐舰，同时也是维希教廷的见习骑士，勒马尔。</p><p class=\"p_spacing\"> </p><p>一直在为维希教廷服务，最后为了不让铁血得逞而被白鹰在港口击沉…</p>"
+msgstr "<p>我是勒马尔，一艘灵巧级驱逐舰以及一名维希的见习骑士。</p><p class=\"p_spacing\"> </p><p>我曾服役于维希，直到在与铁血帝国战斗中被击沉在白鹰联邦港口。</p>"
 
 msgid "IDS_PCZC335_AZURLANE_FORBIN"
 msgstr "福尔班"
 
 msgid "IDS_PCZC335_AZURLANE_FORBIN_DESCRIPTION"
-msgstr "<p>我是机敏级驱逐之一，同时也是自由鸢尾的见习骑士的福尔班，虽然因为某个原因而在港区白白待了两年，不过回归之后参与了不少任务，也算是用战场上的活跃弥补了之前的空白了</p>"
+msgstr "<p>我是福尔班，一艘灵巧级驱逐舰以及自由鸢尾的受训骑士。</p><p class=\"p_spacing\"> </p><p>尽管由于某种原因，我在港口待了两年，什么也没做，但回到工作岗位后，我参加了许多任务。</p><p class=\"p_spacing\"> </p><p>我在战场上的行动弥补了以前的差距。</p>"
 
 msgid "IDS_PCZC336_SOVIETBBARC_COMMISSAR_FLAG"
 msgstr "苏联人民委员会海军旗。（1938-1946）"
