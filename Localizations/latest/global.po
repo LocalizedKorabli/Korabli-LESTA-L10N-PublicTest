@@ -8515,7 +8515,7 @@ msgid "IDS_BATTLE_TASK_TEXT_NAME_AGH"
 msgstr "避免%s"
 
 msgid "IDS_BATTLE_TASK_TEXT_NAME_AGH_B"
-msgstr "确保不超过%s"
+msgstr "不超过%s"
 
 msgid "IDS_BATTLE_TASK_TEXT_NAME_AOT"
 msgstr "在规定时间内%s"
