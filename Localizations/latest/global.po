@@ -13105,7 +13105,7 @@ msgid "IDS_CONTEXT_BATTLE_AGAINST_SUBMARINE_HINT"
 msgstr "向水下的敌方潜艇投掷深水炸弹"
 
 msgid "IDS_CONTEXT_BUTTON_STATUS_CREW_HAS_RESTRICTION_ON_BARRACKS"
-msgstr "这名指挥官无法被送回预备队"
+msgstr "这名指挥官无法被调回预备队"
 
 msgid "IDS_CONTEXT_BUTTON_STATUS_CREW_HAS_RESTRICTION_ON_LEARN_SKILL"
 msgstr "这名指挥官的技能不可用"
@@ -20171,10 +20171,10 @@ msgid "IDS_CREW_RETRAINING_PENALTIES_DURING_RETRAINING"
 msgstr "若一名指挥官之前被指派到了其他战舰，在重新训练期间，指挥官技能效果将会减弱或消失，直至重新训练完成。"
 
 msgid "IDS_CREW_SEND_TO_BARRACKS"
-msgstr "将指挥官送回预备队"
+msgstr "将指挥官调回预备队"
 
 msgid "IDS_CREW_SEND_TO_BARRACKS_TOOLTIP"
-msgstr "指挥官将被送回预备队"
+msgstr "指挥官将被调回预备队"
 
 msgid "IDS_CREW_SKILLS_FREE_RETRAINING_PENALTY_INFO"
 msgstr "在重新训练完成之前，技能没有效果"
@@ -22082,7 +22082,7 @@ msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
 msgstr "每队都有一名指挥官，负责管理本队成员。"
 
 msgid "IDS_DISABLE_CREW_PANEL"
-msgstr "无法指派到另一艘战舰、送回预备队或解雇"
+msgstr "无法指派到另一艘战舰、调回预备队或解雇"
 
 msgid "IDS_DISABLE_INVITATIONS_TO_DIVISION"
 msgstr "不接收小队邀请"
@@ -22106,7 +22106,7 @@ msgid "IDS_DISABLING_AA_AND_ATBA_PREF_TOOLTIP_DESCRIPTION"
 msgstr "禁用副炮和防空炮。"
 
 msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_FORMATION"
-msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能将指挥官送回预备队。"
+msgstr "已选择“准备好小队作战”状态，点击“未准备”后才能将指挥官调回预备队。"
 
 msgid "IDS_DISCIPLINES"
 msgstr "挑战"
@@ -119475,7 +119475,7 @@ msgid "IDS_RESET_SKILLPOINTS_TYPE_1"
 msgstr "使用精英指挥官经验"
 
 msgid "IDS_RESISTANCE_RECOGNITION_DESCRIPTION"
-msgstr "您失败了，但获得的经验量位列队伍前%(topPlayersAmount)s%，并获得了英勇成就。"
+msgstr "您虽然未能取得胜利，但赚取的经验量位列队伍前%(topPlayersAmount)s%，且获得了英勇成就。"
 
 msgid "IDS_RESISTANCE_RECOGNITION_HEADER"
 msgstr "英勇抵抗"
@@ -127938,7 +127938,7 @@ msgid "IDS_SHIP_FEATURES_EARLY_ACCESS_SHIP"
 msgstr "抢先体验"
 
 msgid "IDS_SHIP_FEATURES_EARLY_ACCESS_SHIP_DESCRIPTION"
-msgstr "<p>您可以在其他玩家能研发和购买此战舰之前入手它。</p><p class=\"p_spacing\"> </p><p>若您重新指派指挥官到此战舰，他们将在抢先体验结束后被送回预备队。</p>"
+msgstr "<p>您可以在其他玩家能研发和购买此战舰之前入手它。</p><p class=\"p_spacing\"> </p><p>若您重新指派指挥官到此战舰，他们将在抢先体验结束后被调回预备队。</p>"
 
 msgid "IDS_SHIP_FEATURES_EVENT_SHIP"
 msgstr "参与活动"
@@ -131170,7 +131170,7 @@ msgid "IDS_SHIP_PECULIARITY_NO_CREW_RETRAINING"
 msgstr "从其他同国家战舰指派指挥官，技能效果不会降低或消失，也不需要重新训练。"
 
 msgid "IDS_SHIP_PECULIARITY_NO_CREW_RETRAINING_EARLY_ACCESS"
-msgstr "您可以从相同国家的其他战舰指派指挥官，技能效果不会减弱或消失，也不需要重新训练。一旦战舰状态改变，指挥官会自动被送回预备队。"
+msgstr "您可以从相同国家的其他战舰指派指挥官，技能效果不会减弱或消失，也不需要重新训练。一旦战舰状态改变，指挥官会自动被调回预备队。"
 
 msgid "IDS_SHIP_PECULIARITY_RANDOM_COOPERATIVE_AND_RANKED_BATTLE_ONLY"
 msgstr "此战舰只适用于联合作战、随机战或排位战。"
@@ -135859,7 +135859,7 @@ msgid "IDS_SYS_MSG_CREW_BOUND_TO_SHIP"
 msgstr "指挥官已训练"
 
 msgid "IDS_SYS_MSG_CREW_DISEMBARK"
-msgstr "指挥官已送回预备队"
+msgstr "指挥官已被调回预备队"
 
 msgid "IDS_SYS_MSG_CREW_FINISH_ADAPTATION"
 msgstr "重新训练已完成"
@@ -135916,7 +135916,7 @@ msgid "IDS_SYS_MSG_DROP_BRANCH"
 msgstr "已重置战舰分支"
 
 msgid "IDS_SYS_MSG_DROP_BRANCH_DESCRIPTION"
-msgstr "已出售战舰和配件，升级品已免费拆卸，指挥官已送回预备队。涂装、旗帜、信号旗和消耗型经济加成已被拆卸。当您重新研发战舰时，已绑定的永久加成包和永久涂装将可继续使用。"
+msgstr "战舰和配件已被出售，升级品已被免费拆卸，指挥官已被调回预备队，涂装、旗帜、信号旗和消耗型经济加成已被拆卸。当您重新研发战舰时，已绑定的永久加成包和永久涂装将可继续使用。"
 
 msgid "IDS_SYS_MSG_EARN_ACHIEVEMENT"
 msgstr "已获得成就"
@@ -136512,7 +136512,7 @@ msgid "IDS_SYS_MSG_TRANSFER_XP"
 msgstr "转换经验"
 
 msgid "IDS_SYS_MSG_UNINSTALL_CREW"
-msgstr "指挥官已送回预备队"
+msgstr "指挥官已被调回预备队"
 
 msgid "IDS_SYS_MSG_UNINSTALL_MODERNIZATION"
 msgstr "已拆卸升级品"
