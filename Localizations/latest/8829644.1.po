@@ -5918,7 +5918,7 @@ msgid "IDS_ARMOR_TOOLTIP_PARAM_LIMIT_VALUE"
 msgstr "< %(_value)s毫米"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_MULTI_VALUE"
-msgstr "所有"
+msgstr "全部"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_PRIMARY_VALUE"
 msgstr "> %(_value)s毫米"
@@ -33183,7 +33183,7 @@ msgid "IDS_GUIDING_TIP_273_HEADER"
 msgstr "任务已更改"
 
 msgid "IDS_GUIDING_TIP_274_DESC"
-msgstr "您有可领取的奖励——领取后继续装饰包厢！"
+msgstr "您有可领取的奖励：领取后继续装饰包厢！"
 
 msgid "IDS_GUIDING_TIP_274_HEADER"
 msgstr "角落已装饰"
@@ -34903,7 +34903,7 @@ msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
 msgstr "显示精英指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE_DISABLE"
-msgstr "重置精英指挥官"
+msgstr "重置稀有指挥官"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_LEGENDARY"
 msgstr "显示传奇指挥官"
@@ -41729,7 +41729,7 @@ msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_HEADER"
 msgstr "奖励数量"
 
 msgid "IDS_MODAL_WINDOW_STRATEGIC_ACTIONS_RULES_BUTTON"
-msgstr "进入包厢"
+msgstr "进行教学"
 
 msgid "IDS_MODAL_WINDOW_STRATEGIC_ACTIONS_RULES_HEADER"
 msgstr "乘客规则"
@@ -94430,13 +94430,13 @@ msgid "IDS_PJSC709_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC717"
-msgstr "南海龙王"
+msgstr "南方神龙"
 
 msgid "IDS_PJSC717_DESCR"
 msgstr "在中国传统中，龙通常被描绘为长身躯、有鳞、四足的蛇形生物。四海龙王各代表四海之一。南海龙王的名字是敖钦。"
 
 msgid "IDS_PJSC717_FULL"
-msgstr "南海龙王"
+msgstr "南方神龙"
 
 msgid "IDS_PJSC717_NUMBER"
 msgstr " "
@@ -94462,13 +94462,13 @@ msgid "IDS_PJSC718_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC727"
-msgstr "东海龙王"
+msgstr "东方神龙"
 
 msgid "IDS_PJSC727_DESCR"
 msgstr "在中国传统中，龙通常被描绘为长身躯、有鳞、四足的蛇形生物。四海龙王各代表四海之一。东海龙王的名字是敖广。"
 
 msgid "IDS_PJSC727_FULL"
-msgstr "东海龙王"
+msgstr "东方神龙"
 
 msgid "IDS_PJSC727_NUMBER"
 msgstr " "
@@ -97281,10 +97281,10 @@ msgid "IDS_PJUH797_ASHIGARA"
 msgstr "ARP足柄"
 
 msgid "IDS_PJUH798_YELLOW_DRAGON"
-msgstr "南海龙王"
+msgstr "南方神龙"
 
 msgid "IDS_PJUH799_BLUE_DRAGON"
-msgstr "东海龙王"
+msgstr "东方神龙"
 
 msgid "IDS_PJUH800_HULL_IWAMI"
 msgstr "石见"
@@ -138535,10 +138535,10 @@ msgid "IDS_TERRITORY_TITLE_BAG_SHORT"
 msgstr "行军背包"
 
 msgid "IDS_TERRITORY_TITLE_CHRISTMAS_TREE"
-msgstr "圣诞树"
+msgstr "小圣诞树"
 
 msgid "IDS_TERRITORY_TITLE_CHRISTMAS_TREE_SHORT"
-msgstr "圣诞树"
+msgstr "小圣诞树"
 
 msgid "IDS_TERRITORY_TITLE_GLOBAL_0_SHORT"
 msgstr "谢廖沙"
