@@ -724,9 +724,6 @@ msgstr "已解锁新的权限等级"
 msgid "IDS_ACCESS_LEVEL_TOOLTIP_DESCR"
 msgstr "在您提升权限等级的过程中，您可以随着了解游戏进程逐步解锁新功能。"
 
-msgid "IDS_ACCESS_LEVEL_TOO_LOW_FOR_EVENT"
-msgstr "权限等级不足，无法加入战斗"
-
 msgid "IDS_ACCESS_LEVEL_TOO_LOW_FOR_PVE"
 msgstr "权限等级不足，无法作为小队指挥官进入该行动模式"
 
@@ -3149,7 +3146,7 @@ msgid "IDS_ACHIEVEMENT_DOUBLE_KILL_COOP"
 msgstr "一石二鸟"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT"
-msgstr "无畏舰"
+msgstr "无人能挡"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_ATBA_CALIBER"
 msgstr "弹雨如注"
@@ -5382,9 +5379,6 @@ msgstr ":Souchon:"
 msgid "IDS_AL_04"
 msgstr ":Zenker:"
 
-msgid "IDS_AMELIA_WATSON"
-msgstr " "
-
 msgid "IDS_AMERICAN_ARC_ACTIVITY"
 msgstr "玩家的活跃度"
 
@@ -7032,14 +7026,8 @@ msgstr "俾斯麦"
 msgid "IDS_AZUR_CHAPAYEV"
 msgstr "恰巴耶夫"
 
-msgid "IDS_AZUR_CHESHIRE"
-msgstr " "
-
 msgid "IDS_AZUR_CLEVELAND"
 msgstr "克利夫兰"
-
-msgid "IDS_AZUR_COLORADO"
-msgstr " "
 
 msgid "IDS_AZUR_DUNKERQUE"
 msgstr "敦刻尔克"
@@ -7082,9 +7070,6 @@ msgstr "新泽西"
 
 msgid "IDS_AZUR_PRINZ_EUGEN"
 msgstr "欧根亲王"
-
-msgid "IDS_AZUR_PRINZ_HEINRICH"
-msgstr " "
 
 msgid "IDS_AZUR_ROON"
 msgstr "罗恩"
@@ -7921,7 +7906,7 @@ msgid "IDS_BATTLE_STATS_AGRO_HINT"
 msgstr "敌舰朝您战舰射击弹药的总伤害"
 
 msgid "IDS_BATTLE_STATS_AIRBASE_BUILDING_DAMAGE_HINT"
-msgstr "您对机场造成的伤害量"
+msgstr "您对机场造成的伤害"
 
 msgid "IDS_BATTLE_STATS_AIRBASE_PLANES_HINT"
 msgstr "您击落的从该机场起飞的飞机数量"
@@ -9090,7 +9075,7 @@ msgid "IDS_BATTLE_TASK_TEXT_SE26_RED_BUFF"
 msgstr "打开潘多拉魔盒，试试您的运气"
 
 msgid "IDS_BATTLE_TASK_TEXT_SE26_TIMER"
-msgstr "总感觉要发生什么了…"
+msgstr "总感觉要发生点什么了…"
 
 msgid "IDS_BATTLE_TIPS"
 msgstr "小提示"
@@ -9208,9 +9193,6 @@ msgstr "引擎动力恢复"
 
 msgid "IDS_BLUELINE_ON"
 msgstr "引擎动力已降低，请返回战场。"
-
-msgid "IDS_BLUTO"
-msgstr " "
 
 msgid "IDS_BOMBER"
 msgstr "轰炸机"
@@ -13766,7 +13748,7 @@ msgid "IDS_COOPERATIVEBATTLE_SHORT_DESCRIPTION"
 msgstr "与其他玩家合作对战电脑玩家。"
 
 msgid "IDS_COOPERATIVEBATTLE_SUBHEADER"
-msgstr "对战电脑玩家。"
+msgstr "对战电脑玩家"
 
 msgid "IDS_COOPERATIVEBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_11"
 msgstr "★级对局团队最大规模：9v9"
@@ -20893,7 +20875,7 @@ msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
 msgstr "通过在26.3版本结束前完成作战任务，达到免费战斗通行证等级，领取每日奖励，以及兑换兵工厂礼包来获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "用于在26.3版本结束前，兑换带有永久涂装“曙光”的IX级巡洋舰“彗星”，“潜行者猎获物”加值补给箱，以及其他资源。"
+msgstr "用于在26.3版本结束前，兑换带有永久涂装“自由之曙光”的IX级巡洋舰“彗星”，“潜行者猎获物”加值补给箱，以及其他资源。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "临时资源。26.4版本发布后，资源将被扣除且不予补偿。"
@@ -21422,9 +21404,6 @@ msgstr "数据载入中"
 
 msgid "IDS_DATE_COLON"
 msgstr "日期："
-
-msgid "IDS_DAVE_MUSTAINE"
-msgstr " "
 
 msgid "IDS_DAVIDOV"
 msgstr "达维多夫"
@@ -23386,10 +23365,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY"
 msgstr " "
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_RU"
-msgstr "在地图上指定一个区域，暂时提升进入该区域友军战舰的武器性能。"
+msgstr "<p>在<u>消耗品启用时潜艇所处的位置</u>生成一个区域，暂时提升进入该区域友军战舰的武器性能。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_US"
-msgstr "在地图上指定一个区域，暂时提升进入该区域友军战舰的生存性与机动性。"
+msgstr "<p>在<u>消耗品启用时潜艇所处的位置</u>生成一个区域，暂时提升进入该区域友军战舰的生存性与机动性。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY900_REGENCREWDE"
 msgstr "通过修复轻度损伤恢复战舰的部分生命值，并修复战舰所有部分的装甲。"
@@ -32250,16 +32229,16 @@ msgid "IDS_FORMATION_STAY_IN_DOCK"
 msgstr "待在港口"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE020"
-msgstr "5v12"
+msgstr "5×12"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE023"
-msgstr "5v12"
+msgstr "5×12"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE030"
-msgstr "6v1"
+msgstr "6×1"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE032"
-msgstr "7v7"
+msgstr "7×7"
 
 msgid "IDS_FORM_DIVISION"
 msgstr "集结多名玩家"
@@ -32930,9 +32909,6 @@ msgstr "设置明暗阴影的显示。影响图像对比度。"
 
 msgid "IDS_GAMOVER_OTVINTA"
 msgstr "加莫菲尔"
-
-msgid "IDS_GAULU"
-msgstr " "
 
 msgid "IDS_GENERATOR1"
 msgstr "生成器A"
@@ -34542,9 +34518,6 @@ msgstr "Hank Bailey"
 msgid "IDS_HANNOVER_CAP"
 msgstr "Walter Wittenberg"
 
-msgid "IDS_HANS"
-msgstr " "
-
 msgid "IDS_HARD_LEVEL_BOT_STATUS"
 msgstr "电脑（高级AI）"
 
@@ -34561,7 +34534,7 @@ msgid "IDS_HAS_NO_CLAN_FOR_CLAN_BATTLES"
 msgstr "想要参与军团战，您需要加入一个军团。"
 
 msgid "IDS_HAS_TUTORIAL_HINTS"
-msgstr "教学提示"
+msgstr "附有教学提示"
 
 msgid "IDS_HAS_UNIQUE_SCENARIO"
 msgstr "每个行动都有独特的剧情"
@@ -36081,9 +36054,6 @@ msgstr "Horst"
 msgid "IDS_HORST06"
 msgstr "Horst"
 
-msgid "IDS_HOSHINOVA_MOONA"
-msgstr " "
-
 msgid "IDS_HOTKEY_EMPTY"
 msgstr "“%s”的快捷键已被重设"
 
@@ -36653,7 +36623,7 @@ msgid "IDS_INSTALLED"
 msgstr "已安装"
 
 msgid "IDS_INSTALLED_ENSIGNS"
-msgstr "已安装旗帜：%(_installedEnsign)s/%(_ensignLimit)s"
+msgstr "悬挂旗帜数：%(_installedEnsign)s/%(_ensignLimit)s"
 
 msgid "IDS_INSTALLED_MODERNIZATION_COST"
 msgstr "已安装升级品的售价"
@@ -40510,9 +40480,6 @@ msgstr "米"
 msgid "IDS_METER_SECOND"
 msgstr "米/秒"
 
-msgid "IDS_MICHAL_MILOWICZ"
-msgstr " "
-
 msgid "IDS_MICROPHONE_SENSITIVITY"
 msgstr "麦克风灵敏度"
 
@@ -42130,12 +42097,6 @@ msgstr "您可以单独参战，也可以组成小队。小队规模仅受当前
 msgid "IDS_MODAL_WINDOW_RULES_ACHIEVEMENT_HEADER"
 msgstr "成就"
 
-msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_0"
-msgstr "规则"
-
-msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_1"
-msgstr "成就"
-
 msgid "IDS_MODAL_WINDOW_SEASON_RESTRICTIONS_TITLE"
 msgstr "特定战舰限制"
 
@@ -42385,36 +42346,6 @@ msgstr "简介"
 
 msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_TEXT_1"
 msgstr "每个阶段获得积分的条件不同。若您的战舰被敌舰命中，则会损失积分。"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_HEADER"
-msgstr "试炼"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
-msgstr "战斗特点"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "在试炼中，您可以通过完成任务来磨练作战技术。"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "每次试炼由5个阶段组成。要进入下一个阶段，必须完成当前阶段的任务。"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_HEADER"
-msgstr "奖励积分"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "若提前完成任务，可获得奖励积分。"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "奖励积分将在下一个阶段中生效。"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
-msgstr "奖励"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "您完成的阶段越多，试炼结束时获得的资源就越多。"
-
-msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "每完成一个阶段都会获得奖励。若提前退出，您将无法获得该阶段的奖励。"
 
 msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
 msgstr "战斗特点"
@@ -42956,9 +42887,6 @@ msgstr "开始游戏"
 msgid "IDS_MULT_FILM"
 msgstr "朝蛋夕拾 / 丰收村"
 
-msgid "IDS_MURAT_SEREZLI"
-msgstr " "
-
 msgid "IDS_MUSASHI"
 msgstr "武藏"
 
@@ -43438,9 +43366,6 @@ msgstr "此国家的战舰上手难度适中。"
 
 msgid "IDS_NATION_COMPLEXITY_DESCTIPTION_3"
 msgstr "此国家的战舰上手难度较高。"
-
-msgid "IDS_NATU"
-msgstr " "
 
 msgid "IDS_NAVALBATTLE"
 msgstr "轴心国vs同盟国"
@@ -45140,9 +45065,6 @@ msgstr "下个等级"
 
 msgid "IDS_NEXT_REPLENISHMENT"
 msgstr "下个补给"
-
-msgid "IDS_NIKOS_THALASSINOS"
-msgstr "Nikos Thalassinos"
 
 msgid "IDS_NO"
 msgstr "否"
@@ -49376,9 +49298,6 @@ msgstr "休伯利安"
 msgid "IDS_PAES322_TRIGLAV_LOGH"
 msgstr "特里古拉夫"
 
-msgid "IDS_PAES327_COLORADO_POPEYE"
-msgstr " "
-
 msgid "IDS_PAES328_ALABAMA_OCTOPUS"
 msgstr "超级测试老兵"
 
@@ -51274,9 +51193,6 @@ msgstr "鱼雷457原型"
 
 msgid "IDS_PAPT910_MK_13_MOD0A_INDEPENDENCE"
 msgstr "Mk13 mod.0A"
-
-msgid "IDS_PAPT911_BALAO_TEST"
-msgstr "Mk29"
 
 msgid "IDS_PAPT911_SUBTEST"
 msgstr "Mk29"
@@ -53194,9 +53110,6 @@ msgstr "TRANSFORMERS and its associated characters are trademarks of Hasbro and 
 
 msgid "IDS_PARTNERS_LL_TWITCH_PRIME"
 msgstr "Twitch Prime and the Twitch Prime logo are trademarks of Twitch Interactive, Inc or its affiliates."
-
-msgid "IDS_PARTNERS_LL_VIVOX"
-msgstr "Utilizes Vivox, © 2018 Vivox, Inc. All rights reserved. See www.vivox.com for details."
 
 msgid "IDS_PARTNERS_LL_WWISE"
 msgstr "Powered by Wwise © 2006-2017 Audiokinetic Inc. All rights reserved."
@@ -58946,7 +58859,7 @@ msgid "IDS_PAUT912_TORP_A_HUMP"
 msgstr "Mk17"
 
 msgid "IDS_PAUT913_TORP_BALAO_TEST"
-msgstr "Mk28 и Mk28 MIE"
+msgstr "Mk28 & Mk28 MIE"
 
 msgid "IDS_PAUT914_D10_TORP_STOCK"
 msgstr "Mk15 mod.3"
@@ -59451,9 +59364,6 @@ msgstr "MiSide"
 
 msgid "IDS_PBES408_EDINBURGH_FROST"
 msgstr "北极"
-
-msgid "IDS_PBES409_NEPTUNE_AZUR"
-msgstr " "
 
 msgid "IDS_PBES410_MINOTAUR_NORMA"
 msgstr "诺玛"
@@ -64820,9 +64730,6 @@ msgstr "Epic"
 msgid "IDS_PCEC128_ST_PATRICK_2022"
 msgstr "圣帕特里克节"
 
-msgid "IDS_PCEC129_HOLOLIVE_CAMO"
-msgstr " "
-
 msgid "IDS_PCEC130_LONG_MUSEUM_NIGHT_CAMO"
 msgstr "岁月星辰"
 
@@ -68064,12 +67971,6 @@ msgstr "Copa Latina-Americana Warships"
 msgid "IDS_PCEE502_LATINO_TOURNAMENT_FLAG_DESCRIPTION"
 msgstr "参加Copa Latina-Americana Warships。"
 
-msgid "IDS_PCEE515_HOLOLIVE_FLAG"
-msgstr " "
-
-msgid "IDS_PCEE515_HOLOLIVE_FLAG_DESCRIPTION"
-msgstr " "
-
 msgid "IDS_PCEE516_NIGHT_OF_MUSEUMS_FLAG"
 msgstr "岁月星辰"
 
@@ -68677,24 +68578,6 @@ msgstr "旅顺"
 msgid "IDS_PCEE610_LUSHUN_FLAG_DESCRIPTION"
 msgstr "中国航海家早在中世纪就认识到旅顺港的战略重要性。14世纪，在帝国使节成功远征后，狮子口（意为“狮子的嘴”）更名为旅顺（意为“旅途顺利”）。"
 
-msgid "IDS_PCEE611_BLUTO"
-msgstr " "
-
-msgid "IDS_PCEE611_BLUTO_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE611_BLUTO_EXTRA_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE612_POPEYE"
-msgstr " "
-
-msgid "IDS_PCEE612_POPEYE_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE612_POPEYE_EXTRA_DESCRIPTION"
-msgstr " "
-
 msgid "IDS_PCEE613_SCARLET_THUNDER_FLAG"
 msgstr "猩红雷霆"
 
@@ -68730,33 +68613,6 @@ msgstr "加拿大日"
 
 msgid "IDS_PCEE618_CANADA_DAY_FLAG_DESCRIPTION"
 msgstr "加拿大国庆节在7月1日庆祝。1867年的这一天，《英属北美法令》的签署宣示着三个省将合并为加拿大联邦。这些省分别是新斯科舍省、新不伦瑞克省和加拿大省。该节日的庆祝规模很大：在这一天，加拿大各地会有节庆活动、游行、狂欢节、飞行表演和海上表演。"
-
-msgid "IDS_PCEE619_COFFEE_FLAG"
-msgstr " "
-
-msgid "IDS_PCEE619_COFFEE_FLAG_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE619_COFFEE_FLAG_EXTRA_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG"
-msgstr " "
-
-msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_EXTRA_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG"
-msgstr " "
-
-msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG_EXTRA_DESCRIPTION"
-msgstr " "
 
 msgid "IDS_PCEE622_SOMME_FLAG"
 msgstr "HMS索姆河"
@@ -68824,15 +68680,6 @@ msgstr "突围"
 msgid "IDS_PCEE633_PRORYV_FLAG_DESCRIPTION"
 msgstr "突围锦标赛是一场充满激情、肾上腺素、竞争精神和真正友谊的动态比赛。"
 
-msgid "IDS_PCEE634_MEGADETH_FLAG"
-msgstr " "
-
-msgid "IDS_PCEE634_MEGADETH_FLAG_DESCRIPTION"
-msgstr " "
-
-msgid "IDS_PCEE634_MEGADETH_FLAG_EXTRA_DESCRIPTION"
-msgstr " "
-
 msgid "IDS_PCEE635_BLACKBLACK_FLAG"
 msgstr "布莱克B"
 
@@ -68886,12 +68733,6 @@ msgstr "魏"
 
 msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
 msgstr "魏国是公元3世纪争霸古中国的三国之一。魏国的建立者是曹操，他是一位政治家，在汉王朝衰落时曾实际统治过汉王朝。皇帝赐给曹操十城之地，这就是后来的魏国。"
-
-msgid "IDS_PCEE644_HISTORY_FLAG"
-msgstr " "
-
-msgid "IDS_PCEE644_HISTORY_FLAG_DESCRIPTION"
-msgstr " "
 
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG"
 msgstr "Chernomor"
@@ -69866,7 +69707,7 @@ msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG"
 msgstr "契约"
 
 msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG_DESCRIPTION"
-msgstr "“契约”是区域中最年轻且最不寻常的派系。其成员中既有顽固的罪犯，也有宗教狂热分子，但他们都被一个共同的理念所团结——通过苦难获得救赎的可能性。"
+msgstr "“契约”是特异区中最年轻且最不寻常的派系。其成员中既有顽固的罪犯，也有宗教狂热分子，但他们都被一个共同的理念所团结——通过苦难获得救赎的可能性。"
 
 msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《STALCRAFT: X》。"
@@ -69881,10 +69722,10 @@ msgid "IDS_PCEE799_STALCRAFT_TANIFA_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《STALCRAFT: X》。"
 
 msgid "IDS_PCEE800_STALCRAFT_KOMETA_FLAG"
-msgstr "曙光"
+msgstr "自由"
 
 msgid "IDS_PCEE800_STALCRAFT_KOMETA_FLAG_DESCRIPTION"
-msgstr "“曙光”派系包含军事和科研两大分支，因此这里汇聚了形形色色的人：战士、工匠，甚至知名学者。他们都坚信有必要对特异区进行全面而独立的研究，并保护它免受政府机构和大型企业的干预。"
+msgstr "“自由”派系包含军事和科研两大分支，因此这里汇聚了形形色色的人：战士、工匠，甚至知名学者。他们都坚信有必要对特异区进行全面而独立的研究，并保护它免受政府机构和大型企业的干预。"
 
 msgid "IDS_PCEE800_STALCRAFT_KOMETA_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自游戏《STALCRAFT: X》。"
@@ -69911,7 +69752,7 @@ msgid "IDS_PCEE804_DE_GRASSE_1956_FLAG_DESCRIPTION"
 msgstr "弗朗索瓦˙德˙格拉斯——法国海军上将，因在美国独立战争中击败英国舰队而最为闻名。此后，法国和美国海军的多艘舰艇均以德˙格拉斯之名命名。"
 
 msgid "IDS_PCEE806_CHIDI_FLAG"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PCEE806_CHIDI_FLAG_DESCRIPTION"
 msgstr "在中国神话中，凤凰与火元素紧密相连。相传这种神鸟的出现，或昭示当朝天子的圣德，或预示重大事件的降临。传说在黄帝轩辕氏逝世之前，曾有凤凰现身。"
@@ -70512,507 +70353,6 @@ msgstr "<p>作为岛国，旧日本帝国高度依赖海上物资运输。1904�
 
 msgid "IDS_PCQM105_MAKAROV_DESC"
 msgstr "<p>日本海是海参崴巡洋舰分队的活动区域。从战争伊始，该分队就威胁着日本的海上交通线及日朝沿岸港口，成功击沉多艘运输船和部队运输舰。其大胆的作战行动牵制了部分日本舰队兵力，但活动范围限于日本海，仅有一次经津轻海峡进入太平洋。</p><p class=\"p_spacing\"> </p><p>日军则采取了报复行动：炮击海参崴，在接近航道布设水雷，并试图截击俄巡洋舰分队。1904年夏，当俄罗斯巡洋舰驰援太平洋第一分舰队时，日军在朝鲜海峡成功拦截。留里克号被击沉，俄罗斯号和格罗姆鲍伊号遭重创撤回海参崴。</p><p class=\"p_spacing\"> </p><p>1905年春对马海战前夕，俄罗斯号和格罗姆鲍伊号最后一次作战巡航至津轻海峡，驱逐舰则前往北海道。虽然击沉数艘纵帆船，但日军未予反击，而是全力备战太平洋第二分舰队。1905年5月的对马海战成为战争转折点，俄罗斯舰队惨败，仅有巡洋舰金刚石号和驱逐舰勇敢号、格罗兹尼号抵达海参崴。</p><p class=\"p_spacing\"> </p><p>1905年夏，日军实施两栖作战占领萨哈林岛。但直至战争结束，日军始终未对海参崴和尼古拉耶夫斯克发动积极攻势，主要忌惮俄罗斯的潜艇、水雷、水面舰艇和岸防炮台。</p>"
-
-msgid "IDS_PCQT001_1"
-msgstr "用主炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT002_1"
-msgstr "用主炮摧毁一艘敌舰。"
-
-msgid "IDS_PCQT004_1"
-msgstr "用舰载鱼雷对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT005_1"
-msgstr "赢得一场胜利并存活下来。"
-
-msgid "IDS_PCQT006_1"
-msgstr "赢得一场胜利。"
-
-msgid "IDS_PCQT008_1"
-msgstr "获得%(count)s点经验。"
-
-msgid "IDS_PCQT009_1"
-msgstr "进行一场战斗。"
-
-msgid "IDS_PCQT013_1"
-msgstr "击中敌舰的核心区。"
-
-msgid "IDS_PCQT015_1"
-msgstr "通过火灾对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT017_1"
-msgstr "通过进水对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT018_1"
-msgstr "获得一次“纵火犯”成就。"
-
-msgid "IDS_PCQT019_1"
-msgstr "获得%(count)s点全局经验。"
-
-msgid "IDS_PCQT020_1"
-msgstr "用拥有至少3技能点的指挥官进入一场战斗。"
-
-msgid "IDS_PCQT031_1"
-msgstr "用舰载鱼雷摧毁一艘敌舰。"
-
-msgid "IDS_PCQT032_1"
-msgstr "用主炮或副炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT034_1"
-msgstr "用舰载鱼雷摧毁一艘敌舰。"
-
-msgid "IDS_PCQT036_1"
-msgstr "获得一枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT038_1"
-msgstr "获得一次“无人能挡”成就。"
-
-msgid "IDS_PCQT040_1"
-msgstr "获得%(count)s点全局经验。"
-
-msgid "IDS_PCQT041_1"
-msgstr "在您的战舰上安装至少一面信号旗并进入一场战斗。"
-
-msgid "IDS_PCQT046_1"
-msgstr "第一个发现敌方鱼雷。"
-
-msgid "IDS_PCQT047_1"
-msgstr "获得任意成就。"
-
-msgid "IDS_PCQT052_1"
-msgstr "获得一次“支援”成就。"
-
-msgid "IDS_PCQT054_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT055_1"
-msgstr "在战舰上使用涂装进入一场战斗。"
-
-msgid "IDS_PCQT061_1"
-msgstr "击落一架敌机。"
-
-msgid "IDS_PCQT063_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT069_1"
-msgstr "赢得一场胜利并存活下来。"
-
-msgid "IDS_PCQT070_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT071_1"
-msgstr "进行一场战斗。"
-
-msgid "IDS_PCQT077_1"
-msgstr "用舰载鱼雷或机载鱼雷击中一艘敌舰。"
-
-msgid "IDS_PCQT080_1"
-msgstr "用副炮摧毁一艘敌舰。"
-
-msgid "IDS_PCQT082_1"
-msgstr "获得任意成就。"
-
-msgid "IDS_PCQT083_1"
-msgstr "用主炮或副炮造成%(count)s点伤害。"
-
-msgid "IDS_PCQT085_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT086_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT087_1"
-msgstr "在您的战舰上安装至少一个升级品并进入一场战斗。"
-
-msgid "IDS_PCQT091_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT092_1"
-msgstr "用舰载鱼雷或机载鱼雷对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT098_1"
-msgstr "瘫痪敌方驱逐舰的引擎或操舵装置。"
-
-msgid "IDS_PCQT099_1"
-msgstr "用舰载鱼雷对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT100_1"
-msgstr "获得一次“重创”成就。"
-
-msgid "IDS_PCQT102_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT103_1"
-msgstr "用拥有至少5技能点的指挥官进入一场战斗。"
-
-msgid "IDS_PCQT107_1"
-msgstr "通过火灾对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT108_1"
-msgstr "对敌方驱逐舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT109_1"
-msgstr "获得一枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT110_1"
-msgstr "通过进水对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT111_1"
-msgstr "获得一次“第一滴血”成就。"
-
-msgid "IDS_PCQT116_1"
-msgstr "获得%(count)s点经验。"
-
-msgid "IDS_PCQT117_1"
-msgstr "用拥有至少6技能点的指挥官进入一场战斗。"
-
-msgid "IDS_PCQT121_1"
-msgstr "获得一次英勇成就。"
-
-msgid "IDS_PCQT125_1"
-msgstr "对敌方驱逐舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT131_1"
-msgstr "用主炮或副炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT133_1"
-msgstr "获得%(count)s全局经验。"
-
-msgid "IDS_PCQT134_1"
-msgstr "用拥有至少7技能点的指挥官进入一场战斗。"
-
-msgid "IDS_PCQT135_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT147_1"
-msgstr "获得%(count)s点全局经验。"
-
-msgid "IDS_PCQT148_1"
-msgstr "进行一场战斗。"
-
-msgid "IDS_PCQT154_CAMPAIGNSB_MISSION01_TASK04_1"
-msgstr "击沉一艘敌方驱逐舰并赢得胜利。"
-
-msgid "IDS_PCQT158_CAMPAIGNSB_MISSION01_TASK08_KEY_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT165_CAMPAIGNSB_MISSION02_TASK05_1"
-msgstr "获得一次“天灾人祸”成就。"
-
-msgid "IDS_PCQT174_CAMPAIGNSB_MISSION03_TASK04_1"
-msgstr "获得一次“重创”成就。"
-
-msgid "IDS_PCQT195_CAMPAIGNSB_MISSION05_TASK05_1"
-msgstr "获得一次“重创”成就。"
-
-msgid "IDS_PCQT196_CAMPAIGNSB_MISSION05_TASK06_1"
-msgstr "成为己方团队经验获取量排名第一的玩家并赢得一场胜利。"
-
-msgid "IDS_PCQT198_CAMPAIGNSB_MISSION05_TASK08_KEY_1"
-msgstr "进行一场战斗。"
-
-msgid "IDS_PCQT376_1"
-msgstr "用主炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT377_1"
-msgstr "通过火灾对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT378_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT379_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT380_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT388_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT389_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT390_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT398_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT399_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT400_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT407_1"
-msgstr "获得一次“耐火专精”成就。"
-
-msgid "IDS_PCQT408_1"
-msgstr "用副炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT409_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT410_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT411_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT426_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT427_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT428_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT501_1"
-msgstr "获得%(count)s点指挥官经验（应用加成后）。"
-
-msgid "IDS_PCQT502_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT503_1"
-msgstr "击沉一艘敌方驱逐舰，赢得胜利并在战斗中存活下来。"
-
-msgid "IDS_PCQT509_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT510_1"
-msgstr "获得%(count)s点指挥官经验（应用加成后）。"
-
-msgid "IDS_PCQT511_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT513_1"
-msgstr "成为己方团队经验获取量排名前3的玩家，赢得胜利并获得一枚“造成火灾”或“造成进水”勋带。"
-
-msgid "IDS_PCQT514_1"
-msgstr "成为己方团队经验获取量排名前7的玩家，赢得胜利并通过火灾或进水对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT518_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT519_1"
-msgstr "获得%(count)s点指挥官经验（应用加成后）。"
-
-msgid "IDS_PCQT520_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT523_1"
-msgstr "成为己方团队经验获取量排名前5的玩家，赢得胜利并获得一次“毁灭打击”成就。"
-
-msgid "IDS_PCQT524_1"
-msgstr "成为己方团队经验获取量排名前3的玩家，赢得胜利并获得一次英勇成就。"
-
-msgid "IDS_PCQT528_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT529_1"
-msgstr "获得%(count)s点指挥官经验（应用加成后）。"
-
-msgid "IDS_PCQT530_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT531_1"
-msgstr "成为己方团队经验获取量排名前5的玩家，赢得胜利并摧毁一艘敌方日本战舰。"
-
-msgid "IDS_PCQT532_1"
-msgstr "成为己方团队经验获取量排名前5的玩家，赢得胜利并摧毁一艘敌方德国战舰。"
-
-msgid "IDS_PCQT538_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT539_1"
-msgstr "获得%(count)s点指挥官经验（应用加成后）。"
-
-msgid "IDS_PCQT540_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT547_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT548_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT549_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT645_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT649_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT652_1"
-msgstr "获得%(count)s点基础经验（应用加成前）。"
-
-msgid "IDS_PCQT654_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT658_1"
-msgstr "获得%(count)s点基础经验（应用加成前）。"
-
-msgid "IDS_PCQT662_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT664_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT669_1"
-msgstr "通过火灾对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT672_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT674_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT678_1"
-msgstr "用主炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT682_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT683_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT684_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT687_1"
-msgstr "用主炮对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT691_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT692_1"
-msgstr "用鱼雷对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT693_1"
-msgstr "获得%(count)s点基础经验（应用加成前）。"
-
-msgid "IDS_PCQT696_1"
-msgstr "通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT698_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT699_1"
-msgstr "获得%(count)s点基础经验。"
-
-msgid "IDS_PCQT700_1"
-msgstr "通过火灾造成%(count)s点伤害。"
-
-msgid "IDS_PCQT702_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT705_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT706_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT707_1"
-msgstr "获取%(count)s点基础经验。"
-
-msgid "IDS_PCQT711_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT712_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT713_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT715_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT717_1"
-msgstr "通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT718_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT719_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT722_1"
-msgstr "获得%(count)s点基础经验。"
-
-msgid "IDS_PCQT723_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT724_1"
-msgstr "通过火灾造成%(count)s点伤害。"
-
-msgid "IDS_PCQT725_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT728_1"
-msgstr "获得%(count)s点基础经验。"
-
-msgid "IDS_PCQT730_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT731_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT732_1"
-msgstr "用主炮造成%(count)s点伤害。"
-
-msgid "IDS_PCQT736_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT739_1"
-msgstr "获得%(count)s点全局经验。"
-
-msgid "IDS_PCQT744_1"
-msgstr "通过火灾或进水对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT747_1"
-msgstr "获得%(count)s点基础经验。"
-
-msgid "IDS_PCQT748_1"
-msgstr "获得%(count)s点经验（应用加成后）。"
-
-msgid "IDS_PCQT750_1"
-msgstr "获得%(count)s点基础经验。"
-
-msgid "IDS_PCQT751_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT753_1"
-msgstr "通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT758_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT766_1"
-msgstr "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT767_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT768_1"
-msgstr "获得%(count)s银币。"
-
-msgid "IDS_PCQT770_1"
-msgstr "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT773_1"
-msgstr "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT779_1"
-msgstr "获得%(count)s点基础经验。"
-
-msgid "IDS_PCQT780_1"
-msgstr "用主炮造成%(count)s点伤害。"
-
-msgid "IDS_PCQT781_1"
-msgstr "通过火灾或进水对敌舰造成%(count)s点伤害。"
 
 msgid "IDS_PCVE004"
 msgstr "野蛮之战"
@@ -72417,7 +71757,7 @@ msgid "IDS_PCZC064_YAMAMOTO_BINOKL"
 msgstr "日本海上双筒望远镜，7x50毫米"
 
 msgid "IDS_PCZC064_YAMAMOTO_BINOKL_DESCRIPTION"
-msgstr "<p>旧日本帝国海军的军官于十九世纪晚期开始使用双筒望远镜。海上双筒望远镜的特色是棱镜式、大尺寸、多种变焦等级、以及能抵抗水气和恶劣气候。具有7倍变焦和50毫米镜片的7x50毫米双筒望远镜作为军官个人装备的一部分而非常受到欢迎。</p><p class=\"p_spacing\"> </p><p>旧日本帝国海军于20世纪10年代开始生产光学仪器，并一直增长到第二次世界大战开始。太平洋战争期间证明了日本光学设备的高质量，获得了全球的认同。</p>"
+msgstr "<p>旧日本帝国海军的军官于十九世纪晚期开始使用双筒望远镜。海上双筒望远镜的特色是棱镜式、大尺寸、多种变焦等级、以及能抵抗水气和恶劣气候。具有7倍变焦和50毫米镜片的7×50毫米双筒望远镜作为军官个人装备的一部分而非常受到欢迎。</p><p class=\"p_spacing\"> </p><p>旧日本帝国海军于20世纪10年代开始生产光学仪器，并一直增长到第二次世界大战开始。太平洋战争期间证明了日本光学设备的高质量，获得了全球的认同。</p>"
 
 msgid "IDS_PCZC065_YAMAMOTO_PISTOL"
 msgstr "南部甲式改良型手枪"
@@ -77920,9 +77260,6 @@ msgstr "此涂装不会在战斗中消耗。"
 msgid "IDS_PERMOFLAGE_AUTOREPLENISHMENT_BEFORE_PURCHASE_INFO"
 msgstr "此涂装只能购买一次，且不会在战斗中消耗。"
 
-msgid "IDS_PERMOFLAGE_FIRST_BUY_DISCOUNT"
-msgstr "为此战舰购买第一个永久涂装时可享有折扣。"
-
 msgid "IDS_PERSONAL_ACCOUNT_BTN"
 msgstr "个人账号"
 
@@ -78159,9 +77496,6 @@ msgstr "法国解放"
 
 msgid "IDS_PFES430_HENRI_HW19"
 msgstr "化石"
-
-msgid "IDS_PFES439_SAINT_LOUIS_AZUR"
-msgstr " "
 
 msgid "IDS_PFES440_MARSEILLE_ARC"
 msgstr "法国解放"
@@ -82005,9 +81339,6 @@ msgstr "科学泰坦"
 msgid "IDS_PGES428_HIPPER_GLADIATOR"
 msgstr "海洋之王 — 角斗士"
 
-msgid "IDS_PGES429_ROON_AZUR"
-msgstr " "
-
 msgid "IDS_PGES438_BLACK_MAINZ"
 msgstr "特别"
 
@@ -85711,9 +85042,6 @@ msgstr "406 mm L/52 Drh C/34"
 
 msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
 msgstr "420 mm/50 SK L/50（Drh LC/1918炮座）"
-
-msgid "IDS_PGUA912_420_48_SK_C_40"
-msgstr "420 mm L/48 Drh LC/40"
 
 msgid "IDS_PGUA912_C10_ART_STOCK"
 msgstr "128 mm/61 KM40（炮塔）"
@@ -94847,7 +94175,7 @@ msgid "IDS_PJSC004"
 msgstr "夕张"
 
 msgid "IDS_PJSC004_DESCR"
-msgstr "<p>试验型轻型巡洋舰，其基本设计理念是要创造出一艘搭载最强大的武器，同时也具备最小排水量的高速战舰。她是旧日本帝国海军中第一艘装备了610毫米鱼雷发射管的战舰。到了服役结束时，<b>夕张</b>增加了大量的防空炮来强化防空能力。</p>"
+msgstr "<p>由日本海军技术中将平贺让设计的一艘实验型轻巡洋舰。该舰旨在测试为侦察巡洋舰——即未来的古鹰级——所设计的结构方案。具体而言，是为了验证在不降低结构强度的前提下，减少舰体本身所占排水量比例的可能性。这一目标通过将装甲带整合为舰体结构的一部分来实现。<b>夕张</b>号的设计特点在之后成为了所有日本巡洋舰的标准。</p><p class=\"p_spacing\"> </p><p><b>夕张</b>号在佐世保建造。在和平时期的大部分服役生涯中，该舰一直处于预备役或作为练习舰使用。</p><p class=\"p_spacing\"> </p><p>第二次世界大战期间，该舰曾作为威克岛入侵舰队的旗舰参与了威克岛攻略战，并在之后参加了珊瑚海海战、新几内亚入侵行动和所罗门群岛战役，还参加了萨沃岛海战。1944年4月28日，<b>夕张</b>号在帕劳附近海域被美国潜艇蓝鳃太阳鱼号击沉。</p>"
 
 msgid "IDS_PJSC004_FULL"
 msgstr "夕张"
@@ -94862,7 +94190,7 @@ msgid "IDS_PJSC005"
 msgstr "古鹰"
 
 msgid "IDS_PJSC005_DESCR"
-msgstr "<p>新侦察巡洋舰的设计基于英国霍金斯级巡洋舰，并融合了在巡洋舰夕张号上测试的设计方案。武器为6门200毫米火炮。二战期间，<b>古鹰</b>参加了所罗门群岛的行动，以及珊瑚海和萨沃岛的战斗。1942年10月11日埃斯佩兰斯角海战期间，<b>古鹰</b>被大约90枚炮弹和一枚鱼雷击中，导致她的鱼雷引爆。该巡洋舰于10月12日上午沉没。</p>"
+msgstr "<p>日本获悉美国奥马哈级巡洋舰的情报后，对未来战舰的设计进行了修改。而新巡洋舰的设计在很大程度上受到了英国霍金斯级巡洋舰的影响。1921年夏季，造船师平贺让根据夕张号上测试的设计，提出了一种侦察巡洋舰的设计方案。该舰的武器包括安装在单装炮塔内的6门203毫米火炮。</p><p class=\"p_spacing\"> </p><p><b>古鹰</b>号于长崎建造。在1937–39年间，该舰经历了彻底的现代化改造：单装炮塔被三座双联装炮塔取代，燃煤锅炉被替换为了燃油锅炉。</p><p class=\"p_spacing\"> </p><p>第二次世界大战期间，该舰参加了南太平洋的军事行动，参加了珊瑚海海战和萨沃岛海战。在1942年10月11日的埃斯佩兰斯角海战中，<b>古鹰</b>号被约90枚炮弹和1枚鱼雷击中，导致自身携带的鱼雷发生殉爆。该舰于10月12日清晨沉没。</p>"
 
 msgid "IDS_PJSC005_FULL"
 msgstr "古鹰"
@@ -94877,7 +94205,7 @@ msgid "IDS_PJSC006"
 msgstr "古鹰"
 
 msgid "IDS_PJSC006_DESCR"
-msgstr "<p>新侦察巡洋舰的设计基于英国霍金斯级巡洋舰，并融合了在巡洋舰夕张号上测试的设计方案。武器为6门200毫米火炮。二战期间，<b>古鹰</b>参加了所罗门群岛的行动，以及珊瑚海和萨沃岛的战斗。1942年10月11日埃斯佩兰斯角海战期间，<b>古鹰</b>被大约90枚炮弹和一枚鱼雷击中，她的鱼雷被引爆。该巡洋舰于10月12日上午沉没。</p>"
+msgstr "<p>日本获悉美国奥马哈级巡洋舰的情报后，对未来战舰的设计进行了修改。而新巡洋舰的设计在很大程度上受到了英国霍金斯级巡洋舰的影响。1921年夏季，造船师平贺让根据夕张号上测试的设计，提出了一种侦察巡洋舰的设计方案。该舰的武器包括安装在单装炮塔内的6门203毫米火炮。</p><p class=\"p_spacing\"> </p><p><b>古鹰</b>号于长崎建造。在1937–39年间，该舰经历了彻底的现代化改造：单装炮塔被三座双联装炮塔取代，燃煤锅炉被替换为了燃油锅炉。</p><p class=\"p_spacing\"> </p><p>第二次世界大战期间，该舰参加了南太平洋的军事行动，参加了珊瑚海海战和萨沃岛海战。在1942年10月11日的埃斯佩兰斯角海战中，<b>古鹰</b>号被约90枚炮弹和1枚鱼雷击中，导致自身携带的鱼雷发生殉爆。该舰于10月12日清晨沉没。</p>"
 
 msgid "IDS_PJSC006_FULL"
 msgstr "古鹰"
@@ -94892,7 +94220,7 @@ msgid "IDS_PJSC007"
 msgstr "青叶"
 
 msgid "IDS_PJSC007_DESCR"
-msgstr "<p><b>青叶</b>级巡洋舰最初与古鹰级相同，但根据海军军令部的命令，设计进行了一些改动——120毫米防空炮替换76毫米防空炮，并且在舰尾上层建筑和炮塔之间加装了水上飞机弹射器。<b>青叶</b>在二战中表现活跃：她运送部队登陆关岛和威克岛；护送船团；并参加了珊瑚海、萨沃岛和埃斯帕恩斯角的战斗。1945年7月24日，她在吴港被盟军轰炸机部队击沉。</p>"
+msgstr "<p><b>青叶</b>级巡洋舰最初计划延续古鹰级的设计，但在日本海军舰政本部的坚持下，还是对设计进行了一些调整。例如，主炮由单装炮塔改为双联装炮塔，用新型120毫米防空炮取代76毫米防空炮，并在后部上层建筑与炮塔之间加装了水上飞机弹射器。</p><p class=\"p_spacing\"> </p><p>该级首舰<b>青叶</b>号在长崎建造。1938-40年间，该舰进行了现代化改造，加强了防空火力并将其锅炉全部改为重油锅炉。</p><p class=\"p_spacing\"> </p><p>该舰积极投身于第二次世界大战：参加了关岛和威克岛的登陆行动，并活跃于珊瑚海海战、萨沃岛海战、埃斯佩兰斯角海战以及船队护航任务中。1945年7月24日，<b>青叶</b>号在吴港遭到盟军轰炸后沉没。</p>"
 
 msgid "IDS_PJSC007_EXAMPLE"
 msgstr "青叶"
@@ -95000,7 +94328,7 @@ msgid "IDS_PJSC018"
 msgstr "利根"
 
 msgid "IDS_PJSC018_DESCR"
-msgstr "<p>基于最上级战舰的项目。为了提高此战舰的防护能力，第五座炮塔被拆除，其他四座炮塔被移到舰首。一支大型水上飞机空军大队部署在舰尾。该舰仍在建造时，其155毫米火炮被换成了203毫米火炮。在二战期间，<b>利根</b>参加了珍珠港事件、中途岛和莱特湾海战，以及太平洋战区的许多其他战斗。1945年7月24日，她在吴港遭到美国轰炸机突袭并沉没。</p>"
+msgstr "<p>为了增强本国的舰队实力，日本海军省曾计划基于最上级的设计方案建造两艘巡洋舰。为改善防护水平和稳性，该型战舰的设计方案取消了五号炮塔，其余的四座炮塔均被移至艏部。这一设计缩短了装甲带长度、减轻了舰体及艏艉的重量，进而提升了战舰的适航性。腾出的舰艉空间则用于搭载水上飞机。</p><p class=\"p_spacing\"> </p><p>该级首舰利根号在长崎建造。1941年，该舰参加了偷袭珍珠港和威克岛攻略战。1942年，利根号为拉包尔登陆提供了掩护，并参加了爪哇海战、印度洋空袭、中途岛海战、东所罗门群岛海战及圣克鲁斯群岛海战。1944年，该舰在菲律宾海和莱特湾参加战斗。1945年7月24日，利根号在美军轰炸机空袭吴港期间沉没。</p>"
 
 msgid "IDS_PJSC018_FULL"
 msgstr "利根"
@@ -95602,7 +94930,7 @@ msgid "IDS_PJSC918"
 msgstr "利根2"
 
 msgid "IDS_PJSC918_DESCR"
-msgstr "基于最上级战舰的项目。为了提高此战舰的防护能力，第五座炮塔被拆除，其他四座炮塔被移到舰首。一支大型水上飞机空军大队部署在舰尾。该舰仍在建造时，其155毫米火炮被换成了203毫米火炮。在二战期间，利根号参加了珍珠港事件、中途岛和莱特湾海战，以及太平洋战区的许多其他战斗。1945年7月24日，她在吴港遭到美国轰炸机突袭并沉没。"
+msgstr "<p>为了增强本国的舰队实力，日本海军省曾计划基于最上级的设计方案建造两艘巡洋舰。为改善防护水平和稳性，该型战舰的设计方案取消了五号炮塔，其余的四座炮塔均被移至艏部。这一设计缩短了装甲带长度、减轻了舰体及艏艉的重量，进而提升了战舰的适航性。腾出的舰艉空间则用于搭载水上飞机。</p><p class=\"p_spacing\"> </p><p>该级首舰利根号在长崎建造。1941年，该舰参加了偷袭珍珠港和威克岛攻略战。1942年，利根号为拉包尔登陆提供了掩护，并参加了爪哇海战、印度洋空袭、中途岛海战、东所罗门群岛海战及圣克鲁斯群岛海战。1944年，该舰在菲律宾海和莱特湾参加战斗。1945年7月24日，利根号在美军轰炸机空袭吴港期间沉没。</p>"
 
 msgid "IDS_PJSC918_FULL"
 msgstr "利根2"
@@ -95617,7 +94945,7 @@ msgid "IDS_PJSC919"
 msgstr "利根3"
 
 msgid "IDS_PJSC919_DESCR"
-msgstr "基于最上级战舰的项目。为了提高此战舰的防护能力，第五座炮塔被拆除，其他四座炮塔被移到舰首。一支大型水上飞机空军大队部署在舰尾。该舰仍在建造时，其155毫米火炮被换成了203毫米火炮。在二战期间，利根号参加了珍珠港事件、中途岛和莱特湾海战，以及太平洋战区的许多其他战斗。1945年7月24日，她在吴港遭到美国轰炸机突袭并沉没。"
+msgstr "<p>为了增强本国的舰队实力，日本海军省曾计划基于最上级的设计方案建造两艘巡洋舰。为改善防护水平和稳性，该型战舰的设计方案取消了五号炮塔，其余的四座炮塔均被移至艏部。这一设计缩短了装甲带长度、减轻了舰体及艏艉的重量，进而提升了战舰的适航性。腾出的舰艉空间则用于搭载水上飞机。</p><p class=\"p_spacing\"> </p><p>该级首舰利根号在长崎建造。1941年，该舰参加了偷袭珍珠港和威克岛攻略战。1942年，利根号为拉包尔登陆提供了掩护，并参加了爪哇海战、印度洋空袭、中途岛海战、东所罗门群岛海战及圣克鲁斯群岛海战。1944年，该舰在菲律宾海和莱特湾参加战斗。1945年7月24日，利根号在美军轰炸机空袭吴港期间沉没。</p>"
 
 msgid "IDS_PJSC919_FULL"
 msgstr "利根3"
@@ -95917,7 +95245,7 @@ msgid "IDS_PJSD111"
 msgstr "山雾"
 
 msgid "IDS_PJSD111_DESCR"
-msgstr "岛风级驱逐舰的初始项目采用六联装或七联装鱼雷发射管，能从侧面齐射18至21枚鱼雷。然而，由于鱼雷发射管和快速装填系统的总重量过大，项目遭到弃用。"
+msgstr "<p>1939年，日本订购了一艘基于夕云级改型的实验型驱逐舰。该舰配备了强化过的鱼雷武器和强劲的动力装置，在测试中表现出了极高的航速。</p><p class=\"p_spacing\"> </p><p>最初的方案曾设想采用六联装或七联装鱼雷发射管，以实现强大的侧舷齐发密度。然而，由于鱼雷发射管以及鱼雷再装填系统的总重量过大，该方案最终未能实现。</p>"
 
 msgid "IDS_PJSD111_FULL"
 msgstr "山雾"
@@ -95992,7 +95320,7 @@ msgid "IDS_PJSD210"
 msgstr "春云"
 
 msgid "IDS_PJSD210_DESCR"
-msgstr "基于驱逐舰秋月号设计的日本驱逐舰进一步发展旨在增强作战能力。此战舰搭载5座主炮塔且仍能保持较高的航速，这要归功于试验性的高航速“巡洋驱逐舰”岛风号所衍生出的推进系统。小口径防空炮基于五式40毫米炮——实质上是博福斯高炮的仿制型号，可以通过缴获的荷兰及英国军队装备进行逆向仿制。"
+msgstr "<p>基于秋月级驱逐舰，为追求增强作战能力的日本驱逐舰推演设计。</p><p class=\"p_spacing\"> </p><p>该舰搭载五座主炮塔，且为了保持较高的航速，使用了试验性的高航速“巡洋驱逐舰”岛风号所衍生出的推进系统。小口径防空炮则基于五式40毫米炮——实质上是博福斯高炮的仿制型号，可以通过缴获的荷兰及英国军队装备进行逆向仿制。</p>"
 
 msgid "IDS_PJSD210_FULL"
 msgstr "春云"
@@ -96007,7 +95335,7 @@ msgid "IDS_PJSD219"
 msgstr "北风"
 
 msgid "IDS_PJSD219_DESCR"
-msgstr "<p>参考原型: <b>V7项目（改秋月级）</b></p><p class=\"p_spacing\"> </p><p>在试验性驱逐舰岛风号于1941年铺设龙骨之后，因其引人瞩目的速度和强大的鱼雷，当局决定将16艘C型战舰纳入第5海军军备补强计划。然而，由于帝国海军在1942年遭受的损失，一些C型驱逐舰被B型（秋月）驱逐舰取代。1943年当局订购了七艘“B型改”战舰。该工程后来由于要建造护航战舰而被取消。</p>"
+msgstr "<p>1941年，实验型驱逐舰岛风号开工，这标志着日本造船业进入了新里程碑。随后，16艘同型舰被列入丸五计划中。然而，1942年美国航空兵给日方造成的沉重损失，迫使日本重新审视该计划，并将部分该级战舰的建造计划替换为了秋月级驱逐舰。</p><p class=\"p_spacing\"> </p><p>1943年10月，日方订购了七艘基于秋月级改进设计的战舰。次年5月，由于海军需要大量廉价的运输船队护卫舰，而非昂贵且建造周期长的驱逐舰，这些战舰的建造计划便被取消。随后，原本预留给这些驱逐舰的资源则被转而用于建造橘级护航驱逐舰和海防舰。</p>"
 
 msgid "IDS_PJSD219_FULL"
 msgstr "北风"
@@ -96067,7 +95395,7 @@ msgid "IDS_PJSD510"
 msgstr "疾风"
 
 msgid "IDS_PJSD510_DESCR"
-msgstr "装备127毫米双联装两用炮座的岛风级驱逐舰的理论设计。其特点是使用定装弹药和更高的射速。因此该战舰能更好地对抗高空的敌机，并在对抗敌方轻型部队时占据火力优势。"
+msgstr "<p>装备127毫米双联装两用炮座的岛风级驱逐舰的理论设计。</p><p class=\"p_spacing\"> </p><p>该型火炮研制于二战末期，其特点是使用定装弹药和更高的射速。凭借这些现代化的武备，该舰能更有效地对抗高空的敌机，并在对抗敌方轻型部队时占据火力优势。</p>"
 
 msgid "IDS_PJSD510_FULL"
 msgstr "疾风"
@@ -96287,7 +95615,7 @@ msgid "IDS_PJSS508"
 msgstr "I-58"
 
 msgid "IDS_PJSS508_DESCR"
-msgstr "<p><b>I-58</b>是B3乙型潜艇，于1942年在横须贺铺设龙骨。在建过程中，她被改造为回天载人鱼雷。二战期间，<b>I-58</b>参加了袭击关岛、突袭冲绳以及追击日本南方的船团。1945年，她击沉了巡洋舰USS印第安纳波利斯号。</p>"
+msgstr "<p><b>I-58</b>是B3乙型潜艇，于1942年在横须贺铺设龙骨。在建过程中，她被改造为回天载人鱼雷母舰。</p><p class=\"p_spacing\"> </p><p>二战期间，<b>I-58</b>参加了袭击关岛、突袭冲绳以及追击日本南方的船团。1945年，她击沉了巡洋舰USS印第安纳波利斯号。战争结束后、在1946年，<b>I-58</b>在五岛列岛海域被凿沉。</p>"
 
 msgid "IDS_PJSS508_FULL"
 msgstr "I-58"
@@ -99984,9 +99312,6 @@ msgstr "波兰"
 msgid "IDS_POLYAKOV"
 msgstr "帕维尔˙波利亚科夫"
 
-msgid "IDS_POPEYE"
-msgstr " "
-
 msgid "IDS_POPOV_ARIA"
 msgstr "谢尔盖˙波波夫"
 
@@ -101196,7 +100521,7 @@ msgid "IDS_PRES408_PR_68_CHAPAEV_H2017"
 msgstr "苏亚托扎"
 
 msgid "IDS_PRES409_STALCRAFT_KOMETA"
-msgstr "曙光"
+msgstr "自由之曙光"
 
 msgid "IDS_PRES410_MOSKVA_AVRORA"
 msgstr "曙光"
@@ -101235,7 +100560,7 @@ msgid "IDS_PRES436_DMITRY_DONSKOY"
 msgstr "对马岛海战"
 
 msgid "IDS_PRES438_STALCRAFT_ALBATROS"
-msgstr "雇佣兵"
+msgstr "佣兵"
 
 msgid "IDS_PRES440_SMOLENSKBLACK"
 msgstr "特别"
@@ -104957,7 +104282,7 @@ msgid "IDS_PRSC609"
 msgstr "彗星"
 
 msgid "IDS_PRSC609_DESCR"
-msgstr "<p>重型中继巡洋舰是“锻造厂-11”在实验性军事装备框架下的最新研发成果。该舰配备了灵能发生器与灵波中继器，可形成定向灵能场，专门针对大城市及军事基地的通讯系统实施情报刺探。</p><p class=\"p_spacing\"> </p><p>尽管战舰设计方案中宣称其武器系统仅用于防御，但实际上该舰具备强大的进攻作战潜力。在苏联解体后，“新意识”组织的工程师进一步升级了巡洋舰的功能：如今灵能场不仅能截取信息，还能在敌方通讯系统乃至人员潜意识中精准植入虚假情报。</p><p class=\"p_spacing\"> </p><p>该舰在“深潜行动”期间被“曙光”组织发现并缴获。</p>"
+msgstr "<p>重型中继巡洋舰是“锻造厂-11”在实验性军事装备框架下的最新研发成果。该舰配备了灵能发生器与灵波中继器，可形成定向灵能场，专门针对大城市及军事基地的通讯系统实施情报刺探。</p><p class=\"p_spacing\"> </p><p>尽管战舰设计方案中宣称其武器系统仅用于防御，但实际上该舰具备强大的进攻作战潜力。在苏联解体后，“新意识”组织的工程师进一步升级了巡洋舰的功能：如今灵能场不仅能截取信息，还能在敌方通讯系统乃至人员潜意识中精准植入虚假情报。</p><p class=\"p_spacing\"> </p><p>该舰在“深潜行动”期间被“自由”组织发现并缴获。</p>"
 
 msgid "IDS_PRSC609_FULL"
 msgstr "彗星"
@@ -107152,9 +106477,6 @@ msgstr "塔什干(B)"
 msgid "IDS_PRUH703_D8_HULL_STOCK_2"
 msgstr "火力"
 
-msgid "IDS_PRUH704_HULL_ALBATROS"
-msgstr "信天翁"
-
 msgid "IDS_PRUH705_D8_HULL_STOCK_3"
 msgstr "基辅(A)"
 
@@ -108309,9 +107631,6 @@ msgstr "53-39 mod.2"
 
 msgid "IDS_PRUT807_D9_TORP_STOCK_4"
 msgstr "53-39 mod. 2"
-
-msgid "IDS_PRUT808_TORP_KOMETA"
-msgstr "53-38"
 
 msgid "IDS_PRUT809_TORP_NEUSTR"
 msgstr "53-51"
@@ -118852,13 +118171,13 @@ msgid "IDS_PZSC529_YEAR"
 msgstr "1945"
 
 msgid "IDS_PZSC539"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PZSC539_DESCR"
-msgstr "<p>在中国神话中，炎帝主宰南方，与火元素相关联。在一些传说中，炎帝常与神农氏——农耕与草药的文化英雄——相联系。</p><p class=\"p_spacing\"> </p><p>在中国文化中，红色象征着喜悦、庇护与好运，也是新年仪式中的重要元素。</p>"
+msgstr "<p>在中国神话中，赤帝主宰南方，与火元素相关联。一些传说将赤帝与神农氏相联系，后者是农业与草药的文化英雄。</p><p class=\"p_spacing\"> </p><p>在中国文化中，红色象征喜悦、护佑与吉祥，也是新年仪式中的重要元素。</p>"
 
 msgid "IDS_PZSC539_FULL"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PZSC539_NUMBER"
 msgstr "1"
@@ -119671,7 +118990,7 @@ msgid "IDS_PZUH813_HULL_JULANG"
 msgstr "巨浪"
 
 msgid "IDS_PZUH814_HULL_CHIDI"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PZUH900_D11_HULL_STOCK"
 msgstr "昆明"
@@ -120352,7 +119671,7 @@ msgid "IDS_RANDOMBATTLE_SHORT_DESCRIPTION"
 msgstr "与真人玩家对战。匹配系统将随机创建团队。"
 
 msgid "IDS_RANDOMBATTLE_SUBHEADER"
-msgstr "对战其他玩家"
+msgstr "对战真人玩家"
 
 msgid "IDS_RANDOMBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_11"
 msgstr "★级对局团队最大规模：12v12"
@@ -124053,12 +123372,6 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
 
-msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "加值战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "战舰"
-
 msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -124274,18 +123587,6 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "VI–VIII级加值战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "IX-X级战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "战舰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -126117,60 +125418,6 @@ msgstr "Lesta Games"
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE_QUOTES"
 msgstr "“Lesta Games”"
 
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_TITLE"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_TITLE_QUOTES"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_1_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_2_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_TITLE"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_TITLE_QUOTES"
-msgstr " "
-
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -126266,30 +125513,6 @@ msgstr "针筒"
 
 msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE_QUOTES"
 msgstr "“针筒”"
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_COMMON_GROUP_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_TITLE"
-msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_TITLE_QUOTES"
-msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -126542,18 +125765,6 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "巴塔哥尼亚"
-
-msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "巴塔哥尼亚"
-
-msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "加值战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "战舰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -126860,18 +126071,6 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "IX级加值战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX级"
-
-msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "VII-VIII级加值战舰"
-
-msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VII–VIII级"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128608,7 +127807,7 @@ msgid "IDS_RICK_HOTEP_H18"
 msgstr "Rick H. O'Tep"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "© ЛЕСТА ИГРЫ, 2022–2026. 《Mir Korabley》基于第三方的知识产权。第三方权利对象的所有权利归其合法权利人所有。 汉化团队：澪刻（https://github.com/LocalizedKorabli）"
+msgstr "© Леста Игры, 2022–2026. 《Mir Korabley》基于第三方的知识产权。第三方权利对象的所有权利归其合法权利人所有。 汉化团队：澪刻（https://github.com/LocalizedKorabli）"
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "”"
@@ -130521,9 +129720,6 @@ msgstr "<p>获得新蓝图的概率：<span class=\"percentRate\">%(_percentRate
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_TITLE"
 msgstr "用维修材料兑换蓝图"
 
-msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING"
-msgstr "没有合适资源兑换"
-
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING_1"
 msgstr "材料不足"
 
@@ -131452,7 +130648,7 @@ msgstr ""
 "必须在单场战斗中完成"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_1"
-msgstr "<body>提升到<h3>%(_threshold)s级</h3>需要完成精通挑战。</body>"
+msgstr "<body>提升到<h3>%(_threshold)s级</h3>需要完成一组精通挑战。</body>"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_2"
 msgstr "通过精通挑战后，将提升到下一精通等级。"
@@ -131745,13 +130941,13 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM108_SUBEVENT26_DAMAGEBUFFALL"
 msgstr "炮火全开！"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM109_SUBEVENT26_PENETRATIONBUFF"
-msgstr "强力全贯通！"
+msgstr "这炮嗑了？"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM110_SUBEVENT26_NODAMAGE"
-msgstr "我要打十个！"
+msgstr "师傅，你没吃饭啊？"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM111_SUBEVENT26_TORPEDO_SOUP"
-msgstr "鱼雷汤"
+msgstr "海里没有一滴水"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM112_SUBEVENT26_SPEEDNERF"
 msgstr "时间啊，停止吧！"
@@ -131760,10 +130956,10 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM113_SUBEVENT26_CONSUMABLETIME"
 msgstr "蓄势待发"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM114_SUBEVENT26_DAMAGERESIST"
-msgstr "师傅，你没吃饭啊？"
+msgstr "我要打十个！"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM115_SUBEVENT26_PENETRATIONNERF"
-msgstr "想破我防？"
+msgstr "碎碎平安"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM900_ENERGY"
 msgstr "能量单位数"
@@ -132120,13 +131316,13 @@ msgid "IDS_SHIP_MODIFIER_PCOM108_SUBEVENT26_DAMAGEBUFFALL_APPLIED"
 msgstr "炮火全开！"
 
 msgid "IDS_SHIP_MODIFIER_PCOM109_SUBEVENT26_PENETRATIONBUFF_APPLIED"
-msgstr "强力全贯通！"
+msgstr "这炮嗑了？"
 
 msgid "IDS_SHIP_MODIFIER_PCOM110_SUBEVENT26_NODAMAGE_APPLIED"
-msgstr "我要打十个！"
+msgstr "师傅，你没吃饭啊？"
 
 msgid "IDS_SHIP_MODIFIER_PCOM111_SUBEVENT26_TORPEDO_SOUP_APPLIED"
-msgstr "鱼雷汤"
+msgstr "海里没有一滴水"
 
 msgid "IDS_SHIP_MODIFIER_PCOM112_SUBEVENT26_SPEEDNERF_APPLIED"
 msgstr "时间啊，停止吧！"
@@ -132135,10 +131331,10 @@ msgid "IDS_SHIP_MODIFIER_PCOM113_SUBEVENT26_CONSUMABLETIME_APPLIED"
 msgstr "蓄势待发"
 
 msgid "IDS_SHIP_MODIFIER_PCOM114_SUBEVENT26_DAMAGERESIST_APPLIED"
-msgstr "师傅，你没吃饭啊？"
+msgstr "我要打十个！"
 
 msgid "IDS_SHIP_MODIFIER_PCOM115_SUBEVENT26_PENETRATIONNERF_APPLIED"
-msgstr "想破我防？"
+msgstr "碎碎平安"
 
 msgid "IDS_SHIP_MODIFIER_PCOM900_ENERGY_APPLIED"
 msgstr "能量等级已提高"
@@ -134227,9 +133423,6 @@ msgstr "生存性"
 msgid "IDS_SHIP_TYPE_PREMIUM_DESCRIPTION"
 msgstr "不需要进行研发的各种类型的战舰。它们能在战斗中赚取更多银币和经验。"
 
-msgid "IDS_SHISHIRO_BOTAN"
-msgstr " "
-
 msgid "IDS_SHOOT"
 msgstr "射击"
 
@@ -135247,7 +134440,7 @@ msgid "IDS_SNOWFLAKES_SHIPS_NOT_ENOUGH_REWARDS_DESCRIPTION"
 msgstr "使用附带节庆奖励的战舰取得出色战绩后，就能在不加入战斗的情况下领取其他战舰的奖励！"
 
 msgid "IDS_SNOWFLAKES_SHIPS_NOT_ENOUGH_REWARDS_STATUS"
-msgstr "您无法在不参加战斗的情况下从战舰领取奖励"
+msgstr "您无法在不参加战斗的情况下从战舰上领取奖励"
 
 msgid "IDS_SNOWFLAKES_SHIP_TOOLTIP_TITLE"
 msgstr "战舰奖励"
@@ -135473,14 +134666,8 @@ msgstr "碧蓝航线：俾斯麦"
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_CHAPAYEV"
 msgstr "碧蓝航线：恰巴耶夫"
 
-msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_CHESHIRE"
-msgstr " "
-
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_CLEVELAND"
 msgstr "碧蓝航线：克利夫兰"
-
-msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_COLORADO"
-msgstr " "
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_DUNKERQUE"
 msgstr "碧蓝航线：敦刻尔克"
@@ -135523,9 +134710,6 @@ msgstr "碧蓝航线：新泽西"
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_PRINZ_EUGEN"
 msgstr "碧蓝航线：欧根亲王"
-
-msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_PRINZ_HEINRICH"
-msgstr " "
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_ROON"
 msgstr "碧蓝航线：罗恩"
@@ -135677,23 +134861,11 @@ msgstr "HSF蒂亚˙克鲁茨"
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MOEKA_CHINA"
 msgstr "HSF知名萌香"
 
-msgid "IDS_SOUND_MOD_HOLOLIVE_AMELIA_WATSON"
-msgstr "Watson Amelia (hololive production)"
-
 msgid "IDS_SOUND_MOD_HOLOLIVE_FUBUKI_SHIRAKAMI"
 msgstr "Shirakami Fubuki (hololive production)"
 
-msgid "IDS_SOUND_MOD_HOLOLIVE_HOSHINOVA_MOONA"
-msgstr "Moona Hoshinova (hololive production)"
-
 msgid "IDS_SOUND_MOD_HOLOLIVE_MARINE_HOSHOU"
 msgstr "Houshou Marine (hololive production)"
-
-msgid "IDS_SOUND_MOD_HOLOLIVE_SHISHIRO_BOTAN"
-msgstr "Shishiro Botan (hololive production)"
-
-msgid "IDS_SOUND_MOD_HOLOLIVE_THAKANASHI_KIARA"
-msgstr "Takanashi Kiara (hololive production)"
 
 msgid "IDS_SOUND_MOD_HUA_HU"
 msgstr "画虎"
@@ -135746,12 +134918,6 @@ msgstr "輝夜姬"
 msgid "IDS_SOUND_MOD_MATILDA_KELLY"
 msgstr "Matilda Kelly"
 
-msgid "IDS_SOUND_MOD_MEGADETH_DAVE_MUSTAINE"
-msgstr " "
-
-msgid "IDS_SOUND_MOD_MEGADETH_VIC_RATTLEHEAD"
-msgstr " "
-
 msgid "IDS_SOUND_MOD_MERMAID_LESTA"
 msgstr "Lesta"
 
@@ -135779,9 +134945,6 @@ msgstr "老前辈"
 msgid "IDS_SOUND_MOD_MOSFILM_TRUS"
 msgstr "懦夫"
 
-msgid "IDS_SOUND_MOD_MURAT_SEREZLI"
-msgstr " "
-
 msgid "IDS_SOUND_MOD_NATION"
 msgstr "国家"
 
@@ -135794,17 +134957,8 @@ msgstr "扩展"
 msgid "IDS_SOUND_MOD_NATION_PLUS_DESCRIPTION"
 msgstr "配音语言对应指挥官的国家。您还可以听到友军战舰上附带独有配音的指挥官的独特台词。"
 
-msgid "IDS_SOUND_MOD_NATUEVENT_GAULU"
-msgstr " "
-
-msgid "IDS_SOUND_MOD_NATUEVENT_HANS"
-msgstr " "
-
 msgid "IDS_SOUND_MOD_NATUEVENT_HUA_QING"
 msgstr "华卿"
-
-msgid "IDS_SOUND_MOD_NATUEVENT_NATU"
-msgstr " "
 
 msgid "IDS_SOUND_MOD_NATUEVENT_YU_CHENG"
 msgstr "玉成"
@@ -135829,12 +134983,6 @@ msgstr "彼得大帝"
 
 msgid "IDS_SOUND_MOD_PIRATE"
 msgstr "海盗"
-
-msgid "IDS_SOUND_MOD_POPEYEANDBLUTO_BLUTO"
-msgstr "Bluto"
-
-msgid "IDS_SOUND_MOD_POPEYEANDBLUTO_POPEYE"
-msgstr "Popeye"
 
 msgid "IDS_SOUND_MOD_PUSHKIN"
 msgstr "亚历山大˙普希金"
@@ -135940,12 +135088,6 @@ msgstr "迪克˙哈伦斯贝格"
 
 msgid "IDS_SOUND_MOD_UVAROV"
 msgstr "亚历山大˙乌瓦罗夫"
-
-msgid "IDS_SOUND_MOD_VARIOUSCONTENTCAP_MICHAL_MILOWICZ"
-msgstr " "
-
-msgid "IDS_SOUND_MOD_VARIOUSCONTENTCAP_NIKOS_THALASSINOS"
-msgstr "Nikos Thalassinos"
 
 msgid "IDS_SOUND_MOD_VIKING_TM"
 msgstr "Björn Konungr"
@@ -137448,7 +136590,7 @@ msgid "IDS_STALCRAFT_M01_DESC"
 msgstr "<p>特异区诞生于2014年那场神秘的灾难之后，永远改变了周遭世界。这里自然法则不再适用：异常现象扭曲空间，废弃区域栖息着危险生物，而在废墟之中可以找到神器——那些具有惊人特性的稀有珍贵物品。特异区危机四伏，却也因此充满致命吸引力。</p><p class=\"p_spacing\"> </p><p>敢于踏入特异区的人被称为潜行者。他们探索未知地域，搜寻神器，执行任务，在这片任何失误都可能致命的地带挣扎求存。对某些人而言，特异区是谋生手段；对另一些人来说，这里是知识源泉，或是新生活的起点。</p><p class=\"p_spacing\"> </p><p>特异区极不稳定且持续变化。能量爆发会将熟悉路径化为死亡陷阱，危险甚至潜伏在最宁静的角落。在这里，不仅需要武器，更需要思考能力、适应力与抉择的智慧。</p><p class=\"p_spacing\"> </p><p>随着时间推移，潜行者们不再孤军奋战。特异区内形成了诸多派系——这些拥有各自理念、目标与生存方式的团体，正决定着特异区的力量格局与未来命运。</p>"
 
 msgid "IDS_STALCRAFT_M02_DESC"
-msgstr "<p>“曙光”——曾是一个等级制度模糊的战斗人员团体，自伏罗希洛夫加入后发生了巨大变化。</p><p class=\"p_spacing\"> </p><p>如今的“曙光”已成为特异区中的一个重要派系，分为两个分支：由恰茨基领导的军事分支，以及由伏罗希洛夫督导的科研分支。两个分支相互协作，共同致力于组织的发展。</p><p class=\"p_spacing\"> </p><p>“曙光”汇集了形形色色的人员：战斗人员、工匠，甚至知名科学家。成员们的观点也可能各不相同。</p><p class=\"p_spacing\"> </p><p>其内部结构呈现矩阵式。各军团的成员组成各自的议事机构，影响整体决策。</p><p class=\"p_spacing\"> </p><p>该组织的总体理念基于以下认识：全面、独立地研究特异区至关重要，同时需要保护特异区免受国家机构和大型企业利益的干预，后者限制了人们对特异区知识和资源的获取。</p><p class=\"p_spacing\"> </p><p>“曙光”的资金来源主要依靠于在黑市销售药品与特殊物资。</p>"
+msgstr "<p>“自由”——曾是一个等级制度模糊的战斗人员团体，自伏罗希洛夫加入后发生了巨大变化。</p><p class=\"p_spacing\"> </p><p>如今的“自由”已成为特异区中的一个重要派系，分为两个分支：由恰茨基领导的军事分支，以及由伏罗希洛夫督导的科研分支。两个分支相互协作，共同致力于组织的发展。</p><p class=\"p_spacing\"> </p><p>“自由”汇集了形形色色的人员：战斗人员、工匠，甚至知名科学家。成员们的观点也可能各不相同。</p><p class=\"p_spacing\"> </p><p>其内部结构呈现矩阵式。各军团的成员组成各自的议事机构，影响整体决策。</p><p class=\"p_spacing\"> </p><p>该组织的总体理念基于以下认识：全面、独立地研究特异区至关重要，同时需要保护特异区免受国家机构和大型企业利益的干预，后者限制了人们对特异区知识和资源的获取。</p><p class=\"p_spacing\"> </p><p>“自由”的资金来源主要依靠于在黑市销售药品与特殊物资。</p>"
 
 msgid "IDS_STALCRAFT_M03_DESC"
 msgstr "<p>“纪律”——由达维多夫领导的一支军事化潜行者团体。它是特异区内最古老的派系之一，由前军人创建。</p><p class=\"p_spacing\"> </p><p>“纪律”是一个采用师级管理结构和严格等级制度的准军事组织。新兵构成其普通成员层，而经验最丰富的战士则组成代表团体决策的军官参谋部。</p><p class=\"p_spacing\"> </p><p>“纪律”的成员背景多样，既有前军人，也有认同该派系理念的潜行者。</p><p class=\"p_spacing\"> </p><p>“纪律”意识形态的核心是必须限制人类与特异区之间的任何接触。这一理念是在军人群体经历剧烈动荡的背景下形成的。</p><p class=\"p_spacing\"> </p><p>“纪律”的资金来源主要依靠其与军方以及其他负责研究和守卫特异区的官方机构的紧密合作。</p>"
@@ -140202,180 +139344,8 @@ msgstr "会开火。"
 msgid "IDS_TASK"
 msgstr "作战任务"
 
-msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_CA_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_AA"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_BB_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_AA"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_2"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_1"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_3"
-msgstr "完成条件："
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_DUKEOFYORK"
-msgstr "用战列舰约克公爵号在随机战、联合作战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK"
-msgstr "用战列舰约克公爵号在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_FURUTAKA"
-msgstr ""
-"完成条件：\n"
-"古鹰号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_GRAFSPEE"
-msgstr "用巡洋舰施佩伯爵将军号在随机战、联合作战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_HAWKINS"
-msgstr ""
-"完成条件：\n"
-"霍金斯号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_HIZEN"
-msgstr ""
-"完成条件：\n"
-"肥前号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_HOOD"
-msgstr "用HMS胡德号在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_KOTOVSKY"
-msgstr ""
-"完成条件：\n"
-"科托夫斯基号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_NEWYORK"
-msgstr ""
-"完成条件：\n"
-"纽约号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_STRASBOURG"
-msgstr ""
-"完成条件：\n"
-"斯特拉斯堡号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_T22"
-msgstr ""
-"完成条件：\n"
-"T-22号"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_TIRPIZ"
-msgstr "用战列舰提尔皮茨号在随机战、联合作战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTIONSPECIAL_VISBY"
-msgstr ""
-"完成条件：\n"
-"维斯比号"
-
 msgid "IDS_TASKRESTRICTION_EXTRA_SOLO"
 msgstr "战斗开始时玩家必须不在任何小队中。"
-
-msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVE_AIGLE"
-msgstr "用驱逐舰鹰在随机战和联合作战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED_PEF"
-msgstr "用战列舰艾特尔˙弗里德里希亲王在随机战、联合作战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKED_DALLAS"
-msgstr "用巡洋舰达拉斯在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKED_HATSUHARU"
-msgstr "用驱逐舰初春在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKED_ICARUS"
-msgstr "用驱逐舰伊卡洛斯在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKED_NORMANDIE"
-msgstr "用战列舰诺曼底在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKED_NURNBERG"
-msgstr "用巡洋舰纽伦堡在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVP_ORKAN_SMALAND"
-msgstr "用驱逐舰奥坎或斯莫兰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_STANDART"
-msgstr "完成条件："
 
 msgid "IDS_TASKS"
 msgstr "作战任务"
@@ -140838,9 +139808,6 @@ msgstr "开启文字消息。"
 
 msgid "IDS_TEXT_RELOAD_CLIENT"
 msgstr "点击确定以重新启动游戏。若服务器正在忙碌，您将会排在队列的最后。"
-
-msgid "IDS_THAKANASHI_KIARA"
-msgstr " "
 
 msgid "IDS_THANKS_FOR_ACTIVITY_HEADER"
 msgstr "非常感谢您的活跃"
@@ -144663,9 +143630,6 @@ msgstr "胜率"
 msgid "IDS_VICTORY_PERCENT_TOOLTIP"
 msgstr "获胜战斗场次与战斗总场次的比率"
 
-msgid "IDS_VIC_RATTLEHEAD"
-msgstr " "
-
 msgid "IDS_VIDEO_MODE"
 msgstr "分辨率"
 
@@ -145135,7 +144099,7 @@ msgid "IDS_WEAPONCONTROLS"
 msgstr "武器"
 
 msgid "IDS_WEAPONGROUPS"
-msgstr "武器群"
+msgstr "切换武器"
 
 msgid "IDS_WEAPON_MOUNTED"
 msgstr "已装备武器"
@@ -146332,938 +145296,6 @@ msgid "IDS_OPENED_LOOTBOXES"
 msgid_plural "IDS_OPENED_LOOTBOXES"
 msgstr[0] "已开启%(count)d个补给箱"
 
-msgid "IDS_PCQT003_1"
-msgid_plural "IDS_PCQT003_1"
-msgstr[0] "用舰载鱼雷击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT007_1"
-msgid_plural "IDS_PCQT007_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT011_1"
-msgid_plural "IDS_PCQT011_1"
-msgstr[0] "造成%(count)s次火灾。"
-
-msgid "IDS_PCQT012_1"
-msgid_plural "IDS_PCQT012_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT014_1"
-msgid_plural "IDS_PCQT014_1"
-msgstr[0] "摧毁%(count)s艘战舰。"
-
-msgid "IDS_PCQT016_1"
-msgid_plural "IDS_PCQT016_1"
-msgstr[0] "造成%(count)s次进水。"
-
-msgid "IDS_PCQT033_1"
-msgid_plural "IDS_PCQT033_1"
-msgstr[0] "用副炮击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT035_1"
-msgid_plural "IDS_PCQT035_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT037_1"
-msgid_plural "IDS_PCQT037_1"
-msgstr[0] "用主炮或副炮击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT039_1"
-msgid_plural "IDS_PCQT039_1"
-msgstr[0] "瘫痪敌舰上的%(count)s座主炮。"
-
-msgid "IDS_PCQT045_1"
-msgid_plural "IDS_PCQT045_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT048_1"
-msgid_plural "IDS_PCQT048_1"
-msgstr[0] "摧毁%(count)s艘敌方驱逐舰。"
-
-msgid "IDS_PCQT049_1"
-msgid_plural "IDS_PCQT049_1"
-msgstr[0] "摧毁%(count)s艘敌方巡洋舰。"
-
-msgid "IDS_PCQT050_1"
-msgid_plural "IDS_PCQT050_1"
-msgstr[0] "摧毁%(count)s艘敌方战列舰。"
-
-msgid "IDS_PCQT051_1"
-msgid_plural "IDS_PCQT051_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT053_1"
-msgid_plural "IDS_PCQT053_1"
-msgstr[0] "用任意武器击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT062_1"
-msgid_plural "IDS_PCQT062_1"
-msgstr[0] "摧毁%(count)s艘V级或更高级的战舰。"
-
-msgid "IDS_PCQT064_1"
-msgid_plural "IDS_PCQT064_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT065_1"
-msgid_plural "IDS_PCQT065_1"
-msgstr[0] "用火箭弹、机载炸弹或机载鱼雷命中敌舰%(count)s次。"
-
-msgid "IDS_PCQT066_1"
-msgid_plural "IDS_PCQT066_1"
-msgstr[0] "获得%(count)s次个人英勇成就。"
-
-msgid "IDS_PCQT067_1"
-msgid_plural "IDS_PCQT067_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
-
-msgid "IDS_PCQT068_1"
-msgid_plural "IDS_PCQT068_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT075_1"
-msgid_plural "IDS_PCQT075_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT076_1"
-msgid_plural "IDS_PCQT076_1"
-msgstr[0] "用主炮或副炮击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT078_1"
-msgid_plural "IDS_PCQT078_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT079_1"
-msgid_plural "IDS_PCQT079_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT081_1"
-msgid_plural "IDS_PCQT081_1"
-msgstr[0] "用主炮或副炮摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT084_1"
-msgid_plural "IDS_PCQT084_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT093_1"
-msgid_plural "IDS_PCQT093_1"
-msgstr[0] "使敌方战列舰进水%(count)s次。"
-
-msgid "IDS_PCQT094_1"
-msgid_plural "IDS_PCQT094_1"
-msgstr[0] "用主炮或副炮摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT095_1"
-msgid_plural "IDS_PCQT095_1"
-msgstr[0] "瘫痪敌方驱逐舰或巡洋舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT096_1"
-msgid_plural "IDS_PCQT096_1"
-msgstr[0] "使敌方战列舰或航空母舰起火%(count)s次。"
-
-msgid "IDS_PCQT097_1"
-msgid_plural "IDS_PCQT097_1"
-msgstr[0] "击中敌方巡洋舰或战列舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT101_1"
-msgid_plural "IDS_PCQT101_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT105_1"
-msgid_plural "IDS_PCQT105_1"
-msgstr[0] "摧毁%(count)s艘敌舰并在战斗中存活下来。"
-
-msgid "IDS_PCQT106_1"
-msgid_plural "IDS_PCQT106_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT112_1"
-msgid_plural "IDS_PCQT112_1"
-msgstr[0] "用主炮或副炮击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT113_1"
-msgid_plural "IDS_PCQT113_1"
-msgstr[0] "造成%(count)s次火灾。"
-
-msgid "IDS_PCQT114_1"
-msgid_plural "IDS_PCQT114_1"
-msgstr[0] "瘫痪敌舰上的%(count)s座防空炮组。"
-
-msgid "IDS_PCQT115_1"
-msgid_plural "IDS_PCQT115_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT122_1"
-msgid_plural "IDS_PCQT122_1"
-msgstr[0] "获得%(count)s枚“战略贡献”或“战术贡献”勋带。"
-
-msgid "IDS_PCQT123_1"
-msgid_plural "IDS_PCQT123_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT124_1"
-msgid_plural "IDS_PCQT124_1"
-msgstr[0] "赢得%(count)s场战斗并成为己方团队经验获取量排名前3的玩家。"
-
-msgid "IDS_PCQT126_1"
-msgid_plural "IDS_PCQT126_1"
-msgstr[0] "摧毁%(count)s艘敌方战列舰。"
-
-msgid "IDS_PCQT127_1"
-msgid_plural "IDS_PCQT127_1"
-msgstr[0] "用任意武器击中敌方巡洋舰%(count)s次。"
-
-msgid "IDS_PCQT128_1"
-msgid_plural "IDS_PCQT128_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT129_1"
-msgid_plural "IDS_PCQT129_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT130_1"
-msgid_plural "IDS_PCQT130_1"
-msgstr[0] "用舰载鱼雷或机载鱼雷击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT132_1"
-msgid_plural "IDS_PCQT132_1"
-msgstr[0] "用火箭弹、机载炸弹或机载鱼雷摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT136_1"
-msgid_plural "IDS_PCQT136_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT137_1"
-msgid_plural "IDS_PCQT137_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT138_1"
-msgid_plural "IDS_PCQT138_1"
-msgstr[0] "用任意武器击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT139_1"
-msgid_plural "IDS_PCQT139_1"
-msgstr[0] "获得%(count)s次英勇成就。"
-
-msgid "IDS_PCQT140_1"
-msgid_plural "IDS_PCQT140_1"
-msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT141_1"
-msgid_plural "IDS_PCQT141_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
-
-msgid "IDS_PCQT142_1"
-msgid_plural "IDS_PCQT142_1"
-msgstr[0] "造成%(count)s次火灾。"
-
-msgid "IDS_PCQT143_1"
-msgid_plural "IDS_PCQT143_1"
-msgstr[0] "造成%(count)s次进水。"
-
-msgid "IDS_PCQT144_1"
-msgid_plural "IDS_PCQT144_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT145_1"
-msgid_plural "IDS_PCQT145_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT146_1"
-msgid_plural "IDS_PCQT146_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
-msgid_plural "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
-msgstr[0] "对日本战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT152_CAMPAIGNSB_MISSION01_TASK02_1"
-msgid_plural "IDS_PCQT152_CAMPAIGNSB_MISSION01_TASK02_1"
-msgstr[0] "用主炮炮弹击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
-msgid_plural "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
-msgstr[0] "瘫痪敌舰上的%(count)s座主炮组。"
-
-msgid "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1"
-msgid_plural "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1"
-msgstr[0] "获得%(count)s次“无人能挡”成就。"
-
-msgid "IDS_PCQT156_CAMPAIGNSB_MISSION01_TASK06_1"
-msgid_plural "IDS_PCQT156_CAMPAIGNSB_MISSION01_TASK06_1"
-msgstr[0] "赢得%(count)s场战斗并成为己方团队经验获取量排名前7的玩家。"
-
-msgid "IDS_PCQT157_CAMPAIGNSB_MISSION01_TASK07_1"
-msgid_plural "IDS_PCQT157_CAMPAIGNSB_MISSION01_TASK07_1"
-msgstr[0] "摧毁%(count)s艘战列舰。"
-
-msgid "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
-msgid_plural "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
-msgstr[0] "对美国战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
-msgid_plural "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
-msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
-msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
-msgstr[0] "瘫痪敌舰上的%(count)s座副炮组。"
-
-msgid "IDS_PCQT164_CAMPAIGNSB_MISSION02_TASK04_1"
-msgid_plural "IDS_PCQT164_CAMPAIGNSB_MISSION02_TASK04_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1"
-msgid_plural "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1"
-msgstr[0] "赢得%(count)s场战斗并成为己方团队经验获取量排名前3的玩家。"
-
-msgid "IDS_PCQT167_CAMPAIGNSB_MISSION02_TASK07_1"
-msgid_plural "IDS_PCQT167_CAMPAIGNSB_MISSION02_TASK07_1"
-msgstr[0] "摧毁%(count)s艘驱逐舰。"
-
-msgid "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
-msgid_plural "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
-msgstr[0] "获得%(count)s点指挥官经验。"
-
-msgid "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
-msgid_plural "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
-msgstr[0] "对苏联战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
-msgid_plural "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
-
-msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
-msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个“引擎”配件。"
-
-msgid "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
-msgid_plural "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
-msgid_plural "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
-msgstr[0] "赢得%(count)s场战斗并成为己方团队经验获取量排名第一的玩家。"
-
-msgid "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1"
-msgid_plural "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1"
-msgstr[0] "摧毁%(count)s艘巡洋舰。"
-
-msgid "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
-msgid_plural "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
-msgstr[0] "获得%(count)s点全局经验。"
-
-msgid "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
-msgid_plural "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
-msgstr[0] "对德国战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1"
-msgid_plural "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
-msgid_plural "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个“操舵装置”配件。"
-
-msgid "IDS_PCQT184_CAMPAIGNSB_MISSION04_TASK04_1"
-msgid_plural "IDS_PCQT184_CAMPAIGNSB_MISSION04_TASK04_1"
-msgstr[0] "第一个发现%(count)s艘敌舰。"
-
-msgid "IDS_PCQT185_CAMPAIGNSB_MISSION04_TASK05_1"
-msgid_plural "IDS_PCQT185_CAMPAIGNSB_MISSION04_TASK05_1"
-msgstr[0] "获得%(count)s次“耐火专精”成就。"
-
-msgid "IDS_PCQT186_CAMPAIGNSB_MISSION04_TASK06_1"
-msgid_plural "IDS_PCQT186_CAMPAIGNSB_MISSION04_TASK06_1"
-msgstr[0] "赢得%(count)s场战斗并存活下来，成为己方团队经验获取量排名第一的玩家。"
-
-msgid "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
-msgid_plural "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
-msgid_plural "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
-msgstr[0] "获得%(count)s点经验。"
-
-msgid "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
-msgid_plural "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
-msgstr[0] "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
-msgid_plural "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
-msgstr[0] "获得%(count)s点经验。"
-
-msgid "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
-msgid_plural "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
-msgid_plural "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1"
-msgid_plural "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1"
-msgstr[0] "摧毁%(count)s艘敌舰。"
-
-msgid "IDS_PCQT371_1"
-msgid_plural "IDS_PCQT371_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量最高的玩家。"
-
-msgid "IDS_PCQT372_1"
-msgid_plural "IDS_PCQT372_1"
-msgstr[0] "承受%(count)s点潜在伤害并在战斗中存活下来。"
-
-msgid "IDS_PCQT373_1"
-msgid_plural "IDS_PCQT373_1"
-msgstr[0] "击沉%(count)s艘敌方驱逐舰并在战斗中存活下来。"
-
-msgid "IDS_PCQT374_1"
-msgid_plural "IDS_PCQT374_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件。"
-
-msgid "IDS_PCQT375_1"
-msgid_plural "IDS_PCQT375_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT381_1"
-msgid_plural "IDS_PCQT381_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量最高的玩家。"
-
-msgid "IDS_PCQT382_1"
-msgid_plural "IDS_PCQT382_1"
-msgstr[0] "通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT383_1"
-msgid_plural "IDS_PCQT383_1"
-msgstr[0] "用机载鱼雷击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT384_1"
-msgid_plural "IDS_PCQT384_1"
-msgstr[0] "获得%(count)s次“重创”或“支援”成就。"
-
-msgid "IDS_PCQT385_1"
-msgid_plural "IDS_PCQT385_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT386_1"
-msgid_plural "IDS_PCQT386_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT387_1"
-msgid_plural "IDS_PCQT387_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT391_1"
-msgid_plural "IDS_PCQT391_1"
-msgstr[0] "对敌方战列舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT392_1"
-msgid_plural "IDS_PCQT392_1"
-msgstr[0] "通过侦察协助己方团队造成%(count)s点伤害并在战斗中存活下来。"
-
-msgid "IDS_PCQT393_1"
-msgid_plural "IDS_PCQT393_1"
-msgstr[0] "用鱼雷命中敌舰%(count)s次并在战斗中存活下来。"
-
-msgid "IDS_PCQT394_1"
-msgid_plural "IDS_PCQT394_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
-
-msgid "IDS_PCQT395_1"
-msgid_plural "IDS_PCQT395_1"
-msgstr[0] "对敌方驱逐舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT396_1"
-msgid_plural "IDS_PCQT396_1"
-msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT397_1"
-msgid_plural "IDS_PCQT397_1"
-msgstr[0] "第一个发现%(count)s枚鱼雷。"
-
-msgid "IDS_PCQT401_1"
-msgid_plural "IDS_PCQT401_1"
-msgstr[0] "承受%(count)s点潜在伤害并在战斗中存活下来。"
-
-msgid "IDS_PCQT402_1"
-msgid_plural "IDS_PCQT402_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT403_1"
-msgid_plural "IDS_PCQT403_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带并在战斗中存活下来。"
-
-msgid "IDS_PCQT404_1"
-msgid_plural "IDS_PCQT404_1"
-msgstr[0] "获得%(count)s次“毁灭打击”成就。"
-
-msgid "IDS_PCQT405_1"
-msgid_plural "IDS_PCQT405_1"
-msgstr[0] "对敌方战列舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT406_1"
-msgid_plural "IDS_PCQT406_1"
-msgstr[0] "获得%(count)s次“无人能挡”成就。"
-
-msgid "IDS_PCQT415_1"
-msgid_plural "IDS_PCQT415_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT416_1"
-msgid_plural "IDS_PCQT416_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT417_1"
-msgid_plural "IDS_PCQT417_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
-
-msgid "IDS_PCQT419_1"
-msgid_plural "IDS_PCQT419_1"
-msgstr[0] "承受%(count)s点潜在伤害并在战斗中存活下来。"
-
-msgid "IDS_PCQT420_1"
-msgid_plural "IDS_PCQT420_1"
-msgstr[0] "击沉%(count)s艘敌方驱逐舰并在战斗中存活下来。"
-
-msgid "IDS_PCQT421_1"
-msgid_plural "IDS_PCQT421_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT422_1"
-msgid_plural "IDS_PCQT422_1"
-msgstr[0] "获得%(count)s次“天灾人祸”成就。"
-
-msgid "IDS_PCQT423_1"
-msgid_plural "IDS_PCQT423_1"
-msgstr[0] "对敌方巡洋舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT424_1"
-msgid_plural "IDS_PCQT424_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT425_1"
-msgid_plural "IDS_PCQT425_1"
-msgstr[0] "对战列舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT504_1"
-msgid_plural "IDS_PCQT504_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量最高的玩家。"
-
-msgid "IDS_PCQT505_1"
-msgid_plural "IDS_PCQT505_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前3的玩家。"
-
-msgid "IDS_PCQT506_1"
-msgid_plural "IDS_PCQT506_1"
-msgstr[0] "对敌舰造成%(count)s点伤害并赢得胜利。"
-
-msgid "IDS_PCQT507_1"
-msgid_plural "IDS_PCQT507_1"
-msgstr[0] "击沉%(count)s艘敌方驱逐舰，赢得胜利并在战斗中存活下来。"
-
-msgid "IDS_PCQT508_1"
-msgid_plural "IDS_PCQT508_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量最高的玩家。"
-
-msgid "IDS_PCQT512_1"
-msgid_plural "IDS_PCQT512_1"
-msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT515_1"
-msgid_plural "IDS_PCQT515_1"
-msgstr[0] "获得%(count)s枚“造成火灾”或“造成进水”勋带。"
-
-msgid "IDS_PCQT516_1"
-msgid_plural "IDS_PCQT516_1"
-msgstr[0] "成为己方团队经验获取量排名前3的玩家，赢得胜利并通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT517_1"
-msgid_plural "IDS_PCQT517_1"
-msgstr[0] "成为己方团队经验获取量最高的玩家，赢得胜利并获得%(count)s枚“造成火灾”或“造成进水”勋带。"
-
-msgid "IDS_PCQT521_1"
-msgid_plural "IDS_PCQT521_1"
-msgstr[0] "击中敌舰的核心区%(count)s次。"
-
-msgid "IDS_PCQT522_1"
-msgid_plural "IDS_PCQT522_1"
-msgstr[0] "承受%(count)s点潜在伤害并赢得胜利。"
-
-msgid "IDS_PCQT525_1"
-msgid_plural "IDS_PCQT525_1"
-msgstr[0] "成为己方团队经验获取量排名前3的玩家，赢得胜利并击落%(count)s架敌机。"
-
-msgid "IDS_PCQT526_1"
-msgid_plural "IDS_PCQT526_1"
-msgstr[0] "获得%(count)s次“无人能挡”、“耐火专精”或“永不沉没”成就。"
-
-msgid "IDS_PCQT527_1"
-msgid_plural "IDS_PCQT527_1"
-msgstr[0] "获得%(count)s次“重创”或“支援”成就。"
-
-msgid "IDS_PCQT533_1"
-msgid_plural "IDS_PCQT533_1"
-msgstr[0] "对德国或日本战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT534_1"
-msgid_plural "IDS_PCQT534_1"
-msgstr[0] "成为己方团队经验获取量排名前3的玩家，赢得胜利并获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT535_1"
-msgid_plural "IDS_PCQT535_1"
-msgstr[0] "瘫痪敌舰上的%(count)s个配件，成为己方团队经验获取量排名前3的玩家，并赢得胜利。"
-
-msgid "IDS_PCQT536_1"
-msgid_plural "IDS_PCQT536_1"
-msgstr[0] "在胜利的战斗中对敌方日本战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT537_1"
-msgid_plural "IDS_PCQT537_1"
-msgstr[0] "在胜利的战斗中对敌方德国战舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT541_1"
-msgid_plural "IDS_PCQT541_1"
-msgstr[0] "用火箭弹、机载炸弹或机载鱼雷命中敌舰%(count)s次。"
-
-msgid "IDS_PCQT542_1"
-msgid_plural "IDS_PCQT542_1"
-msgstr[0] "击落%(count)s架敌机。"
-
-msgid "IDS_PCQT543_1"
-msgid_plural "IDS_PCQT543_1"
-msgstr[0] "成为己方团队经验获取量排名前3的玩家，并获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT544_1"
-msgid_plural "IDS_PCQT544_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT545_1"
-msgid_plural "IDS_PCQT545_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT546_1"
-msgid_plural "IDS_PCQT546_1"
-msgstr[0] "获得%(count)s次英勇成就。"
-
-msgid "IDS_PCQT644_1"
-msgid_plural "IDS_PCQT644_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT646_1"
-msgid_plural "IDS_PCQT646_1"
-msgstr[0] "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT647_1"
-msgid_plural "IDS_PCQT647_1"
-msgstr[0] "用主炮造成%(count)s点伤害。"
-
-msgid "IDS_PCQT648_1"
-msgid_plural "IDS_PCQT648_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT650_1"
-msgid_plural "IDS_PCQT650_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT651_1"
-msgid_plural "IDS_PCQT651_1"
-msgstr[0] "获得%(count)s枚“鱼雷命中”勋带。"
-
-msgid "IDS_PCQT653_1"
-msgid_plural "IDS_PCQT653_1"
-msgstr[0] "赢得%(count)s场战斗。"
-
-msgid "IDS_PCQT655_1"
-msgid_plural "IDS_PCQT655_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT656_1"
-msgid_plural "IDS_PCQT656_1"
-msgstr[0] "获得%(count)s枚“造成火灾”或“命中核心区”勋带。"
-
-msgid "IDS_PCQT657_1"
-msgid_plural "IDS_PCQT657_1"
-msgstr[0] "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT659_1"
-msgid_plural "IDS_PCQT659_1"
-msgstr[0] "获得%(count)s枚“主炮组命中”勋带。"
-
-msgid "IDS_PCQT660_1"
-msgid_plural "IDS_PCQT660_1"
-msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT661_1"
-msgid_plural "IDS_PCQT661_1"
-msgstr[0] "获得%(count)s枚“鱼雷命中”勋带。"
-
-msgid "IDS_PCQT663_1"
-msgid_plural "IDS_PCQT663_1"
-msgstr[0] "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT665_1"
-msgid_plural "IDS_PCQT665_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前5的玩家。"
-
-msgid "IDS_PCQT666_1"
-msgid_plural "IDS_PCQT666_1"
-msgstr[0] "通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT667_1"
-msgid_plural "IDS_PCQT667_1"
-msgstr[0] "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT668_1"
-msgid_plural "IDS_PCQT668_1"
-msgstr[0] "用主炮造成%(count)s点伤害。"
-
-msgid "IDS_PCQT670_1"
-msgid_plural "IDS_PCQT670_1"
-msgstr[0] "获得%(count)s枚“鱼雷命中”或“造成火灾”勋带。"
-
-msgid "IDS_PCQT671_1"
-msgid_plural "IDS_PCQT671_1"
-msgstr[0] "用舰载鱼雷对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT673_1"
-msgid_plural "IDS_PCQT673_1"
-msgstr[0] "对敌舰造成%(count)s点伤害。"
-
-msgid "IDS_PCQT675_1"
-msgid_plural "IDS_PCQT675_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT676_1"
-msgid_plural "IDS_PCQT676_1"
-msgstr[0] "获得%(count)s枚“副炮组命中”勋带。"
-
-msgid "IDS_PCQT677_1"
-msgid_plural "IDS_PCQT677_1"
-msgstr[0] "获得%(count)s枚“主炮组命中”勋带。"
-
-msgid "IDS_PCQT679_1"
-msgid_plural "IDS_PCQT679_1"
-msgstr[0] "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT680_1"
-msgid_plural "IDS_PCQT680_1"
-msgstr[0] "用主炮击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT681_1"
-msgid_plural "IDS_PCQT681_1"
-msgstr[0] "获得%(count)s枚“鱼雷命中”勋带。"
-
-msgid "IDS_PCQT685_1"
-msgid_plural "IDS_PCQT685_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前3的玩家。"
-
-msgid "IDS_PCQT686_1"
-msgid_plural "IDS_PCQT686_1"
-msgstr[0] "承受%(count)s点潜在伤害。"
-
-msgid "IDS_PCQT688_1"
-msgid_plural "IDS_PCQT688_1"
-msgstr[0] "获得%(count)s枚“命中核心区”勋带。"
-
-msgid "IDS_PCQT689_1"
-msgid_plural "IDS_PCQT689_1"
-msgstr[0] "获得%(count)s枚“造成火灾”勋带。"
-
-msgid "IDS_PCQT690_1"
-msgid_plural "IDS_PCQT690_1"
-msgstr[0] "用主炮击中敌舰%(count)s次。"
-
-msgid "IDS_PCQT694_1"
-msgid_plural "IDS_PCQT694_1"
-msgstr[0] "在%(count)s场战斗中获胜。"
-
-msgid "IDS_PCQT695_1"
-msgid_plural "IDS_PCQT695_1"
-msgstr[0] "获得%(count)s枚“主炮命中”或“副炮命中”勋带。"
-
-msgid "IDS_PCQT697_1"
-msgid_plural "IDS_PCQT697_1"
-msgstr[0] "获得%(count)s枚“鱼雷命中”或“命中核心区”勋带。"
-
-msgid "IDS_PCQT701_1"
-msgid_plural "IDS_PCQT701_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT703_1"
-msgid_plural "IDS_PCQT703_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT704_1"
-msgid_plural "IDS_PCQT704_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT708_1"
-msgid_plural "IDS_PCQT708_1"
-msgstr[0] "在%(count)s场战斗中获胜。"
-
-msgid "IDS_PCQT709_1"
-msgid_plural "IDS_PCQT709_1"
-msgstr[0] "获得%(count)s次英勇成就。"
-
-msgid "IDS_PCQT710_1"
-msgid_plural "IDS_PCQT710_1"
-msgstr[0] "获得%(count)s枚“主炮命中”或“副炮命中”勋带。"
-
-msgid "IDS_PCQT714_1"
-msgid_plural "IDS_PCQT714_1"
-msgstr[0] "获得%(count)s枚“摧毁”或“命中核心区”勋带。"
-
-msgid "IDS_PCQT716_1"
-msgid_plural "IDS_PCQT716_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT720_1"
-msgid_plural "IDS_PCQT720_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT721_1"
-msgid_plural "IDS_PCQT721_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT726_1"
-msgid_plural "IDS_PCQT726_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT727_1"
-msgid_plural "IDS_PCQT727_1"
-msgstr[0] "获得%(count)s次英勇成就。"
-
-msgid "IDS_PCQT729_1"
-msgid_plural "IDS_PCQT729_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT733_1"
-msgid_plural "IDS_PCQT733_1"
-msgstr[0] "获得%(count)s枚“造成火灾”或“造成进水”勋带。"
-
-msgid "IDS_PCQT734_1"
-msgid_plural "IDS_PCQT734_1"
-msgstr[0] "获得%(count)s枚“战略贡献”勋带。"
-
-msgid "IDS_PCQT735_1"
-msgid_plural "IDS_PCQT735_1"
-msgstr[0] "获得%(count)s枚“发现”或“掩护”勋带。"
-
-msgid "IDS_PCQT737_1"
-msgid_plural "IDS_PCQT737_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前5的玩家。"
-
-msgid "IDS_PCQT738_1"
-msgid_plural "IDS_PCQT738_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT740_1"
-msgid_plural "IDS_PCQT740_1"
-msgstr[0] "在%(count)s场战斗中获胜。"
-
-msgid "IDS_PCQT741_1"
-msgid_plural "IDS_PCQT741_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT742_1"
-msgid_plural "IDS_PCQT742_1"
-msgstr[0] "获得%(count)s枚“鱼雷命中”或“命中核心区”勋带。"
-
-msgid "IDS_PCQT743_1"
-msgid_plural "IDS_PCQT743_1"
-msgstr[0] "获得%(count)s枚“击落”或“瘫痪”勋带。"
-
-msgid "IDS_PCQT745_1"
-msgid_plural "IDS_PCQT745_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT746_1"
-msgid_plural "IDS_PCQT746_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT749_1"
-msgid_plural "IDS_PCQT749_1"
-msgstr[0] "率先发现%(count)s枚鱼雷。"
-
-msgid "IDS_PCQT752_1"
-msgid_plural "IDS_PCQT752_1"
-msgstr[0] "获得%(count)s枚“造成火灾”勋带。"
-
-msgid "IDS_PCQT754_1"
-msgid_plural "IDS_PCQT754_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT755_1"
-msgid_plural "IDS_PCQT755_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前3的玩家。"
-
-msgid "IDS_PCQT756_1"
-msgid_plural "IDS_PCQT756_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT757_1"
-msgid_plural "IDS_PCQT757_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT759_1"
-msgid_plural "IDS_PCQT759_1"
-msgstr[0] "获得%(count)s枚“发现”勋带。"
-
-msgid "IDS_PCQT760_1"
-msgid_plural "IDS_PCQT760_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT761_1"
-msgid_plural "IDS_PCQT761_1"
-msgstr[0] "获得%(count)s枚“主炮命中”或“副炮命中”勋带。"
-
-msgid "IDS_PCQT762_1"
-msgid_plural "IDS_PCQT762_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
-msgid "IDS_PCQT763_1"
-msgid_plural "IDS_PCQT763_1"
-msgstr[0] "在%(count)s场战斗中获胜。"
-
-msgid "IDS_PCQT764_1"
-msgid_plural "IDS_PCQT764_1"
-msgstr[0] "获得%(count)s枚“战术贡献”勋带。"
-
-msgid "IDS_PCQT765_1"
-msgid_plural "IDS_PCQT765_1"
-msgstr[0] "获得%(count)s次英勇成就。"
-
-msgid "IDS_PCQT769_1"
-msgid_plural "IDS_PCQT769_1"
-msgstr[0] "获得%(count)s枚任意勋带。"
-
-msgid "IDS_PCQT771_1"
-msgid_plural "IDS_PCQT771_1"
-msgstr[0] "在%(count)s次战斗中成为己方团队经验获取量排名前5的玩家。"
-
-msgid "IDS_PCQT772_1"
-msgid_plural "IDS_PCQT772_1"
-msgstr[0] "获得%(count)s枚“命中核心区”勋带。"
-
-msgid "IDS_PCQT774_1"
-msgid_plural "IDS_PCQT774_1"
-msgstr[0] "获得%(count)s枚“造成进水”勋带。"
-
-msgid "IDS_PCQT775_1"
-msgid_plural "IDS_PCQT775_1"
-msgstr[0] "获得%(count)s枚“发现”或“掩护”勋带。"
-
-msgid "IDS_PCQT776_1"
-msgid_plural "IDS_PCQT776_1"
-msgstr[0] "通过侦察协助己方团队造成%(count)s点伤害。"
-
-msgid "IDS_PCQT777_1"
-msgid_plural "IDS_PCQT777_1"
-msgstr[0] "获得%(count)s次任意成就。"
-
-msgid "IDS_PCQT778_1"
-msgid_plural "IDS_PCQT778_1"
-msgstr[0] "获得%(count)s枚“摧毁”勋带。"
-
 msgid "IDS_PL_ABILITY_TITLE"
 msgid_plural "IDS_PL_ABILITY_TITLE"
 msgstr[0] "%(_amount)s个消耗品"
@@ -148040,97 +146072,17 @@ msgid "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
 msgid_plural "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
 msgstr[0] "用%(level)s级航空母舰在随机战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_AVCA_PVP"
-msgid_plural "IDS_TASKRESTRICTION_AVCA_PVP"
-msgstr[0] "用%(level)s级航空母舰或巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_AVDD_PVP"
-msgid_plural "IDS_TASKRESTRICTION_AVDD_PVP"
-msgstr[0] "用%(level)s级驱逐舰或航空母舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_AV_PVP"
-msgid_plural "IDS_TASKRESTRICTION_AV_PVP"
-msgstr[0] "用%(level)s级航空母舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_AV_PVPCOOP"
-msgid_plural "IDS_TASKRESTRICTION_AV_PVPCOOP"
-msgstr[0] "用%(level)s级航空母舰在随机战和联合作战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
 msgid_plural "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
 msgstr[0] "用%(level)s级战列舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BBCADD_PVP"
-msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVP"
-msgstr[0] "用除了航空母舰之外的%(level)s级战舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
-msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
-msgstr[0] "用除了航空母舰之外的%(level)s级战舰在随机战、联合作战、排位战和军团战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BBCA_PVP"
-msgid_plural "IDS_TASKRESTRICTION_BBCA_PVP"
-msgstr[0] "用%(level)s级战列舰和巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BBDD_PVP"
-msgid_plural "IDS_TASKRESTRICTION_BBDD_PVP"
-msgstr[0] "用%(level)s级战列舰或驱逐舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BB_PVP"
-msgid_plural "IDS_TASKRESTRICTION_BB_PVP"
-msgstr[0] "用%(level)s级战列舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BB_PVPCOOP"
-msgid_plural "IDS_TASKRESTRICTION_BB_PVPCOOP"
-msgstr[0] "用%(level)s级战列舰在随机战和联合作战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BB_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_BB_PVPRANKED"
-msgstr[0] "用%(level)s级战列舰在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_BR_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_BR_PVPRANKED"
-msgstr[0] "用%(level)s级英国战舰在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_CADD_PVP"
-msgid_plural "IDS_TASKRESTRICTION_CADD_PVP"
-msgstr[0] "用%(level)s级驱逐舰或巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_CADD_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_CADD_PVPRANKED"
-msgstr[0] "用%(level)s级驱逐舰或巡洋舰在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_CA_PVP"
-msgid_plural "IDS_TASKRESTRICTION_CA_PVP"
-msgstr[0] "用%(level)s级巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
-msgid_plural "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
-msgstr[0] "用%(level)s级巡洋舰在随机战、联合作战、排位战或军团战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_CA_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_CA_PVPRANKED"
-msgstr[0] "用%(level)s级巡洋舰在随机战和排位战中完成目标。"
 
 msgid "IDS_TASKRESTRICTION_CLANTYPE"
 msgid_plural "IDS_TASKRESTRICTION_CLANTYPE"
 msgstr[0] "用%(level)s级战舰在军团战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_COOP"
-msgid_plural "IDS_TASKRESTRICTION_COOP"
-msgstr[0] "用%(level)s级战舰在联合作战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_CRUISER_PVP"
 msgid_plural "IDS_TASKRESTRICTION_CRUISER_PVP"
 msgstr[0] "用%(level)s级巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_DD_PVP"
-msgid_plural "IDS_TASKRESTRICTION_DD_PVP"
-msgstr[0] "用%(level)s级驱逐舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_DD_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_DD_PVPRANKED"
-msgstr[0] "用%(level)s级驱逐舰在随机战和排位战中完成目标。"
 
 msgid "IDS_TASKRESTRICTION_DESTROYER_PVP"
 msgid_plural "IDS_TASKRESTRICTION_DESTROYER_PVP"
@@ -148140,37 +146092,13 @@ msgid "IDS_TASKRESTRICTION_EUROPE_PVP"
 msgid_plural "IDS_TASKRESTRICTION_EUROPE_PVP"
 msgstr[0] "用%(level)s级欧洲战舰在随机战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_EU_PVP"
-msgid_plural "IDS_TASKRESTRICTION_EU_PVP"
-msgstr[0] "用%(level)s级欧洲战舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
-msgid_plural "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
-msgstr[0] "用%(level)s级欧洲战舰在随机战、联合作战、排位战或军团战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_FRANCE_PVP"
 msgid_plural "IDS_TASKRESTRICTION_FRANCE_PVP"
 msgstr[0] "用%(level)s级法国战舰在随机战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
-msgid_plural "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
-msgstr[0] "用%(level)s级法国战列舰在随机战和联合作战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_FR_PVPCOOP"
-msgid_plural "IDS_TASKRESTRICTION_FR_PVPCOOP"
-msgstr[0] "用%(level)s级法国战舰在随机战和联合作战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
-msgstr[0] "用%(level)s级德国战列舰在随机战和排位战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_GERMANY_PVP"
 msgid_plural "IDS_TASKRESTRICTION_GERMANY_PVP"
 msgstr[0] "用%(level)s级德国战舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_GE_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_GE_PVPRANKED"
-msgstr[0] "用%(level)s级德国战舰在随机战和排位战中完成目标。"
 
 msgid "IDS_TASKRESTRICTION_ITALY_PVP"
 msgid_plural "IDS_TASKRESTRICTION_ITALY_PVP"
@@ -148192,41 +146120,9 @@ msgid "IDS_TASKRESTRICTION_PANASIA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_PANASIA_PVP"
 msgstr[0] "用%(level)s级泛亚战舰在随机战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_PVP"
-msgid_plural "IDS_TASKRESTRICTION_PVP"
-msgstr[0] "用%(level)s级战舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPCOOP"
-msgid_plural "IDS_TASKRESTRICTION_PVPCOOP"
-msgstr[0] "用%(level)s级战舰在随机战和联合作战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
-msgid_plural "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
-msgstr[0] "用%(level)s级战舰在随机战、联合作战和行动中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKED"
-msgstr[0] "用%(level)s级战舰在随机战、联合作战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
-msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
-msgstr[0] "用%(level)s级战舰在随机战、联合作战、排位战和军团战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_PVPONLY"
 msgid_plural "IDS_TASKRESTRICTION_PVPONLY"
 msgstr[0] "用%(level)s级战舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPPVE"
-msgid_plural "IDS_TASKRESTRICTION_PVPPVE"
-msgstr[0] "用%(level)s级战舰在随机战和行动中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_PVPRANKED"
-msgstr[0] "用%(level)s级战舰在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
-msgid_plural "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
-msgstr[0] "用%(level)s级战舰在联合作战、随机战和排位战中完成目标。"
 
 msgid "IDS_TASKRESTRICTION_RANKEDONLY"
 msgid_plural "IDS_TASKRESTRICTION_RANKEDONLY"
@@ -148248,44 +146144,12 @@ msgid "IDS_TASKRESTRICTION_SUBMARINE_PVP"
 msgid_plural "IDS_TASKRESTRICTION_SUBMARINE_PVP"
 msgstr[0] "用%(level)s级潜艇在随机战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
-msgstr[0] "用%(level)s级英国驱逐舰或巡洋舰在随机战和排位战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
-msgid_plural "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
-msgstr[0] "用%(level)s级英国巡洋舰在随机战和排位战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_UK_PVP"
 msgid_plural "IDS_TASKRESTRICTION_UK_PVP"
 msgstr[0] "用%(level)s级英国战舰在随机战中完成目标。"
 
-msgid "IDS_TASKRESTRICTION_USAVCA_PVP"
-msgid_plural "IDS_TASKRESTRICTION_USAVCA_PVP"
-msgstr[0] "用%(level)s级美国航空母舰和巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_USAVDD_PVP"
-msgid_plural "IDS_TASKRESTRICTION_USAVDD_PVP"
-msgstr[0] "用%(level)s级美国驱逐舰和航空母舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_USAV_PVPCOOP"
-msgid_plural "IDS_TASKRESTRICTION_USAV_PVPCOOP"
-msgstr[0] "用%(level)s级美国航空母舰在随机战和联合作战中完成目标。"
-
 msgid "IDS_TASKRESTRICTION_USA_PVP"
 msgid_plural "IDS_TASKRESTRICTION_USA_PVP"
-msgstr[0] "用%(level)s级美国战舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_USBBCA_PVP"
-msgid_plural "IDS_TASKRESTRICTION_USBBCA_PVP"
-msgstr[0] "用%(level)s级美国战列舰和巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_USCA_PVP"
-msgid_plural "IDS_TASKRESTRICTION_USCA_PVP"
-msgstr[0] "用%(level)s级美国巡洋舰在随机战中完成目标。"
-
-msgid "IDS_TASKRESTRICTION_US_PVP"
-msgid_plural "IDS_TASKRESTRICTION_US_PVP"
 msgstr[0] "用%(level)s级美国战舰在随机战中完成目标。"
 
 msgid "IDS_TOOLTIP_BATTLE_BONUS_MULTIPLE_DESCRIPTION"
