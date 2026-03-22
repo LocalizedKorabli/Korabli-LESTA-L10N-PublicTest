@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
+"Language-Team: 澪刻LocalizedKorabli <localizedkorabli@outlook.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22975,7 +22975,7 @@ msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_ALPHA"
 msgstr "<p>对有能量护盾及无能量护盾的战舰造成伤害。</p><p class=\"p_spacing\"> </p><p>无需手动瞄准，发射前需扫描并锁定目标。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_BETA"
-msgstr "<p>对无能量护盾的战舰造成显著伤害。不会损伤能量护盾。</p><p class=\"p_spacing\"> </p><p>需要手动瞄准。</p>"
+msgstr "<p>对无能量护盾的战舰造成显著伤害。不会损伤能量护盾。</p><p class=\"p_spacing\"> </p><p>需要手动制导。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_MISSILE"
 msgstr "由甲板上的导弹发射装置发射。命中敌舰时造成伤害。"
@@ -132887,7 +132887,7 @@ msgid "IDS_SHIP_PARAM_BETA_MISSILE_WEAPON"
 msgstr "制导导弹"
 
 msgid "IDS_SHIP_PARAM_BETA_MISSILE_WEAPON_DESCRIPTION"
-msgstr "<p>对无能量护盾的战舰造成显著伤害。不会损伤能量护盾。</p><p class=\"p_spacing\"> </p><p>需要手动瞄准。</p>"
+msgstr "<p>对无能量护盾的战舰造成显著伤害。不会损伤能量护盾。</p><p class=\"p_spacing\"> </p><p>需要手动制导。</p>"
 
 msgid "IDS_SHIP_PARAM_BOMBER_ALT_SQUADRONS"
 msgstr "轰炸机"
@@ -136614,10 +136614,10 @@ msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_TITLE"
 msgstr "重生点数"
 
 msgid "IDS_SPACE_BOSS_TEAM0"
-msgstr "攻城器械"
+msgstr "攻坚舰"
 
 msgid "IDS_SPACE_BOSS_TEAM1"
-msgstr "攻城器械"
+msgstr "攻坚舰"
 
 msgid "IDS_SPACE_ENEMY_BOSS_SPAWNED"
 msgstr "敌方超级战列舰已抵达战场。别让她摧毁我方基地——牵制并攻击！"
@@ -137100,7 +137100,7 @@ msgid "IDS_SSE_CONDITIONS_IS_ARMORY_PURCHASE"
 msgstr "从兵工厂中获取任意物品"
 
 msgid "IDS_SSE_CONDITIONS_IS_BATTLE_TYPE"
-msgstr "在%(battleTypes)s中"
+msgstr "（在%(battleTypes)s中）"
 
 msgid "IDS_SSE_CONDITIONS_IS_CAMOUFLAGE_INSTALLED"
 msgstr "在战舰上安装涂装"
@@ -137124,10 +137124,10 @@ msgid "IDS_SSE_CONDITIONS_IS_MY_CREW_SKILL_LEARNED"
 msgstr "学习指挥官技能"
 
 msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP"
-msgstr "在%(level)s%(nation)s%(shipClass)s上"
+msgstr "（驾驶%(level)s%(nation)s%(shipClass)s）"
 
 msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP_UPGRADEABLE"
-msgstr "在可研发的%(level)s%(nation)s%(shipClass)s上"
+msgstr "（驾驶可研发%(level)s%(nation)s%(shipClass)s）"
 
 msgid "IDS_SSE_CONDITIONS_IS_SIGNALS_INSTALLED"
 msgstr "在战舰上安装信号旗"
@@ -146878,7 +146878,7 @@ msgstr[0] "参加%(count)s场战斗"
 
 msgid "IDS_PL_SSE_CONDITIONS_IS_CAMPAIGN_TASK_COMPLETED"
 msgid_plural "IDS_PL_SSE_CONDITIONS_IS_CAMPAIGN_TASK_COMPLETED"
-msgstr[0] "在任何战役中完成%(count)s个目标"
+msgstr[0] "完成任意战役中的%(count)s个目标"
 
 msgid "IDS_PL_SSE_CONDITIONS_IS_LOOTBOX_OPEN"
 msgid_plural "IDS_PL_SSE_CONDITIONS_IS_LOOTBOX_OPEN"
