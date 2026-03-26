@@ -136587,7 +136587,7 @@ msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
 msgstr "若被摧毁，您可以选择重生点与战舰重返战场。请注意，部分战舰需消耗战斗中获得的重生点数才能解锁。未使用的点数将在战斗结束时清零。"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "主炮炮弹击穿"
+msgstr "主炮炮弹过度击穿"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
 msgstr "副炮炮弹命中"
