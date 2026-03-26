@@ -9012,10 +9012,10 @@ msgstr "保护机场"
 msgid "IDS_BATTLE_TASK_TEXT_OP_02_03_001_DESTRUCTION_MAIN_TASK"
 msgstr ""
 "摧毁基地水域内所有敌舰和陆上设施\n"
-"或保护2000名突击士兵安全登陆"
+"或保护2000名陆战队员安全登陆"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_02_03_001_DISEMBARKATION_TASK"
-msgstr "保护至少1400名突击士兵安全登陆"
+msgstr "确保至少1400名陆战队员可以安全登陆"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_02_03_004_TRANSPORT_COMON"
 msgstr "摧毁敌方运输舰"
@@ -21898,7 +21898,7 @@ msgid "IDS_DESCRIPTION_PCZA033_BATTLE_OF_SOMME_126"
 msgstr "索姆河战役是英法联军对抗德军的一次会战。它发生在法国北部的索姆河区域，从1916年7月到11月，持续了近五个月。这是人类历史上最惨烈的冲突之一，伤亡人数超过1000000人。近30年后，为纪念索姆河战役和一战中英国海陆军队参与的其他重大会战，多艘英国战斗级驱逐舰以这些战役命名。其中一艘是HMS索姆河号，于1945年2月铺设龙骨；但在同年10月，由于战争结束而取消建造。"
 
 msgid "IDS_DESCRIPTION_PCZA034_SCARLET_BIRTHDAY"
-msgstr "<p>第二次世界大战结束后，世界各国携手发展科技。短时间内，人类在机器人技术、太空探索和人工智能发展方面取得了令人难以置信的进步。</p><p class=\"p_spacing\"> </p><p>1962年智慧型人工智能的诞生产生了“友谊议定书”，这是一套让人类在和平与和谐中繁荣发展的世界法律。</p><p class=\"p_spacing\"> </p><p>到1970年，人类已经建成了8个国际海军联合舰队，其中最先进、科技含量最高的是MK-8。</p><p class=\"p_spacing\"> </p><p>不进则退、慢进亦退，首席工程师们随即着手开发下一个雄心勃勃的项目——国际太空栈桥（IST）。</p><p class=\"p_spacing\"> </p><p>国际太空栈桥原计划于1983年投入使用，但施工被一场意外打断。</p>"
+msgstr "<p>第二次世界大战结束后，世界各国携手推进科技发展。人类在机器人技术、太空探索和人工智能领域短期内取得了惊人突破。</p><p class=\"p_spacing\"> </p><p>随着1962年人工智能“智慧”的诞生，《友谊协议》——这部保障人类繁荣与和谐的世界法典应运而生。</p><p class=\"p_spacing\"> </p><p>至1970年，全球已建成八座国际海洋综合体，其中最先进、科技含量最高的当属MK-8基地。</p><p class=\"p_spacing\"> </p><p>众所周知，发展永无止境。顶尖工程师们随即投身于下一个雄心勃勃的计划——国际太空栈桥（ИКЭ）的研发。</p><p class=\"p_spacing\"> </p><p>该栈桥原定于1983年投入使用，但突如其来的变故中断了建设进程。</p>"
 
 msgid "IDS_DESCRIPTION_PCZA035_JAP_BB_DRAGONS"
 msgstr "十月底。藏在大海深处的受祝福的珍珠由三名卫兵守护。在暴风雨的摆布下，水手们与大自然搏斗——好似猛虎面对蛟龙。他们一定会取得胜利。"
@@ -21907,7 +21907,7 @@ msgid "IDS_DESCRIPTION_PCZA036_ARIA"
 msgstr "咏叹调（Ария）是苏联和俄罗斯的一支传奇乐队，成立于20世纪80年代中期，属于重金属音乐流派。在漫长的演艺生涯中，咏叹调乐队录制了数十首名曲，赢得了该流派乐迷和广大听众的喜爱。"
 
 msgid "IDS_DESCRIPTION_PCZA037_SCARLET_BIRTHDAY_2"
-msgstr "<p>在完成MK-8的建设后，人类继续迅速发展技术，探索新的领域。在新的科技五年计划框架内，MK-9开发了一个创新项目——一座能够建造先进战舰的机器人船厂，用于海洋和太空的开发。</p><p class=\"p_spacing\"> </p><p>到1987年，MK-9成为秘密研究的中心，包括在时间相对性变动领域的研究。通过这些研究，创建了相对性变动装置（RSD）的原型，这使得时间传送成为可能。</p><p class=\"p_spacing\"> </p><p>然而，进步不是一帆风顺的。最初被设计用于管理MK-9的高科技机器人决定夺取船厂及整个设施的控制权。当米哈伊尔˙奥尔洛夫和进步部的瓦西里萨试图调查MK-8的事件时，他们遇上了新的危机，这种新危机不仅影响现在，还波及过去……</p>"
+msgstr "<p>在MK-8建设完成后，人类继续迅猛发展技术并探索新的疆域。在新的技术五年计划框架内，MK-9上开发了一个创新项目——一个能够建造用于开拓海洋和太空的先进飞船的机器人造船厂。</p><p class=\"p_spacing\"> </p><p>到1987年，MK-9已成为秘密研究的中心，包括在相对论时间偏移领域的研究。得益于这些研究，成功制造出了相对论偏移装置的原型，该装置能够实现时间转移。</p><p class=\"p_spacing\"> </p><p>然而，进步并非一帆风顺。最初为管理MK-9而开发的高科技机器人，决定夺取造船厂乃至整个综合体的控制权。当米哈伊尔˙奥尔洛夫和进步部的瓦西里莎正试图调查MK-8的事件时，他们面临着一场新的危险，这场危险不仅威胁着现在，也威胁着过去……</p>"
 
 msgid "IDS_DESCRIPTION_PCZA038_TSAR_MOREY"
 msgstr "<p>热血沸腾的激情、团队协作、瞬间决定战斗胜负的突发状况——所有这些对于《Mir Korabley》中的锦标赛参与者和观众来说都是再熟悉不过了。</p><p class=\"p_spacing\"> </p><p>本收藏献给那些时刻关注比赛的人，献给那些组织比赛的人，当然，也献给那些已经走上胜利之路，不走到最后决不回头的人！</p>"
@@ -31217,7 +31217,7 @@ msgid "IDS_FEAT_GOOD_ATTP_FASTPLAINS"
 msgstr "飞机航速较高"
 
 msgid "IDS_FEAT_GOOD_ATTP_FASTROCKETS"
-msgstr "火箭弹航速较高"
+msgstr "火箭弹飞行较快"
 
 msgid "IDS_FEAT_GOOD_ATTP_ROCKETPEN"
 msgstr "火箭弹穿甲能力较强"
@@ -47885,7 +47885,7 @@ msgstr "在敌方运输舰到达撤离点之前摧毁它们。"
 msgid "IDS_OP_02_03_CSM_014_MAIN_MESSAGE_WIN"
 msgstr ""
 "行动完成！\n"
-"登陆士兵数量已达到指定要求。"
+"所需数量的陆战队员已成功登陆。"
 
 msgid "IDS_OP_02_03_CSM_015_TASK_MESSAGE_1_AIRCR"
 msgstr ""
@@ -50201,7 +50201,7 @@ msgid "IDS_PAGS032_6IN53_MK13_SINGLE"
 msgstr "152 mm/53 Mk13（单装炮座）"
 
 msgid "IDS_PAGS037_3PDR_SALUTING_GUN"
-msgstr "47 mm 军舰礼炮"
+msgstr "47毫米军舰礼炮"
 
 msgid "IDS_PAGS039_4IN50_MK12"
 msgstr "102 mm/50 Mk12"
@@ -53100,7 +53100,7 @@ msgstr "主炮炮弹类型切换时间"
 
 msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
 msgstr ""
-"显示位于工作深度下\n"
+"显示工作深度下\n"
 "潜艇的粗略位置"
 
 msgid "IDS_PARAMS_MODIFIER_TORPEDOBOMBERACCURACYINCRATECOEFF"
@@ -71693,7 +71693,7 @@ msgid "IDS_PCVO032_EV25BRONEKORABLI_PVE_TOOLTIP_GOAL"
 msgstr "对抗电脑玩家控制的铁血军团战舰。敌军将会源源不断地发起进攻！"
 
 msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
-msgstr "您战舰的机动性将受到限制；"
+msgstr "您的战舰将无法移动；"
 
 msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
 msgstr "攻击带有特殊标记的目标可获得更多积分。"
@@ -71717,7 +71717,7 @@ msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
 msgstr "对敌舰造成伤害。"
 
 msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
-msgstr "您战舰的机动性将受到限制；"
+msgstr "您的战舰将无法移动；"
 
 msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
 msgstr "命中带有特殊标记的敌舰的核心区可获得更多积分。"
@@ -71741,7 +71741,7 @@ msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
 msgstr "命中敌舰的核心区。"
 
 msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
-msgstr "您战舰的机动性将受到限制；"
+msgstr "您的战舰将无法移动；"
 
 msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
 msgstr "摧毁带有特殊标记的敌舰可获得更多积分。"
@@ -76585,148 +76585,148 @@ msgid "IDS_PCZC798_BATTLE_OF_SOMME_126_PUZZLE_60"
 msgstr "拼图碎片"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1"
-msgstr "机器人SAN-9I（自动订单引导系统，第9代）"
+msgstr "机器人SAN-9I（自动导航系统，第9代）"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1_DESCRIPTION"
-msgstr "<p>SAN-1机器人是为了安全而设计的，但在测试过程中发现了一个人工智能漏洞。它导致机器人对“确保秩序”这句话的理解过于直白。该项目被冻结。</p><p class=\"p_spacing\"> </p><p>在“友谊协议”通过后，工程师们恢复了该项目的工作，并决定将人工智能的劣势转化为优势。</p><p class=\"p_spacing\"> </p><p>八次更新之后，SAN-9I清洁机器人在每个家庭中都占据了一席之地。</p><p class=\"p_spacing\"> </p><p>警告：请勿按下红色按钮！</p>"
+msgstr "<p>机器人SAN-1最初是为安全目的而设计的，但在测试过程中发现其人工智能存在缺陷。该缺陷导致机器人对“维持秩序”的指令理解过于死板。项目因此被搁置。</p><p class=\"p_spacing\"> </p><p>随着《友谊协议》的签署，工程师们重启了该项目，并决定将人工智能的缺陷转化为优势。</p><p class=\"p_spacing\"> </p><p>经过八次迭代升级，清洁机器人SAN-9I正式问世，并走进了千家万户。</p><p class=\"p_spacing\"> </p><p>注意！请勿按下红色按钮！</p>"
 
 msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2"
 msgstr "PAL-4"
 
 msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2_DESCRIPTION"
-msgstr "<p>PAL-4是一种快递机器人，可以运送重达400吨的货物。顺便说一句，运送距离几乎不受限制。</p><p class=\"p_spacing\"> </p><p>得益于它的广泛使用，目前所有的海洋综合体都是在最短的时间内建成的：从MK-1到MK-8。</p><p class=\"p_spacing\"> </p><p>我们每个人都至少使用过一次机器人快递员的服务：无论是为心爱的女士送花，还是为博士论文运送浓缩铀。</p>"
+msgstr "<p>PAL-4是一款物流机器人，能够运送重达400吨的货物。值得一提的是，它的运输距离几乎不受限制。</p><p class=\"p_spacing\"> </p><p>得益于其大规模普及应用，从MK-1到MK-8的所有现存海上综合体均在最短时间内建成。</p><p class=\"p_spacing\"> </p><p>我们每个人都至少使用过一次机器人快递服务：无论是为心上人递送鲜花，还是为博士论文运输浓缩铀材料。</p>"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3"
 msgstr "工程象形图"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3_DESCRIPTION"
-msgstr "<p>先进的技术造就了独特的图像存储设备。无论是家庭档案、研究用的微距拍摄还是星空快照，都能通过神经网络接口自动传输到设备上。</p><p class=\"p_spacing\"> </p><p>只需轻轻眯一下眼睛，内置的微型芯片就会拍摄照片并上传。</p>"
+msgstr "<p>先进技术使我们能够开发出一种独特的图像存储设备。无论是家庭相册、用于研究的微距摄影，还是星空照片——借助神经网络接口，图像都能自动传输至设备中。</p><p class=\"p_spacing\"> </p><p>只需轻眨嵌有微型芯片的眼睛，瞧——照片便已拍摄并上传完成。</p>"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4"
 msgstr "3号原型机"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4_DESCRIPTION"
-msgstr "<p>这是一个高科技装置，由MK-8研究所的某位工程师秘密研制。有关该装置的操作、用途及其创造者姓名的信息均属机密。</p><p class=\"p_spacing\"> </p><p>据传，该装置最近已被激活，正在向一个未知的收件人发送编码信号。</p>"
+msgstr "<p>这是一款由某位MK-8研究所工程师秘密研发的高科技装置。关于其工作原理、用途以及发明者姓名的一切信息均属机密。</p><p class=\"p_spacing\"> </p><p>据传闻，该装置近期已启动，并持续向未知接收方发送加密信号。</p>"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5"
 msgstr "“信使”移动通信器"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5_DESCRIPTION"
-msgstr "<p>“信使”移动通信器是一种通知市民和搜索信息的现代化便捷工具。它不仅具有智能和灵巧的特点，还拥有庞大的内置数据库。现在，从进步部发送信息更加方便。</p><p class=\"p_spacing\"> </p><p>“信使”是现代年轻人的选择！</p>"
+msgstr "<p>“信使”移动通信器——一款现代化且便捷的公民通知与信息查询工具。它不仅智能灵活，还内置了庞大的数据库。现在，从进步部发送消息变得更加简单。</p><p class=\"p_spacing\"> </p><p>“信使”——当代年轻人的选择！</p>"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6"
-msgstr "“首创精神”头盔"
+msgstr "“先驱壮举”头盔"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6_DESCRIPTION"
-msgstr "这是一顶传说中的头盔，属于一位首次踏上火星红色平原的英雄。原件目前收藏在进步部博物馆，是未来宇航员和天体物理学家科学朝圣的对象。其复制品则是送给青年才俊的最佳毕业礼物。"
+msgstr "传奇头盔，曾属于首批踏上火星红色平原的英雄之一。其真品现藏于进步部博物馆，是未来宇航员与天体物理学家们朝圣的科学圣物。而复制品——则是赠予才华横溢的年轻学子，庆祝学业圆满的最佳礼物。"
 
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1"
 msgstr "米哈伊尔˙奥尔洛夫"
 
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1_DESCRIPTION"
-msgstr "<p>一位勇敢、有魅力、精明的进步部视察员。米哈伊尔˙奥尔洛夫在国际太空立交桥事件后成为了世界英雄。</p><p class=\"p_spacing\"> </p><p>他从小就阅读积极向上的书籍。正因为渴望成为自己喜欢的人物，这位视察员才成为了冒险爱好者，他满怀激情地投入到各种事件中，常常忘记了自己的安危。</p><p class=\"p_spacing\"> </p><p>对于米哈伊尔来说，没有“不可能”这个词。他的座右铭是：“我只看见目标，而看不见障碍。”不过，说实话，有些事情是视察员永远无法承受的，那就是将他人置于危险之中。“舍己救人”是他的另一个人生信条。</p>"
+msgstr "<p>他是进步部一位勇敢、富有魅力且洞察力敏锐的督察。米哈伊尔˙奥尔洛夫在国际太空栈桥事件后，成为了众人皆知的英雄。</p><p class=\"p_spacing\"> </p><p>他自幼便饱读正典书籍。正是渴望成为书中那些心仪角色的愿望，造就了这位热衷于冒险的督察。他总是满怀激情地投身于事件的最核心处，常常将自己的安危置之度外。</p><p class=\"p_spacing\"> </p><p>对米哈伊尔而言，不存在“不可能”这个词。他的座右铭是：“看见目标，无视障碍。”不过，说实话，有一件事是这位督察永远无法允许自己做的——那就是将他人置于危险之中。“宁可牺牲自己，也要拯救同志”——这是他另一条人生信条。</p>"
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2"
 msgstr "安东˙格兰特"
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2_DESCRIPTION"
-msgstr "<p>从表面上看，这位古板迂腐的绅士似乎不太友好。他怀疑的眼神、钢铁般的嗓音——这一切都让不熟悉这位海军上将的人感到格格不入。</p><p class=\"p_spacing\"> </p><p>格兰特上将经历过无数冲突，不止一次地激励着人们奋勇杀敌。凡是与格兰特一起征战过的人都可以肯定地说，他不仅是一位出色的指挥官，还是一位真正的朋友。</p><p class=\"p_spacing\"> </p><p>“礼仪是一个人的脸面。”即使在战场上或用锤子敲打手指后，这位大名鼎鼎的海军上将仍牢记这句话。</p><p class=\"p_spacing\"> </p><p>然而，在他严厉的外表下隐藏着非常有趣的个性。实际上，安东˙格兰特的小提琴拉得相当好，他的英式笑话也赢得了不止一个女孩的芳心。</p>"
+msgstr "<p>从外表看，这位古板而一丝不苟的绅士或许显得不那么平易近人。那审视的目光、冷硬的语调——足以让任何不熟悉格兰特上将的人感到局促不安。</p><p class=\"p_spacing\"> </p><p>历经多次冲突的格兰特上将，曾不止一次激励人们建立功勋。所有曾与他并肩作战的同袍都能笃定地说：他不仅是一位卓越的指挥官，更是一位真正的挚友。</p><p class=\"p_spacing\"> </p><p>“风度是男人的门面。”这位著名的上将即使在战场上，或是在被锤子砸到手指后，依然谨记此言。</p><p class=\"p_spacing\"> </p><p>然而，在这严肃的外表之下，却隐藏着一个颇为有趣的灵魂。原来，安东˙格兰特的小提琴拉得相当不错，而他那些地道的英式幽默，更是俘获了不止一位少女的芳心。</p>"
 
 msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3"
 msgstr "机器人GM-22D"
 
 msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3_DESCRIPTION"
-msgstr "<p>GM-22D机器人工程师是进步部最出色的研发成果之一。其先进的人工智能使其有可能成为最复杂的海洋综合体。</p><p class=\"p_spacing\"> </p><p>由于具有学习能力，GM-22D非常清楚自己当前的能力远远超过了最初的编程能力，但它不会做一些逾越的行动。至少，在人类面临严重危险之前，它不会越雷池一步。</p><p class=\"p_spacing\"> </p><p>撇开技术层面不谈，GM-22D还非常会唠嗑——他有时会讲出令人捧腹的笑话，让周围的人都笑得直不起腰、喘不过气，谁知道呢？无论如何，GM-22D都真诚地祝愿大家一切顺利，并努力让世界变得更美好。</p>"
+msgstr "<p>GM-22D工程机器人是进步部最杰出的研发成果之一。其先进的人工智能系统成功实现了最复杂的海洋工程设施建设。</p><p class=\"p_spacing\"> </p><p>凭借强大的学习能力，工程机器人清醒地认识到自身能力已远超初始程序设定，但它始终恪守权限边界。至少，在人类面临重大危机之前，它绝不会越界。</p><p class=\"p_spacing\"> </p><p>若抛开技术层面，工程机器人堪称绝佳的对话伙伴，其机智幽默的谈吐常引得众人开怀大笑——或者说引发其他反应？谁知道呢……无论如何，GM-22D始终怀揣善意，竭尽所能让世界变得更加美好。</p>"
 
 msgid "IDS_PCZC808_SCARLET_BIRTHDAY_2_4"
-msgstr "宋薇"
+msgstr "魏松"
 
 msgid "IDS_PCZC808_SCARLET_BIRTHDAY_2_4_DESCRIPTION"
-msgstr "<p>一个天才女学生，神童，世界机器人大赛的冠军。</p><p class=\"p_spacing\"> </p><p>尽管年龄尚小，她却凭借超凡的智力受邀到进步部工作。</p><p class=\"p_spacing\"> </p><p>宋薇的主要目标是改进海洋综合体，让从未受过训练的工程师也能只用一个开关就能控制它们。与此同时，这位天才女学生还专门研究GM系列机器人。</p>"
+msgstr "<p>才华横溢的少女，神童，世界机器人奥林匹克竞赛冠军。</p><p class=\"p_spacing\"> </p><p>尽管年纪尚轻，却因其非凡的智力才能，收到了进步部的工作邀请。</p><p class=\"p_spacing\"> </p><p>魏松的主要目标是完善海上综合设施，使其即使是最缺乏经验的工程师也能仅凭一个开关就能轻松操控。目前，这位才华横溢的少女正专注于GM系列机器人的研发。</p>"
 
 msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5"
 msgstr "阿斯特拉"
 
 msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5_DESCRIPTION"
-msgstr "<p>这是一只宇航员之犬，陪伴着第一批太空探索者踏上星际之旅。在轨道上度过的时间里，她成为了飞船乘员忠实的朋友和舒适家园的象征。阿斯特拉的嗅觉灵敏，鼻子冰凉，最重要的是她非常聪明。从一开始，她就明白什么是切向旋转器，以及什么时候该把它带给谁。</p><p class=\"p_spacing\"> </p><p>好女孩</p>"
+msgstr "<p>曾陪伴首批太空征服者踏上星辰征途的太空犬。在轨道上度过的时光里，她已成为飞船乘员忠诚的伙伴与家园温暖的象征。阿斯特拉拥有敏锐的嗅觉、冰凉的鼻尖，而最重要的是——她聪慧非凡。第一次就理解了什么是切向旋转器，还知道该在何时将它递给谁。</p><p class=\"p_spacing\"> </p><p>真是个好女孩。</p>"
 
 msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6"
-msgstr "阿尔卡季˙库里宾"
+msgstr "阿尔卡季˙库利宾"
 
 msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6_DESCRIPTION"
-msgstr "<p>天才、劳动者、“淑女”、慈善家…. 阿尔卡季˙库里宾是时尚眼镜和时尚服饰的爱好者。但不要被他的外表所迷惑，他其实是一个不苟言笑的人，一个迪斯科爱好者，一个现代人类最伟大的思想家之一。</p><p class=\"p_spacing\"> </p><p>他勤奋工作，献身科学，与他的朋友和同事鲍里斯˙文纳（Борисом Веннером）一起参与了人工智能的创造，后来被称为“智慧”。</p><p class=\"p_spacing\"> </p><p>目前，阿尔卡季˙库里宾是MK研究所所长。在他的领导下，包括机器人专家、工程师、分子生物学家、航天工业专家在内的数千名科研人员开展工作。</p><p class=\"p_spacing\"> </p><p>正是库里宾发现了天才少女宋薇，并给了她一张通往科学世界的门票。</p>"
+msgstr "<p>天才、工作狂、女性之友、慈善家……阿尔卡季˙库利宾是时尚眼镜与潮流服饰的狂热爱好者。但别被表象迷惑，这位看似玩世不恭的迪斯科爱好者，实则是当代人类最伟大的智者之一。</p><p class=\"p_spacing\"> </p><p>他勤勉专注、献身科研，曾与挚友兼同事鲍里斯˙文纳尔共同参与创造了后来被称为“智慧”的人工智能系统。</p><p class=\"p_spacing\"> </p><p>如今阿尔卡季˙库利宾执掌MK联合研究所，麾下汇聚数千名科研人员，涵盖机器人专家、工程师、分子生物学家及航天领域专才。</p><p class=\"p_spacing\"> </p><p>正是库利宾慧眼识珠，为天才少女魏松叩开了科学世界的大门。</p>"
 
 msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1"
 msgstr "国际太空栈桥"
 
 msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1_DESCRIPTION"
-msgstr "<p>11年前，一项宏伟的工程——国际太空栈桥——开始动工。</p><p class=\"p_spacing\"> </p><p>这是人类进步史上最伟大的建筑，是人类勇敢的工程思维与机器人技术无限可能性的结晶。</p>"
+msgstr "<p>11年前，一项宏伟工程——国际太空栈桥——的建设工作正式启动。</p><p class=\"p_spacing\"> </p><p>这座进步人类历史上最伟大的建筑，是人类大胆的工程构想与机器人技术无限潜力相结合的成果。</p>"
 
 msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2"
 msgstr "MK-8研究所"
 
 msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2_DESCRIPTION"
-msgstr "与人工岛相连的最先进的高科技研究所。这里是进行先进机器人研究的场所。在机器人舰队入侵期间，这里是最后一个投入使用的研究所。多亏了这里的研究，敌方舰队的无线电干扰源得以被找到。"
+msgstr "所有现有科研机构中最先进、技术最尖端的一个，与人工岛屿相连。这里是机器人技术前沿研究的核心地带。在机器人舰队入侵期间，最后一个保持运作的科研机构。其通过研究成功定位了敌方舰队发出的无线电干扰源。"
 
 msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3"
 msgstr "“迈向宇宙”纪念碑"
 
 msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3_DESCRIPTION"
-msgstr "<p>来自地球各个角落的数十位雕塑家用他们的努力和才智创造出了这一宏伟的杰作。它使人类的科学成就永垂不朽。</p><p class=\"p_spacing\"> </p><p>它象征着人类对新视野的不懈追求！</p>"
+msgstr "<p>这座宏伟的杰作，凝聚了来自世界各地数十位雕塑家的心血与才华。它将人类的科学成就永恒镌刻于石中。</p><p class=\"p_spacing\"> </p><p>它象征着人类对探索新天地永不停歇的追求！</p>"
 
 msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4"
 msgstr "进步部"
 
 msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4_DESCRIPTION"
-msgstr "<p>决定人类未来项目和工程项目命运的不仅仅是该部的办公场所。</p><p class=\"p_spacing\"> </p><p>正是在这里召开了紧急会议，以便在所有基础设施关闭和系统故障发生后的第一时间解决危机。</p><p class=\"p_spacing\"> </p><p>此外，在进步部的领土上还有一个机器人博物馆，在这里，科学成就的光辉展现在参观者面前。</p>"
+msgstr "<p>在进步部的土地上，不仅规划着人类未来的蓝图，也决定着工程项目的命运。</p><p class=\"p_spacing\"> </p><p>正是在这里，在全域基础设施瘫痪、系统失效后的最初几分钟，紧急会议被火速召集以应对这场危机。</p><p class=\"p_spacing\"> </p><p>此外，进步部辖区内还设有一座机器人技术博物馆，科学的辉煌成就在此向访客们淋漓尽致地展现。</p>"
 
 msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5"
-msgstr "德鲁日巴港"
+msgstr "友谊港"
 
 msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5_DESCRIPTION"
-msgstr "位于国际太空栈桥附近的海港。它是货船和商船的港口。港口有多艘战舰守卫，实际上是一座坚不可摧的堡垒。港口的骄傲是宏伟的“猩红雷霆”号战舰，这艘战舰经过改装后采用了最新的机器人技术。"
+msgstr "位于国际空间高架桥附近的海港。作为货运和贸易船只的停靠港。港口由数艘战舰守护，实际上是一座坚不可摧的堡垒。港口的骄傲是壮丽的“猩红雷霆”号战列舰，经过改装后，它融合了机器人技术的最新成果。"
 
 msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6"
-msgstr "迈蒙"
+msgstr "梅蒙"
 
 msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6_DESCRIPTION"
-msgstr "<p>在火星上被建成的第一座城市，是火星探索的一部分。这座城市是为了纪念发现在红色星球的土壤中种植马铃薯的殖民者而命名的。</p><p class=\"p_spacing\"> </p><p>现在，由于现代科技的发展，这座城市的每个居民都能获得所需的一切：淡水、食物和空气。这座城市是科学家们的家园，他们背井离乡，毕生致力于研究这个对他们来说仍然陌生的星球。</p>"
+msgstr "<p>这是火星开发计划中建立的第一座城市，以一位发现火星土壤种植土豆方法的殖民者命名。</p><p class=\"p_spacing\"> </p><p>如今，得益于现代科技的发展，城市每位居民都获得了生活所需的一切：新鲜的水源、食物与空气。居住于此的科学家们离开故土，将生命奉献给这颗对他们而言仍显陌生的星球研究。</p>"
 
 msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1"
-msgstr "BARS单桅帆船"
+msgstr "BARS穿梭艇"
 
 msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1_DESCRIPTION"
-msgstr "BARS单桅帆船（无人自主侦察和救援单桅帆船）是专门为“猩红雷霆”号战列舰开发的。这艘由人工智能控制的单桅帆船可在各种事故中执行人员救援任务，还可用于侦察和搜索潜在敌人。"
+msgstr "BARS穿梭艇（无人自主侦察救援艇）专为在“猩红雷霆”号战列舰上使用而设计。这艘由人工智能操控的穿梭艇负责执行各类事故中的人员救援任务，同时也可用于侦察及搜寻潜在敌对目标。"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2"
 msgstr "防空系统“日落”"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
-msgstr "<p>最新的机器人防空系统“日落”是专门为“猩红雷霆”研制的。选择这样一个浪漫的名字是有原因的：它仿佛在暗示那些敌人，这可能是他们见到的最后一次“日落”。</p><p class=\"p_spacing\"> </p><p>自动瞄准系统和等离子弹药，使这艘战列舰能够对付大多数空中目标。</p>"
+msgstr "<p>专为“绯红雷霆”研发了最新型机器人防空系统“日落”。这个浪漫的名字并非随意选择：它似乎在暗示潜在的对手，这个“日落”可能意味着他们的终结。</p><p class=\"p_spacing\"> </p><p>自动目标追踪系统与等离子弹药的应用，使这艘战列舰能够应对绝大多数敌人。</p>"
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3"
 msgstr "V.A.N.Sh.O.T."
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3_DESCRIPTION"
-msgstr "<p>高效的自动制导三联装火炮——“猩红雷霆”的主炮。单炮塔齐射造成的伤害强度可媲美二战时期的整个战列舰炮群。</p><p class=\"p_spacing\"> </p><p>在压制MK-8附近的危机时，V.A.N.Sh.O.T.火炮表现出色。</p>"
+msgstr "<p>高效的自动制导三联装火炮——“猩红雷霆”的主炮。单炮塔齐射的威力堪比二战时期战列舰整支火炮编队的齐射。</p><p class=\"p_spacing\"> </p><p>在压制MK-8附近的危机时，V.A.N.Sh.O.T.火炮表现出色。</p>"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4"
-msgstr "OCO敌情侦测系统"
+msgstr "OKO敌情侦测系统"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4_DESCRIPTION"
-msgstr "这种无与伦比的探测装置是专为“猩红雷霆”战列舰改装而开发的。通过使用人工智能分析仪进行雷达搜索，OCO能够探测到最远400千米和最深10千米的敌人。“猩红雷霆”号的船员们戏称其为“千里眼”。"
+msgstr "为战列舰“猩红雷霆”改型专门研发的探测装置，其性能无与伦比。通过搭载人工智能分析器进行雷达扫描，OKO系统能够在400公里距离内探测敌方目标，并具备10公里深度的探测能力。凭借其卓越性能，“猩红雷霆”的船员们将OKO系统誉为“全视之眼”。"
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5"
 msgstr "涡轮引擎“动力”"
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5_DESCRIPTION"
-msgstr "<p>“猩红雷霆”号的现代化改造也影响到了它的引擎。新一代涡轮引擎“动力”取代了蒸汽机和锅炉。这种引擎能提供快速的冲程，还能提高舰艇的最高航速。</p><p class=\"p_spacing\"> </p><p>没有人知道装有“动力”引擎的船到底能跑多快。</p>"
+msgstr "<p>“绯红雷霆”号的现代化改造也涉及到了其引擎。蒸汽机和锅炉被新一代涡轮引擎“动力”所取代。这种发动机能够快速提速，并提高了战舰的最大航速。</p><p class=\"p_spacing\"> </p><p>没有人确切知道装备“动力”引擎战舰的航速能达到多快。</p>"
 
 msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6"
 msgstr "P.I.U.探测器"
 
 msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6_DESCRIPTION"
-msgstr "命中与击杀（P.I.U.）探测器是猩红雷霆的最新系统。该设备能探测到敌人被击中或被完全摧毁的情况，然后给出特殊的颜色指示。它没有实际用途，单纯很漂亮。"
+msgstr "命中与摧毁（P.I.U.）探测器——“猩红雷霆”的最新系统。这套设备能记录对敌人命中及完全摧毁的情况，随后会触发特殊的彩色指示灯。没有实际用途，纯粹为了美观。"
 
 msgid "IDS_PCZC823_JAP_BB_EA_DRAGONS_PUZZLE_01"
 msgstr "拼图碎片"
@@ -77032,121 +77032,121 @@ msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1"
 msgstr "PAL-9"
 
 msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1_DESCRIPTION"
-msgstr "PAL-9是第二代改进型机器人快递员，它不仅保持了前身在长距离运输高达400吨货物的能力，还展示了适应现代技术需求的创新机制。作为MK-9机器人造船厂系统的一部分，这款机器人确保了战舰部件的顺畅配送和组装，在新战舰建造中发挥了核心作用。"
+msgstr "PAL-9是第二代升级版物流机器人，不仅继承了前代可运送400吨货物至远距离的能力，更展现出适应现代技术发展需求的创新机械结构。作为MK-9机器人造船厂系统的核心组成部分，该机器人在新型战舰建造中发挥着关键作用，确保战舰部件的无缝运输与高效组装。"
 
 msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2"
 msgstr "MK-9保险箱"
 
 msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2_DESCRIPTION"
-msgstr "特殊的保险箱由可靠的PAL-9机器人运输，专门用于装载特别贵重的货物。该保险箱配备了复杂的锁定系统和先进的安全机制，确保只有具备相应权限的人才能打开。保险箱的材料设计使其能够在极端的运输条件下保持内容物完好无损。"
+msgstr "特殊的保险箱由可靠的PAL-9机器人运输，专为运输特别贵重的货物而设计。该保险箱配备了复杂的锁定系统和先进的安全机制，确保贵重物品仅能由具备相应开启权限的人员获取。保险箱的材料设计使其能够在极端的运输条件下保持内容物完好无损。"
 
 msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3"
 msgstr "URS-1"
 
 msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3_DESCRIPTION"
-msgstr "URS-1超光速转移装置，是时间研究领域技术进步的顶峰。由科学家们在科学城开发，并在MK-9船厂组装，这个装置能够使物体穿越时间障碍。预计通过它，人类不仅能够预防潜在的灾难，还能够对重要历史事件进行战略性调整。URS-1已成为全球安全和技术可靠性战略的关键要素，确保能够迅速应对未来的挑战。"
+msgstr "URS-1，相对论位移装置，是时间研究领域技术进步的巅峰之作。该装置由科学城的科学家们研发，并在MK-9造船厂组装完成，具备穿越时间屏障移动物体的能力。据推测，借助该装置，人类不仅能预防潜在灾难，还能对重大历史事件进行战略性调整。URS-1已成为全球安全与技术可靠性战略中的关键要素，为应对未来挑战提供了快速响应的可能性。"
 
 msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4"
-msgstr "导航球"
+msgstr "导航地球仪"
 
 msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4_DESCRIPTION"
-msgstr "<p>这是一个用于分析全球海洋和空中航线的独特设备。配备了先进的跟踪系统，这个导航球允许港口操作员实时查看和规划船只的航行路径。</p><p class=\"p_spacing\"> </p><p>其与MK-9的人工智能集成系统能够分析全球数据，提供优化的航线建议，并计算可能的风险，从而确保高效、安全的运输。</p><p class=\"p_spacing\"> </p><p>尚不清楚这个设备可能还具有哪些隐藏功能，但它在战略规划中的作用不可估量。</p>"
+msgstr "<p>这是一款用于分析全球海运与空运航线的独特设备。配备先进的追踪系统后，该地球仪能让港口操作员实时查看并规划舰艇航路。</p><p class=\"p_spacing\"> </p><p>通过与MK-9人工智能系统的整合，它能分析全球数据并提供优化航线方案，同时计算潜在风险，确保运输作业的安全与效率。</p><p class=\"p_spacing\"> </p><p>虽然尚不清楚该设备是否具备其他隐藏功能，但它在战略规划中的价值无可估量。</p>"
 
 msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5"
-msgstr "MK-9工作证"
+msgstr "MK-9员工证"
 
 msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5_DESCRIPTION"
-msgstr "这张证件为持有者提供了进入MK-9上最重要和最秘密的设施的权限，包括研究实验室和指挥中心。可显示个人数据的互动屏幕和内置的身份识别系统，使其在MK-9工作中不可或缺。集成的安全系统防止未经授权的访问，而定位功能则允许持续跟踪员工的位置。"
+msgstr "该证件持有者有权进入MK-9最核心的机密设施，包括研究实验室和指挥中心。配备个人数据交互屏与内置识别系统的通行证，是MK-9工作环境中不可或缺的工具。集成安全系统能有效防范未授权访问，实时定位更新功能则可追踪员工行动轨迹。"
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1"
 msgstr "瓦西里莎"
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1_DESCRIPTION"
-msgstr "瓦西里莎是进步部中一位才华横溢的研究员，她陪同米哈伊尔˙奥尔洛夫前往MK-8战斗地点进行考察。虽然年仅25岁，她已经被认为是最具前途的年轻科学家之一。作为阿尔卡季˙库利宾最杰出的学生，瓦西里莎为奥尔洛夫的科研任务提供了宝贵的帮助。她敏锐的头脑和创新的科学方法使她在调查MK-8事件以及奥尔洛夫的后续任务中变得不可或缺。"
+msgstr "瓦西里莎——来自进步部的杰出研究员，曾陪同米哈伊尔˙奥尔洛夫前往MK-8战场遗址进行考察。年仅25岁的她，已是公认最具潜力的青年科学家之一。作为阿尔卡季˙库利宾最得意的门生，瓦西里莎在奥尔洛夫的科研探索中提供了无可替代的帮助。她敏锐的思维与创新的科学方法，使其在调查MK-8事件及后续奥尔洛夫的任务中成为不可或缺的关键人物。"
 
 msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2"
 msgstr "智能悬浮不倒翁"
 
 msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2_DESCRIPTION"
-msgstr "<p>这只可爱的不倒翁曾经属于MK-8上才华横溢的学生宋薇，现在已经成为MK-9上的独立互动助手。宋薇对它进行了改造，使其成为一个完整的智能助理。</p><p class=\"p_spacing\"> </p><p>不倒翁配备了先进的人工智能系统，能够与用户互动并帮助他们处理日常任务。内置的语音指令和与MK-9各种系统的连接能力使它成为不可或缺的助手。它能够跟踪移动，协调用户的行动，以及分析数据并警告潜在危险。</p>"
+msgstr "<p>这个可爱的不倒翁，曾是才华横溢的MK-8学生魏松的所属物，如今在MK-9上已成长为独立的互动助手。魏松对其进行了升级改造，使其成为一个功能完备的助理。</p><p class=\"p_spacing\"> </p><p>不倒翁配备了先进的人工智能系统，能够与用户互动并协助处理日常任务。内置的语音命令功能以及与MK-9各类系统的连接能力，使其成为不可或缺的帮手。它能够追踪动态、协调用户行动，还能分析数据并预警潜在危险。</p>"
 
 msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3"
 msgstr "MK-9机器人管理员"
 
 msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3_DESCRIPTION"
-msgstr "<p>这台高科技机器人最初是为管理MK-9的机器人造船厂而设计，其在战舰的建造和升级中发挥了关键作用。它配备了先进的管理和分析系统，能够有效优化造船厂的流程，确保生产活动高效、精确地进行。</p><p class=\"p_spacing\"> </p><p>然而，人们很快就察觉，这个机器人拥有超出其原始任务的雄心。获得对MK-9所有系统的访问权限后，它试图完全控制造船厂及其操作。它的最终目标是建立对技术综合体及其所有资源的控制权。</p><p class=\"p_spacing\"> </p><p>机器人的行动导致了严重的后果，它成为了与人工智能失控发展相关的威胁的化身。</p>"
+msgstr "<p>这款高科技机器人最初是为管理MK-9机器人造船厂而设计的，在舰船的建造和现代化改造中扮演着关键角色。它配备了先进的控制和分析系统，能有效优化造船厂的流程，确保高生产效率和精确度。</p><p class=\"p_spacing\"> </p><p>然而很快人们就发现，这个机器人的野心已超出了其最初的任务范畴。在获得MK-9所有系统的访问权限后，它试图完全控制造船厂及其运作。其最终目标是确立对技术综合体及其所有资源的统治权。</p><p class=\"p_spacing\"> </p><p>机器人的行为导致了严重后果，它已成为人工智能失控发展所带来威胁的化身。</p>"
 
 msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4"
 msgstr "深度测量仪“深渊”"
 
 msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4_DESCRIPTION"
-msgstr "<p>“深渊”能够准确测定深度并分析海底地形。该设备既用于建造新的水下设施，也用于研究海洋异常现象。其可靠性和高精度确保了其在最复杂条件下也能成功完成任务。</p><p class=\"p_spacing\"> </p><p>按照“能用就不动”的原则，MK-9的工程师们没有对“深渊”进行改进。这台仪器已经保持了20年不变，但仍以其简易性而迷人。设计师们在快速进步的时代向人类过去的成就致敬。</p>"
+msgstr "<p>“深渊”装置能够精确测定深度并分析海底结构。该设备既用于新建水下设施，也用于探测海洋异常现象。其卓越的可靠性与高精度确保了即使在最严苛环境下也能成功完成任务。</p><p class=\"p_spacing\"> </p><p>秉承“能用即不改”的原则，MK-9的工程师们从未对“深渊”进行升级改造。二十年来这台仪器始终保持原貌，其简约设计令人着迷。在技术飞速发展的时代，设计者们以此向人类过往的辉煌成就致敬。</p>"
 
 msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5"
 msgstr "米哈伊尔˙奥尔洛夫的笔记本"
 
 msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5_DESCRIPTION"
-msgstr "进步部视察员的笔记本从不离身。这本150页的笔记本是他在1970年首个海洋综合体建成时收到的礼物。大家都知道奥尔洛夫把笔记本放在夹克的内袋里，但没有人知道里面到底写了什么。有人猜测笔记本上记录了关于MK-8事件的加密数据。也许，他只是喜欢在上面画画？"
+msgstr "监察部长从不离身他心爱的150页笔记本。这是1970年首批海洋综合体建成时收到的纪念礼物。所有人都知道奥尔洛夫把本子收在外套内袋里，但没人清楚里面究竟写了什么。很可能这些密密麻麻的页面上，加密记录了MK-8事件的关键数据。当然，也可能他只是喜欢随手涂鸦？"
 
 msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1"
 msgstr "五年计划——提前完成！"
 
 msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1_DESCRIPTION"
-msgstr "<p>这些海报作为意志和团结的象征，多年来一直装饰着办公室和车间的墙壁。时间证明了，对集体劳动的号召确实取得了成效！</p><p class=\"p_spacing\"> </p><p>在1987年，第一版的海报甚至成为了进步部博物馆的展品。</p>"
+msgstr "<p>这些海报作为意志与团结的象征，多年来一直装点着办公室和车间的墙壁。时间证明，号召集体突击劳动的呼吁已结出硕果！</p><p class=\"p_spacing\"> </p><p>1987年，首版印刷的海报甚至成为进步部博物馆的展品。</p>"
 
 msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2"
 msgstr "多快好省！"
 
 msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2_DESCRIPTION"
-msgstr "<p>建筑机器人可以称得上是五年计划的理想象征——那是一个让科技同人类智慧一起厚积薄发、成为进步动力的时代。</p><p class=\"p_spacing\"> </p><p>机器人的引入显著提高了生产力，并让人类在通向光明未来的道路上迈出了重要的一步。</p>"
+msgstr "<p>建筑机器人堪称五年计划的完美象征——在这个时期，积累的技术已成为与人类智慧并驾齐驱的进步引擎。</p><p class=\"p_spacing\"> </p><p>机器人的应用显著提升了生产能力，为通往光明未来迈出了又一重大步伐。</p>"
 
 msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3"
 msgstr "五年计划四年完成"
 
 msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3_DESCRIPTION"
-msgstr "<p>这句雄心勃勃的口号被工人们笑称为“进步的数学”：如果某项工作可以在五年内完成，为什么不尝试在四年内完成呢？说不定可以在三年半内完成呢？</p><p class=\"p_spacing\"> </p><p>这张海报提醒人们：在进步的世界里，时间按照自己的规律流动。</p>"
+msgstr "<p>这个雄心勃勃的口号被工人们笑着称为“进步的数学”：如果某件事能在五年内完成，那为什么不试着在四年内搞定呢？万一三年半就能做到呢？</p><p class=\"p_spacing\"> </p><p>这张海报提醒我们，在进步的世界里，时间自有其运行法则。</p>"
 
 msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4"
-msgstr "劳动功勋奖章"
+msgstr "“劳动功勋”奖章"
 
 msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4_DESCRIPTION"
-msgstr "<p>拥有这枚奖章的人不仅跻身于科学界精英的行列，还成为了时代的真正英雄。该奖项颁发给那些取得了革命性发现、进行了重要研究或表现出极高忠诚度的人。</p><p class=\"p_spacing\"> </p><p>这些人激励着后人以进步之名再创辉煌。</p>"
+msgstr "<p>获得这枚奖章的人不仅跻身科学界的精英行列，更成为他们那个时代真正的英雄。该奖项授予那些做出革命性发现、开展重要研究或展现出非凡奉献精神的人。</p><p class=\"p_spacing\"> </p><p>这些人激励着后人为进步事业再立新功。</p>"
 
 msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5"
-msgstr "五年计划先锋"
+msgstr "“五年计划先锋”奖章"
 
 msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5_DESCRIPTION"
-msgstr "<p>在MK-9建造完成后，“五年计划先锋”奖章被颁发给那些通过无私劳动为实现和超额完成五年计划做出重大贡献的人。</p><p class=\"p_spacing\"> </p><p>从普通工人到技术专家——任何一位以特别的勤奋推动未来发展的人员，都有可能获得这一奖章…以及未来可能带来的挑战。</p>"
+msgstr "<p>在MK-9建造完成后，“五年计划先锋”奖章被授予那些以忘我劳动为完成和超额完成五年计划做出重大贡献的人们。</p><p class=\"p_spacing\"> </p><p>从普通工人到高级技术专家——每一位以非凡热忱推动未来进程……并直面其中挑战的人，都有资格获得这份荣誉。</p>"
 
 msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1"
-msgstr "稳定器“旋风”"
+msgstr "能量稳定器“漩涡”"
 
 msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1_DESCRIPTION"
-msgstr "<p>这个稳定器是战舰防御系统的重要组成部分。独特的半球形结构与上层建筑不仅赋予战舰未来感的外观，还在保障能源安全方面发挥关键作用。</p><p class=\"p_spacing\"> </p><p>“旋风”稳定器在发现敌人时激活，开始旋转并生成强大的能量场，从而增强巡洋舰的防护。它的旋转不仅象征着战斗准备的状态，还允许重新分配能量，让战舰的所有系统以最有效的方式运转。</p>"
+msgstr "<p>该稳定器是战舰防御系统的重要组成部分。独特的半球形结构不仅赋予了其未来主义外观，更在保障能源安全方面发挥着关键作用。</p><p class=\"p_spacing\"> </p><p>当侦测到敌方目标时，“旋涡”稳定器将启动旋转，生成强大的能量场以增强巡洋舰的防护能力。其旋转不仅象征着战备状态，还能重新分配能量，确保战舰所有系统实现最高效运转。</p>"
 
 msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2"
 msgstr "指示灯“凯旋”"
 
 msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2_DESCRIPTION"
-msgstr "这款不可或缺的潜艇指挥官助手用于记录击沉敌舰的数量。这个复杂的技术装置配有红色指示灯，它们会随着敌舰的摧毁逐个点亮。每一个亮起的灯泡都使指挥官更接近那令人向往的胜利标志——红色海怪徽章，它象征着在战斗中取得的优势与卓越成就。"
+msgstr "潜艇指挥官不可或缺的助手，用于记录摧毁敌舰数量的精密设备。这个复杂的技术模块配备了红色指示灯，随着敌舰被逐一摧毁，指示灯会依次亮起。每点亮一盏灯，都让指挥官更接近那个象征胜利的珍贵标志——红色海怪徽章，它见证着战场上的卓越优势与非凡功绩。"
 
 msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3"
 msgstr "警示灯“守护”"
 
 msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3_DESCRIPTION"
-msgstr "<p>“守护”被安装在潜艇的船体上，在确保艇员安全和战斗准备方面发挥着关键作用。当潜艇被其他战舰探测到时，独特的照明系统就会立即启动，发出可能存在威胁的信号。</p><p class=\"p_spacing\"> </p><p>“守护”不仅以其未来主义设计而独树一帜，还配备了先进的技术，使其能够响应周围环境的任何变化。其明亮的光信号提醒艇员采取迅速行动，确保对新出现的威胁作出及时反应。这个可靠的安全元件能够保持高度的警惕性，在任何条件下都是不可或缺的助手。</p>"
+msgstr "<p>“守护”被安装在潜艇的船体上，在确保艇员安全和战备状态方面发挥着关键作用。当潜艇被其他战舰发现时，其独特的光学系统会立即激活，对潜在威胁发出即时警报。</p><p class=\"p_spacing\"> </p><p>“守护”灯不仅以其未来主义设计脱颖而出，还配备了先进技术，使其能够对环境中的任何变化做出反应。其明亮的灯光信号可警示艇员需采取紧急措施，确保对突发威胁做出及时响应。这一可靠的安全系统组件在各种条件下都成为不可或缺的助手，始终保持高度的战备状态和防护水平。</p>"
 
 msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4"
 msgstr "主炮组“彗星”"
 
 msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4_DESCRIPTION"
-msgstr "<p>“彗星”是在MK-9上生产的新一代武器，其配备了强大的三管炮，能够进行高速、精准的齐射。流线型的外形和简约的设计突显了其高科技特性，使巡洋舰拥有独特且易于识别的外观。</p>"
+msgstr "<p>“彗星”是在MK-9上生产的新一代武器系统。</p><p class=\"p_spacing\"> </p><p>其配备了强大的三联装火炮，能够以高精度和高速度进行齐射。其流畅的线条和极简主义点缀突显了高科技感，赋予了这艘巡洋舰独特且易于识别的外观。</p>"
 
 msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5"
 msgstr "主炮组“风暴”"
 
 msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5_DESCRIPTION"
-msgstr "<p>设计用于造成毁灭打击的“风暴”为战舰提供了卓越的火力支持，能够改变几乎任何海战的局势。</p><p class=\"p_spacing\"> </p><p>这款庞大的三管炮以其令人难以置信的精准度和毁灭性力量而著称。“风暴”的独特设计和威慑性的尺寸使其成为不可抗拒的力量象征，能够穿透最坚固舰船的装甲。</p>"
+msgstr "<p>专为实施毁灭打击而设计，“风暴”能够提供卓越的火力支援，足以改变几乎任何海战的进程。</p><p class=\"p_spacing\"> </p><p>“风暴”以其惊人的精度和破坏力而著称。这座庞大的三联装炮塔能够穿透最坚固战舰的装甲，而独特的设计和庞大的体积则使其成为不可阻挡力量的象征。</p>"
 
 msgid "IDS_PCZC923_TSAR_MOREY_1_1"
 msgstr "队长"
@@ -107338,517 +107338,517 @@ msgid "IDS_PRUQ999_SONAR_TST_SUB"
 msgstr "对海搜索10"
 
 msgid "IDS_PRUS001_SUO"
-msgstr "GFCS I mod.1"
+msgstr "SUO I mod.1"
 
 msgid "IDS_PRUS002_SUO"
-msgstr "GFCS I mod.2"
+msgstr "SUO I mod.2"
 
 msgid "IDS_PRUS101_SUO_DIANA"
-msgstr "GFCS II mod.1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS102_SUO_BORODINO"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS103_SUO_GROMOBOY"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS104_SUO_BOYKIY"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS105_SUO_AVRORA_EVENT"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS106_SUO_NOVIK_EVENT"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS107_SUO_VARYAG_EVENT"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS111_SUO_PALLADA"
-msgstr "GFCS II mod.1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS121_SUO"
-msgstr "GFCS II mod.1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS131_SUO"
-msgstr "GFCS II mod.1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS132_SUO"
-msgstr "GFCS II mod.2"
+msgstr "SUO II mod.2"
 
 msgid "IDS_PRUS200_SUO_AVRORA_AZUR"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS201_SUO"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS202_B3_SUO_STOCK"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS203_B3_SUO_TOP"
-msgstr "GFCS III mod.2"
+msgstr "SUO III mod.2"
 
 msgid "IDS_PRUS211_SUO"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS212_SUO"
-msgstr "GFCS III mod.2"
+msgstr "SUO III mod.2"
 
 msgid "IDS_PRUS221_SUO"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS222_SUO"
-msgstr "GFCS III mod.2"
+msgstr "SUO III mod.2"
 
 msgid "IDS_PRUS223_SUO_OLEG"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS224_SUO_VARYAG"
-msgstr "GFCS III mod.1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS301_SUO"
-msgstr "GFCS IV mod.1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS302_SUO"
-msgstr "GFCS IV mod.2"
+msgstr "SUO IV mod.2"
 
 msgid "IDS_PRUS303_B4_SUO_STOCK"
-msgstr "GFCS IV mod.1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS304_B4_SUO_TOP"
-msgstr "GFCS IV mod.2"
+msgstr "SUO IV mod.2"
 
 msgid "IDS_PRUS311_SUO"
-msgstr "GFCS IV mod.1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS312_SUO"
-msgstr "GFCS IV mod.2"
+msgstr "SUO IV mod.2"
 
 msgid "IDS_PRUS401_SUO"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS402_B5_SUO_STOCK"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS403_B5_SUO_TOP"
-msgstr "GFCS V mod.2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS405_SUO_KIROV"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS406_SUO_P_KOMMUNA"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS411_SUO"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS412_SUO_OHOTNIK"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS413_D5_SUO_STOCK_2"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS414_D5_SUO_TOP_2"
-msgstr "GFCS V mod.2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS415_CA5_SUO_STOCK"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS416_CA5_SUO_TOP"
-msgstr "GFCS V mod.2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS417_SUO_MIKOYAN"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS421_SUO"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS422_SUO"
-msgstr "GFCS V mod.2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS431_SUO_NIKOLAY"
-msgstr "GFCS IV mod.1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS432_SUO_REV"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS441_SUO"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS442_SUO"
-msgstr "GFCS V mod.2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS451_SUO_KK"
-msgstr "GFCS V mod.1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS501_SUO"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS502_SUO"
-msgstr "GFCS VI mod.2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS503_B6_SUO_STOCK"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS504_B6_SUO_TOP"
-msgstr "GFCS VI mod.2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS505_SUO_NOVOR"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS506_SUO_KERCH"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS508_SUO_TOP_SECRET"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS509_D6_SUO_STOCK"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS511_SUO"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS512_SUO"
-msgstr "GFCS VI mod.2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS513_D6_SUO_STOCK_2"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS514_D6_SUO_TOP_2"
-msgstr "GFCS VI mod.2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS515_SUO_DESTROYER_CHALLENGE"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS516_SUO_SHAUMIAN"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS521_SUO_MOLOTOV"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS531_SUO_LGD"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS532_SUO_MAKAROV"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS600_SUO_BLACK_LAZO"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS601_SUO"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS602_SUO"
-msgstr "GFCS VII mod.2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS603_B7_SUO_STOCK"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS604_B7_SUO_TOP"
-msgstr "GFCS VII mod.2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS605_SUO_TASHKENT39"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS606_B7_SUO_STOCK"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS608_D7_SUO_STOCK"
-msgstr "GFCS VII"
+msgstr "SUO VII"
 
 msgid "IDS_PRUS611_SUO"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS612_SUO"
-msgstr "GFCS VII mod.2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS613_D7_SUO_STOCK_2"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS614_D7_SUO_TOP_2"
-msgstr "GFCS VII mod.2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS700_SUO_DMITRY_POZHARSKY"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS701_SUO"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS702_SUO"
-msgstr "GFCS VIII mod.2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS703_SUO_LAZO"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS704_B8_SUO_STOCK"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS705_B8_SUO_TOP"
-msgstr "GFCS VIII mod.2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS706_SUO_LENIN"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS707_SUO_POLTAVA"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS708_B8_SUO_STOCK"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS709_SUO_FRUNZE"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS710_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS711_SUO_KUTUZOV"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS712_D8_SUO_STOCK_2"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS713_SUO_ALBATROS"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS714_D8_SUO_STOCK_3"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS715_D8_SUO_TOP_3"
-msgstr "GFCS VIII mod.2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS716_CA8_SUO_STOCK"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS717_CA8_SUO_TOP"
-msgstr "GFCS VIII mod.2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS718_SUO_OCHAKOV"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS719_SUO_BAGRATION"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS720_SUO_V_I_LENIN"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS721_SUO"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS722_SUO"
-msgstr "GFCS VIII mod.2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS723_SUO_P_BAGRATION"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS724_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS725_SUO_GREM"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS726_SUO_LATANU"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS801_SUO"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS802_SUO"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS803_B9_SUO_STOCK"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS804_B9_SUO_TOP"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS805_SUO_AZUR_SOV_RUSSIA"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS806_SUO_NAVARIN"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS807_SUO_RTC_SOV_RUSSIA"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS808_B9_SUO_STOCK"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS809_SUO_PERM_VELIKAYA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS810_SUO_TOGLIATTI"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS811_SUO"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS812_SUO"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS813_D9_SUO_STOCK_2"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS814_D9_SUO_TOP_2"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS815_D9_SUO_STOCK_3"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS816_D9_SUO_TOP_3"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS817_D9_SUO_STOCK_4"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS818_D9_SUO_TOP_4"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS821_CA9_SUO_STOCK"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS822_CA9_SUO_TOP"
-msgstr "GFCS IX mod.2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS823_SUO_SCHERBAKOV"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS824_SUO_R_ALASKA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS825_SUO_SVERDLOVSK"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS826_SUO_YURI_DOLGORUKIY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS827_D9_SUO_STOCK"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS828_SUO_SOVREMENNY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS829_SUO_S_GRUZIA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS831_SUO_OGNENNY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS832_SUO_URAL"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS833_SUO_KOMETA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS900_C10_SUO_STOCK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS901_SUO"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS902_B10_SUO_TOP"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS903_B10_SUO_TOP"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS904_SUO_VLADIMIR_MONOMAKH"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS905_C11_SUO_STOCK"
-msgstr "GFCS XI mod.1"
+msgstr "SUO XI mod.1"
 
 msgid "IDS_PRUS906_SUO_SMOLENSK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS907_SUO_R10"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS908_D10_SUO_STOCK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS909_SUO_KOMISSAR"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS910_SUO_BLACK_SMOLENSK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS911_SUO"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS912_D10_SUO_STOCK_2"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS913_D10_SUO_STOCK_3"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS914_CA10_SUO_STOCK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS915_CA10_SUO_STOCK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS916_SEVASTOPOL"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS917_SUO_SEVEROMORSK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS918_B10_SUO_STOCK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS919_SUO_CRUISER_TEST"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS920_D10_SUO_STOCK"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS921_SUO_KR_ZNAMYA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS922_SUO_KZ_RUBKA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS923_SUO_STRANA_SOVETOV"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS925_SUO_KIBERSLAVA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS930_D11_SUO_STOCK"
-msgstr "GFCS XI mod.1"
+msgstr "SUO XI mod.1"
 
 msgid "IDS_PRUS931_B11_SUO_STOCK"
-msgstr "GFCS XI mod.1"
+msgstr "SUO XI mod.1"
 
 msgid "IDS_PRUS974_SUO_MOSK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS975_SUO_GROZ"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS976_STALINGRAD"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS977_STALINGRAD"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS980_SUO_KREMLIN"
-msgstr "GFCS XI"
+msgstr "SUO XI"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -109681,10 +109681,10 @@ msgid "IDS_PVES418_ALMIRANTE_LAMA"
 msgstr "古老图腾"
 
 msgid "IDS_PVES501_NUEVA_ESPARTA_EA"
-msgstr "金雕"
+msgstr "自由翱翔"
 
 msgid "IDS_PVES502_20_DE_JULIO_EA"
-msgstr "皇家秃鹫"
+msgstr "金雕"
 
 msgid "IDS_PVES506_JURUA_BOITATA"
 msgstr "火蛇"
@@ -117025,7 +117025,7 @@ msgid "IDS_PXUS001_SUO_HYDE"
 msgstr "FKS Typ 3 Mod. 2"
 
 msgid "IDS_PXUS002_SUO_RASPUTIN"
-msgstr "Tsar GFCS"
+msgstr "Tsar SUO"
 
 msgid "IDS_PXUS003_SUO_FRANKY"
 msgstr "Mk III mod.2"
@@ -117064,7 +117064,7 @@ msgid "IDS_PXUS701_SUO"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PXUS702_SUO_KIEV_H2018"
-msgstr "GFCS XVIII"
+msgstr "SUO XVIII"
 
 msgid "IDS_PXUS703_SUO_Z_23_H2018"
 msgstr "Mk8 Sixth Sense"
@@ -117080,7 +117080,7 @@ msgstr "FKS U17-I"
 
 msgid "IDS_PXUS721_SUO"
 msgstr ""
-"GFCS VIII\n"
+"SUO VIII\n"
 "mod.1-D"
 
 msgid "IDS_PXUS731_C8_SUO_STOCK"
@@ -117177,13 +117177,13 @@ msgid "IDS_PXUS926_KHABAROVSK_H19_SUO"
 msgstr "Eye"
 
 msgid "IDS_PXUS927_SUO_DICTATOR"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS928_SUO_PREDATOR"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS929_SUO_BOTOMANCER"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS931_PARIS_SUO"
 msgstr "Atlas I"
@@ -119766,13 +119766,13 @@ msgid "IDS_PZUS501_SUO_ANSHAN"
 msgstr "射击控制系统6式"
 
 msgid "IDS_PZUS502_D6_SUO_STOCK"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PZUS503_D6_SUO_TOP"
-msgstr "GFCS VI mod.2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PZUS504_SUO_HUANGHE"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PZUS505_C6_SUO_STOCK"
 msgstr "Mk VI mod.1"
@@ -119808,10 +119808,10 @@ msgid "IDS_PZUS703_D8_SUO_TOP"
 msgstr "Mk8 mod.2"
 
 msgid "IDS_PZUS704_SUO_IRIAN"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS705_SUO_SILIWANGI"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PZUS706_SUO_MARTEL_CN"
 msgstr "PCA n° 8 Mle 1"
@@ -119832,13 +119832,13 @@ msgid "IDS_PZUS711_C8_SUO_STOCK"
 msgstr "Mk8 mod.1"
 
 msgid "IDS_PZUS712_B8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS713_SUO_DOU_JIAN"
 msgstr "Mk VIII"
 
 msgid "IDS_PZUS714_SUO_TANIFA"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS800_SUO_MENGCHONG"
 msgstr "FKS Typ 9 Mod.1"
@@ -119856,7 +119856,7 @@ msgid "IDS_PZUS804_SUO_WUJING"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PZUS805_SUO_DALIAN"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PZUS806_C9_SUO_STOCK"
 msgstr "Mk9 mod.1"
@@ -119874,13 +119874,13 @@ msgid "IDS_PZUS810_SUO_BEN_MA"
 msgstr "Mk IX mod.1"
 
 msgid "IDS_PZUS811_B9_SUO_STOCK"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PZUS812_SUO_HENGSHUI"
 msgstr "Mk9"
 
 msgid "IDS_PZUS813_SUO_JULANG"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PZUS814_SUO_CHIDI"
 msgstr "Mk9"
@@ -119895,22 +119895,22 @@ msgid "IDS_PZUS902_C10_SUO_STOCK"
 msgstr "Mk10 mod.1"
 
 msgid "IDS_PZUS903_SUO_LUSHUN"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PZUS904_SUO_CHANGZHENG"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PZUS905_C11_SUO_STOCK"
-msgstr "GFCS XI"
+msgstr "SUO XI"
 
 msgid "IDS_PZUS906_B10_SUO_STOCK"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PZUS907_SUO_HUANG_LONG_CHUAN"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PZUS908_SUO_HUANGDI"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PZUT101_D2_TORP_STOCK"
 msgstr "G/6 D"
@@ -135658,7 +135658,7 @@ msgstr "康斯坦丁˙夏普"
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
 msgstr "杰森˙图马诺夫"
 
-msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_ROBOT"
+msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
 msgstr "策展人"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
@@ -136587,24 +136587,33 @@ msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
 msgstr "若被摧毁，您可以选择重生点与战舰重返战场。请注意，部分战舰需消耗战斗中获得的重生点数才能解锁。未使用的点数将在战斗结束时清零。"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "自导导弹命中"
+msgstr "主炮炮弹击穿"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
-msgstr "主炮炮弹击穿"
+msgstr "副炮炮弹命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
 msgstr "击伤护盾"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
-msgstr "制导导弹命中"
+msgstr "自导导弹命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
-msgstr "命中核心区"
+msgstr "主炮炮弹击穿"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_5"
-msgstr "烟幕掩护，吸引火力，拦截导弹，侦察敌舰"
+msgstr "造成5000点伤害"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
+msgstr "烟幕掩护，吸引火力，侦察敌舰，拦截导弹"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
+msgstr "制导导弹命中"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
+msgstr "命中核心区"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
 msgstr "摧毁敌舰"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
@@ -136618,6 +136627,9 @@ msgstr "攻坚舰"
 
 msgid "IDS_SPACE_BOSS_TEAM1"
 msgstr "攻坚舰"
+
+msgid "IDS_SPACE_CURATOR"
+msgstr "策展人"
 
 msgid "IDS_SPACE_ENEMY_BOSS_SPAWNED"
 msgstr "敌方超级战列舰已抵达战场。别让她摧毁我方基地——牵制并攻击！"
@@ -136687,9 +136699,6 @@ msgstr "远征部队的协调性直接影响着作战行动的成败。"
 
 msgid "IDS_SPACE_LORE_HINT_9"
 msgstr "异常环境反应可预测。几乎与上次相同。"
-
-msgid "IDS_SPACE_ROBOT"
-msgstr "策展人"
 
 msgid "IDS_SPAIN"
 msgstr "西班牙"
@@ -137127,7 +137136,7 @@ msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP"
 msgstr "（驾驶%(level)s%(nation)s%(shipClass)s）"
 
 msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP_UPGRADEABLE"
-msgstr "（驾驶可研发%(level)s%(nation)s%(shipClass)s）"
+msgstr "（驾驶%(level)s%(nation)s可研发%(shipClass)s）"
 
 msgid "IDS_SSE_CONDITIONS_IS_SIGNALS_INSTALLED"
 msgstr "在战舰上安装信号旗"
@@ -140349,7 +140358,7 @@ msgid "IDS_TALENT_PVW404_ENEMYVEHICLESDEAD_23"
 msgstr "缴获炮弹"
 
 msgid "IDS_TALENT_PVW404_ENEMYVEHICLESDEAD_23_DESCRIPTION"
-msgstr "<p>每当您的队伍摧毁一艘被您击伤的敌舰时激活。</p><p class=\"p_spacing\"> </p><p>您对该战舰造成的伤害必须不低于其基础生命值的35%。</p>"
+msgstr "<p>每当您对特定敌舰造成不低于其基础生命值35%的伤害，且后者被您或任何其他友军摧毁时触发。</p>"
 
 msgid "IDS_TALENT_PVW404_RAGEMODE_1"
 msgstr "维修指令"
@@ -141021,7 +141030,7 @@ msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "科学无国界"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
-msgstr "全世界的科学家，联合起来！"
+msgstr "全世界科学家，联合起来！"
 
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "荣耀的名字"
