@@ -53687,13 +53687,13 @@ msgid "IDS_PASA508_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASA510"
-msgstr "富兰克林˙罗斯福"
+msgstr "富兰克林˙D˙罗斯福"
 
 msgid "IDS_PASA510_DESCR"
 msgstr "<p>美国海军在中途岛级第二艘航空母舰USS<b>富兰克林˙罗斯福</b>的甲板上，实现了重要的里程碑。在这里，喷气式飞机首次完成在航空母舰上的起飞和着陆。服役后，这艘战舰早年主要用于演习和外交任务。后来，她在地中海和东南亚服役。</p>"
 
 msgid "IDS_PASA510_FULL"
-msgstr "富兰克林˙罗斯福"
+msgstr "富兰克林˙德拉诺˙罗斯福"
 
 msgid "IDS_PASA510_NUMBER"
 msgstr "3"
@@ -58173,7 +58173,7 @@ msgid "IDS_PAUH909_S10_HULL_STOCK"
 msgstr "巴劳鱵(A)"
 
 msgid "IDS_PAUH910_HULL_ROOSEVELT"
-msgstr "富兰克林˙罗斯福"
+msgstr "富兰克林˙德拉诺˙罗斯福"
 
 msgid "IDS_PAUH911_GEARING_1945"
 msgstr "基林"
@@ -67471,7 +67471,7 @@ msgid "IDS_PCEE336_CHAMPAGNE_FLAG_DESCRIPTION"
 msgstr "香槟是位于法国东北部的一个省，以出产葡萄酒闻名于世。这个地区的历史可以追溯到香槟郡，介于11世纪和12世纪之间。"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG"
-msgstr "富兰克林˙罗斯福"
+msgstr "富兰克林˙D˙罗斯福"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG_DESCRIPTION"
 msgstr "“成功难以一蹴而就，但我们不会轻易放弃！”"
@@ -76702,7 +76702,7 @@ msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2"
 msgstr "防空系统“日落”"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
-msgstr "<p>专为“绯红雷霆”研发了最新型机器人防空系统“日落”。这个浪漫的名字并非随意选择：它似乎在暗示潜在的对手，这个“日落”可能意味着他们的终结。</p><p class=\"p_spacing\"> </p><p>自动目标追踪系统与等离子弹药的应用，使这艘战列舰能够应对绝大多数敌人。</p>"
+msgstr "<p>专为“猩红雷霆”研发了最新型机器人防空系统“日落”。这个浪漫的名字并非随意选择：它似乎在暗示潜在的对手，这个“日落”可能意味着他们的终结。</p><p class=\"p_spacing\"> </p><p>自动目标追踪系统与等离子弹药的应用，使这艘战列舰能够应对绝大多数敌人。</p>"
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3"
 msgstr "V.A.N.Sh.O.T."
@@ -76720,7 +76720,7 @@ msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5"
 msgstr "涡轮引擎“动力”"
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5_DESCRIPTION"
-msgstr "<p>“绯红雷霆”号的现代化改造也涉及到了其引擎。蒸汽机和锅炉被新一代涡轮引擎“动力”所取代。这种发动机能够快速提速，并提高了战舰的最大航速。</p><p class=\"p_spacing\"> </p><p>没有人确切知道装备“动力”引擎战舰的航速能达到多快。</p>"
+msgstr "<p>“猩红雷霆”号的现代化改造也涉及到了其引擎。蒸汽机和锅炉被新一代涡轮引擎“动力”所取代。这种发动机能够快速提速，并提高了战舰的最大航速。</p><p class=\"p_spacing\"> </p><p>没有人确切知道装备“动力”引擎战舰的航速能达到多快。</p>"
 
 msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6"
 msgstr "P.I.U.探测器"
@@ -77092,7 +77092,7 @@ msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1"
 msgstr "五年计划——提前完成！"
 
 msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1_DESCRIPTION"
-msgstr "<p>这些海报作为意志与团结的象征，多年来一直装点着办公室和车间的墙壁。时间证明，号召集体突击劳动的呼吁已结出硕果！</p><p class=\"p_spacing\"> </p><p>1987年，首版印刷的海报甚至成为进步部博物馆的展品。</p>"
+msgstr "<p>这些海报作为意志与团结的象征，多年来一直装点着办公室和车间的墙壁。时间证明，号召集体艰苦奋斗的呼吁已结出硕果！</p><p class=\"p_spacing\"> </p><p>1987年，首版印刷的海报甚至成为进步部博物馆的展品。</p>"
 
 msgid "IDS_PCZC914_SCARLET_BIRTHDAY_2_3_2"
 msgstr "多快好省！"
@@ -121940,6 +121940,12 @@ msgstr "还有%(_count)s项"
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "您在战斗中存在下列违规行为："
 
+msgid "IDS_RESURRECTION_POINTS_HINT"
+msgstr "战斗中获得的重生点数。"
+
+msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
+msgstr "重生点数"
+
 msgid "IDS_RETRAINED_FOR"
 msgstr "已被重新训练至"
 
@@ -127920,7 +127926,7 @@ msgid "IDS_RIBBON_DESCRIPTION_RIBBON_BURN"
 msgstr "造成火灾"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_CITADEL"
-msgstr "命中敌人核心区"
+msgstr "命中敌舰核心区"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_CRIT"
 msgstr "瘫痪敌舰配件"
