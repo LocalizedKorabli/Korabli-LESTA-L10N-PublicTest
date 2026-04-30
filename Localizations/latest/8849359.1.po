@@ -27,7 +27,7 @@ msgstr ""
 msgid "IDS_000_001_MAIN_TASK_BRIEFING"
 msgstr ""
 "护送特兰西瓦尼亚进入传送门，\n"
-"保护它，别让它受到伤害！"
+"保护她，别让她受到伤害！"
 
 msgid "IDS_000_001_MAIN_TASK_TASK_END_F"
 msgstr ""
@@ -42,7 +42,7 @@ msgstr ""
 msgid "IDS_000_001_MAIN_TASK_TASK_WILL_END_F"
 msgstr ""
 "行动失败。\n"
-"所有防御者都被摧毁。"
+"所有护航战舰都被摧毁。"
 
 msgid "IDS_000_001_TRANSILVANIA_HINT"
 msgstr "若所有队友都离开修理区域，或有敌舰进入修理区域，特兰西瓦尼亚便会停下。"
@@ -54,7 +54,7 @@ msgid "IDS_000_011_MAIN_TASK_HINT1"
 msgstr "若附近有多艘友军战舰，特兰西瓦尼亚就会移动得更快。"
 
 msgid "IDS_000_011_MAIN_TASK_HINT2"
-msgstr "当丧尸太靠近特兰西瓦尼亚时，它就会停下来。"
+msgstr "当丧尸太靠近特兰西瓦尼亚时，她就会停下来。"
 
 msgid "IDS_000_021_PAYLOAD_HALF_HEALTH_TASK_END_F"
 msgstr "旗舰受到严重伤害。救援行动告急！"
@@ -6493,7 +6493,7 @@ msgid "IDS_AVAILABILITY_STATE_CURRENTLY_UNAVAILABLE"
 msgstr "此战斗模式暂时不可用"
 
 msgid "IDS_AVAILABILITY_STATE_LOW_LEVEL"
-msgstr "将在解锁权限等级%(_level)s后可用"
+msgstr "将在达到权限等级%(_level)s后开放"
 
 msgid "IDS_AVAILABILITY_STATE_MISMATCH"
 msgstr "无法在此战斗模式中完成"
@@ -8929,7 +8929,7 @@ msgid "IDS_BATTLE_TASK_TEXT_OP_01_01_TASK_PRIMARY3"
 msgstr "护送运输舰离开行动区域"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_01_TASK_SAVE_LEAD"
-msgstr "从正在下沉的Akulov上救出指挥官"
+msgstr "靠近Akulov，在其沉没之前救出指挥官"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_01_TASK_SAVE_T"
 msgstr "确保所有运输舰都不被摧毁"
@@ -13719,7 +13719,7 @@ msgid "IDS_CONTEXT_TUTORIAL_REGEN_CREW"
 msgstr "维修小组"
 
 msgid "IDS_CONTEXT_TUTORIAL_REPAIR_BURN"
-msgstr "把火扑灭"
+msgstr "扑灭火灾"
 
 msgid "IDS_CONTEXT_TUTORIAL_REPAIR_FLOOD"
 msgstr "停止进水"
@@ -21705,10 +21705,10 @@ msgid "IDS_DD_NAME1_9"
 msgstr "Scar-0"
 
 msgid "IDS_DEAL_OUT_DAMAGE"
-msgstr "造成伤害量"
+msgstr "对敌舰伤害量"
 
 msgid "IDS_DEAL_OUT_DAMAGE_AVERAGE"
-msgstr "造成伤害量"
+msgstr "对敌舰伤害量"
 
 msgid "IDS_DEAL_OUT_DAMAGE_AVERAGE_TOOLTIP"
 msgstr "平均每场战斗对战舰造成的伤害"
@@ -37191,7 +37191,7 @@ msgid "IDS_IN_EVENTBATTLE"
 msgstr "在巨战中"
 
 msgid "IDS_IN_ONE_BATTLE_PRECONDITION"
-msgstr "单场战斗中"
+msgstr "在单场战斗中:"
 
 msgid "IDS_IN_PCVE017"
 msgstr "在护航战中"
@@ -40614,7 +40614,7 @@ msgid "IDS_MAX_DAMAGE"
 msgstr "最大伤害"
 
 msgid "IDS_MAX_DAMAGE_PER_BATTLE"
-msgstr "造成伤害量"
+msgstr "对敌舰伤害量"
 
 msgid "IDS_MAX_DAMAGE_PER_BATTLE_TOOLTIP"
 msgstr "一场战斗中对敌舰造成的最多伤害"
@@ -43917,7 +43917,7 @@ msgid "IDS_NAVAL_FLAG_GREECE"
 msgstr "希腊海军"
 
 msgid "IDS_NAVAL_FLAG_GREECE_DESCRIPTION"
-msgstr "希腊海军旗帜的设计是在1822年希腊国家复兴期间批准的，此后一直使用，但略有变化。国旗的白色和蓝色代表希腊的天空和海洋；条纹的数量与单词“ελευθερία”（希腊文意为“自由”）中的字母数量相吻合。"
+msgstr "希腊海军旗帜的设计是在1822年希腊国家复兴期间批准的，此后一直使用，但略有变化。国旗的白色和蓝色代表希腊的天空和海洋；条纹的数量与希腊语单词“Elefþería”（意为“自由”）的字符数量相吻合。"
 
 msgid "IDS_NAVAL_FLAG_INDIAN"
 msgstr "印度海军"
@@ -61430,7 +61430,7 @@ msgid "IDS_PBSA210"
 msgstr "大胆"
 
 msgid "IDS_PBSA210_DESCR"
-msgstr "<p>海军条约中的排水量限制被取消后，加上更重型的飞机出现，促使海军部建造比之前的航空母舰尺寸更大的战舰。这导致<b>大胆</b>级问世：设计师以成功的怨仇级为基础，增加了50%的排水量。此战舰安装了更大尺寸的完整双层机库，并为飞行甲板加固装甲，不过机库的装甲防护保持不变。</p>"
+msgstr "<p>海军条约排水量限制的取消以及更重型飞机的出现，促使英国海军部建造比之前的航空母舰尺寸更大的战舰。<b>大胆</b>级由此问世：设计师在成功的怨仇级的基础上，增加了50%的排水量。该舰安装了更大尺寸的完整双层机库，飞行甲板装甲得到强化，而机库装甲防护保持不变。</p>"
 
 msgid "IDS_PBSA210_FULL"
 msgstr "大胆"
@@ -61460,7 +61460,7 @@ msgid "IDS_PBSA510"
 msgstr "马耳他"
 
 msgid "IDS_PBSA510_DESCR"
-msgstr "1942年，建造航空母舰的想法油然而生，其尺寸仅受到船坞面积的制约。1942年末，项目X1的工作开始，即一艘排水量为56800吨的战舰。机库问题是主要的分歧——以前的战舰都采用完全封闭的机库。然而，美国航空母舰的作战经验表明，在机库中预热飞机引擎才能大规模起飞航空大队。最终的解决方案是安装一个开放式机库和在左舷的两个飞机升降机。不过，所有工程都随着二战的结束而停止。"
+msgstr "1942年，有人提议建造一艘规模仅受船坞限制的航空母舰。同年年底，代号X1的项目启动，其设计排水量达56800吨。主要争议集中在机库设计上——此前的战舰均采用全封闭式机库。但美国航母的实战经验表明，需要在机库内预热飞机引擎才能派出大规模机群。最终的解决方案是安装一个开放式机库，并在左舷配备两台升降机。然而，所有建造工作都随二战结束而告终。"
 
 msgid "IDS_PBSA510_FULL"
 msgstr "马耳他"
@@ -66398,7 +66398,7 @@ msgid "IDS_PCEE139_DUDINKA_FLAG_DESCRIPTION"
 msgstr "授予那些帮忙筹集资金以申请2017年在杜金卡创下的“最多人演唱一首歌”纪录。"
 
 msgid "IDS_PCEE140_GIULIO_CESARE_FLAG"
-msgstr "RN尤里乌斯˙恺撒"
+msgstr "RN尤利乌斯˙恺撒"
 
 msgid "IDS_PCEE140_GIULIO_CESARE_FLAG_DESCRIPTION"
 msgstr "Ad quamvis vim perferendam."
@@ -70397,7 +70397,7 @@ msgid "IDS_PCEE797_STALCRAFT_FLAG"
 msgstr "特异区之旗"
 
 msgid "IDS_PCEE797_STALCRAFT_FLAG_DESCRIPTION"
-msgstr "为庆祝《Mir Korabley》与《STALCRAFT: X》联动。"
+msgstr "为庆祝《Mir Korabley》与《STALCRAFT: X》联动。"
 
 msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG"
 msgstr "契约"
@@ -70406,7 +70406,7 @@ msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG_DESCRIPTION"
 msgstr "“契约”是特异区中最年轻且最不寻常的派系。其成员中既有顽固的罪犯，也有宗教狂热分子，但他们都被一个共同的理念所团结——通过苦难获得救赎的可能性。"
 
 msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG_EXTRA_DESCRIPTION"
-msgstr "出自游戏《STALCRAFT: X》。"
+msgstr "出自游戏《STALCRAFT: X》。"
 
 msgid "IDS_PCEE799_STALCRAFT_TANIFA_FLAG"
 msgstr "纪律"
@@ -71564,7 +71564,7 @@ msgstr ""
 msgid "IDS_PCVO006_EV_HL_17_MESSAGE_FIN_FAIL2"
 msgstr ""
 "行动失败。\n"
-"所有防御者都在战斗中倒下。"
+"所有护航战舰都已沉没。"
 
 msgid "IDS_PCVO006_EV_HL_17_MESSAGE_FIN_FAIL3"
 msgstr ""
@@ -72417,7 +72417,7 @@ msgid "IDS_PCZC035_DUNKIRK_S26TORPEDOBOAT"
 msgstr "S 26鱼雷快艇（德国）"
 
 msgid "IDS_PCZC035_DUNKIRK_S26TORPEDOBOAT_DESCRIPTION"
-msgstr "<p>S-26–S-29系列的首舰，直到1945年，都作为模版被复制到之后的纳粹德国海军鱼雷舰上，秉承了德国战舰大尺寸和低矮轮廓的一贯风格。拥有远距离作战和从黑暗中偷袭敌方优势部队等特性。三台总功率为6000马力的柴油引擎提供了高达39节的最高航速。S-26装备了533毫米鱼雷发射管、20 mm Rheinmetall C/30自动机炮和两挺7.92 mm MG 34机枪。后来的德国S 30系列战舰则拥有两座20毫米自动机炮。</p><p class=\"p_spacing\"> </p><p>S 26于1940年5月21日进入部队服役，同时在敦刻尔克附近发动袭击。5月31日晚，她对法国驱逐舰气旋号和热风号进行了一次成功的奇袭。1944年8月19日，她被苏联飞机击沉在多瑙河河口。</p>"
+msgstr "<p>S-26–S-29系列的首舰，直到1945年，都作为模版被复制到之后的纳粹德国海军鱼雷舰上，秉承了德国战舰大尺寸和低矮轮廓的一贯风格。拥有远距离作战和从黑暗中偷袭敌方优势部队等特性。三台总功率为6000马力的柴油引擎提供了高达39节的最高航速。S-26装备了533毫米鱼雷发射管、20 mm Rheinmetall C/30自动机炮和两挺7.92 mm MG 34机枪。后来的德国S-30系列战舰则拥有两座20毫米自动机炮。</p><p class=\"p_spacing\"> </p><p>S 26于1940年5月21日进入部队服役，同时在敦刻尔克附近发动袭击。5月31日晚，她对法国驱逐舰气旋号和热风号进行了一次成功的奇袭。1944年8月19日，她被苏联飞机击沉在多瑙河河口。</p>"
 
 msgid "IDS_PCZC036_DUNKIRK_21CMMORSER"
 msgstr "M 18 L/31 210 mm迫击炮（德国）"
@@ -74665,7 +74665,7 @@ msgid "IDS_PCZC385_ITCA_NINOBIXIO_1914"
 msgstr "尼诺˙比克西奥"
 
 msgid "IDS_PCZC385_ITCA_NINOBIXIO_1914_DESCRIPTION"
-msgstr "<p>1911年初，意大利有四艘无畏舰处于不同的建造阶段，并准备再建造两艘。不过，当时意大利海军没有一艘足够高速的巡洋舰作为新型战列舰的侦察舰，除了奎拉托仍在储备中。1911年2月，又有两艘巡洋舰被正式归类为“侦察舰”（意大利语，“Esploratori”）—— 尼诺˙比克西奥和马萨拉。</p><p class=\"p_spacing\"> </p><p>首舰被命名为尼诺˙杰罗拉莫˙比希奥。他在获得“军事英勇”金质奖章（1821-1873）之后，成为了意大利统一的英雄，并且还是朱塞佩˙加里波第的战友。巡洋舰被命名的另一个重要原因是，最终成为将军和参议员的比希奥本人，是在萨丁尼亚王国海军开启的海军生涯。</p>"
+msgstr "<p>1911年初，意大利有四艘无畏舰处于不同建造阶段，另有两艘正筹备铺设龙骨。然而当时意大利海军尚无一艘航速足以伴随新型主力舰执行侦察任务的巡洋舰，仅“夸尔托”号仍在船台上。1911年2月，又有两艘官方归类为“侦察舰”（意大利语：Esploratori）的巡洋舰铺设龙骨——尼诺˙比克西奥号和马尔萨拉号。</p><p class=\"p_spacing\"> </p><p>首舰以金质“军事英勇”勋章获得者、意大利统一英雄朱塞佩˙加里波第的战友尼诺˙杰罗拉莫˙比克西奥（1821–1873）命名。选择该舰名的另一个重要因素是，最终晋升为将军和参议员的比克西奥，其职业生涯始于在撒丁王国海军服役。</p>"
 
 msgid "IDS_PCZC386_ITCA_TARANTO_1915"
 msgstr "塔兰托，1920"
@@ -74743,7 +74743,7 @@ msgid "IDS_PCZC398_ITCA_TRIESTE"
 msgstr "的里雅斯特"
 
 msgid "IDS_PCZC398_ITCA_TRIESTE_DESCRIPTION"
-msgstr "<p>的里雅斯特是地中海最大的港口和造船中心之一，是意大利加入一战协约国的先决条件。1918年，在意大利皇权的统治下，这座城市的转型对意大利皇家海军的发展至关重要。战后在的里雅斯特造船厂下水的第一艘战舰是一艘10000吨位、主炮口径203毫米的巡洋舰，命名为的里雅斯特。</p><p class=\"p_spacing\"> </p><p>这艘战舰的服役纪念勋章描绘了一个象征这座城市的形象，古罗马作家也将城市名另拼为Tergestum，最早的记录是由尤里乌斯˙恺撒提到的，还有巡洋舰的座右铭：“带来解放”（拉丁语：“Redente Redimo”）。继的里雅斯特之后，该城市的造船厂还建造了一些其他战舰，包括穆齐奥˙阿滕多洛号和朱塞佩˙加里波迪号巡洋舰，以及维托里奥˙维内托号和罗马号战列舰。</p>"
+msgstr "<p>的里雅斯特是地中海最大的港口和造船中心之一，是意大利加入一战协约国的先决条件。1918年，在意大利皇权的统治下，这座城市的转型对意大利皇家海军的发展至关重要。战后在的里雅斯特造船厂下水的第一艘战舰是一艘10000吨位、主炮口径203毫米的巡洋舰，命名为的里雅斯特。</p><p class=\"p_spacing\"> </p><p>这艘战舰的服役纪念勋章描绘了一个象征这座城市的形象，古罗马作家也将城市名另拼为Tergestum，最早的记录是由尤利乌斯˙恺撒提到的，还有巡洋舰的座右铭：“带来解放”（拉丁语：“Redente Redimo”）。继的里雅斯特之后，该城市的造船厂还建造了一些其他战舰，包括穆齐奥˙阿滕多洛号和朱塞佩˙加里波迪号巡洋舰，以及维托里奥˙维内托号和罗马号战列舰。</p>"
 
 msgid "IDS_PCZC399_ITCA_ZARA"
 msgstr "扎拉"
@@ -75157,7 +75157,7 @@ msgid "IDS_PCZC467_GF097_EM_GNEISENAU"
 msgstr "格奈森瑙号战列舰的徽章"
 
 msgid "IDS_PCZC467_GF097_EM_GNEISENAU_DESCRIPTION"
-msgstr "<p>德国战争海军的第一批战列舰沙恩霍斯特号和格奈森瑙号，是为了纪念施佩上将舰队在1914年12月福克兰群岛战役中被摧毁的装甲巡洋舰而命名的。</p><p class=\"p_spacing\"> </p><p>而它们的名字则来自拿破仑战争时期的两名普鲁士军事领袖——格哈德˙冯˙沙恩霍斯特（1755-1813）和奥古斯特˙奈哈特˙冯˙格奈森瑙伯爵（1760-1831）。凯撒的巡洋舰和德国战争海军的战列舰都“继承”了指挥官们曾放置于舰首的家族徽章。</p>"
+msgstr "<p>德国战争海军的第一批战列舰沙恩霍斯特号和格奈森瑙号，是为了纪念施佩上将舰队在1914年12月福克兰群岛战役中被摧毁的装甲巡洋舰而命名的。</p><p class=\"p_spacing\"> </p><p>而它们的名字则来自拿破仑战争时期的两名普鲁士军事领袖——格哈德˙冯˙沙恩霍斯特（1755-1813）和奥古斯特˙奈哈特˙冯˙格奈森瑙伯爵（1760-1831）。德意志帝国的巡洋舰和德国战争海军的战列舰都“继承”了指挥官们曾放置于舰首的家族徽章。</p>"
 
 msgid "IDS_PCZC468_GF097_EM_KARLSRUHE"
 msgstr "卡尔斯鲁厄号巡洋舰的徽章"
@@ -75259,7 +75259,7 @@ msgid "IDS_PCZC484_GF097_DRESDEN"
 msgstr "德累斯顿号"
 
 msgid "IDS_PCZC484_GF097_DRESDEN_DESCRIPTION"
-msgstr "<p>德累斯顿号巡洋舰建于1906年，以萨克森州首府命名，在一定程度上是作为实验型战舰建造的。它是凯撒海军中最早装备蒸汽涡轮机的主力战舰之一。</p><p class=\"p_spacing\"> </p><p>而它的姊妹舰，传奇的埃姆登号，则装备了更老式的推进系统——三胀式蒸汽机。这两艘巡洋舰都在1908年至1909年服役。第一次世界大战期间，两艘战舰都加入了冯˙施佩上将的东亚舰队，并在与英国战舰的战斗中被摧毁。</p>"
+msgstr "<p>德累斯顿号巡洋舰建于1906年，以萨克森州首府命名，在一定程度上是作为实验型战舰建造的。它是德意志帝国海军中最早装备蒸汽涡轮机的主力战舰之一。</p><p class=\"p_spacing\"> </p><p>而它的姊妹舰，传奇的埃姆登号，则装备了更老式的推进系统——三胀式蒸汽机。这两艘巡洋舰都在1908年至1909年服役。第一次世界大战期间，两艘战舰都加入了冯˙施佩上将的东亚舰队，并在与英国战舰的战斗中被摧毁。</p>"
 
 msgid "IDS_PCZC485_GF097_LEBERECHTMAASS"
 msgstr "莱伯勒希特˙马斯"
@@ -89582,13 +89582,13 @@ msgid "IDS_PISB111_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISB505"
-msgstr "尤里乌斯˙恺撒"
+msgstr "尤利乌斯˙恺撒"
 
 msgid "IDS_PISB505_DESCR"
-msgstr "<p>三艘加富尔伯爵级战列舰中的一艘于1910年铺设龙骨。一战后，<b>尤里乌斯˙恺撒</b>经历了彻底的现代化改造。翻新后，她在二战中参加了蓬塔斯蒂洛海战和搜捕马耳他船团的行动，以及巡逻和护航行动。战争结束后，她作为赔偿被移交给苏联，并更名为“新罗西斯克号”。</p>"
+msgstr "<p>三艘加富尔伯爵级战列舰中的一艘于1910年铺设龙骨。一战后，<b>尤利乌斯˙恺撒</b>经历了彻底的现代化改造。翻新后，她在二战中参加了蓬塔斯蒂洛海战和搜捕马耳他船团的行动，以及巡逻和护航行动。战争结束后，她作为赔偿被移交给苏联，并更名为新罗西斯克号。</p>"
 
 msgid "IDS_PISB505_FULL"
-msgstr "尤里乌斯˙恺撒"
+msgstr "尤利乌斯˙恺撒"
 
 msgid "IDS_PISB505_NUMBER"
 msgstr "3"
@@ -90214,7 +90214,7 @@ msgid "IDS_PISD107_YEAR"
 msgstr "1929"
 
 msgid "IDS_PISD108"
-msgstr "库尼贝尔蒂"
+msgstr "维托里奥˙库尼贝尔蒂"
 
 msgid "IDS_PISD108_DESCR"
 msgstr "西北风级驱逐舰服役后，当局着手开发改进设计。其中一种的特点是加装第三座120毫米双联装炮座，放置于舰首的超射位置。此战舰的排水量增加到约2000吨。与已经在建的奥里亚尼级和士兵级驱逐舰相比，该项目被认为过于昂贵，因此未能实施。"
@@ -90775,7 +90775,7 @@ msgid "IDS_PIUH501_DUCA"
 msgstr "奥斯塔公爵"
 
 msgid "IDS_PIUH502_GCESARE"
-msgstr "尤里乌斯˙恺撒"
+msgstr "尤利乌斯˙恺撒"
 
 msgid "IDS_PIUH503_GCESARE"
 msgstr "尤尼乌斯˙布鲁图斯"
@@ -119320,13 +119320,13 @@ msgid "IDS_PZSD102_YEAR"
 msgstr "1913"
 
 msgid "IDS_PZSD103"
-msgstr "帕禳"
+msgstr "帕銮"
 
 msgid "IDS_PZSD103_DESCR"
-msgstr "<p>R级驱逐舰HMS灿烂号于桑尼克罗夫特造船厂建造。一战期间，她在哈里奇部队服役。</p><p class=\"p_spacing\"> </p><p>1920年，这艘驱逐舰被卖给泰国并更名为<b>帕禳</b>。她在二战期间和战后主要被用于训练。</p>"
+msgstr "<p>R级驱逐舰HMS灿烂号于桑尼克罗夫特造船厂建造。一战期间，她在哈里奇部队服役。</p><p class=\"p_spacing\"> </p><p>1920年，这艘驱逐舰被卖给泰国并更名为<b>帕銮</b>。她在二战期间和战后主要被用于训练。</p>"
 
 msgid "IDS_PZSD103_FULL"
-msgstr "帕禳"
+msgstr "帕銮"
 
 msgid "IDS_PZSD103_NUMBER"
 msgstr "5"
@@ -119938,10 +119938,10 @@ msgid "IDS_PZUH102_D2_HULL_B"
 msgstr "龙江(B)"
 
 msgid "IDS_PZUH201_D3_HULL_A"
-msgstr "帕禳(A)"
+msgstr "帕銮(A)"
 
 msgid "IDS_PZUH202_D3_HULL_B"
-msgstr "帕禳(B)"
+msgstr "帕銮(B)"
 
 msgid "IDS_PZUH203_NING_HAI"
 msgstr "宁海"
@@ -143239,7 +143239,7 @@ msgid "IDS_TOOLTIP_TURNINGRADIUS"
 msgstr "战舰回转时所需的最短距离"
 
 msgid "IDS_TOOLTIP_UNAVAILABLE_TO_ACCESS_LEVEL"
-msgstr "将在解锁权限等级%(_level)s后可用"
+msgstr "将在达到权限等级%(_level)s后开放"
 
 msgid "IDS_TOOLTIP_UNDERWATER_MOBILITY"
 msgstr "反映潜艇下潜时的性能的参数。"
@@ -147311,7 +147311,7 @@ msgstr[0] "摧毁战舰"
 
 msgid "IDS_PL_SSE_CONDITIONS_GET_BADGES"
 msgid_plural "IDS_PL_SSE_CONDITIONS_GET_BADGES"
-msgstr[0] "获得%(count)s枚%(badges)s勋带"
+msgstr[0] "获得%(badges)s勋带共%(count)s枚"
 
 msgid "IDS_PL_SSE_CONDITIONS_GO_INTO_BATTLE"
 msgid_plural "IDS_PL_SSE_CONDITIONS_GO_INTO_BATTLE"
