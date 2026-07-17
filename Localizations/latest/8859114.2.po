@@ -2257,7 +2257,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_EPT_2022"
 msgstr "积极参与EAT PLAY TALK线上活动。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ETERIA"
-msgstr "完成《守护伊瑟利亚·升华》的所有章节。"
+msgstr "完成《伊瑟利亚守护者·升华》的所有章节。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_ALLROUNDER"
 msgstr "在星际游戏中获胜的奖励。"
@@ -3251,7 +3251,7 @@ msgid "IDS_ACHIEVEMENT_EPT_2022"
 msgstr "EAT PLAY TALK 2022"
 
 msgid "IDS_ACHIEVEMENT_ETERIA"
-msgstr "守护伊瑟利亚"
+msgstr "伊瑟利亚守护者"
 
 msgid "IDS_ACHIEVEMENT_EV1APR19_ALLROUNDER"
 msgstr "群星环绕奥林匹克"
@@ -21299,13 +21299,13 @@ msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "平衡代币"
 
 msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr "通过在26.8版本期间完成限时活动进度关卡，以及在该版本结束前的有限时间内从兵工厂的组合包中获得。"
+msgstr "通过在26.8版本期间完成限时活动进度等级，以及在该版本结束前的有限时间内从兵工厂的组合包中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
 msgstr "用于在26.8版本期间在兵工厂“伊瑟利亚·升华”版块中兑换奖励，其中包含：稀有和特殊指挥官、精英和稀有指挥官教材、IX级巡洋舰但泽及其永久涂装“淬炼”和纪念旗帜、X级巡洋舰藏王的永久涂装“七曜之矛”，以及其他物品。"
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "“守护伊瑟利亚·升华”活动临时资源。26.9版本发布后，代币将被清空且不予补偿。"
+msgstr "“伊瑟利亚守护者·升华”活动临时资源。26.9版本发布后，代币将被清空且不予补偿。"
 
 msgid "IDS_CURRENCY_EVENTUM_5"
 msgstr "日德兰代币"
@@ -24044,7 +24044,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY015_SPEEDBOOSTERH18"
 msgstr "提升战舰的最高航速，缩短加减速所需时间。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY021_CRASHCREW"
-msgstr "<p>扑灭火灾、清除进水并修复受损配件。<br>阻止敌方潜艇发射的鱼雷进行制导。</p><p class=\"p_spacing\"> </p><p>损管类消耗品。</p>"
+msgstr "<p>扑灭火灾、清除进水并修复受损配件。<br/>阻止敌方潜艇发射的鱼雷进行制导。</p><p class=\"p_spacing\"> </p><p>损管类消耗品。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY022_REGENCREW"
 msgstr "<p>通过修理轻度损伤恢复战舰的部分生命值。</p><p class=\"p_spacing\"> </p><p>维修类消耗品。</p>"
@@ -28335,7 +28335,7 @@ msgid "IDS_DOGTAG_PCNB469_NAME"
 msgstr "优秀服役奖章"
 
 msgid "IDS_DOGTAG_PCNB470_DESCRIPTION"
-msgstr "<p>皓皓巨舰，金缕其章。<br>般若其尾，凶相赫张。<br>秉此怒意，镇兹一方。</p><p class=\"p_spacing\"> </p><p>形兼雅韵，势蕴神威。<br>非舸非舟，若出天工。<br>见彼于垣，终其戎攻。</p><p class=\"p_spacing\"> </p><p>炮震霆怒，荡海平波。<br>赫赫威灵，不可度多。<br>嗟尔巨舰，万代同歌。</p>"
+msgstr "<p>皓皓巨舰，金缕其章。<br/>般若其尾，凶相赫张。<br/>秉此怒意，镇兹一方。</p><p class=\"p_spacing\"> </p><p>形兼雅韵，势蕴神威。<br/>非舸非舟，若出天工。<br/>见彼于垣，终其戎攻。</p><p class=\"p_spacing\"> </p><p>炮震霆怒，荡海平波。<br/>赫赫威灵，不可度多。<br/>嗟尔巨舰，万代同歌。</p>"
 
 msgid "IDS_DOGTAG_PCNB470_NAME"
 msgstr "尾张之鬼"
@@ -28389,7 +28389,7 @@ msgid "IDS_DOGTAG_PCNB479_NAME"
 msgstr "巴斯克维尔的猎犬"
 
 msgid "IDS_DOGTAG_PCNB480_DESCRIPTION"
-msgstr "<p>假进步之名，当行何等牺牲？正当阿斯特利里亚引领时代狂飙突进时，世界的另一端却在承受其所带来的沉重枷锁。</p><p class=\"p_spacing\"> </p><p>纪念“守护伊瑟利亚·升华”活动。</p>"
+msgstr "<p>假进步之名，当行何等牺牲？正当阿斯特利里亚引领时代狂飙突进时，世界的另一端却在承受其所带来的沉重枷锁。</p><p class=\"p_spacing\"> </p><p>纪念“伊瑟利亚守护者·升华”活动。</p>"
 
 msgid "IDS_DOGTAG_PCNB480_NAME"
 msgstr "进步的血税"
@@ -47227,7 +47227,7 @@ msgid "IDS_NO_SHIPS"
 msgstr "没有战舰"
 
 msgid "IDS_NO_SHIPS_TO_RESTORE_HINT"
-msgstr "您没有已售出的特殊或加值战舰"
+msgstr "您没有已被售出的特殊或加值战舰"
 
 msgid "IDS_NO_SIGNALS_ON_STORAGE_HINT"
 msgstr "您没有信号旗"
@@ -53443,7 +53443,7 @@ msgid "IDS_PARAMS_MODIFIER_ASMAXHEALTHCOEFF"
 msgstr "空袭和支援中队飞机生命值"
 
 msgid "IDS_PARAMS_MODIFIER_ASNUMPACKSBONUS"
-msgstr "空袭和支援次数"
+msgstr "空袭和支援中队可用次数"
 
 msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF_AIRCARRIER"
 msgstr "空袭和支援中队装填时间"
@@ -67686,7 +67686,7 @@ msgid "IDS_PCEE074_OSCAR_AWARDS"
 msgstr "荣誉奖"
 
 msgid "IDS_PCEE074_OSCAR_AWARDS_DESCRIPTION"
-msgstr "<p>获得“最佳照片”提名的有：</p><p class=\"p_spacing\"> </p><p>• 巡洋舰和不寻常的惩罚<br>• 驱逐舰？我和它不熟！<br>• 斯蒂芬·金的航空母舰<br>• 战列舰，但不是指那部电影</p>"
+msgstr "<p>获得“最佳照片”提名的有：</p><p class=\"p_spacing\"> </p><p>• 巡洋舰和不寻常的惩罚<br/>• 驱逐舰？我和它不熟！<br/>• 斯蒂芬·金的航空母舰<br/>• 战列舰，但不是指那部电影</p>"
 
 msgid "IDS_PCEE075_SEASONFLAG06"
 msgstr "海军要塞指挥官"
@@ -72294,7 +72294,7 @@ msgid "IDS_PCEE821_SHENANDOAH_FLAG_DESCRIPTION"
 msgstr "谢南多厄河——流经弗吉尼亚州同名山谷的一条河流。在美国内战期间，来自该山谷的爱尔兰裔新兵加入了“翡翠卫队”，这是南方邦联军第33步兵团下属的一个连队。"
 
 msgid "IDS_PCEE822_SAN_GIORGIO_FLAG"
-msgstr "RN圣乔治"
+msgstr "RN圣乔治奥"
 
 msgid "IDS_PCEE822_SAN_GIORGIO_FLAG_DESCRIPTION"
 msgstr "自1947年起，意大利海军舰艇的舰首旗上便绘制着四个历史海洋共和国的徽章：威尼斯、热那亚、比萨和阿马尔菲。在过去，这些城邦国家每一个都是航海、海上贸易和造船业的著名中心。"
@@ -72324,7 +72324,7 @@ msgid "IDS_PCEE826_ETERIA_STORY_FLAG_DESCRIPTION"
 msgstr "蒸汽技术的发源国。阿斯特利里亚人相信，他们的发明是理性的胜利，然而，“蒸汽心脏”所蕴含的远不止简单的齿轮。从钟表到巨大的飞艇，每个机械装置都依靠这股隐藏的力量运转。"
 
 msgid "IDS_PCEE826_ETERIA_STORY_FLAG_EXTRA_DESCRIPTION"
-msgstr "为纪念“守护伊瑟利亚·升华”活动。"
+msgstr "为纪念“伊瑟利亚守护者·升华”活动。"
 
 msgid "IDS_PCEE827_BUDAPEST_FLAG"
 msgstr "SMS布达佩斯"
@@ -72381,7 +72381,7 @@ msgid "IDS_PCEE845_SKADY_SPEAR_FLAG_DESCRIPTION"
 msgstr "严酷的冰雪荒原边缘。温特加德人的建筑和武器仿佛由千年寒冰锻造而成：乍看透明而脆弱，实则不受自然力量影响，即便在最炎热的夏日也绝不消融。仿佛寒冬本身与他们结下了牢不可破的盟约。"
 
 msgid "IDS_PCEE845_SKADY_SPEAR_FLAG_EXTRA_DESCRIPTION"
-msgstr "为纪念“守护伊瑟利亚·升华”活动。"
+msgstr "为纪念“伊瑟利亚守护者·升华”活动。"
 
 msgid "IDS_PCEE846_IVAN_GROZNY_FLAG"
 msgstr "伊凡雷帝"
@@ -91692,13 +91692,13 @@ msgid "IDS_PISB539_YEAR"
 msgstr "1934"
 
 msgid "IDS_PISB549"
-msgstr "圣乔治"
+msgstr "圣乔治奥"
 
 msgid "IDS_PISB549_DESCR"
 msgstr "<p>20世纪30年代初，苏联与意大利在海军领域展开了合作。1936年，安萨尔多公司根据苏联提出的需求，设计了多型舰艇方案，其中包括了一型装备有三座三联装406毫米主炮的战列舰方案。</p><p class=\"p_spacing\"> </p><p>如果该型战列舰最终在意大利建造，她预计要到20世纪40年代初才能服役，并将采用意大利国产武器装备。由于意大利海军当时并没有406毫米舰炮，因此可能会通过增加主炮数量来提升舰艇火力。事实上，意大利早在20世纪10年代末到20年代初，就已经为战列舰研究过装备有四联装381毫米主炮的方案。</p>"
 
 msgid "IDS_PISB549_FULL"
-msgstr "圣乔治"
+msgstr "圣乔治奥"
 
 msgid "IDS_PISB549_NUMBER"
 msgstr "1"
@@ -92984,7 +92984,7 @@ msgid "IDS_PIUH813_C9_HULL_TOP"
 msgstr "埃利乌斯·哈德良"
 
 msgid "IDS_PIUH814_HULL_SAN_GIORGIO"
-msgstr "圣乔治"
+msgstr "圣乔治奥"
 
 msgid "IDS_PIUH900_HULL_BLACK_NAPOLI"
 msgstr "那不勒斯B"
@@ -96818,7 +96818,7 @@ msgid "IDS_PJSB599"
 msgstr "尾张之鬼"
 
 msgid "IDS_PJSB599_DESCR"
-msgstr "<p>皓皓巨舰，金缕其章。<br>般若其尾，凶相赫张。<br>秉此怒意，镇兹一方。</p><p class=\"p_spacing\"> </p><p>形兼雅韵，势蕴神威。<br>非舸非舟，若出天工。<br>见彼于垣，终其戎攻。</p><p class=\"p_spacing\"> </p><p>炮震霆怒，荡海平波。<br>赫赫威灵，不可度多。<br>嗟尔巨舰，万代同歌。</p>"
+msgstr "<p>皓皓巨舰，金缕其章。<br/>般若其尾，凶相赫张。<br/>秉此怒意，镇兹一方。</p><p class=\"p_spacing\"> </p><p>形兼雅韵，势蕴神威。<br/>非舸非舟，若出天工。<br/>见彼于垣，终其戎攻。</p><p class=\"p_spacing\"> </p><p>炮震霆怒，荡海平波。<br/>赫赫威灵，不可度多。<br/>嗟尔巨舰，万代同歌。</p>"
 
 msgid "IDS_PJSB599_FULL"
 msgstr "尾张之鬼"
@@ -106609,7 +106609,7 @@ msgid "IDS_PRSB607"
 msgstr "斯卡蒂之矛"
 
 msgid "IDS_PRSB607_DESCR"
-msgstr "<p>温特加德的旗舰。这片土地上的居民既不向自然的力量低头，也不向敌人屈服——令人联想到挣脱千年冻土束缚的破冰船。</p><p class=\"p_spacing\"> </p><p>它的外观体现了北方民族的古老传统：舰体和武器仿佛是从亘古冰层中雕琢而成。然而，在这看似脆弱的美丽背后，却蕴藏着于严酷气候中锤炼而出的无穷力量与不屈不挠的坚韧品格。</p>"
+msgstr "<p>凛冬之邦，兆民铁骨，弗屈天灾之怒，不降强寇之锋；<br/>主阵巨舰，乘风破浪，如挣极寒之锁，势碎万古之冬。</p><p class=\"p_spacing\"> </p><p>表承北塞遗风，舰体兵甲，宛若千载玄冰所琢；<br/>内隐百炼刚魂，铁血丹心，实由万重霜雪所淬。<br/>观其貌，似琉璃易碎，隐透空灵之美；<br/>察其里，藏雷霆万钧，暗存不屈之威。</p>"
 
 msgid "IDS_PRSB607_FULL"
 msgstr "斯卡蒂之矛"
@@ -113425,7 +113425,7 @@ msgid "IDS_PVSC517"
 msgstr "五月二十五日"
 
 msgid "IDS_PVSC517_DESCR"
-msgstr "<p>第一次世界大战结束后，阿根廷海军已服役了数艘新锐战列舰，但拥有的巡洋舰却已显老旧。为此，阿根廷国会拨款，计划从国外采购数艘新型巡洋舰。</p><p class=\"p_spacing\"> </p><p>最终，阿根廷向意大利订购了两艘巡洋舰。其设计基于特伦托级重巡洋舰，但舰体尺寸更小，火力和装甲防护也有所削弱。</p><p class=\"p_spacing\"> </p><p>其中，巡洋舰<b>五月二十五日</b>号由位于利沃诺的奥德罗-特尔尼-奥兰多公司建造。1936-1937年的西班牙内战期间，该舰曾参与营救阿根廷公民，并协助运送西班牙难民。20世纪30到40年代，<b>五月二十五日</b>号主要都在参加各类海军演习和礼仪活动。1954-1955年间，该舰被解除了武装，随后被改作训练舰继续服役。</p>"
+msgstr "<p>第一次世界大战结束后，阿根廷海军已服役了数艘新锐战列舰，但拥有的巡洋舰却已显老旧。为此，阿根廷国会拨款，计划从国外采购数艘新型巡洋舰。</p><p class=\"p_spacing\"> </p><p>最终，阿根廷向意大利订购了两艘巡洋舰。其设计基于特伦托级重巡洋舰，但舰体尺寸更小，火力和装甲防护也有所削弱。</p><p class=\"p_spacing\"> </p><p>其中，巡洋舰<b>五月二十五日</b>号由位于利沃诺的奥德罗-特尔尼-奥兰多公司建造。1936–37年的西班牙内战期间，该舰曾参与营救阿根廷公民，并协助运送西班牙难民。20世纪30到40年代，<b>五月二十五日</b>号主要都在参加各类海军演习和礼仪活动。1954–55年间，该舰被解除了武装，随后被改作训练舰继续服役。</p>"
 
 msgid "IDS_PVSC517_FULL"
 msgstr "五月二十五日"
@@ -131995,7 +131995,7 @@ msgid "IDS_SAGA_FINAL_DESCRIPTION"
 msgstr "您可以在历史档案中观看已完成的章节。"
 
 msgid "IDS_SAGA_FINAL_ETERIA_FINAL_STATS_TIME_DESCRIPTION"
-msgstr "“守护伊瑟利亚·升华”活动已结束。"
+msgstr "“伊瑟利亚守护者·升华”活动已结束。"
 
 msgid "IDS_SAGA_FINAL_STATS_REACHED_TITLE"
 msgstr "活动已结束"
@@ -132022,7 +132022,7 @@ msgid "IDS_SAGA_JOURNEY_TASKS_TITLE"
 msgstr "活动任务"
 
 msgid "IDS_SAGA_MAIN_TITLE_ETERIA"
-msgstr "守护伊瑟利亚·升华"
+msgstr "伊瑟利亚守护者·升华"
 
 msgid "IDS_SAGA_ONBOARDING_ADDITIONAL_CREW_INFO"
 msgstr "活动指挥官也可在兵工厂中获得。"
@@ -132064,7 +132064,7 @@ msgid "IDS_SAGA_PROGRESS_CURRENCY_TITLE"
 msgstr "进度积分"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_DESCRIPTION"
-msgstr "《守护伊瑟利亚·升华》全部章节"
+msgstr "《伊瑟利亚守护者·升华》全部章节"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_HEADER"
 msgstr "档案"
@@ -137474,7 +137474,7 @@ msgid "IDS_SHIP_PURCHASE"
 msgstr "战舰购买"
 
 msgid "IDS_SHIP_READY_RESEARCH"
-msgstr "已准备好进行研发战舰"
+msgstr "战舰已可研发"
 
 msgid "IDS_SHIP_RENT_CREW_HINT"
 msgstr "租用期为%(_timeLeft)s的战舰指挥官"
@@ -137489,19 +137489,19 @@ msgid "IDS_SHIP_RESEARCH_PROGRESS"
 msgstr "研发进度："
 
 msgid "IDS_SHIP_RESTORATION_DESCRIPTION_PARAGRAPH_1"
-msgstr "您可以恢复之前出售的特殊和加值战舰。"
+msgstr "您可以恢复之前已被售出的特殊和加值战舰。"
 
 msgid "IDS_SHIP_RESTORATION_DESCRIPTION_PARAGRAPH_2"
 msgstr "请注意：部分过往活动中的战舰无法恢复。"
 
 msgid "IDS_SHIP_RESTORATION_FOOTER_TITLE"
-msgstr "恢复已售出的战舰"
+msgstr "恢复已被售出的战舰"
 
 msgid "IDS_SHIP_RESTORATION_HEADER"
 msgstr "恢复战舰"
 
 msgid "IDS_SHIP_RESTORATION_RESTORED_SINCE"
-msgstr "可以恢复在%(_date)s之后出售的战舰"
+msgstr "可以恢复在%(_date)s之后被您售出的战舰"
 
 msgid "IDS_SHIP_RESTORATION_SHIP_LIST"
 msgstr "战舰列表"
@@ -150052,7 +150052,7 @@ msgstr[0] "距离您上次登录游戏已超过%(hours)s小时。您的游戏银
 
 msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
 msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgstr[0] "<p>获得<br><span class=\"bold\">%(_score)s分</span></p>"
+msgstr[0] "<p>获得<br/><span class=\"bold\">%(_score)s分</span></p>"
 
 msgid "IDS_ARC_EVENT_POINTS_COST"
 msgid_plural "IDS_ARC_EVENT_POINTS_COST"
