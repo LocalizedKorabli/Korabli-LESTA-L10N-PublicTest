@@ -815,7 +815,7 @@ msgid "IDS_ACCOUNT_COMPLETION_FINISH_BUTTON"
 msgstr "创建账号"
 
 msgid "IDS_ACCOUNT_COMPLETION_FINISH_DESCRIPTION"
-msgstr "欢迎来到Lesta的游戏世界！您可以收集奖励："
+msgstr "欢迎来到Lesta的游戏世界！您可以领取以下奖励："
 
 msgid "IDS_ACCOUNT_COMPLETION_FINISH_HEADER"
 msgstr "您的账号已创建"
@@ -1634,9 +1634,9 @@ msgstr "获得勋带"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_SPOT_DAMAGE_DESCRIPTION"
 msgstr ""
-"一起组成小队游玩时，通过征募人和海军战友的侦察，协助己方团队对敌人造成伤害。造成的伤害必须至少为所有敌舰基础生命值的25%%。\n"
+"一起组成小队游玩时，通过征募人和海军战友的侦察，协助己方团队对敌人造成伤害。造成的伤害必须至少为所有敌舰基础生命值的25%%\n"
 "\n"
-"其中，征募人和海军战友合计造成的伤害必须至少为所有敌舰基础生命值的25%%。"
+"其中，征募人和海军战友合计造成的伤害必须至少为所有敌舰基础生命值的25%%"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_REF_SQUAD_SPOT_DAMAGE_TITLE"
 msgstr "协助己方团队造成伤害"
@@ -2257,7 +2257,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_EPT_2022"
 msgstr "积极参与EAT PLAY TALK线上活动。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ETERIA"
-msgstr "完成《伊瑟利亚守护者·升华》的所有章节。"
+msgstr "完成《伊忒利亚守护者·升华》的所有章节。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_ALLROUNDER"
 msgstr "在星际游戏中获胜的奖励。"
@@ -3251,7 +3251,7 @@ msgid "IDS_ACHIEVEMENT_EPT_2022"
 msgstr "EAT PLAY TALK 2022"
 
 msgid "IDS_ACHIEVEMENT_ETERIA"
-msgstr "伊瑟利亚守护者"
+msgstr "伊忒利亚守护者"
 
 msgid "IDS_ACHIEVEMENT_EV1APR19_ALLROUNDER"
 msgstr "群星环绕奥林匹克"
@@ -7291,7 +7291,7 @@ msgid "IDS_BARRACK_IS_FULL"
 msgstr "预备队已满"
 
 msgid "IDS_BASE_AI_1"
-msgstr "发电机已启动，护盾模块功率已达100%。开始为撤离系统充能。"
+msgstr "发电机已启动，护盾模块功率已达100%，开始为撤离系统充能。"
 
 msgid "IDS_BASE_AI_10"
 msgstr "撤离系统充能已达50%！"
@@ -7664,7 +7664,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_REWARDS_MULTIPLE_ALL"
 msgstr "您将获得所有可选的奖励："
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_REWARDS_MULTIPLE_CHOICE"
-msgstr "您可以从提供的奖励中选择："
+msgstr "您可以从提供的奖励中选择一项："
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_REWARDS_SINGLE"
 msgstr "您将获得所有单项奖励："
@@ -21236,7 +21236,7 @@ msgid "IDS_CURRENCY_ELITEXP"
 msgstr "精英指挥官经验"
 
 msgid "IDS_CURRENCY_ELITEXP_GET_DESCRIPTION"
-msgstr "获取量为每场战斗所获得指挥官经验的5%。指挥官达到等级上限后，所获得的指挥官经验将全为精英指挥官经验。"
+msgstr "获取量为每场战斗所获得指挥官经验的5%，指挥官达到等级上限后，所获得的指挥官经验将全为精英指挥官经验。"
 
 msgid "IDS_CURRENCY_ELITEXP_MOUSE_INSTRUCTION"
 msgstr "将经验转换成全局经验"
@@ -21302,10 +21302,10 @@ msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
 msgstr "通过在26.8版本期间完成限时活动进度等级，以及在该版本结束前的有限时间内从兵工厂的组合包中获得。"
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "用于在26.8版本期间在兵工厂“伊瑟利亚·升华”版块中兑换奖励，其中包含：稀有和特殊指挥官、精英和稀有指挥官教材、IX级巡洋舰但泽及其永久涂装“淬炼”和纪念旗帜、X级巡洋舰藏王的永久涂装“七曜之矛”，以及其他物品。"
+msgstr "用于在26.8版本期间在兵工厂“伊忒利亚·升华”版块中兑换奖励，其中包含：稀有和特殊指挥官、精英和稀有指挥官教材、IX级巡洋舰但泽及其永久涂装“淬炼”和纪念旗帜、X级巡洋舰藏王的永久涂装“七曜之矛”，以及其他物品。"
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "“伊瑟利亚守护者·升华”活动临时资源。26.9版本发布后，代币将被清空且不予补偿。"
+msgstr "“伊忒利亚守护者·升华”活动临时资源。26.9版本发布后，代币将被清空且不予补偿。"
 
 msgid "IDS_CURRENCY_EVENTUM_5"
 msgstr "日德兰代币"
@@ -21395,7 +21395,7 @@ msgid "IDS_CURRENCY_FREEXP"
 msgstr "全局经验"
 
 msgid "IDS_CURRENCY_FREEXP_GET_DESCRIPTION"
-msgstr "获取量为每场战斗所获得战舰经验（应用加成前）的10%。"
+msgstr "获取量为每场战斗所获得战舰经验（应用加成前）的10%"
 
 msgid "IDS_CURRENCY_FREEXP_MOUSE_INSTRUCTION"
 msgstr "将经验转换成全局经验"
@@ -21494,7 +21494,7 @@ msgid "IDS_CURRENCY_SHIPCOIN10_GET_DESCRIPTION"
 msgstr "可通过参与活动获得。"
 
 msgid "IDS_CURRENCY_SHIPCOIN10_SPEND_DESCRIPTION"
-msgstr "可用于研发并购买科技树版块中的任何X级战舰。"
+msgstr "可用于在科技树版块中获得任何X级可研发战舰。"
 
 msgid "IDS_CURRENCY_SHIPCOIN7"
 msgstr "VII级战舰订单"
@@ -21503,7 +21503,7 @@ msgid "IDS_CURRENCY_SHIPCOIN7_GET_DESCRIPTION"
 msgstr "可通过参与活动获得。"
 
 msgid "IDS_CURRENCY_SHIPCOIN7_SPEND_DESCRIPTION"
-msgstr "可用于研发并购买科技树版块中的任何VII级战舰。"
+msgstr "可用于在科技树版块中获得任何VII级可研发战舰。"
 
 msgid "IDS_CURRENCY_SHIPCOIN8"
 msgstr "VIII级战舰订单"
@@ -21512,7 +21512,7 @@ msgid "IDS_CURRENCY_SHIPCOIN8_GET_DESCRIPTION"
 msgstr "可通过参与活动获得。"
 
 msgid "IDS_CURRENCY_SHIPCOIN8_SPEND_DESCRIPTION"
-msgstr "可用于研发并购买科技树版块中的任何VIII级战舰。"
+msgstr "可用于在科技树版块中获得任何VIII级可研发战舰。"
 
 msgid "IDS_CURRENCY_SHIPCOIN9"
 msgstr "IX级战舰订单"
@@ -21521,7 +21521,7 @@ msgid "IDS_CURRENCY_SHIPCOIN9_GET_DESCRIPTION"
 msgstr "可通过参与活动获得。"
 
 msgid "IDS_CURRENCY_SHIPCOIN9_SPEND_DESCRIPTION"
-msgstr "可用于研发并购买科技树版块中的任何IX级战舰。"
+msgstr "可用于在科技树版块中获得任何IX级可研发战舰。"
 
 msgid "IDS_CURRENCY_SHIPCOIN_GET_DESCRIPTION"
 msgstr "可通过参与活动获得。"
@@ -21533,7 +21533,7 @@ msgid "IDS_CURRENCY_SHIPCOIN_MOUSE_INSTRUCTION"
 msgstr "购买战舰订单"
 
 msgid "IDS_CURRENCY_SHIPCOIN_SPEND_DESCRIPTION"
-msgstr "可用于研发并购买科技树版块中相应等级的战舰。"
+msgstr "可用于在科技树版块中获得任何相应等级的可研发战舰。"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr "蓝图∣%(_shipName)s"
@@ -24116,7 +24116,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY301_IMMORTAL_PVP"
 msgstr "<p>缩短一半被侦察范围且每秒恢复100生命值直到您的战舰被敌方发现。</p><p class=\"p_spacing\"> </p><p>若我方剩余战舰数量少于敌方，生命值恢复效果翻倍。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY302_HEALSHELL_PVP"
-msgstr "<p>当您击中您的友军时将会为那名友军恢复1000点生命值，为您恢复500点生命值。<br/>主炮的装填时间缩短四分之三。</p><p class=\"p_spacing\"> </p><p>若我方剩余的战舰数量少于敌方，生命值恢复效果加倍。</p>"
+msgstr "<p>命中友军战舰将为其恢复1000点生命值，同时为您的战舰恢复500点生命值。<br/>主炮的装填时间缩短为原来的1/4。</p><p class=\"p_spacing\"> </p><p>若我方剩余的战舰数少于敌方，则生命值恢复效果翻倍。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY303_ADDCONSUMABLE_PVP"
 msgstr "5公里半径范围内的所有友军都可以额外使用一次消耗品。"
@@ -24220,7 +24220,7 @@ msgstr ""
 "主炮装填时间减半。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY335_REGENRESIST_H2019"
-msgstr "每秒恢复1000点生命值。受到的伤害降低80%。"
+msgstr "每秒恢复1000点生命值。受到的伤害降低80%"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY336_VAMPIRIC_H2019"
 msgstr "加快主炮装填。恢复战舰造成伤害50%的生命值。"
@@ -24250,7 +24250,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY406_HEALALL_H2020"
 msgstr "您和友军战舰恢复10000点生命值。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY407_RESISTALLBUFF_H2020"
-msgstr "您和友军战舰所受伤害降低75%。"
+msgstr "您和友军战舰所受伤害降低75%"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY408_HEALBUFF_H2020"
 msgstr "使半径5公里内的友军获得临时增益：生命值恢复。"
@@ -24337,7 +24337,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY516_2025WT_PARTICLEBARRIER"
 msgstr "在战舰周围生成一个护盾，阻挡并吸收所有受到的伤害。作用时间结束后，护盾爆炸，对作用区域内的每个敌人造成累积的全部伤害。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY517_2025WT_HOUNDSVAMPIRISM"
-msgstr "将造成伤害的25%转化为战舰的生命值，10%转化为每艘友军战舰的生命值。使战舰上所有武器的射速提高30%。"
+msgstr "将造成伤害的25%转化为战舰的生命值，10%转化为每艘友军战舰的生命值。使战舰上所有武器的射速提高30%"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY518_2025WT_HOUNDSRESIST"
 msgstr "为队伍中的所有战舰减少70%受到的伤害。"
@@ -24349,7 +24349,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY520_2025WT_HOUNDSMASSHEAL"
 msgstr "立刻为队伍中每艘战舰恢复7500点生命值。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
-msgstr "将队伍中所有战舰的航速和机动性提高40%。"
+msgstr "将队伍中所有战舰的航速和机动性提高40%"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY522_2025WT_HOUNDSROTARYAC"
 msgstr "每命中同一敌方战舰10次，可将主炮装填时间缩短10%，并增强主炮的其他属性。命中其他目标时进度重置。"
@@ -24379,7 +24379,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY534_2025WT_HOUNDSSLOWDOWN"
 msgstr "在启用期间，以主炮炮弹命中敌舰可将后者的航速和机动性降低50%，持续时间20秒。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY535_2025WT_HOUNDSSUPERDESPERATE"
-msgstr "在启用期间，以自身受到持续伤害的代价，将所有类型武器的射速和伤害提高25%。若战舰被摧毁，加成将失效。"
+msgstr "在启用期间，以自身受到持续伤害的代价，将所有类型武器的射速和伤害提高25%；若战舰被摧毁，加成将失效。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY536_2025WT_HOUNDSLOSSCOUNTER"
 msgstr "每启用一次，都对战舰生命值、机动性和武器射速提供+5%的增益，并持续恢复战舰生命值。每失去一名队友，该消耗品的装载数都会增加。您的战舰被摧毁时，将会失去所有增益和累积的消耗品装载数。"
@@ -28389,7 +28389,7 @@ msgid "IDS_DOGTAG_PCNB479_NAME"
 msgstr "巴斯克维尔的猎犬"
 
 msgid "IDS_DOGTAG_PCNB480_DESCRIPTION"
-msgstr "<p>假进步之名，当行何等牺牲？正当阿斯特利里亚引领时代狂飙突进时，世界的另一端却在承受其所带来的沉重枷锁。</p><p class=\"p_spacing\"> </p><p>纪念“伊瑟利亚守护者·升华”活动。</p>"
+msgstr "<p>假进步之名，当行何等牺牲？正当阿斯特利里亚引领时代狂飙突进时，世界的另一端却在承受其所带来的沉重枷锁。</p><p class=\"p_spacing\"> </p><p>纪念“伊忒利亚守护者·升华”活动。</p>"
 
 msgid "IDS_DOGTAG_PCNB480_NAME"
 msgstr "进步的血税"
@@ -30475,7 +30475,7 @@ msgid "IDS_ESCORTING_SHIP"
 msgstr "护航舰"
 
 msgid "IDS_ETERIA_ARCHIVE_CHAPTER_1_DESCRIPTION"
-msgstr "伊瑟利亚皇帝偕同皇女接见各国使团。此刻，多方势力正齐聚中立海域，一场紧急峰会已在风暴前夕拉开帷幕。"
+msgstr "伊忒利亚皇帝偕同皇女接见各国使团。此刻，多方势力正齐聚中立海域，一场紧急峰会已在风暴前夕拉开帷幕。"
 
 msgid "IDS_ETERIA_ARCHIVE_CHAPTER_1_TITLE"
 msgstr "第1章：山雨欲来"
@@ -30487,7 +30487,7 @@ msgid "IDS_ETERIA_ARCHIVE_CHAPTER_2_TITLE"
 msgstr "第2章：进步血税"
 
 msgid "IDS_ETERIA_ARCHIVE_CHAPTER_3_DESCRIPTION"
-msgstr "突如其来的战火，让本就紧绷的局势彻底陷入疯狂。乱局之中，真相浮出水面——伊瑟利亚人终于得知，究竟是谁夺走了那批致命的炼金卷轴。"
+msgstr "突如其来的战火，让本就紧绷的局势彻底陷入疯狂。乱局之中，真相浮出水面——伊忒利亚人终于得知，究竟是谁夺走了那批致命的炼金卷轴。"
 
 msgid "IDS_ETERIA_ARCHIVE_CHAPTER_3_TITLE"
 msgstr "第3章：蛛丝马迹"
@@ -30544,7 +30544,7 @@ msgid "IDS_ETERIA_CHARACTER_TINA"
 msgstr "蒂娜"
 
 msgid "IDS_ETERIA_FINAL_REWARD_CREW_UNKNOWN"
-msgstr "伊瑟利亚公主"
+msgstr "伊忒利亚公主"
 
 msgid "IDS_ETERIA_NAME_EPISODE_1"
 msgstr "御前舱室"
@@ -30556,7 +30556,7 @@ msgid "IDS_ETERIA_NAME_EPISODE_11"
 msgstr "终章·阿斯特利里亚"
 
 msgid "IDS_ETERIA_NAME_EPISODE_12"
-msgstr "扎尔汗终章"
+msgstr "终章·扎尔汗"
 
 msgid "IDS_ETERIA_NAME_EPISODE_2"
 msgstr "温特加德战舰"
@@ -30568,7 +30568,7 @@ msgid "IDS_ETERIA_NAME_EPISODE_4"
 msgstr "诺克玛尔巡洋舰"
 
 msgid "IDS_ETERIA_NAME_EPISODE_5"
-msgstr "支援温特加德"
+msgstr "支持温特加德"
 
 msgid "IDS_ETERIA_NAME_EPISODE_6"
 msgstr "温特加德的要求实属荒诞"
@@ -30607,7 +30607,7 @@ msgid "IDS_ETERIA_NAME_TASK_SECTION_4"
 msgstr "循迹追击"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_1"
-msgstr "伊瑟利亚人登上温特加德的战列舰。这艘冰霜巨人般的巨舰散发着宜人的凛冽气息……"
+msgstr "伊忒利亚人登上温特加德的战列舰。这艘冰霜巨人般的巨舰散发着宜人的凛冽气息……"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_10"
 msgstr "是谁在那儿像只老乌鸦似的嘀咕？"
@@ -30616,7 +30616,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_11"
 msgstr "埃莉诺，我亲爱的老友！首领居然答应把西伦达尔那位年迈的女王也捎来峰会？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_12"
-msgstr "啧！你还是没学会怎么跟女士说话。"
+msgstr "啧！你还是没学会怎么跟女士好好说话。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_13"
 msgstr "哈哈，好啦好啦。拉娜，还记得埃莉诺吗？小时候你总缠着她翻译呱蛙在叫什么、翼狐在嚷什么，还有……"
@@ -30625,7 +30625,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_14"
 msgstr "陛下，请勿在外人面前——"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_15"
-msgstr "咱们可以聊聊你小时候的事，马罗。你迈出的第一步我可记得清清楚楚，你父母跟我讲过多少趣事啊！"
+msgstr "咱们可以聊聊你小时候的事，马罗。你蹒跚学步时的模样，我可记得清清楚楚。至于你的父母，他们可没少讲关于你的趣事！"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_16"
 msgstr "改日定当洗耳恭听。恕我失陪，陛下，我们该去迎接诺克玛尔的使团了。"
@@ -30634,10 +30634,10 @@ msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_17"
 msgstr "回头见！老太婆。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_18"
-msgstr "诺克玛尔巡洋舰靠泊在伊瑟利亚船旁。指挥官凯拉与艾拉公主登上甲板。"
+msgstr "诺克玛尔巡洋舰靠泊在伊忒利亚战舰旁。指挥官凯拉与艾拉公主登上甲板。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_2"
-msgstr "怎么，想偷懒？趴下——俯卧撑！五组，每组三十个。快！"
+msgstr "怎么，想偷懒？摔倒了就做俯卧撑！五组，每组三十个。快！"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_10_SCENE_3"
 msgstr "您说什么？"
@@ -30673,16 +30673,16 @@ msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_12"
 msgstr "妮凯娅？……你是否清醒？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_13"
-msgstr "哦，请恕罪……在我徒劳地试图适应你们的作息时，卢米纳里亚人已经进入第十个梦乡了。"
+msgstr "哦，请恕罪……不过我还在徒劳地试图适应你们的作息时，那些卢米纳里亚人已经睡得鼾声震天了。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_14"
 msgstr "蒂娜带着大家在甲板上参观，兴致勃勃地讲解蒸汽核心的构造。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_15"
-msgstr "过了一会儿，诺克玛尔的舰艇抵达。指挥官凯拉与艾拉公主登上伊瑟利亚的甲板。"
+msgstr "过了一会儿，诺克玛尔的舰艇抵达。指挥官凯拉与艾拉公主登上伊忒利亚的甲板。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_2"
-msgstr "嘿，伊瑟利亚人！我是蒂娜，国家首席机械师。想跟国王陛下谈谈吗？"
+msgstr "嘿，伊忒利亚人！我是蒂娜，国家首席机械师。想跟国王陛下谈谈吗？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_3"
 msgstr "你好。对，我想在峰会开始前跟他聊聊，同时也把我们新任的舰队提督介绍给他。"
@@ -30706,7 +30706,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_11_SCENE_9"
 msgstr "我是涅蕾，扎尔汗的祭司。阿斯特利里亚好心地送我们来参加峰会。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_1"
-msgstr "嘿，伊瑟利亚人！我是蒂娜，国家首席机械师。想跟国王陛下谈谈吗？"
+msgstr "嘿，伊忒利亚人！我是蒂娜，国家首席机械师。想跟国王陛下谈谈吗？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_10"
 msgstr "*困倦的叹息*"
@@ -30715,7 +30715,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_11"
 msgstr "妮凯娅？……又睡着了？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_12"
-msgstr "哦，请恕罪……在我徒劳地试图适应你们的作息时，卢米纳里亚人已经进入第十个梦乡了。"
+msgstr "哦，请恕罪……不过我还在徒劳地试图适应你们的作息时，那些卢米纳里亚人已经睡得鼾声震天了。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_12_SCENE_13"
 msgstr "蒂娜带着大家在甲板上参观，兴致勃勃地讲解蒸汽核心的构造。感谢了她的热情接待后，马罗和拉娜前去迎接温特加德的使团。"
@@ -30751,13 +30751,13 @@ msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_2"
 msgstr "稍后，在走廊某处……"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_3"
-msgstr "供应线保住了，很好。但伊瑟利亚的干预让我们没能挑拨阿斯特利里亚与温特加德开战。你和妮凯娅的计划失败了。联系卢切扎尔，需要制定新的策略。"
+msgstr "供应线保住了，很好。但伊忒利亚的干预让我们没能挑拨阿斯特利里亚与温特加德开战。你和妮凯娅的计划失败了。联系卢切扎尔，需要制定新的策略。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_13_SCENE_4"
 msgstr "遵命，主人。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_1"
-msgstr "决议已定。阿斯特利里亚转向更环保的生产方式。由于财务负担，他们无法再援助扎尔汗，人道援助将由伊瑟利亚接手。"
+msgstr "决议已定。阿斯特利里亚转向更环保的生产方式。由于财务负担，他们无法再援助扎尔汗，人道援助将由伊忒利亚接手。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_14_SCENE_2"
 msgstr "至于裁军……部分阿斯特利里亚军工企业将转产民用产品。温特加德将撤销与阿斯特利里亚边境的军事基地。"
@@ -30808,7 +30808,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_1_SCENE_9"
 msgstr "希望我们能找到一些线索。不过记住，使团中可能有黑暗同盟的奸细。行事务必谨慎。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_1"
-msgstr "伊瑟利亚人登上温特加德的战列舰。这艘冰霜巨人般的巨舰散发着宜人的凛冽气息……"
+msgstr "伊忒利亚人登上温特加德的战列舰。这艘冰霜巨人般的巨舰散发着宜人的凛冽气息……"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_10"
 msgstr "是谁在那儿像只老乌鸦似的嘀咕？"
@@ -30817,7 +30817,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_11"
 msgstr "埃莉诺，我亲爱的老友！首领居然答应把西伦达尔那位年迈的女王也捎来峰会？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_12"
-msgstr "啧！你还是没学会怎么跟女士说话。"
+msgstr "啧！你还是没学会怎么跟女士好好说话。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_13"
 msgstr "哈哈，好啦好啦。拉娜，还记得埃莉诺吗？小时候你总缠着她翻译呱蛙在叫什么、翼狐在嚷什么，还有……"
@@ -30826,7 +30826,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_14"
 msgstr "陛下，请勿在外人面前——"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_15"
-msgstr "咱们可以聊聊你小时候的事，马罗。你迈出的第一步我可记得清清楚楚，你父母跟我讲过多少趣事啊！"
+msgstr "咱们可以聊聊你小时候的事，马罗。你蹒跚学步时的模样，我可记得清清楚楚。至于你的父母，他们可没少讲关于你的趣事！"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_16"
 msgstr "改日定当洗耳恭听。恕我失陪，陛下，我们该去迎接阿斯特利里亚的使团了。"
@@ -30835,7 +30835,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_17"
 msgstr "回头见！老太婆。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_2"
-msgstr "怎么，想偷懒？趴下——俯卧撑！五组，每组三十个。快！"
+msgstr "怎么，想偷懒？摔倒了就做俯卧撑！五组，每组三十个。快！"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_2_SCENE_3"
 msgstr "您说什么？"
@@ -31003,7 +31003,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_12"
 msgstr "隔墙有耳。我们进舱里说。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_13"
-msgstr "伊瑟利亚决定与温特加德分享自己的古老知识？"
+msgstr "伊忒利亚决定与温特加德分享自己的古老知识？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_14"
 msgstr "原来如此！卷轴一直在他们手里！"
@@ -31051,7 +31051,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_8"
 msgstr "女孩们走向妮凯娅的舱室。突然，一阵对话声飘入耳中——那声音显然不该被旁人听到……"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_7_SCENE_9"
-msgstr "希尔达，现在不是告诉他们伊瑟利亚卷轴的事的时候。"
+msgstr "希尔达，先别声张伊忒利亚卷轴的事，时机未到。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_1"
 msgstr "拉娜的舰队在深夜返回。早晨，峰会的参与者们再次聚集到休息室。"
@@ -31084,7 +31084,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_18"
 msgstr "又或者支持希尔达，要求阿斯特利里亚转向绿色生产？"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_19"
-msgstr "票数平分：诺克玛尔支持阿斯特利里亚，西伦达尔倒向温特加德。决定性的一票在伊瑟利亚手中。"
+msgstr "票数平分：诺克玛尔支持阿斯特利里亚，西伦达尔倒向温特加德。决定性的一票在伊忒利亚手中。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_2"
 msgstr "温特加德是被陷害的。昨晚我们抓住了袭击者，用我们的真话药剂对他们进行了审问。这起袭击与冰之国度毫无关系。"
@@ -31093,7 +31093,7 @@ msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_3"
 msgstr "我从一开始就觉得不对。这一切都布置得太拙劣了。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_4"
-msgstr "赞美斯卡蒂女神！既然嫌疑已经洗清，请允许我发言。几周前，有人将伊瑟利亚的炼金术卷轴送到了我们城堡。信使没有表明身份，但显然不是本地人。他要求将货物当面交给首领。"
+msgstr "赞美斯卡蒂女神！既然嫌疑已经洗清，请允许我发言。几周前，有人将伊忒利亚的炼金术卷轴送到了我们城堡。信使没有表明身份，但显然不是本地人。他要求将货物当面交给首领。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_5"
 msgstr "里面是一些配方，关于魔法冰弹之类的东西。但我们发誓绝无恶意！只是想试图恢复我们的冰层。可惜徒劳无功……"
@@ -31111,19 +31111,19 @@ msgid "IDS_ETERIA_TEXT_EPISODE_8_SCENE_9"
 msgstr "我们的炼金术士可以尝试恢复你们的冰层！但我无法做任何保证……"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_1"
-msgstr "决议已定。阿斯特利里亚转向更环保的生产方式。为了帮助阿斯特利里亚降低转型成本并继续援助扎尔汗，伊瑟利亚的炼金术士准备为你们的工厂开发无毒燃料。"
+msgstr "决议已定。阿斯特利里亚转向更环保的生产方式。为了帮助阿斯特利里亚降低转型成本并继续援助扎尔汗，伊忒利亚的炼金术士准备为你们的工厂开发无毒燃料。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_2"
 msgstr "稍后，在走廊某处……"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_3"
-msgstr "供应线保住了，很好。但伊瑟利亚的干预让我们没能挑拨阿斯特利里亚与温特加德开战。你和妮凯娅的计划失败了。联系卢切扎尔，需要制定新的策略。"
+msgstr "供应线保住了，很好。但伊忒利亚的干预让我们没能挑拨阿斯特利里亚与温特加德开战。你和妮凯娅的计划失败了。联系卢切扎尔，需要制定新的策略。"
 
 msgid "IDS_ETERIA_TEXT_EPISODE_9_SCENE_4"
 msgstr "遵命，主人。"
 
 msgid "IDS_ETERIA_TEXT_FINAL"
-msgstr "您可以通过历史档案回顾已完成的章节。"
+msgstr "您可以在历史记录中回顾已完成的章节。"
 
 msgid "IDS_ETERIA_TEXT_FORK_1"
 msgstr "先迎接哪一方使团？"
@@ -31165,19 +31165,19 @@ msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_1"
 msgstr "希尔达"
 
 msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_1_CONFIRMATION"
-msgstr "活动“守卫伊瑟利亚·升华”的最终奖励将是一位稀有指挥官——希尔达·斯卡蒂丝多蒂尔。"
+msgstr "活动“伊忒利亚守护者·升华”的最终奖励将是一位稀有指挥官——希尔达·斯卡蒂丝多蒂尔。"
 
 msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_2"
 msgstr "蒂娜"
 
 msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_2_CONFIRMATION"
-msgstr "活动“守卫伊瑟利亚·升华”的最终奖励将是一位稀有指挥官——蒂娜·哈特曼。"
+msgstr "活动“伊忒利亚守护者·升华”的最终奖励将是一位稀有指挥官——蒂娜·哈特曼。"
 
 msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_3"
 msgstr "涅蕾"
 
 msgid "IDS_ETERIA_TEXT_FORK_4_CHOICE_3_CONFIRMATION"
-msgstr "活动“守卫伊瑟利亚·升华”的最终奖励将是一位稀有指挥官——涅蕾。"
+msgstr "活动“伊忒利亚守护者·升华”的最终奖励将是一位稀有指挥官——涅蕾。"
 
 msgid "IDS_ETERIA_TEXT_JOURNEY_1"
 msgstr "与海怪和成群的海盗作战，对诺克玛尔人来说是家常便饭。然而当地匪徒从不敢如此靠近我们的岛屿……敌人仿佛就在港口外蹲守着，因此打了我们一个措手不及。"
@@ -35050,7 +35050,7 @@ msgid "IDS_GUIDING_TIP_23_HEADER"
 msgstr "研发配件"
 
 msgid "IDS_GUIDING_TIP_24_DESC"
-msgstr "您每场战斗获得全局经验的基础值是您获得基础经验量的10%。"
+msgstr "您每场战斗获得全局经验的基础值是您获得基础经验量的10%"
 
 msgid "IDS_GUIDING_TIP_24_HEADER"
 msgstr "全局经验"
@@ -35968,7 +35968,7 @@ msgid "IDS_GUIDING_TIP_73_HEADER"
 msgstr "战舰经验"
 
 msgid "IDS_GUIDING_TIP_74_DESC"
-msgstr "您可使用全局经验研发任意可用战舰或配件。其获取量为每场战斗所获得战舰经验（应用加成前）的10%。"
+msgstr "您可使用全局经验研发任意可用战舰或配件。其获取量为每场战斗所获得战舰经验（应用加成前）的10%"
 
 msgid "IDS_GUIDING_TIP_74_HEADER"
 msgstr "全局经验"
@@ -35992,7 +35992,7 @@ msgid "IDS_GUIDING_TIP_77_HEADER"
 msgstr "随机战"
 
 msgid "IDS_GUIDING_TIP_7_DESC"
-msgstr "您可使用全局经验研发任意可用战舰或配件。其获取量为每场战斗所获得战舰经验（应用加成前）的10%。"
+msgstr "您可使用全局经验研发任意可用战舰或配件。其获取量为每场战斗所获得战舰经验（应用加成前）的10%"
 
 msgid "IDS_GUIDING_TIP_7_HEADER"
 msgstr "全局经验"
@@ -36040,7 +36040,7 @@ msgid "IDS_GUIDING_TIP_88_HEADER"
 msgstr "研发配件"
 
 msgid "IDS_GUIDING_TIP_89_DESC"
-msgstr "您每场战斗获得全局经验的基础值是您获得基础经验量的10%。"
+msgstr "您每场战斗获得全局经验的基础值是您获得基础经验量的10%"
 
 msgid "IDS_GUIDING_TIP_89_HEADER"
 msgstr "全局经验"
@@ -38778,7 +38778,7 @@ msgid "IDS_JENKINS"
 msgstr "勒罗伊·詹金斯"
 
 msgid "IDS_JENKINS_DESC"
-msgstr "<p>勒罗伊·詹金斯（1934–2025），一位美国海军水兵，他的人生与驱逐舰USS基德号紧密相连。</p><p class=\"p_spacing\"> </p><p>1955年，他应征入伍，进入美国海军圣迭戈训练中心接受训练，并于1957年在USS基德号上服役。服役期满后，詹金斯离开了美国海军，回归平民生活。多年后，他再次登上这艘军舰，不过这一次，他的身份已变成了舰艇博物馆的工作人员。</p>"
+msgstr "<p>勒罗伊·詹金斯（1934–2025）是一位美国海军水兵，他的人生与驱逐舰USS基德号紧密相连。</p><p class=\"p_spacing\"> </p><p>1955年，他应征入伍，从美国海军圣迭戈训练中心毕业，并于1957年在USS基德号上服役。服役期满后，詹金斯离开了美国海军，回归平民生活。多年后，他再次登上这艘军舰，不过这一次，他的身份变成了舰艇博物馆的工作人员。</p>"
 
 msgid "IDS_JG_MEPHISTEUFEL_H18"
 msgstr "J.G. Mephisteufel"
@@ -46778,7 +46778,7 @@ msgid "IDS_NEWBIE_QUEST_ICON_HINT_PREPARATION_DESC"
 msgstr "此类任务可在港口中完成。通过完成任务，您将学会如何管理您的财产，以及整备战舰。"
 
 msgid "IDS_NEWBIE_QUEST_NEW_TASK_ON_LEVEL"
-msgstr "以下任务将在达到权限等级%(level)s后解锁"
+msgstr "后续任务将在达到权限等级%(level)s后解锁"
 
 msgid "IDS_NEWBIE_QUEST_N_THRESHOLD"
 msgstr "%(level)s级："
@@ -72324,7 +72324,7 @@ msgid "IDS_PCEE826_ETERIA_STORY_FLAG_DESCRIPTION"
 msgstr "蒸汽技术的发源国。阿斯特利里亚人相信，他们的发明是理性的胜利，然而，“蒸汽心脏”所蕴含的远不止简单的齿轮。从钟表到巨大的飞艇，每个机械装置都依靠这股隐藏的力量运转。"
 
 msgid "IDS_PCEE826_ETERIA_STORY_FLAG_EXTRA_DESCRIPTION"
-msgstr "为纪念“伊瑟利亚守护者·升华”活动。"
+msgstr "为纪念“伊忒利亚守护者·升华”活动。"
 
 msgid "IDS_PCEE827_BUDAPEST_FLAG"
 msgstr "SMS布达佩斯"
@@ -72381,7 +72381,7 @@ msgid "IDS_PCEE845_SKADY_SPEAR_FLAG_DESCRIPTION"
 msgstr "严酷的冰雪荒原边缘。温特加德人的建筑和武器仿佛由千年寒冰锻造而成：乍看透明而脆弱，实则不受自然力量影响，即便在最炎热的夏日也绝不消融。仿佛寒冬本身与他们结下了牢不可破的盟约。"
 
 msgid "IDS_PCEE845_SKADY_SPEAR_FLAG_EXTRA_DESCRIPTION"
-msgstr "为纪念“伊瑟利亚守护者·升华”活动。"
+msgstr "为纪念“伊忒利亚守护者·升华”活动。"
 
 msgid "IDS_PCEE846_IVAN_GROZNY_FLAG"
 msgstr "伊凡雷帝"
@@ -76622,13 +76622,13 @@ msgid "IDS_PCZC406_NY2020_SHIPFITTER"
 msgstr "船舶装配工"
 
 msgid "IDS_PCZC406_NY2020_SHIPFITTER_DESCRIPTION"
-msgstr "舰体制造包括许多不同的工艺流程，如铆接、焊接、设备安装和喷漆。尤其是造船业，所有参与这些过程的工人都被称为船舶装配工。在第二次世界大战期间的美国，大多数造船工人是女性，她们占美国经济制造业工人总数的近30%。大约在这个时候，“焊接工温迪”等形象出现，其中“铆工罗西”尤为流行。"
+msgstr "舰体制造包括许多不同的工艺流程，如铆接、焊接、设备安装和喷漆。尤其是造船业，所有参与这些过程的工人都被称为船舶装配工。在第二次世界大战期间的美国，大多数造船工人是女性，她们占美国经济制造业工人总数近三成。大约在这个时候，“焊接工温迪”等形象出现，其中“铆工罗西”尤为流行。"
 
 msgid "IDS_PCZC407_NY2020_WELDER"
 msgstr "焊接工"
 
 msgid "IDS_PCZC407_NY2020_WELDER_DESCRIPTION"
-msgstr "在第一次世界大战期间，焊接工艺卷入了降低战舰排水量和降低建造成本的长期斗争中。最初，焊接用于上层结构相对较“轻”的框架装配。随着时间的推移和技术的发展，焊接的运用范围变得越来越广，直到全焊接舰体的战舰最终出现。由于这个原因，舰艇的重量减少了15-20%，在某些情况下甚至高达30%。同时，缩短了施工时间。"
+msgstr "在第一次世界大战期间，焊接工艺卷入了降低战舰排水量和降低建造成本的长期斗争中。最初，焊接用于上层结构相对较“轻”的框架装配。随着时间的推移和技术的发展，焊接的运用范围变得越来越广，直到全焊接舰体的战舰最终出现。由于这个原因，舰艇的重量减少了15-20%（在某些情况下甚至高达30%）。同时，缩短了施工时间。"
 
 msgid "IDS_PCZC408_NY2020_CRANE"
 msgstr "港口起重机"
@@ -77396,7 +77396,7 @@ msgid "IDS_PCZC535_USABB_0910_COLORADOTOWER"
 msgstr "406毫米双联装炮塔"
 
 msgid "IDS_PCZC535_USABB_0910_COLORADOTOWER_DESCRIPTION"
-msgstr "<p>美国海军向406毫米主炮的转变始于1917年至1920年间建造四艘科罗拉多级战列舰的期间。作为先前田纳西级超级无畏战舰的“16英寸版本”，这些战舰只在火炮上有所不同。新型406毫米/45Mark 1火炮安置在四座双联装炮塔中，从设计上看，它们与之前356毫米火炮的三联装炮塔几乎相同。火炮的仰角为30度，使它们可以发射957千克重的炮弹，射程达到31000米。根据炮口能量（一个与炮弹穿甲能力有关的参数），新型火炮系统的威力是1912年服役的怀俄明号和阿肯色号无畏舰所使用305毫米Mark 7主炮的两倍，比1916年宾夕法尼亚级战列舰的356毫米Mark 1火炮的威力高出50%。然而，科罗拉多级是美国海军中唯一一艘搭载406毫米Mark 1火炮的战舰：1921-1922年华盛顿海军会议结束后，海军大国相继宣布了为期10年的海军“假日”，即10年内暂停战列舰的建造。</p>"
+msgstr "<p>美国海军向406毫米主炮的转变始于1917年至1920年间建造四艘科罗拉多级战列舰的期间。作为先前田纳西级超级无畏战舰的“16英寸版本”，这些战舰只在火炮上有所不同。</p><p class=\"p_spacing\"> </p><p>新型406毫米/45Mark 1火炮安置在四座双联装炮塔中，从设计上看，它们与之前356毫米火炮的三联装炮塔几乎相同。火炮的仰角为30度，使它们可以发射957千克重的炮弹，射程达到31000米。根据炮口能量（一个与炮弹穿甲能力有关的参数），新型火炮系统的威力是1912年服役的怀俄明号和阿肯色号无畏舰所使用305毫米Mark 7主炮的两倍，比1916年宾夕法尼亚级战列舰的356毫米Mark 1火炮的威力高出一半。</p><p class=\"p_spacing\"> </p><p>然而，科罗拉多级是美国海军中唯一一艘搭载406毫米Mark 1火炮的战舰：1921-1922年华盛顿海军会议结束后，海军大国相继宣布了为期10年的海军“假日”，即10年内暂停战列舰的建造。</p>"
 
 msgid "IDS_PCZC536_USABB_0910_IOWATOWER"
 msgstr "406毫米三联装炮塔"
@@ -79464,7 +79464,7 @@ msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
 msgstr "联盟号三级运载火箭"
 
 msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
-msgstr "<p>联盟号运载火箭属于R-7火箭家族，由OKB-1特别设计局研制。</p><p class=\"p_spacing\"> </p><p>主要技术参数：<br/>• 火箭全长39.3米；<br/>• 最大直径10.3米；<br/>• 起飞质量310吨；<br/>• 近地轨道运力约7.5吨。</p><p class=\"p_spacing\"> </p><p>它可发射载人或无人飞船与各类卫星。</p><p class=\"p_spacing\"> </p><p>在库伊比谢夫（OKB-1第3分部）由总设计师德米特里·阿纳托利耶维奇·科兹洛夫主导制造，最初用于发射“联盟”系列载人飞船（1966~1976年共发射32艘）。此后也用来发射“进步”货运飞船以及“宇宙”“预言”“资源-F”“光子”“生物”等系列卫星，还有部分国外航天器。</p><p class=\"p_spacing\"> </p><p>前两级沿用R-7家族的并联捆绑布局，经改进的第三级质量为25.5吨，使其具备更强的运力。</p><p class=\"p_spacing\"> </p><p>火箭顶部的整流罩与格栅减速板，以及顶端的紧急救生塔是该系列的主要外观特征。</p><p class=\"p_spacing\"> </p><p>“联盟”火箭的应急救生系统可在起飞前15分钟进入待命，在出现紧急情况时，无论还在发射台上还是飞行过程中，都可将乘组救出。</p><p class=\"p_spacing\"> </p><p>“联盟”运载火箭自1966年起投入使用，后续不断改进出多种现代型，发射成功率超过97%。从拜科努尔与普列谢茨克两大航天发射场已进行超过800次各型“联盟”系列火箭发射，以及60余次“联盟-2”系列发射。</p>"
+msgstr "<p>联盟号运载火箭属于R-7火箭家族，由OKB-1特别设计局研制。</p><p class=\"p_spacing\"> </p><p>主要技术参数：<br/>• 火箭全长39.3米；<br/>• 最大直径10.3米；<br/>• 起飞质量310吨；<br/>• 近地轨道运力约7.5吨。</p><p class=\"p_spacing\"> </p><p>它可发射载人或无人飞船与各类卫星。</p><p class=\"p_spacing\"> </p><p>在库伊比谢夫（OKB-1第3分部）由总设计师德米特里·阿纳托利耶维奇·科兹洛夫主导制造，最初用于发射“联盟”系列载人飞船（1966~1976年共发射32艘）。此后也用来发射“进步”货运飞船以及“宇宙”“预言”“资源-F”“光子”“生物”等系列卫星，还有部分国外航天器。</p><p class=\"p_spacing\"> </p><p>前两级沿用R-7家族的并联捆绑布局，经改进的第三级质量为25.5吨，使其具备更强的运力。</p><p class=\"p_spacing\"> </p><p>火箭顶部的整流罩与格栅减速板，以及顶端的紧急救生塔是该系列的主要外观特征。</p><p class=\"p_spacing\"> </p><p>“联盟”火箭的应急救生系统可在起飞前15分钟进入待命，在出现紧急情况时，无论还在发射台上还是飞行过程中，都可将乘组救出。</p><p class=\"p_spacing\"> </p><p>“联盟”运载火箭自1966年起投入使用，后续不断改进出多种现代型，发射成功率超过97%，从拜科努尔与普列谢茨克两大航天发射场已进行超过800次各型“联盟”系列火箭发射，以及60余次“联盟-2”系列发射。</p>"
 
 msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
 msgstr "质子-M运载火箭"
@@ -98012,7 +98012,7 @@ msgid "IDS_PJSD012"
 msgstr "岛风"
 
 msgid "IDS_PJSD012_DESCR"
-msgstr "<p>试验性的高航速驱逐舰，拥有重型动力装置、增强的防空系统和强大的鱼雷。她使用的新型锅炉借鉴自德国同类产品、通过更高的蒸汽参数以提高性能。<b>岛风</b>号原定作为16艘同级驱逐舰的首舰，但最终该级仅有<b>岛风</b>号一艘建成。</p><p class=\"p_spacing\"> </p><p><b>岛风</b>号建造于舞鹤。第二次世界大战期间，该舰参与了阿留申群岛的撤离行动，在1943年至1944年间执行了多次护航任务，并在之后参与了莱特湾海战。1941年11月11日，在奥尔莫克湾海战中，<b>岛风</b>号被美国舰载机击沉。</p>"
+msgstr "<p>试验性的高航速驱逐舰，拥有重型动力装置、增强的防空系统和强大的鱼雷。她使用的新型锅炉借鉴自德国同类产品、通过更高的蒸汽参数以提高性能。<b>岛风</b>号原定作为16艘同级驱逐舰的首舰，但最终该级仅有<b>岛风</b>号一艘建成。</p><p class=\"p_spacing\"> </p><p><b>岛风</b>号建造于舞鹤。第二次世界大战期间，该舰参与了阿留申群岛的撤离行动，在1943年至1944年间执行了多次护航任务，并在之后参与了莱特湾海战。1944年11月11日，在奥尔莫克湾海战中，<b>岛风</b>号被美国舰载机击沉。</p>"
 
 msgid "IDS_PJSD012_FULL"
 msgstr "岛风"
@@ -106609,7 +106609,7 @@ msgid "IDS_PRSB607"
 msgstr "斯卡蒂之矛"
 
 msgid "IDS_PRSB607_DESCR"
-msgstr "<p>凛冬之邦，兆民铁骨，弗屈天灾之怒，不降强寇之锋；<br/>主阵巨舰，乘风破浪，如挣极寒之锁，势碎万古之冬。</p><p class=\"p_spacing\"> </p><p>表承北塞遗风，舰体兵甲，宛若千载玄冰所琢；<br/>内隐百炼刚魂，铁血丹心，实由万重霜雪所淬。<br/>观其貌，似琉璃易碎，隐透空灵之美；<br/>察其里，藏雷霆万钧，暗存不屈之威。</p>"
+msgstr "<p>凛冬之邦，兆民铁骨，弗惧天灾之怒，无畏强寇之锋；<br/>主阵巨舰，乘风破浪，如挣极寒之锁，势碎万古之冬。</p><p class=\"p_spacing\"> </p><p>表承北塞遗风，舰体兵甲，宛若千载玄冰所琢；<br/>内隐百炼刚魂，铁血丹心，实由万重霜雪所淬。<br/>观其貌，似琉璃易碎，隐透空灵之美；<br/>察其里，藏雷霆万钧，暗存不屈之威。</p>"
 
 msgid "IDS_PRSB607_FULL"
 msgstr "斯卡蒂之矛"
@@ -108053,7 +108053,7 @@ msgid "IDS_PRSD320"
 msgstr "自豪"
 
 msgid "IDS_PRSD320_DESCR"
-msgstr "<p>在20世纪50年代中期服役的56型驱逐舰虽然具有良好的适航性，但其航速表现不尽人意。此外，硬铝制上层建筑还存在振动和变形的问题。此外，56型战舰还存在居住条件差、内部空间狭小的问题，这也限制了其现代化改装的潜力。</p><p class=\"p_spacing\"> </p><p>解决这些问题的最合理方法是设计一级新的驱逐舰，其尺寸应与41型舰艇相当，但采用更先进的技术水平，并配备最新的无线电技术设备和武器系统。这不仅可以缩减舰员数量，还能提高战舰的能源效率。然而，到20世纪60年代中期，主要的海军强国都已开始建造装备了制导导弹的军舰。因此，苏联选择放弃设计纯火炮驱逐舰，转而优先发展装备导弹的57改型驱逐舰项目。</p>"
+msgstr "<p>在20世纪50年代中期服役的56型驱逐舰虽然具有良好的适航性，但其航速表现不尽人意。此外，硬铝制上层建筑还存在振动和变形的问题。此外，56型舰艇还存在居住条件差、内部空间狭小的问题，这也限制了其现代化改装的潜力。</p><p class=\"p_spacing\"> </p><p>解决这些问题的最合理方法是设计一级新的驱逐舰，其尺寸应与41型舰艇相当，但采用更先进的技术水平，并配备最新的无线电技术设备和武器系统。这不仅可以缩减舰员数量，还能提高战舰的能量效率。然而，到20世纪60年代中期，主要的海军强国都已开始建造装备了制导导弹的军舰。因此，苏联选择放弃设计纯火炮驱逐舰，转而优先发展装备导弹的57改型驱逐舰项目。</p>"
 
 msgid "IDS_PRSD320_FULL"
 msgstr "自豪"
@@ -131920,7 +131920,7 @@ msgid "IDS_SAGAS_ARCHIVE_MW_EPISODE_LABEL_NUM"
 msgstr "第%(_value)s章"
 
 msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_ARCHIVE"
-msgstr "已完成的章节"
+msgstr "全部历史章节"
 
 msgid "IDS_SAGAS_MODAL_WINDOW_HEADER_JOURNEY"
 msgstr "目标"
@@ -131995,7 +131995,7 @@ msgid "IDS_SAGA_FINAL_DESCRIPTION"
 msgstr "您可以在历史档案中观看已完成的章节。"
 
 msgid "IDS_SAGA_FINAL_ETERIA_FINAL_STATS_TIME_DESCRIPTION"
-msgstr "“伊瑟利亚守护者·升华”活动已结束。"
+msgstr "“伊忒利亚守护者·升华”活动已结束。"
 
 msgid "IDS_SAGA_FINAL_STATS_REACHED_TITLE"
 msgstr "活动已结束"
@@ -132022,7 +132022,7 @@ msgid "IDS_SAGA_JOURNEY_TASKS_TITLE"
 msgstr "活动任务"
 
 msgid "IDS_SAGA_MAIN_TITLE_ETERIA"
-msgstr "伊瑟利亚守护者·升华"
+msgstr "伊忒利亚守护者·升华"
 
 msgid "IDS_SAGA_ONBOARDING_ADDITIONAL_CREW_INFO"
 msgstr "活动指挥官也可在兵工厂中获得。"
@@ -132064,7 +132064,7 @@ msgid "IDS_SAGA_PROGRESS_CURRENCY_TITLE"
 msgstr "进度积分"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_DESCRIPTION"
-msgstr "《伊瑟利亚守护者·升华》全部章节"
+msgstr "《伊忒利亚守护者·升华》全部章节"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_HEADER"
 msgstr "档案"
@@ -132073,7 +132073,7 @@ msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_ARCHIVE_MOUSE_INSTRUCTION"
 msgstr "查看档案"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_DESCRIPTION"
-msgstr "可用的历史作战任务"
+msgstr "可用的故事作战任务"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_HEADER"
 msgstr "作战任务"
@@ -132082,10 +132082,10 @@ msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_JOURNEY_MOUSE_INSTRUCTION"
 msgstr "继续任务"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_DESCRIPTION"
-msgstr "最后查看的章节"
+msgstr "当前章节"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_HEADER"
-msgstr "历史"
+msgstr "故事"
 
 msgid "IDS_SAGA_SCROLL_BUTTON_TOOLTIP_STORY_MOUSE_INSTRUCTION"
 msgstr "继续"
@@ -141518,7 +141518,7 @@ msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_DIFFERENT_RIBBONS_DESCRIPTION"
 msgstr "<p>一起组成小队游玩时，征募人和海军战友必须获得总计12枚或更多不同的勋带。</p><p class=\"p_spacing\"> </p><p>其中，每名征募人和海军战友必须获得至少4枚不同的勋带。</p>"
 
 msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_SPOT_DAMAGE_DESCRIPTION"
-msgstr "一起组成小队游玩时，通过征募人和海军战友的侦察，协助己方团队对敌人造成伤害。造成的伤害必须至少为所有敌舰基础生命值的25%%。其中，征募人和海军战友合计造成的伤害必须至少为所有敌舰基础生命值的25%%。"
+msgstr "一起组成小队游玩时，通过征募人和海军战友的侦察，协助己方团队对敌人造成伤害。造成的伤害必须至少为所有敌舰基础生命值的25%%；其中，征募人和海军战友合计造成的伤害必须至少为所有敌舰基础生命值的25%%"
 
 msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_TOP3_DESCRIPTION"
 msgstr "<p>一起组成小队游玩时，每名征募人和海军战友都必须在战斗中存活下来，并在己队经验获取量排名前3。</p><p class=\"p_spacing\"> </p><p>在一场战斗中完成。</p>"
