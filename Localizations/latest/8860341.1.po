@@ -143233,7 +143233,7 @@ msgid "IDS_SYS_MSG_SHIPYARD_LEVEL_REWARDED"
 msgstr "造船阶段奖励"
 
 msgid "IDS_SYS_MSG_SHIP_BECAME_ELITE"
-msgstr "此战舰已获得精英状态"
+msgstr "战舰已获得精英状态"
 
 msgid "IDS_SYS_MSG_SHIP_BECAME_ELITE_DESCRIPTION"
 msgstr ""
