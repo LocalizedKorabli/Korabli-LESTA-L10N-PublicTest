@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - Localizations
+  workflow_dispatch:
 
 jobs:
   sync:
